@@ -34,6 +34,16 @@
 * [M365 監査ログ(旧 O365 監査ログ)収集の設定](https://www.secuavail.com/kb/references/ref-220203-01/)
 ## CSOM
 * [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
+* [CSOM SharePoint Online – Detailed Guide](https://www.spguides.com/sharepoint-csom-tutorial/)
+* [Enjoy SharePointGet all subsites from a site collection in SharePoint Online using](https://www.enjoysharepoint.com/get-all-subsites-in-sharepoint-online-csom/)
+* [Create client side People Picker control in SharePoint Online Office 365](https://www.enjoysharepoint.com/how-to-use-client-side-people-picker-control-in-sharepoint-online-office-365/)
+* [Microsoft Flow Send approval email when a new item is added in SharePoint Online Office 365](https://www.enjoysharepoint.com/microsoft-flow-send-approval-email/)
+* [Get list items using Rest API in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/get-sharepoint-list-items-using-rest-api/)
+* [How to rename SharePoint 2013 group using browser and PowerShell?](https://www.enjoysharepoint.com/how-to-rename-sharepoint-2013-group-using-browser-and-powershell/)
+* [Check if user belongs to SharePoint group using CSOM](https://www.enjoysharepoint.com/check-if-user-belongs-to-sharepoint-group-using-csom/)
+* [Get list items using Rest API in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/get-sharepoint-list-items-using-rest-api)
+* [Microsoft Flow Send approval email when a new item is added in SharePoint Online Office 365](https://www.enjoysharepoint.com/microsoft-flow-send-approval-email/)
+
 ## Exchagne Online
 * [Using Azure Automation to Process Exchange Online Data with PowerShell](https://practical365.com/use-azure-automation-exchange-online/)
 * [PowerShellから全社員に予定を投入したい](https://blog.o365mvp.com/2016/12/07/create_calendar_object_via_powershell/)
@@ -45,23 +55,23 @@
 * [SharePoint Online: Start Workflow on All Items in a List using PowerShell - SharePoint Diary](https://www.sharepointdiary.com/2018/05/sharepoint-online-start-workflow-using-powershell.html)
 * [SharePoint Framework 開発入門 まとめ - SharePoint Developer](https://sharepoint.orivers.jp/sharepoint-framework-dev)
 * [SPFxCalendar 1.5.3 を公開しました - からめもぶろぐ。](https://blog.karamem0.jp/entry/2020/10/15/180000)
-
 * [Tree view navigation using PnP Treeview control in the SharePoint Framework (SPFx) web part – RAVICHANDRAN BLOG](https://ravichandran.blog/2020/05/14/tree-view-navigation-using-pnp-treeview-control-in-the-sharepoint-framework-spfx-web-part/)
-* [Enjoy SharePointGet all subsites from a site collection in SharePoint Online using](https://www.enjoysharepoint.com/get-all-subsites-in-sharepoint-online-csom/)
-* [Create client side People Picker control in SharePoint Online Office 365](https://www.enjoysharepoint.com/how-to-use-client-side-people-picker-control-in-sharepoint-online-office-365/)
-* [Microsoft Flow Send approval email when a new item is added in SharePoint Online Office 365](https://www.enjoysharepoint.com/microsoft-flow-send-approval-email/)
-* [Get list items using Rest API in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/get-sharepoint-list-items-using-rest-api/)
-* [How to rename SharePoint 2013 group using browser and PowerShell?](https://www.enjoysharepoint.com/how-to-rename-sharepoint-2013-group-using-browser-and-powershell/)
-* [Check if user belongs to SharePoint group using CSOM](https://www.enjoysharepoint.com/check-if-user-belongs-to-sharepoint-group-using-csom/)
-* [Get list items using Rest API in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/get-sharepoint-list-items-using-rest-api)
-* [Microsoft Flow Send approval email when a new item is added in SharePoint Online Office 365](https://www.enjoysharepoint.com/microsoft-flow-send-approval-email/)
-
-
-
+* [SharePoint SharePoint webhook の概要](https://docs.microsoft.com/ja-jp/sharepoint/dev/apis/webhooks/overview-sharepoint-webhooks)
+* [PowerShell SiteScriptでテスト用の環境を作成する](https://www.micknabewata.com/entry/sharepoint/template)
+* [モダンページのページレイアウトの種類と変更方法](http://sharepoint.orivers.jp/article/10031)
+* [SharePoint Framework (SPFx) Extensions Application Customizer Example - SharePointSky](https://www.sharepointsky.com/spfx-application-customizer/)
+* [Fiddler を使って HTTPS トラフィックを確認する](https://idea.tostring.jp/?p=1077)
+## Dynamics 365
+* [Dynamics 365 自習書シリーズ](https://www.microsoft.com/ja-jp/biz/dynamics/learning.aspx)
+* [Demos for MPN Partners – Microsoft 365, Dynamics 365, Teams etc](https://support.microsoft.com/)
+* [Dynamics 365 Business Centralの標準機能のソースコードを見る方法について](https://zhublog.wixsite.com/dynamics365/post/dynamics-365-business-central%E3%81%AE%E6%A8%99%E6%BA%96%E6%A9%9F%E8%83%BD%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E8%A6%8B%E3%82%8B%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+* [Community demo – Calling Dynamics 365 CRM APIs from SharePoint - YouTube](https://www.youtube.com/watch?v=VXzYc6cfjuI&app=desktop)
+* [Dynamics 365 トライアル環境の取得 （2020年9月版） - YouTube](https://m.youtube.com/watch?feature=youtu.be&v=2vXTJK623TU)
+* [Dynamics 365の無料トレーニング](https://www.microsoft.com/ja-jp/events/top/training-days/dynamics365)
+* [Power Platform + Dynamics 365 + CDS + Azure](https://www.pbc.co.jp/event/d365bc-week202009/)
 ## Power Automate Desktop
 * [Windows10の無償デスクトップ自動化ツール「Power Automate Desktop」でWebブラウザーでの作業を自動化する](https://codezine.jp/article/detail/15410)
 ## Power Automate
-* [Power Automate で処理に失敗した際にどのアクションで失敗したかを即時にメール通知する方法 - 欲しいアプリは自分で作る！](https://jn.hateblo.jp/entry/2020/10/31/174431)
 * [Azure活用！Power Automateならノーコードで顔写真から年齢や性別が判断できる！ハンズオンイベント！](https://rpa-bank.com/column/40730)
 * [202009_PowerAutomate_Handson](https://github.com/rnakamuramartiny/Share_RPACommunity/tree/master/202009_PowerAutomate_Handson)
 * [RPA勉強会！Power Automate Talk #7 ～ハンズオンで勤怠報告ボタン作成！～ (2020/11/27 19:30〜)](https://rpacommunity.connpass.com/event/195217/)
@@ -76,13 +86,9 @@
 * [Power Automate でデバッグする際のTips - MoreBeerMorePower](https://mofumofupower.hatenablog.com/entry/2020/11/17/224059)
 * [Power Automate のフローで SharePoint リストアイテムの権限を操作してみる  idea.toString();](https://idea.tostring.jp/?p=5427)
 * [Power Automate の Apply to each 内でOffice Script を使うときの注意点? - SharePoint Technical Notes](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/10/using_office_script_with_powerautomate.html)
-* [Power Automate を使って予定表リスト(イベントリスト)から Microsoft Teams 会議を作成する - SharePoint Technical Notes](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/09/create-teamsmeeting-from-eventlist-onspo-using-powerautomate.html)
 * [Power Automate で組織の連絡先のメールアドレスから所属グループを抽出する - 欲しいアプリは自分で作る！](https://jn.hateblo.jp/entry/2020/08/23/003210)
-* [Power Automate を使って予定表リスト(イベントリスト)から Microsoft Teams 会議を作成する - SharePoint Technical Notes](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/09/create-teamsmeeting-from-eventlist-onspo-using-powerautomate.html)
-* [Power Automate を使って予定表リスト(イベントリスト)から Microsoft Teams 会議を作成する - SharePoint Technical Notes](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/09/create-teamsmeeting-from-eventlist-onspo-using-powerautomate.html)
 * [Windows 10 で開発環境を設定する](https://docs.microsoft.com/ja-jp/windows/dev-environment/overview)
 * [Power Automate を使って予定表リスト(イベントリスト)から Microsoft Teams 会議を作成する](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/09/create-teamsmeeting-from-eventlist-onspo-using-powerautomate.html)
-* [Power Automate で組織の連絡先のメールアドレスから所属グループを抽出する - 欲しいアプリは自分で作る！](https://jn.hateblo.jp/entry/2020/08/23/003210)
 * [Power Automate のフローで SharePoint リストアイテムの権限を操作してみる](https://idea.tostring.jp/?p=5427)
 * [Power Automate Teams上で承認を行う](https://zezeze.hateblo.jp/entry/2019/11/29/040113)
 # Azure
@@ -123,10 +129,12 @@
 * [VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか) - Qiita](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
 * [Visual Studio CodeでGitHubの複数アカウントを使い分ける - Qiita](https://qiita.com/ykoizumi0903/items/44e24d4180ae931552ce)
 * [VSCodeでのGitの基本操作まとめ - Qiita](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
+* [Visual Studio CodeでGitHubリポジトリを「読む」のに便利な拡張機能が登場 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1331439.html)
 
 # Web
 
 ## html
+* [よく使われるレイアウトやUIコンポーネント、それだけを実装するためのHTMLとCSSのシンプルなコードのまとめ](https://coliss.com/articles/build-websites/operation/css/popular-layouts-and-patterns-made-with-css.html)
 * [カルーセルUIを実現するJSライブラリまとめ(2021年版) - 導入手間や機能の比較紹介](https://ics.media/entry/210902/)
 * [カルーセル](https://codezine.jp/article/detail/8350?p=2)
 * [bootstrapのカルーセルの使い方とカスタマイズのサンプルを紹介](https://be-engineer.jp/programming/514/)
@@ -167,10 +175,18 @@
 
 ## JavaScript
 # Docker
+* [「Visual Studio Code」で「WSL 2」上のリモートコンテナを使用するには、Microsoftが解説：Windows 10でDocker Desktop Stableを効果的に活用する - ＠IT](https://www.atmarkit.co.jp/ait/articles/2007/10/news138.html)
+* [モダンな帳票アプリを作る前に知っておきたい、Docker＋.NET開発の基本](https://codezine.jp/article/detail/15506)
+* [Windows 10 Homeでも使えて、インストールも超簡単な「Docker Desktop for Windows」登場 (1/2)：Windows 10 The Latest - ＠IT](https://www.atmarkit.co.jp/ait/articles/2011/20/news015.html)
+* [【連載】WSL2、Visual Studio Code、DockerでグッとよくなるWindows開発環境 〜 その1：まずは概要 〜  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/21023)
+* [Docker と Kubernetes でアプリをコンテナーに入れる](https://azure.microsoft.com/ja-jp/resources/containerize-your-apps-with-docker-and-kubernetes/)
+* [Docker と Kubernetes を使ったコンテナのデプロイ、スケーリング、オーケストレーション、管理Docker とKubernetes によるアプリのコンテナ化](https://azure.microsoft.com/mediahandler/files/resourcefiles/containerize-your-apps-with-docker-and-kubernetes/ja-jp/JA-JP-Containerize_your_Apps_with_Docker_and_Kubernetes.pdf)
+* [AzureAD ログインと Docker for Windows Shared Drive によるボリュームマウント - tech.guitarrapc.cóm](https://tech.guitarrapc.com/entry/2017/12/27/042458)
+* [Installing docker on azure virtual machine windows 10 - Stack Overflow](https://stackoverflow.com/questions/44817161/installing-docker-on-azure-virtual-machine-windows-10)
+* [【連載】世界一わかりみが深いコンテナ & Docker入門 〜 その1:コンテナってなに？ 〜  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/18811)
 * [第3回　Dockerコマンドの使い方：超入門Docker - ＠IT](https://www.atmarkit.co.jp/ait/articles/1702/01/news061.html)
 * [ゼロからはじめるDocker(1) Dockerとは？  マイナビニュース](https://news.mynavi.jp/article/docker-1/)
 * [WSL2をインストールしてWindowsでUbuntuを使う方法](https://tombomemo.com/wsl2-install-settings/)
-* [【連載】世界一わかりみが深いコンテナ & Docker入門 〜 その1:コンテナってなに？ 〜  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/18811)
 # Adobe
 * [Adobe XDをHTMLにエクスポートする方法 - インターネットとソーシャル  七月 2020](https://ja.rockycode.com/how-export-adobe-xd-html)
 * [Adobe XD 2019年8月アップデートリリース！CSSコード自動生成（第一弾）、ローカルでのPhotoshop編集連携、コンポーネントの操作性改善など #AdobeXD  Adobe Blog](https://blogs.adobe.com/japan/cc-web-xd-august-2019-update-auto-css-plugins-panel-more/)
