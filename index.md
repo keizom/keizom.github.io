@@ -43,6 +43,20 @@
 * [待望の新たなモダンな SharePoint サイトテンプレート登場 !](https://shanqiai.weblogs.jp/sharepoint_technical_note/2021/04/modern-site-templates.html)
 * [File Upload to SharePoint 2013 using REST API](https://stackoverflow.com/questions/25393075/file-upload-to-sharepoint-2013-using-rest-api)
 * [SharePoint Online: Start Workflow on All Items in a List using PowerShell - SharePoint Diary](https://www.sharepointdiary.com/2018/05/sharepoint-online-start-workflow-using-powershell.html)
+* [SharePoint Framework 開発入門 まとめ - SharePoint Developer](https://sharepoint.orivers.jp/sharepoint-framework-dev)
+* [SPFxCalendar 1.5.3 を公開しました - からめもぶろぐ。](https://blog.karamem0.jp/entry/2020/10/15/180000)
+
+* [Tree view navigation using PnP Treeview control in the SharePoint Framework (SPFx) web part – RAVICHANDRAN BLOG](https://ravichandran.blog/2020/05/14/tree-view-navigation-using-pnp-treeview-control-in-the-sharepoint-framework-spfx-web-part/)
+* [Enjoy SharePointGet all subsites from a site collection in SharePoint Online using](https://www.enjoysharepoint.com/get-all-subsites-in-sharepoint-online-csom/)
+* [Create client side People Picker control in SharePoint Online Office 365](https://www.enjoysharepoint.com/how-to-use-client-side-people-picker-control-in-sharepoint-online-office-365/)
+* [Microsoft Flow Send approval email when a new item is added in SharePoint Online Office 365](https://www.enjoysharepoint.com/microsoft-flow-send-approval-email/)
+* [Get list items using Rest API in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/get-sharepoint-list-items-using-rest-api/)
+* [How to rename SharePoint 2013 group using browser and PowerShell?](https://www.enjoysharepoint.com/how-to-rename-sharepoint-2013-group-using-browser-and-powershell/)
+* [Check if user belongs to SharePoint group using CSOM](https://www.enjoysharepoint.com/check-if-user-belongs-to-sharepoint-group-using-csom/)
+* [Get list items using Rest API in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/get-sharepoint-list-items-using-rest-api)
+* [Microsoft Flow Send approval email when a new item is added in SharePoint Online Office 365](https://www.enjoysharepoint.com/microsoft-flow-send-approval-email/)
+
+
 
 ## Power Automate Desktop
 * [Windows10の無償デスクトップ自動化ツール「Power Automate Desktop」でWebブラウザーでの作業を自動化する](https://codezine.jp/article/detail/15410)
@@ -72,11 +86,16 @@
 * [Power Automate で組織の連絡先のメールアドレスから所属グループを抽出する - 欲しいアプリは自分で作る！](https://jn.hateblo.jp/entry/2020/08/23/003210)
 * [Power Automate のフローで SharePoint リストアイテムの権限を操作してみる](https://idea.tostring.jp/?p=5427)
 * [Power Automate Teams上で承認を行う](https://zezeze.hateblo.jp/entry/2019/11/29/040113)
-
 # Azure
 ## Azure VM
 * [Azure MonitorエージェントによるWindows仮想マシンの監視](https://cloudsteady.jp/post/50812/)
 * [Azure環境作ったら最初にやるべきこと 2021年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
+
+## Azure vNET
+* [Azure SQLDabase にプライベートなネットワークからアクセスしてみよう ★ ](https://blog.nextscape.net/archives/Date/2018/02/serviceendpointsqldb)
+* [仮想ネットワークを使用してApp ServiceからAzure Sql Databaseへのアクセスを保護する方法](https://www.it-swarm.dev/ja/azure/%E4%BB%AE%E6%83%B3%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6app-service%E3%81%8B%E3%82%89azure-sql-database%E3%81%B8%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%92%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/838275760/)
+* [aaSにプライベート接続を提供する サービスエンドポイント とは？](https://www.cloudou.net/virtual-network/vnet017/)
+
 ## SQL Managed Instance
 
 * [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
@@ -97,6 +116,15 @@
 
 * [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
 * [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
+
+
+# Visual Studio
+* [続：Postman 使ってたけど VSCode の REST Client に乗り換えた - かずきのBlog@hatena](https://blog.okazuki.jp/entry/2019/07/14/104313)
+* [Visual Studio 2019 で入れてる基本的な 拡張機能 - BEACHSIDE BLOG](https://blog.beachside.dev/entry/2019/04/08/204500)
+* [VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか) - Qiita](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
+* [Visual Studio CodeでGitHubの複数アカウントを使い分ける - Qiita](https://qiita.com/ykoizumi0903/items/44e24d4180ae931552ce)
+* [VSCodeでのGitの基本操作まとめ - Qiita](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
+
 # Web
 
 ## html
@@ -107,6 +135,7 @@
 * [配色に迷ったらこれ！配色イメージを言語化して論理的に伝えられるスケールがめちゃくちゃ役に立つ「語彙力ない私にうってつけ」 - Togetter](https://togetter.com/li/1744709)
 * [Web制作が捗るChrome拡張機能12選 – おすすめの拡張機能を集めてみた  Pulp Note - WebデザインやWebサイト制作の現場で使えるTipsやアイデアを紹介](https://pulpxstyle.com/chrome-extensions/)
 * [最近の実装に合わせた最新版HTMLテンプレート、基本構造に使用するすべての要素とその役割も解説  コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplate-by-mmatuzo.html)
+* [知っておくと便利なHTML5の機能、要素や属性のまとめ  コリス](https://coliss.com/articles/build-websites/operation/work/10-useful-html5-features.html)
 * [知っておくと実装に役立つ！JavaScriptのテクニックのまとめ](https://coliss.com/articles/build-websites/operation/javascript/javascript-tips-by-garvitmotwani.html)
 * [CSSで画像の上に表示するテキストをより読みやすく、より美しくするテクニック・実装方法のまとめ  コリス](https://coliss.com/articles/build-websites/operation/css/handling-text-over-images-in-css.html)
 * [アコーディオンのアイコン：どのシグニファイアが最適か – U-Site](https://u-site.jp/alertbox/accordion-icons/)
@@ -127,12 +156,15 @@
 * [Webページやスマホアプリでよく使用される代表的な5つのレイアウトをCSS Gridで実装するテクニック  コリス](https://coliss.com/articles/build-websites/operation/css/css-grid-with-5-layouts.html)
 * [2020年、オンラインサービスやWebアプリの開発を独学で勉強したい人に役立つ練習プロジェクトのまとめ  コリス](https://coliss.com/articles/build-websites/operation/work/8-projects-with-modern-designs.html)
 * [JavaScriptでのメディアクエリ、matchMedia()の使い方を解説  コリス](https://coliss.com/articles/build-websites/operation/javascript/javascript-media-queries.html)
-
+* [HTMLのtableにクラスを加えるだけで、グラフやチャートを簡単に実装できるCSSのフレームワーク -Charts.css](https://coliss.com/articles/build-websites/operation/css/charts-css-for-data-visualization.html)
+* [Web制作者は要チェック！最近のランディングページで見かけるデザインやアイデアのまとめ -SaaS Pages](https://coliss.com/articles/build-websites/operation/work/collection-of-the-best-landing-pages.html)
 ## css
 * [CSSコピペで完成！押したくなるWebボタンデザインまとめ](https://photoshopvip.net/130681)
 * [CSSでフォームの実装に悩んだら！ さまざまなフレームワークで実装されたフォームのライブラリ -HeroTofu](https://coliss.com/articles/build-websites/operation/css/html-forms-library-herotofu.html)
 * [CSSだけでできるあんなことこんなこと - Qiita](https://qiita.com/rana_kualu/items/43e8841a4fccb8a80113)
 * [Amazonも！有名WebサイトのCSSボタンデザイン77個をコピペ再現できる Copy ＆ Paste CSS](https://photoshopvip.net/129699)
+* [Web制作者は要チェック！Instagramに使用されているCSSのテクニック](https://coliss.com/articles/build-websites/operation/css/css-techniques-used-for-instagram.html)
+* [初心者向け！HTML/CSSのコーディング手順をイチからしっかりと。  Webクリエイターボックス](https://www.webcreatorbox.com/tech/html-css-coding-steps)
 
 ## JavaScript
 # Docker
@@ -145,6 +177,11 @@
 * [Adobe XD 2019年8月アップデートリリース！CSSコード自動生成（第一弾）、ローカルでのPhotoshop編集連携、コンポーネントの操作性改善など #AdobeXD  Adobe Blog](https://blogs.adobe.com/japan/cc-web-xd-august-2019-update-auto-css-plugins-panel-more/)
 * [Adobe XDの新機能『CSS書き出し』を使ってみよう  studioDoghands](https://www.doghands.com/adobe-xd-css-code-snippets/)
 * [Adobe XD 2020年10月の新機能！ついにVisual Studio Codeと連携可能に  コリス](https://coliss.com/articles/build-websites/operation/work/adobe-xd-whats-new-2020-oct.html)
+* [Adobe XDでWebデザインをしよう！画面作成からページ推移までの手順を紹介  Webクリエイターボックス](https://www.webcreatorbox.com/inspiration/adobe-xd-steps)
+* [VS CodeのAdobe XD用拡張機能が登場！デザインシステムにもとづきコード出力と補完が可能に](https://ics.media/entry/210107/)
+* [Adobe XDとBootstrapで作業を効率化 第2回: UIキットをデザインシステムLiteのデザインガイドに落とし込む](https://blogs.adobe.com/japan/adobe-xd-bootstrap-designsytem-lite-2-uikit/)
+* [「Adobe XD」のデザインを「Flutter」のコードに変換するプラグインが一般公開 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1279609.html)
+
 # サイト
 * [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
 * [Microsoft Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
