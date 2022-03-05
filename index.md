@@ -59,8 +59,6 @@
 * [モダンページのページレイアウトの種類と変更方法 - SharePoint Developer](https://sharepoint.orivers.jp/article/10031)
 * [SharePointのテンプレート化方法まとめ - 鍋綿ブログ](https://www.micknabewata.com/entry/sharepoint/template)
 * [Microsoft 365 SharePoint Modernization Scanner を動かしてみました - （）のブログ](https://mitomoha.hatenablog.com/entry/2020/07/09/012941)
-
-* [How to Activate Workflows can use app permissions Feature programmatically using CSOM in SharePoint - SPGuides](https://www.spguides.com/activate-workflows-can-use-app-permissions/)
 * [SharePoint Spaces - Mixed Reality for the Enterprise](https://m.youtube.com/watch?feature=youtu.be&v=MW565hMnXLg)
 * [SharePoint アドインのコンテキスト トークン OAUTH フロー](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/context-token-oauth-flow-for-sharepoint-add-ins)
 * [SharePoint モダン サイト ～ サイト デザインとサイト スクリプト～](https://www.slideshare.net/aiyamasaki528/sharepoint-91933139)
@@ -71,8 +69,6 @@
 * [SharePoint Online モダン ページで “ちょっと” カスタマイズできる方法を模索してみる](https://idea.tostring.jp/?p=3986)
 * [SharePoint リストにアイテムを一括登録する ($batchの活用) - MoreBeerMorePower](https://mofumofupower.hatenablog.com/entry/sharepoint_batching)
 * [新しい Microsoft Stream と SharePoint](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/10/new-microsoft-stream.html)
-* [sharepoint.orivers.jp](https://sharepoint.orivers.jp/article/10389)
-* [shanqiai.weblogs.jp](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/09/create-teamsmeeting-from-eventlist-onspo-using-powerautomate.html)
 * [Find And Extract Sharepoint Documents With SQL – Mikes Data Work](https://mikesdatawork.wordpress.com/2018/05/11/find-and-extract-sharepoint-documents-with-sql/)
 * [How to use PowerShell in SharePoint Online/2016/2013 - SPGuides](https://www.spguides.com/powershell-sharepoint/)
 * [Display modal pop up in SharePoint Online/2013/2016 - EnjoySharePoint](https://www.enjoysharepoint.com/display-modal-pop-up-in-sharepoint/?sfns=mo)
@@ -91,8 +87,10 @@
 * [SharePoint home sites: a landing for your organization on the intelligent intranet - Microsoft Tech Community - 621933](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-home-sites-a-landing-for-your-organization-on-the/ba-p/621933)
 * [Updates to SharePoint security, administration, and migration - Microsoft Tech Community - 549585](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/updates-to-sharepoint-security-administration-and-migration/ba-p/549585)
 * [PowerShell – ShareGate Desktop](https://support-desktop.sharegate.com/hc/en-us/categories/204661007-PowerShell)
+
 ## CSOM
 * [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
+* [How to Activate Workflows can use app permissions Feature programmatically using CSOM in SharePoint - SPGuides](https://www.spguides.com/activate-workflows-can-use-app-permissions/)
 * [SharePoint Online: Start Workflow on All Items in a List using PowerShell - SharePoint Diary](https://www.sharepointdiary.com/2018/05/sharepoint-online-start-workflow-using-powershell.html)
 * [CSOM SharePoint Online – Detailed Guide](https://www.spguides.com/sharepoint-csom-tutorial/)
 * [Enjoy SharePointGet all subsites from a site collection in SharePoint Online using](https://www.enjoysharepoint.com/get-all-subsites-in-sharepoint-online-csom/)
@@ -110,6 +108,9 @@
 * [SharePoint Framework 開発入門 まとめ - SharePoint Developer](https://sharepoint.orivers.jp/sharepoint-framework-dev)
 * [SPFxCalendar 1.5.3 を公開しました - からめもぶろぐ。](https://blog.karamem0.jp/entry/2020/10/15/180000)
 * [SharePoint Framework (SPFx) Extensions Application Customizer Example - SharePointSky](https://www.sharepointsky.com/spfx-application-customizer/)
+* [SharePoint Framework での SharePoint REST API 呼び出し (Promise 編)](https://sharepoint.orivers.jp/article/10389)
+
+
 ## Fiddler
 * [Fiddler を使って HTTPS トラフィックを確認する  idea.toString();](https://idea.tostring.jp/?p=1077)
 ## Dynamics 365
@@ -147,6 +148,7 @@
 * [ノンコーディングで業務アプリ開発！「PowerApps」と「Microsoft Flow」とは](https://info.microsoft.com/JA-DynOps-WBNR-FY18-06Jun-14-Businessappdevelopment-MCW0006792_02OnDemandRegistration-ForminBody.html)
 * [Microsoft Flow でアイテムの権限を変更する](http://deepcom.co.jp/flow_item_permission_1/)
 * [Microsoft Flow で Office 365 の障害情報をチェックする](https://idea.tostring.jp/?p=4732)
+
 ## Power Virtual Agents
 * [チャットボットをノーコードで作成可能--「Power Virtual Agents」をみる](https://japan.zdnet.com/article/35162083/)
 * [Power Virtual Agents](https://powerva.microsoft.com/#/dialog/4c6f7ea5-a79a-48c5-ade0-7553c95a880d)
