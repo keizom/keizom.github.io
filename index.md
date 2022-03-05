@@ -28,14 +28,21 @@
 ## Office Web Apps
 * [Office Web Apps で SharePoint上のファイルが開けなくなる (SPWOPIProofKey が更新されないことによる) ](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/720a6d3f-f6f4-492c-9195-23a9fed9a90c/office-web-apps-12391?forum=sharepointsupportteamja)
 # Microsoft 365
+* [Microsoft 365 Enterprise のテスト ラボ ガイド - Microsoft 365 Enterprise  Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/m365-enterprise-test-lab-guides?view=o365-worldwide)
 * [【オンラインセミナー】Office 365 を快適に利用するためのネットワークインフラ10のポイント～疑問はQ&Aで解決～](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-11Nov-16-Online-Seminar-Network-MCW0002364.html)
 * [O365のネットワークの推奨帯域について - マイクロソフト コミュニティ](https://answers.microsoft.com/ja-jp/msoffice/forum/all/o365%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF/9e6f9683-d922-4a85-80f6-6f4fb6e563bb)
 * [Office365帯域調査してみました。 – Exceedone Technical Knowledge](https://tech.exceedone.co.jp/office365-generally/office365-band-survey/)
 * [Office 365の利用者に動作が“重い”と苦情を言われたときにとるべき対策は？：最新ルーターでSaaS時代のネットワーク管理を高度化せよ - ＠IT](https://www.atmarkit.co.jp/ait/articles/1802/27/news001.html)
+* [Microsoft 365 Extensibility look book gallery - Microsoft Adoption](https://adoption.microsoft.com/extensibility-look-book)
+
+
+
 ## Audit Log
 * [セキュリティ運用ソフトウェア「LogStare Collector 2.2」の提供を開始](https://prtimes.jp/main/html/rd/p/000000070.000038758.html)
 * [M365 監査ログ(旧 O365 監査ログ)収集の設定](https://www.secuavail.com/kb/references/ref-220203-01/)
 * [PowerBIとFlowで、監査ログ分析](https://techcommunity.microsoft.com/t5/Microsoft-Stream-Blog/Global-Admin-Pro-Tip-Learn-how-to-build-video-analytics/ba-p/365267)
+* [Export Office 365 User Activity Report to CSV using PowerShell](https://o365reports.com/2021/01/06/export-office-365-user-activity-report-to-csv-using-powershell/)
+
 ## Exchagne Online
 * [Using Azure Automation to Process Exchange Online Data with PowerShell](https://practical365.com/use-azure-automation-exchange-online/)
 * [PowerShellから全社員に予定を投入したい](https://blog.o365mvp.com/2016/12/07/create_calendar_object_via_powershell/)
@@ -115,7 +122,6 @@
 * [Fiddler を使って HTTPS トラフィックを確認する  idea.toString();](https://idea.tostring.jp/?p=1077)
 ## Dynamics 365
 * [Dynamics 365 自習書シリーズ](https://www.microsoft.com/ja-jp/biz/dynamics/learning.aspx)
-* [Demos for MPN Partners – Microsoft 365, Dynamics 365, Teams etc](https://support.microsoft.com/)
 * [Dynamics 365 Business Centralの標準機能のソースコードを見る方法について](https://zhublog.wixsite.com/dynamics365/post/dynamics-365-business-central%E3%81%AE%E6%A8%99%E6%BA%96%E6%A9%9F%E8%83%BD%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E8%A6%8B%E3%82%8B%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 * [Community demo – Calling Dynamics 365 CRM APIs from SharePoint - YouTube](https://www.youtube.com/watch?v=VXzYc6cfjuI&app=desktop)
 * [Dynamics 365 トライアル環境の取得 （2020年9月版） - YouTube](https://m.youtube.com/watch?feature=youtu.be&v=2vXTJK623TU)
@@ -154,8 +160,6 @@
 * [Power Virtual Agents](https://powerva.microsoft.com/#/dialog/4c6f7ea5-a79a-48c5-ade0-7553c95a880d)
 ## Power BI
 * [組織内の Office 365 の利用状況を可視化する Power BI Office 365 Adoption Content Pack パブリック プレビュー開始](https://idea.tostring.jp/?p=2873)
-
-
 * [[Power BI Tips] Power BI でリアルタイムアンケート ～ アンケートを即可視化 2020年版 ～ - Qiita](https://qiita.com/yugoes1021/items/ea4c96cec9f1c7e47347)
 * [powerbi-desktop-samples/Sample Reports at master · microsoft/powerbi-desktop-samples · GitHub](https://github.com/microsoft/powerbi-desktop-samples/tree/master/Sample%20Reports)
 * [組織内の Office 365 の利用状況を可視化する Power BI Office 365 Adoption Content Pack パブリック プレビュー開始  idea.toString();](https://idea.tostring.jp/?p=2873)
@@ -195,7 +199,6 @@
 ## Teams
 * [Microsoft Teams 「ブレークアウトルーム」操作マニュアル](https://blogs.windows.com/japan/2020/12/18/microsoft-teams-breakoutroom-manual/)
 * [「Microsoft Teams」の「Project」「Roadmap」アプリ発表 - CNET Japan](https://japan.cnet.com/article/35161885/)
-* [マイクロソフトの仮想デスクトップ Windows Virtual Desktop (WVD)とは?  レイクサイド ソフトウェア株式会社](https://www.lakesidesoftware.com/jp/blog/what-is-windows-virtual-desktop)
 * [Microsoft Teams 日本語カタログ 第2版と徹底活用ブック](https://blogs.windows.com/japan/2020/11/11/teams-catalog-booklet/)
 * [Microsoft Teams リソース - Microsoft for business](https://www.microsoft.com/ja-jp/biz/wsi/teams-remote-work.aspxQ)
 * [TeamsのWeb会議、上級活用法](https://xtech.nikkei.com/atcl/nxt/column/18/01362/)
@@ -204,12 +207,14 @@
 * [Teamsのチームとチャネルの構成はこうせい！](https://blog.trainocate.co.jp/blog/teams01_020)
 * [Teamsの会話をPSTファイルとしてエクスポートが可能！ExchangeOnlineライセンスが必要](https://1manit.work/windows/office365/teams/exportdata-pst/)
 * [PowerShellからTeamsのAdaptive Card](https://qiita.com/syamamotorhead/items/5062cdcaaafc6740c0b2)
-https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
++ [ノンコーディングで Microsoft Teams のチームをすべて取得する](https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
 * [Teams 開発](https://eventmarketing.blob.core.windows.net/decode2019-after/decode19_PDF_PR03.pdf)
 * [【オンラインセミナー】Office 365 を快適に利用するためのネットワークインフラ10のポイント～疑問はQ&Aで解決～](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-11Nov-16-Online-Seminar-Network-MCW0002364.html)
 * [O365のネットワークの推奨帯域について - マイクロソフト コミュニティ](https://answers.microsoft.com/ja-jp/msoffice/forum/all/o365%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF/9e6f9683-d922-4a85-80f6-6f4fb6e563bb)
 * [Office365帯域調査してみました。 – Exceedone Technical Knowledge](https://tech.exceedone.co.jp/office365-generally/office365-band-survey/)
 * [Office 365の利用者に動作が“重い”と苦情を言われたときにとるべき対策は？：最新ルーターでSaaS時代のネットワーク管理を高度化せよ - ＠IT](https://www.atmarkit.co.jp/ait/articles/1802/27/news001.html)
+
+
 # Azure
 * [Azure環境作ったら最初にやるべきこと 2021年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
 ## Azure VM
@@ -281,9 +286,10 @@ https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
 * [【Visual Studio】括弧に色を付ける拡張機能「Viasfora」 - コガネブログ](https://baba-s.hatenablog.com/entry/2016/07/12/100000)
 # Web
 ## html
+* [HTMLコーダーにとっての2020年](https://ics.media/entry/200710/)
 * [よく使われるレイアウトやUIコンポーネント、それだけを実装するためのHTMLとCSSのシンプルなコードのまとめ](https://coliss.com/articles/build-websites/operation/css/popular-layouts-and-patterns-made-with-css.html)
 * [カルーセルUIを実現するJSライブラリまとめ(2021年版) - 導入手間や機能の比較紹介](https://ics.media/entry/210902/)
-* [カルーセル](https://codezine.jp/article/detail/8350?p=2)
+* [Bootstrapで画像をアルバムみたいにカッコよく表示しよう](https://codezine.jp/article/detail/8350)
 * [bootstrapのカルーセルの使い方とカスタマイズのサンプルを紹介](https://be-engineer.jp/programming/514/)
 * [HTML Living Standard HTML要素チートシート](https://htmlls.docs-share.com/)
 * [配色に迷ったらこれ！配色イメージを言語化して論理的に伝えられるスケールがめちゃくちゃ役に立つ「語彙力ない私にうってつけ」 - Togetter](https://togetter.com/li/1744709)
@@ -319,6 +325,7 @@ https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
 * [Amazonも！有名WebサイトのCSSボタンデザイン77個をコピペ再現できる Copy ＆ Paste CSS](https://photoshopvip.net/129699)
 * [Web制作者は要チェック！Instagramに使用されているCSSのテクニック](https://coliss.com/articles/build-websites/operation/css/css-techniques-used-for-instagram.html)
 * [初心者向け！HTML/CSSのコーディング手順をイチからしっかりと。  Webクリエイターボックス](https://www.webcreatorbox.com/tech/html-css-coding-steps)
+* [【第3弾】少しのコードで実装可能な15のCSS小技集](https://www.webcreatorbox.com/tech/css-tips-3)
 
 ## JavaScript
 # Docker
@@ -343,6 +350,8 @@ https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
 * [VS CodeのAdobe XD用拡張機能が登場！デザインシステムにもとづきコード出力と補完が可能に](https://ics.media/entry/210107/)
 * [Adobe XDとBootstrapで作業を効率化 第2回: UIキットをデザインシステムLiteのデザインガイドに落とし込む](https://blogs.adobe.com/japan/adobe-xd-bootstrap-designsytem-lite-2-uikit/)
 * [「Adobe XD」のデザインを「Flutter」のコードに変換するプラグインが一般公開 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1279609.html)
+* [社内の標準デザインツールをXDに統一した話｜もとやまふとし / 地方webディレクター・マーケター｜note](https://note.com/futoshi/n/nc6a49d3b6a3a)
+
 # サイト
 * [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
 * [Microsoft Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
@@ -359,3 +368,26 @@ https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
 * [Azure  知って得する DevOps  初心者向け 13 [#くらでべ]](https://www.youtube.com/watch?v=U_w9qBB5pVU)
 * [これからはじめるAzure Pipelines - Visual Studio Users Community Japan - kkamegawa's weblog](https://kkamegawa.hatenablog.jp/entry/2020/07/04/174915)
 
+
+# .net core
+* [ASP.NET Core、最小限の API、.NET 6 を使用して Web アプリとサービスを作成する - Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/aspnet-core-minimal-api/)
+* [.NET Core での自己完結型アプリのデプロイにおけるランタイムのロール フォワード - .NET Core  Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/deploying/runtime-patch-selection)
+* [.NET Core で使用できない .NET Framework テクノロジ  Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/porting/net-framework-tech-unavailable)
+# Windows Virtual Desktop
+* [【Windows Virtual Desktopのディープな技術情報を解説】 #2 WVDにおけるネットワークセキュリティ - Qiita Zine](https://zine.qiita.com/topics/202010-wvd-2/)
+* [Windows Virtual Desktop の使用を開始する](https://clouddamcdnprodep.azureedge.net/gdc/gdcamLwLh/original)
+* [Windows Virtual Desktop Event](https://info.microsoft.com/ww-landing-windows-virtual-desktop.html?ocid=AID3027037_QSG_496862)
+* [今話題のWindows Virtual Desktopが大型アップデート！](https://licensecounter.jp/azure/blog/trend/windows-virtual-desktop-update.html)
+* [マイクロソフトの仮想デスクトップ Windows Virtual Desktop (WVD)とは?  レイクサイド ソフトウェア株式会社](https://www.lakesidesoftware.com/jp/blog/what-is-windows-virtual-desktop)
+
+
+# SendGrid
+* [送信ドメインを認証するためのSPFレコードに詳しくなろう  SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=3509)
+* [メール運用がロストテクノロジーになっていく話 - Qiita](https://qiita.com/koichiro/items/d65ac1af03b9063f0592)
+* [SendGridでメール配送を始めるためのまとめ - Qiita](https://qiita.com/shiru/items/0dbc48df217ffe51b1f3)
+* [Azure でメールを受信するには  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/ainaba-csa/how-to-receive-email-by-azure)
+
+# Windows OS
+* [Windows10 1809にリモートサーバ管理ツール(RSAT)をインストールする  楽しいブログ](https://cs.machijun.net/install-rsat-to-windows10-1809.html)
+* [Windows 10 October 2018 Updateで変わった、サーバ管理ツールRSATのインストール方法：Tech TIPS - ＠IT](https://www.atmarkit.co.jp/ait/articles/1811/29/news046.html)
+* [Windows 10にリモートサーバー管理ツール（RSAT）をインストールしてWindows Serverを管理する：Tech TIPS - ＠IT](https://www.atmarkit.co.jp/ait/articles/1510/19/news023.html)
