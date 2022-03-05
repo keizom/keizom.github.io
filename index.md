@@ -82,14 +82,14 @@
 * [bootstrapのカルーセルの使い方とカスタマイズのサンプルを紹介](https://be-engineer.jp/programming/514/)
 * [HTML Living Standard HTML要素チートシート](https://htmlls.docs-share.com/)
 * [配色に迷ったらこれ！配色イメージを言語化して論理的に伝えられるスケールがめちゃくちゃ役に立つ「語彙力ない私にうってつけ」 - Togetter](https://togetter.com/li/1744709)
-* [Web制作が捗るChrome拡張機能12選 – おすすめの拡張機能を集めてみた | Pulp Note - WebデザインやWebサイト制作の現場で使えるTipsやアイデアを紹介](https://pulpxstyle.com/chrome-extensions/)
-* [最近の実装に合わせた最新版HTMLテンプレート、基本構造に使用するすべての要素とその役割も解説 | コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplate-by-mmatuzo.html)
+* [Web制作が捗るChrome拡張機能12選 – おすすめの拡張機能を集めてみた  Pulp Note - WebデザインやWebサイト制作の現場で使えるTipsやアイデアを紹介](https://pulpxstyle.com/chrome-extensions/)
+* [最近の実装に合わせた最新版HTMLテンプレート、基本構造に使用するすべての要素とその役割も解説  コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplate-by-mmatuzo.html)
 * [知っておくと実装に役立つ！JavaScriptのテクニックのまとめ](https://coliss.com/articles/build-websites/operation/javascript/javascript-tips-by-garvitmotwani.html)
-* [CSSで画像の上に表示するテキストをより読みやすく、より美しくするテクニック・実装方法のまとめ | コリス](https://coliss.com/articles/build-websites/operation/css/handling-text-over-images-in-css.html)
+* [CSSで画像の上に表示するテキストをより読みやすく、より美しくするテクニック・実装方法のまとめ  コリス](https://coliss.com/articles/build-websites/operation/css/handling-text-over-images-in-css.html)
 * [アコーディオンのアイコン：どのシグニファイアが最適か – U-Site](https://u-site.jp/alertbox/accordion-icons/)
-* [CSSで画像の上に表示するテキストをより読みやすく、より美しくするテクニック・実装方法のまとめ | コリス](https://coliss.com/articles/build-websites/operation/css/handling-text-over-images-in-css.html)
-* [地味に便利！さまざまなプロジェクトに適したHTMLのテンプレートを簡単に生成できる -HTML Boilerplates | コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplates.html)
-* [HTML/CSS初学者がつまづきやすい記述ミスと修正方法 | Webクリエイターボックス](https://www.webcreatorbox.com/tech/html-css-beginner)
+* [CSSで画像の上に表示するテキストをより読みやすく、より美しくするテクニック・実装方法のまとめ  コリス](https://coliss.com/articles/build-websites/operation/css/handling-text-over-images-in-css.html)
+* [地味に便利！さまざまなプロジェクトに適したHTMLのテンプレートを簡単に生成できる -HTML Boilerplates  コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplates.html)
+* [HTML/CSS初学者がつまづきやすい記述ミスと修正方法  Webクリエイターボックス](https://www.webcreatorbox.com/tech/html-css-beginner)
 * [Web制作の効率、生産性アップ！話題の最新オンラインツール33個まとめ - PhotoshopVIP](https://photoshopvip.net/126320)
 
 
@@ -101,11 +101,11 @@
 ## JavaScript
 
 # Adobe
-* [Adobe XDをHTMLにエクスポートする方法 - インターネットとソーシャル | 七月 2020](https://ja.rockycode.com/how-export-adobe-xd-html)
-* [Adobe XD 2019年8月アップデートリリース！CSSコード自動生成（第一弾）、ローカルでのPhotoshop編集連携、コンポーネントの操作性改善など #AdobeXD | Adobe Blog](https://blogs.adobe.com/japan/cc-web-xd-august-2019-update-auto-css-plugins-panel-more/)
-* [Adobe XDの新機能『CSS書き出し』を使ってみよう | studioDoghands](https://www.doghands.com/adobe-xd-css-code-snippets/)
-* [Adobe XD 2020年10月の新機能！ついにVisual Studio Codeと連携可能に | コリス](https://coliss.com/articles/build-websites/operation/work/adobe-xd-whats-new-2020-oct.html)
+* [Adobe XDをHTMLにエクスポートする方法 - インターネットとソーシャル  七月 2020](https://ja.rockycode.com/how-export-adobe-xd-html)
+* [Adobe XD 2019年8月アップデートリリース！CSSコード自動生成（第一弾）、ローカルでのPhotoshop編集連携、コンポーネントの操作性改善など #AdobeXD  Adobe Blog](https://blogs.adobe.com/japan/cc-web-xd-august-2019-update-auto-css-plugins-panel-more/)
+* [Adobe XDの新機能『CSS書き出し』を使ってみよう  studioDoghands](https://www.doghands.com/adobe-xd-css-code-snippets/)
+* [Adobe XD 2020年10月の新機能！ついにVisual Studio Codeと連携可能に  コリス](https://coliss.com/articles/build-websites/operation/work/adobe-xd-whats-new-2020-oct.html)
 
 # サイト
 * [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
-* [Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
+* [Microsoft Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
