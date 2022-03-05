@@ -28,7 +28,6 @@
 
 ## Office Web Apps
 * [Office Web Apps で SharePoint上のファイルが開けなくなる (SPWOPIProofKey が更新されないことによる) ](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/720a6d3f-f6f4-492c-9195-23a9fed9a90c/office-web-apps-12391?forum=sharepointsupportteamja)
-
 # Microsoft 365
 ## Audit Log
 * [セキュリティ運用ソフトウェア「LogStare Collector 2.2」の提供を開始](https://prtimes.jp/main/html/rd/p/000000070.000038758.html)
@@ -38,16 +37,42 @@
 ## Exchagne Online
 * [Using Azure Automation to Process Exchange Online Data with PowerShell](https://practical365.com/use-azure-automation-exchange-online/)
 * [PowerShellから全社員に予定を投入したい](https://blog.o365mvp.com/2016/12/07/create_calendar_object_via_powershell/)
-
-
 ## SharePoint Online
 * [SharePoint Online モダンサイトのホームサイトを設定する](https://idea.tostring.jp/?p=5013)
 * [SharePoint ハブ (Hub) を利用しよう](https://shanqiai.weblogs.jp/sharepoint_technical_note/2021/02/sharepoint-hub.html)
 * [待望の新たなモダンな SharePoint サイトテンプレート登場 !](https://shanqiai.weblogs.jp/sharepoint_technical_note/2021/04/modern-site-templates.html)
 * [File Upload to SharePoint 2013 using REST API](https://stackoverflow.com/questions/25393075/file-upload-to-sharepoint-2013-using-rest-api)
+* [SharePoint Online: Start Workflow on All Items in a List using PowerShell - SharePoint Diary](https://www.sharepointdiary.com/2018/05/sharepoint-online-start-workflow-using-powershell.html)
 
 ## Power Automate Desktop
 * [Windows10の無償デスクトップ自動化ツール「Power Automate Desktop」でWebブラウザーでの作業を自動化する](https://codezine.jp/article/detail/15410)
+## Power Automate
+* [Power Automate で処理に失敗した際にどのアクションで失敗したかを即時にメール通知する方法 - 欲しいアプリは自分で作る！](https://jn.hateblo.jp/entry/2020/10/31/174431)
+* [Azure活用！Power Automateならノーコードで顔写真から年齢や性別が判断できる！ハンズオンイベント！](https://rpa-bank.com/column/40730)
+* [202009_PowerAutomate_Handson](https://github.com/rnakamuramartiny/Share_RPACommunity/tree/master/202009_PowerAutomate_Handson)
+* [RPA勉強会！Power Automate Talk #7 ～ハンズオンで勤怠報告ボタン作成！～ (2020/11/27 19:30〜)](https://rpacommunity.connpass.com/event/195217/)
+* [Power AutomateでRPAにトライ！！  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/18486)
+* [Power Automate（旧Microsoft Flow）からMicrosoft TeamsへBotで投稿する方法3種をまとめてみた - Qiita](https://qiita.com/tfunakoshi/items/76029bcc8ac1d4d9bd71)
+* [Power Automate でスクリプトの使用を開始する - Office Scripts  Microsoft Docs](https://docs.microsoft.com/ja-jp/office/dev/scripts/tutorials/excel-power-automate-manual)
+* [Azure活用！Power Automateならノーコードで顔写真から年齢や性別が判断できる！ハンズオンイベント！](https://rpa-bank.com/column/40730/)
+* [Power Automate で処理に失敗した際にどのアクションで失敗したかを即時にメール通知する方法 - 欲しいアプリは自分で作る！](https://jn.hateblo.jp/entry/2020/10/31/174431)
+* [RPA機能の Power Automate Desktop 一般公開（GA）とプロセスアドバイザーの公開 - 吉田の備忘録](https://memo.tyoshida.me/power-platform/power-automate/power-automate-desktop-general-availability/)
+* [Power Platformでアプリを作ろう、まずはPower Automateでデータ収集  日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/01549/020100002/)
+* [マイクロソフトがPower Automateの機能を強化するProcess Advisorを公開、反復の多い作業のワークフローを効率化](https://jp.techcrunch.com/2020/12/10/2020-12-09-microsoft-brings-new-process-mining-features-to-power-automate/)
+* [Power Automate でデバッグする際のTips - MoreBeerMorePower](https://mofumofupower.hatenablog.com/entry/2020/11/17/224059)
+* [Power Automate で新しいデスクトップ用RPAソリューション「Power Automate Desktop」をリリース - 吉田の備忘録](https://memo.tyoshida.me/
+* [Power Automate のフローで SharePoint リストアイテムの権限を操作してみる  idea.toString();](https://idea.tostring.jp/?p=5427)
+* [Power Automate の Apply to each 内でOffice Script を使うときの注意点? - SharePoint Technical Notes](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/10/using_office_script_with_powerautomate.html)
+* [Power Automate を使って予定表リスト(イベントリスト)から Microsoft Teams 会議を作成する - SharePoint Technical Notes](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/09/create-teamsmeeting-from-eventlist-onspo-using-powerautomate.html)
+* [Power Automate で組織の連絡先のメールアドレスから所属グループを抽出する - 欲しいアプリは自分で作る！](https://jn.hateblo.jp/entry/2020/08/23/003210)
+* [Power Automate を使って予定表リスト(イベントリスト)から Microsoft Teams 会議を作成する - SharePoint Technical Notes](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/09/create-teamsmeeting-from-eventlist-onspo-using-powerautomate.html)
+* [Power Automate を使って予定表リスト(イベントリスト)から Microsoft Teams 会議を作成する - SharePoint Technical Notes](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/09/create-teamsmeeting-from-eventlist-onspo-using-powerautomate.html)
+* [Windows 10 で開発環境を設定する](https://docs.microsoft.com/ja-jp/windows/dev-environment/overview)
+* [Power Automate を使って予定表リスト(イベントリスト)から Microsoft Teams 会議を作成する](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/09/create-teamsmeeting-from-eventlist-onspo-using-powerautomate.html)
+* [Power Automate で組織の連絡先のメールアドレスから所属グループを抽出する - 欲しいアプリは自分で作る！](https://jn.hateblo.jp/entry/2020/08/23/003210)
+* [Power Automate のフローで SharePoint リストアイテムの権限を操作してみる](https://idea.tostring.jp/?p=5427)
+* [Power Automate Teams上で承認を行う](https://zezeze.hateblo.jp/entry/2019/11/29/040113)
+
 # Azure
 ## Azure VM
 * [Azure MonitorエージェントによるWindows仮想マシンの監視](https://cloudsteady.jp/post/50812/)
@@ -72,8 +97,6 @@
 
 * [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
 * [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
-
-
 # Web
 
 ## html
@@ -91,21 +114,38 @@
 * [地味に便利！さまざまなプロジェクトに適したHTMLのテンプレートを簡単に生成できる -HTML Boilerplates  コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplates.html)
 * [HTML/CSS初学者がつまづきやすい記述ミスと修正方法  Webクリエイターボックス](https://www.webcreatorbox.com/tech/html-css-beginner)
 * [Web制作の効率、生産性アップ！話題の最新オンラインツール33個まとめ - PhotoshopVIP](https://photoshopvip.net/126320)
-
+* [コードを書くのが楽になる！知っておくと便利なVS Codeの機能・設定のまとめ  コリス ](https://coliss.com/articles/build-websites/operation/work/vs-code-dont-need-extensions.html)
+* [初心者向け！HTML/CSSのコーディング手順をイチからしっかりと。  Webクリエイターボックス](https://www.webcreatorbox.com/tech/html-css-coding-steps)
+* [新しくなったBootstrap 5を使用して、管理画面のUIを実装する方法を解説  コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-dashboard-tutorial.html)
+* [Responsive Height Design -レスポンシブを高さの観点から、Webサイトやスマホアプリの実装で役立つテクニック](https://coliss.com/articles/build-websites/operation/css/responsive-height-design.html)
+* [これなら簡単で便利！最近見かけるCSSのさまざまなコンポーネントをコピペで利用できる -CodyHouse Framework  コリス](https://coliss.com/articles/build-websites/operation/css/codyhouse-framework-2-0.html)
+* [VS Codeの見やすいテーマが登場！GitHubのデザインでコードも快適に -GitHub VS Code theme  コリス](https://coliss.com/articles/build-websites/operation/work/github-vscode-theme.html)
+* [Bootstrap 5の作業環境の構築方法、jQueryを使用しないJavaScriptでの実装方法を解説  コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-tutorial-without-jquery.html)
+* [JavaScriptでのメディアクエリ、matchMedia()の使い方を解説  コリス](https://coliss.com/articles/build-websites/operation/javascript/javascript-media-queries.html)
+* [新しくなったBootstrap 5を使用して、管理画面のUIを実装する方法を解説  コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-dashboard-tutorial.html)
+* [JavaScriptでのメディアクエリ、matchMedia()の使い方を解説  コリス](https://coliss.com/articles/build-websites/operation/javascript/javascript-media-queries.html)
+* [Webページやスマホアプリでよく使用される代表的な5つのレイアウトをCSS Gridで実装するテクニック  コリス](https://coliss.com/articles/build-websites/operation/css/css-grid-with-5-layouts.html)
+* [2020年、オンラインサービスやWebアプリの開発を独学で勉強したい人に役立つ練習プロジェクトのまとめ  コリス](https://coliss.com/articles/build-websites/operation/work/8-projects-with-modern-designs.html)
+* [JavaScriptでのメディアクエリ、matchMedia()の使い方を解説  コリス](https://coliss.com/articles/build-websites/operation/javascript/javascript-media-queries.html)
 
 ## css
 * [CSSコピペで完成！押したくなるWebボタンデザインまとめ](https://photoshopvip.net/130681)
 * [CSSでフォームの実装に悩んだら！ さまざまなフレームワークで実装されたフォームのライブラリ -HeroTofu](https://coliss.com/articles/build-websites/operation/css/html-forms-library-herotofu.html)
-
+* [CSSだけでできるあんなことこんなこと - Qiita](https://qiita.com/rana_kualu/items/43e8841a4fccb8a80113)
+* [Amazonも！有名WebサイトのCSSボタンデザイン77個をコピペ再現できる Copy ＆ Paste CSS](https://photoshopvip.net/129699)
 
 ## JavaScript
-
+# Docker
+* [第3回　Dockerコマンドの使い方：超入門Docker - ＠IT](https://www.atmarkit.co.jp/ait/articles/1702/01/news061.html)
+* [ゼロからはじめるDocker(1) Dockerとは？  マイナビニュース](https://news.mynavi.jp/article/docker-1/)
+* [WSL2をインストールしてWindowsでUbuntuを使う方法](https://tombomemo.com/wsl2-install-settings/)
+* [【連載】世界一わかりみが深いコンテナ & Docker入門 〜 その1:コンテナってなに？ 〜  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/18811)
 # Adobe
 * [Adobe XDをHTMLにエクスポートする方法 - インターネットとソーシャル  七月 2020](https://ja.rockycode.com/how-export-adobe-xd-html)
 * [Adobe XD 2019年8月アップデートリリース！CSSコード自動生成（第一弾）、ローカルでのPhotoshop編集連携、コンポーネントの操作性改善など #AdobeXD  Adobe Blog](https://blogs.adobe.com/japan/cc-web-xd-august-2019-update-auto-css-plugins-panel-more/)
 * [Adobe XDの新機能『CSS書き出し』を使ってみよう  studioDoghands](https://www.doghands.com/adobe-xd-css-code-snippets/)
 * [Adobe XD 2020年10月の新機能！ついにVisual Studio Codeと連携可能に  コリス](https://coliss.com/articles/build-websites/operation/work/adobe-xd-whats-new-2020-oct.html)
-
 # サイト
 * [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
 * [Microsoft Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
+
