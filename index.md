@@ -12,15 +12,11 @@
 * [高可用性 SharePoint ファーム](https://docs.microsoft.com/ja-jp/azure/architecture/solution-ideas/articles/highly-available-sharepoint-farm)
 * [Azure で SharePoint Server 2016 と SQL Server の AlwaysOn 可用性グループを展開する](https://docs.microsoft.com/ja-jp/SharePoint/administration/deploying-sharepoint-server-2016-with-sql-server-alwayson-availability-groups-in)
 * [Azure における SharePoint 2013 開発/テスト環境](https://docs.microsoft.com/ja-jp/sharepoint/administration/sharepoint-2013-dev-test-environments-in-azure)
-
 ## 代替アクセスマッピング
 * [SharePoint Server の代替アクセス マッピングを構成する](https://docs.microsoft.com/ja-jp/sharepoint/administration/configure-alternate-access-mappings)
 * [SharePoint Server の代替アクセス マッピングを計画する](https://docs.microsoft.com/ja-jp/sharepoint/administration/plan-alternate-access-mappings)
 * [SharePoint Server 2013 の構成 － 代替アクセスマッピング](https://yama30501.blog.fc2.com/blog-entry-134.html)
 * [パスベース および ホスト名付きサイト コレクションの構築](https://www.slideshare.net/aiyamasaki528/path-based-and-host-named-site-collection)
-* []()
-
-
 ## サーバー自身からの接続方法
 * [Windows Authentication Errors on local Servers (Loopback Protection)](https://webconnection.west-wind.com/docs/_4gi0ql5jb.htm)
 * [ホストヘッダーを利用する場合の注意事項](https://shanqiai.weblogs.jp/sharepoint_technical_note/2010/05/%E3%83%9B%E3%82%B9%E3%83%88%E3%83%98%E3%83%83%E3%83%80%E3%83%BC%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.html)
@@ -32,19 +28,16 @@
 * [SharePoint Server で Kerberos 認証を計画する](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/kerberos-authentication-planning)
 ## Setting
 * [SharePoint 2016 How to Change SuitBar’s Text PowerShell - TechNet Articles - United States (English) - TechNet Wiki](https://social.technet.microsoft.com/wiki/contents/articles/34202.sharepoint-2016-how-to-change-suitbars-text-powershell.aspx)
-
 ## Search Service Application
 * [Remove a SharePoint Search Server from the Search Service Application](https://microscoff.com/2018/05/24/remove-sharepoint-search-server-search-service-application/)
 * [How to remove the Search Topology (Removing Existing SSA with PowerShell)](https://collab365.com/removing-search-topology-removing-existing-ssa/)
 * [How To Configure Search Service Application Using PowerShell](https://www.c-sharpcorner.com/article/sharepoint-2016-how-to-configure-search-service-application-using-powershell/)
-
 ## SSL
 * [SharePoint 2013 のサイトを SSL 通信（https）でもアクセスできるよう構成する](https://sharepointmaniacs.com/archives/4416)
 * [SharePoint Server 2016 での TLS 1.1 および TLS 1.2 のサポートの有効化](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/enable-tls-1-1-and-tls-1-2-support-in-sharepoint-server-2016)
 * [IIS 8 または 7.5 での SSL の設定](https://help.sap.com/viewer/5377d77f068843799cdc630e678a755d/4.2.4/ja-JP/ec9ee4136fdb101497906a7cb0e91070.html)
 * [サーバーからサーバーへの接続Microsoft 365構成SharePointする](https://docs.microsoft.com/ja-jp/sharepoint/hybrid/configure-inbound-connectivity)
 * [SP2013 SSL 証明書の管理と SharePoint アプリ](https://shanqiai.weblogs.jp/sharepoint_technical_note/2014/12/sp2013-ssl-certification-and-sharepointapps.html)
-
 ## Distributed Cache
 * [Distributed cache service is not enabled in this deployment (SharePoint Server)](https://docs.microsoft.com/en-us/sharepoint/technical-reference/distributed-cache-service-is-not-enabled-in-this-deployment)
 * [Distributed Cache Host error](https://social.technet.microsoft.com/Forums/en-US/35f8fe49-7e4a-4d3e-bb65-ad17b723d8d8/distributed-cache-host-error?forum=SP2016)
@@ -57,8 +50,6 @@
 * [WorkflowStatus Enum](https://docs.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.workflowservices.workflowstatus?view=sharepoint-server)
 ## Office Web Apps
 * [Office Web Apps で SharePoint上のファイルが開けなくなる (SPWOPIProofKey が更新されないことによる) ](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/720a6d3f-f6f4-492c-9195-23a9fed9a90c/office-web-apps-12391?forum=sharepointsupportteamja)
-
-
 ## SQL Managed Instance
 * [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
 * [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure)
@@ -78,7 +69,6 @@
 
 * [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
 * [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
-
 ## Developer Subscription
 * [Microsoft 365 開発者サンドボックス サブスクリプションの設定](https://docs.microsoft.com/ja-jp/office/developer-program/microsoft-365-developer-program-get-started)
 * [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
