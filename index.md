@@ -89,7 +89,7 @@
 * [Application Gateway 構成の概要](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-overview)
 * [【Azure】 Application Gateway 設定を解説する](https://qiita.com/hikaru_motomiya/items/d5fd669e3eb3a8491022)
 * [Azure Application Gatewayとは？その概要と機能、メリットについて](https://www.cloud-for-all.com/blog/azure-application-gateway.html)
-* [証明書の設定Azure Application Gateway 新規／更新用](https://www.secomtrust.net/service/pfw/apply/sr/3_2_AZURE_APPGW.html
+* [証明書の設定Azure Application Gateway 新規／更新用](https://www.secomtrust.net/service/pfw/apply/sr/3_2_AZURE_APPGW.html)
 * [Application Gateway のアクセスログについて](https://cptechweb.teldevice.co.jp/hc/ja/articles/360063918373-Application-Gateway-%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 * [Webシステムの負荷分散に力を発揮！Azure Application Gatewayの機能とは？](https://business.ntt-east.co.jp/content/cloudsolution/column-118.html)
 * [Azure Application Gateway のドキュメント](https://docs.microsoft.com/ja-jp/azure/application-gateway/)
@@ -135,8 +135,11 @@
 * [自分に合った保護と共有](https://track.azurerms.com/#/landing)
 * [Azure Information Protectionを紹介したかったがMicrosoft Information Protectionに統合されてたのでそのご紹介 ①](https://www.challenge-cf.jp/post/azure-information-protection%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%8Cmicrosoft-information-protection%E3%81%AB%E7%B5%B1%E5%90%88%E3%81%95%E3%82%8C%E3%81%A6%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9D%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B)
 * [Azure Information Protection でファイルのアクセス権はく奪（プレビュー）](https://live-style.jp/aip-deprivation/)
-* [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/information-protection/infoprotect-quick-start-tutorial)
+* [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/
+information-protection/infoprotect-quick-start-tutorial)
+
 ## Developer Subscription
+
 * [Microsoft 365 開発者サンドボックス サブスクリプションの設定](https://docs.microsoft.com/ja-jp/office/developer-program/microsoft-365-developer-program-get-started)
 * [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
 
