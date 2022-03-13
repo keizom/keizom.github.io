@@ -522,6 +522,37 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [What is Azure Resource Mover?](https://docs.microsoft.com/en-us/azure/resource-mover/overview)
 * [徹底解説！できる Azure Migrate](https://info.microsoft.com/JA-AzureMig-CNTNT-FY20-03Mar-18-Thoroughcommentary-SRGCM3343_01Registration-ForminBody.html)
 
+## Azure Backup
+
+* [Azure BackupでVMを簡単バックアップ＆リカバリ  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/18881)
+
+## Azure Bastion
+
+* [Azure Bastion 試したよ](https://sshzk.blogspot.com/2019/07/azure-bastion.html)
+
+## Azure PowerShell
+
+* [ゼロからはじめるAzure(36) 新しいターミナルアプリ「Windows Terminal」からAzureを操作しよう  マイナビニュース](https://news.mynavi.jp/article/zeroazure-36/)
+
+* [Azure Key Vault のマネージド ストレージ アカウント - PowerShell バージョン  Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/key-vault/secrets/overview-storage-keys-powershell)
+* [クイック スタート:Azure Resource Graph エクスプローラーを使用して初めての Resource Graph クエリを実行する](https://docs.microsoft.com/ja-jp/azure/governance/resource-graph/first-query-portal)
+* [PowerShell Script: 使用されていない不要な Azure リソースを自動検知して削除する](https://docs.microsoft.com/ja-jp/archive/blogs/jpaztech/cleanup-unused-storage)
+
+## Azure Cosmos DB
+
+* [Azure Cosmos DB for MongoDB API with Xamarin Quick Start](https://docs.microsoft.com/en-us/samples/azure-samples/azure-cosmos-db-mongodb-xamarin-getting-started/azure-cosmos-db-mongodb-xamarin-getting-started/)
+* [GitHub - DocumentDB-Quickstart-DotNet](https://github.com/dzadnip/DocumentDB-Quickstart-DotNet)
+
+## Application Insights
+
+* [既存の Application Insights を Workspace ベースに移行した - しばやん雑記](https://blog.shibayan.jp/entry/20200928/1601229167)
+
+## Azure Bot Service
+
+* [ノンコーディングで簡易FAQ Slack Botを作ってみた話（QnA Maker ＋ Azure Bot Service）](https://zuvuyalink.net/nrjlog/archives/4368)
+* [次世代コミュニケーションツール「チャットボット」の活用 ?Azure Bot ServiceでAzureのことに何でも答えてくれるLINEボットを作る ?【概要編】  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/17023)
+
+
 ## Azure Application Gateway
 
 ### Setting_AAG
