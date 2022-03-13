@@ -414,7 +414,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Windows Information Protection を正しく知る：Microsoft 365で実現するクラウド時代のセキュリティ（4） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1906/28/news022.html)
 * [Windows Information Protection を正しく知る　～設定編～：Microsoft 365で実現するクラウド時代のセキュリティ（5） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1907/24/news011.html#cxrecs_s)
 
-# サイト
+# Site
 
 ## Microsoft
 
