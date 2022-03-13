@@ -39,10 +39,14 @@
 
 * [SharePoint Server で Kerberos 認証を計画する](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/kerberos-authentication-planning)
 
-## Setting
+## SuitBar
 
 * [SharePoint 2016 How to Change SuitBar’s Text PowerShell - TechNet Articles - United States (English) - TechNet Wiki](https://social.technet.microsoft.com/wiki/contents/articles/34202.sharepoint-2016-how-to-change-suitbars-text-powershell.aspx)
 * [Replace SharePoint in Suitebar using SuiteBarBrandingElementHtml property not reflecting](https://social.technet.microsoft.com/Forums/en-US/21d067e5-eabd-4b13-ba7d-8cb8c780a30c/replace-sharepoint-in-suitebar-using-suitebarbrandingelementhtml-property-not-reflecting)
+* [[SharePoint 2016] SuiteBar の設定変更](https://shanqiai.weblogs.jp/sharepoint_technical_note/2017/01/sharepoint-2016-suitebar-%E3%81%AE%E8%A8%AD%E5%AE%9A%E5%A4%89%E6%9B%B4-.html)
+* [SharePoint ：検索窓の位置がスイートバーに移動された！( Search Box location moved to Suite Bar )](https://art-break.net/tech/?p=5425)
+* [Office 365 ナビゲーション バーのカスタムロゴの位置が変更された！](https://art-break.net/tech/?p=2690)
+* [SharePoint 2013 左上の製品ロゴを変更する](https://idea.tostring.jp/?p=508)
 
 ## Search Service Application
 
