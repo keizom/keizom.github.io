@@ -1,4 +1,4 @@
-# On-Premises SharePoint
+# SharePoint Server
 
 ## install
 
@@ -82,67 +82,16 @@
 
 * [Office Web Apps で SharePoint上のファイルが開けなくなる SPWOPIProofKey が更新されないことによる](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/720a6d3f-f6f4-492c-9195-23a9fed9a90c/office-web-apps-12391?forum=sharepointsupportteamja)
 
-## Azure Application Gateway
+# Microsoft 365
 
-* [Application Gateway v2 の Key Vault 連携を試してみた - しばやん雑記](https://blog.shibayan.jp/entry/20190428/1556442190)
-* [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
-* [クイック スタート:Azure Application Gateway による Web トラフィックのルーティング - Azure portal](https://docs.microsoft.com/ja-jp/azure/application-gateway/quick-create-portal)
-* [Application Gateway の価格](https://azure.microsoft.com/ja-jp/pricing/details/application-gateway/)
-* [Application Gateway](https://azure.microsoft.com/ja-jp/services/application-gateway/)
-* [Azure Application Gateway の機能](https://docs.microsoft.com/ja-jp/azure/application-gateway/features)
-* [Azure Application Gatewayとは？負荷分散の考え方とWebアプリケーションの負荷分散について解説](https://www.rworks.jp/cloud/azure/azure-column/azure-entry/24604/)
-* [Azure Application Gateway v2 とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview-v2)
-* [Application Gateway 構成の概要](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-overview)
-* [【Azure】 Application Gateway 設定を解説する](https://qiita.com/hikaru_motomiya/items/d5fd669e3eb3a8491022)
-* [Azure Application Gatewayとは？その概要と機能、メリットについて](https://www.cloud-for-all.com/blog/azure-application-gateway.html)
-* [証明書の設定Azure Application Gateway 新規／更新用](https://www.secomtrust.net/service/pfw/apply/sr/3_2_AZURE_APPGW.html)
-* [Application Gateway のアクセスログについて](https://cptechweb.teldevice.co.jp/hc/ja/articles/360063918373-Application-Gateway-%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
-* [Webシステムの負荷分散に力を発揮！Azure Application Gatewayの機能とは？](https://business.ntt-east.co.jp/content/cloudsolution/column-118.html)
-* [Azure Application Gateway のドキュメント](https://docs.microsoft.com/ja-jp/azure/application-gateway/)
-* [Azure Application Gatewayのリスナー証明書を自動で更新する](https://ascii.jp/elem/000/004/052/4052122/)
-* [Azure Application Gateway(アプリケーションゲートウェイ)とは](https://www.acrovision.jp/service/azure/?p=467)
-* [Azure Application Gatewayでリダイレクトを設定する](https://tech-blog.cloud-config.jp/2020-12-12-application-gateway-redirect/)
-* [Azure Application Gatewayを使用したインバウンドトラフィックの検査](https://cloudone.trendmicro.com/docs/jp/network-security/Azure_Deployment5_VMSS_AGW/)
-* [Webサーバー向けロードバランサー「Azure Application Gateway」とは？](https://www.cloudou.net/application-gateway/appg001/)
-* [Application Gateway - App Service 間のリダイレクトの問題](https://jpaztech.github.io/blog/network/appgw-appservice-redirectissue/)
-* [Azure Application Gateway の整理](https://blog.memobog.net/2018/11/11/application-gateway-201811/)
+## Office 365 PowerShell
 
-## SQL Managed Instance
-
-* [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
-* [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure)
-* [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［後編］――Azure SQL DatabaseとAzure SQL Database Managed Instanceの違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
-* [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
-* [機能の比較: Azure SQL Database と Azure SQL Managed Instance](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/features-comparison)
-* [移行の概要: SQL Server から Azure SQL Managed Instance](https://docs.microsoft.com/ja-jp/azure/azure-sql/migration-guides/managed-instance/sql-server-to-managed-instance-overview)
-* [Azure Active Directory 認証を使用する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-overview)
-* [Azure SQL Database と SQL Managed Instance のセキュリティ機能の概要](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/security-overview)
-* [Azure SQL Managed Instance とは](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview)
-* [クイック スタート: Azure SQL Managed Instance を作成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/instance-create-quickstart)
-* [SharePoint Server でユーザー認証方法を計画する](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/plan-user-authentication)
-* [チュートリアル:Windows VM のシステム割り当てマネージド ID を使用して Azure SQL にアクセスする](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/tutorial-windows-vm-access-sql)
-* [データベース接続アップグレード用の SharePoint Server 2016 ファームを作成する](https://docs.microsoft.com/ja-jp/sharepoint/upgrade-and-update/create-the-sharepoint-server-2016-farm-for-a-database-attach-upgrade)
-
-* [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
-* [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
-
-## Azure Infomation Protection
-
-* [はじめての データの保護: Azure Information Protection  日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
-* [AIP試してみた](https://www.qes.co.jp/media/azure/a155)
-* [Final reminder to migrate from Azure Information Protection classic client to unified labeling](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/final-reminder-to-migrate-from-azure-information-protection/ba-p/2731734)
-* [Azure Information Protection requirements](https://docs.microsoft.com/en-us/azure/information-protection/requirements#applications)
-* [Azure Information Protection と AD RMS の比較](https://docs.microsoft.com/ja-jp/azure/information-protection/compare-on-premise)
-* [Officeデータの情報漏洩対策に大活躍！Azure Information Protectionとは？](https://www.jbsvc.co.jp/useful/windows10/what-is-AIP.html)
-* [Azure Information Protection とは](https://docs.microsoft.com/ja-jp/azure/information-protection/what-is-information-protection)
-* [新しい情報保護機能「AIP」](https://licensecounter.jp/office365/blog/2017/03/info-AzureInformationProtection.html)
-* [ファイルの保護・暗号化](https://ci.iii.kyushu-u.ac.jp/365/aip/)
-* [自分に合った保護と共有](https://track.azurerms.com/#/landing)
-* [Azure Information Protectionを紹介したかったがMicrosoft Information Protectionに統合されてたのでそのご紹介 ①](https://www.challenge-cf.jp/post/azure-information-protection%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%8Cmicrosoft-information-protection%E3%81%AB%E7%B5%B1%E5%90%88%E3%81%95%E3%82%8C%E3%81%A6%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9D%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B)
-* [Azure Information Protection でファイルのアクセス権はく奪（プレビュー）](https://live-style.jp/aip-deprivation/)
-* [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/information-protection/infoprotect-quick-start-tutorial)
-* [Windows Information Protection を正しく知る：Microsoft 365で実現するクラウド時代のセキュリティ（4） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1906/28/news022.html)
-* [Windows Information Protection を正しく知る　～設定編～：Microsoft 365で実現するクラウド時代のセキュリティ（5） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1907/24/news011.html#cxrecs_s)
+* [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
+* [Office 365 の PowerShell 運用を PaaS 化してみる](https://sprestaurant.hatenablog.com/entry/2019/07/07/011839)
+* [多要素認証 (MFA) の Office 365 に PowerShell で接続する方法まとめ](https://blog.kazuakix.jp/entry/2018/04/16/221554)
+* [【SPO】CSOM と SharePoint Online 管理シェルを PowerShell でパッケージ管理](https://www.samurainote.com/entry/2019/02/23/222546)
+* [単一の PowerShell ウィンドウですべての Microsoft 365 サービスに接続する](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/connect-to-all-microsoft-365-services-in-a-single-windows-powershell-window?view=o365-worldwide)
+* [PowerShell を使用して Microsoft 365 サービスへのアクセスを無効にする](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/disable-access-to-services-with-microsoft-365-powershell?view=o365-worldwide)
 
 ## Developer Subscription
 
@@ -150,12 +99,6 @@
 * [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
 * [Office 365 評価版サイト申し込み](https://www.microsoft.com/ja-jp/microsoft-365/enterprise/compare-office-365-plans)
 * [Microsoft 365 Enterprise のテスト ラボ ガイド - Microsoft 365 Enterprise  Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/m365-enterprise-test-lab-guides?view=o365-worldwide)
-
-# Microsoft 365
-
-## PowerShell
-
-* [多要素認証 (MFA) の Office 365 に PowerShell で接続する方法まとめ](https://blog.kazuakix.jp/entry/2018/04/16/221554)
 
 ## 帯域
 
@@ -176,6 +119,9 @@
 * [Microsoft Threat Protection 評価ガイド Microsoft Defender ATP 攻撃検証編](https://www.microsoft.com/cms/api/am/binary/RE4zj4N)
 * [できるMicrosoft 365 E5 Security Compliance 管理編](https://aka.ms/dekiru-book_M365-E5-Security_kanri)
 * [できるMicrosoft 365 E5 Security Compliance 活用編](https://aka.ms/dekiru-book_M365-E5-Security_katuyo)
+* [はじめての クラウド ストレージの保護: Office 365 Advanced Threat Protection  日本マイクロソフト](https://m.youtube.com/watch?v=Ze_QlJf5ET4)
+* [はじめての クラウドの保護: Microsoft Cloud App Security  日本マイクロソフト](https://m.youtube.com/watch?v=PbgQpWeduMY)
+powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## Audit Log
 
@@ -247,6 +193,207 @@
 * [SharePointでカスケードドロップダウンの実装サンプル](http://katoj.hatenablog.com/entry/2015/06/24/134250)
 * [カスケード分類作ってみた！](http://sharepointyuzuki.blog54.fc2.com/blog-entry-16.html)
 * [SharePoint 基本機能内で管理されたメタデータ以外で2階層のカスケード分類を実現させる方法](https://art-break.net/tech/?p=478)
+* [Youtube Cascading of Lookup Dropdown Fields on SharePoint 2013 and Office 365](https://www.youtube.com/watch?v=V_Jvv0arEm8)
+
+## SharePoint REST API
+
+* [SharepointのREST APIのリファレンスが不親切だったので簡潔に(?)書いてみる。](https://blog.freedom-man.com/sharepoint_restapi)
+* [SharePoint REST エンドポイントを使用して基本的な操作を完了する](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/complete-basic-operations-using-sharepoint-rest-endpoints)
+* [SharePointのREST APIを使ってファイルをダウンロードする（バッチ処理）](https://ichiro-kun.com/post/509/)
+* [Using REST API For Selecting, Filtering, Sorting And Pagination in SharePoint List](https://peakfinders.blogspot.com/2016/09/using-rest-api-for-selecting-filtering.html?zx=f577555eebd8d3f6)
+* [Office 365 API 入門](https://tsmatz.wordpress.com/2014/06/02/office-365-api/)
+* [Cascading of Lookup Dropdown Fields on SharePoint 2013 and Office 365](https://www.c-sharpcorner.com/article/cascading-of-lookup-dropdown-fields-on-sharepoint-2013-and-o/)
+* [Cascading Drop Down Lists in SharePoint / Office 365 using REST](http://www.markrackley.net/2014/05/20/cascading-drop-down-lists-in-sharepoint-office-365-using-rest/)
+* [File Upload to SharePoint 2013 using REST API](https://stackoverflow.com/questions/25393075/file-upload-to-sharepoint-2013-using-rest-api)
+* [SharePoint Online にアプリからアクセスする](https://blog.azure.moe/2017/01/25/sharepoint-online-%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8B%E3%82%89%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%99%E3%82%8B/)
+
+## SharePoint JavaScript
+
+* [Javascript and Working with the SharePoint 2013 People Picker](https://jasonscript.wordpress.com/2013/08/07/javascript-and-working-with-the-sharepoint-2013-people-picker/)
+* [SharePoint のリスト列の情報を JavaScript で確認する - Qiita](https://qiita.com/miyamiya/items/6e689f4221ab6c0a711d)
+* [SharePoint リストにアイテムを一括登録する ($batchの活用) - MoreBeerMorePower](https://mofumofupower.hatenablog.com/entry/sharepoint_batching)
+* [SharePoint のリスト列の情報を JavaScript で確認する - Qiita](https://qiita.com/miyamiya/items/6e689f4221ab6c0a711d)
+* [Top 51 SharePoint JavaScript Examples (Download FREE PDF) - SPGuides](https://www.spguides.com/jsom-sharepoint/)
+* [GitHub - pnp/sp-starter-kit: Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.](https://github.com/pnp/sp-starter-kit)
+* [SharePoint JSOM を使用したアイテムの CRUD 方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/sharepoint-jsom-crud)
+* [方法 JavaScript を使用して、リスト アイテムの作成、更新、削除を行う](https://docs.microsoft.com/ja-jp/previous-versions/office/developer/sharepoint-2010/hh185011(v=office.14))
+* [SharePoint online client-side-people](http://onlinecoder.blogspot.com/2018/01/sharepoint-online-client-side-people.html)
+* [SharePoint Tabbed Web Parts HillbillyTabs2.0 ? MarkRackley.net](https://www.markrackley.net/2014/11/25/sharepoint-tabbed-web-partshillbillytabs2-0/)
+* [SharePoint への JavaScript の埋め込み](https://docs.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/embedding-javascript-into-sharepoint)
+* [SharePoint の JavaScript ライブラリ コードを使用して基本的な操作を完了する](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/complete-basic-operations-using-javascript-library-code-in-sharepoint)
+
+## CSOM
+
+* [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
+* [Create Update Delete Or Retrieve SharePoint Site Collections Using CSOM PowerShell](https://www.c-sharpcorner.com/article/create-update-delete-or-retrieve-sharepoint-site-collectio/)
+* [Creating SharePoint Site Collection through PowerShell CSOM](http://alexbrassington.com/2014/08/20/creating-sharepoint-site-collection-through-powershell-csom/)
+* [Office 365グループの一覧とメンバーを取得するPowerShellスクリプト(多要素認証対応)](https://windowsadmin.ebisuda.com/2017/12/19/office-365%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E4%B8%80%E8%A6%A7%E3%81%A8%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8Bpowershell%E3%82%B9%E3%82%AF%E3%83%AA/)
+* [ディスカッション掲示板のデータ移行 サンプル スクリプトについて](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/1250-2)
+* [SharePoint Online: Start Workflow on All Items in a List using PowerShell - SharePoint Diary](https://www.sharepointdiary.com/2018/05/sharepoint-online-start-workflow-using-powershell.html)
+* [Bulk Upload Files to SharePoint](https://docs.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/bulk-upload-documents-sample-app-for-sharepoint)
+* [PnP/Samples/Core.LargeFileUpload/](https://github.com/pnp/PnP/tree/master/Samples/Core.LargeFileUpload)
+
+## PnP SharePoint
+
+* [Tree view navigation using PnP Treeview control in the SharePoint Framework (SPFx) web part – RAVICHANDRAN BLOG](https://ravichandran.blog/2020/05/14/tree-view-navigation-using-pnp-treeview-control-in-the-sharepoint-framework-spfx-web-part/)
+
+## SharePoint Tools
+
+* [SharePoint Designer 2013](https://www.microsoft.com/ja-jp/download/details.aspx?id=35491)
+* [Microsoft SharePoint Designer 2013 (KB2817441) 64 ビット版 Service Pack 1](https://www.microsoft.com/ja-jp/download/details.aspx?id=42009)
+* [Microsoft SharePoint Designer 2010 (64 ビット版)](https://www.microsoft.com/ja-jp/download/details.aspx?id=24309)
+* [SharePoint Client Browser (SPCB)](https://github.com/bramdejager/spcb)
+* [CAML Query Builder for SharePoint 2013/2016/Online](https://www.enjoysharepoint.com/caml-query-builder-in-sharepoint-2013-online/)
+* [Download, Install and Use CAML Query Helper in SharePoint Online/2013/2010/2007](https://www.enjoysharepoint.com/sharepoint-caml-query-helper/)
+* [bandrben/SPCAMLQueryHelperOnline](https://github.com/bandrben/SPCAMLQueryHelperOnline)
+* [ULS Viewer](https://www.microsoft.com/en-in/download/details.aspx?id=44020)
+* [hasankhan/SharePointLogViewer](https://github.com/hasankhan/SharePointLogViewer)
+* [CAML Query Builder](https://www.u2u.be/software)
+* [PnP-Tools/Solutions/SharePoint.Search.QueryTool/](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.Search.QueryTool)
+* [CAML Designer](https://www.biwug.be/resources)
+* [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd)
+
+## SharePoint Design Sample
+
+* [Design beautiful and performant sites, pages, and web parts with SharePoint in Office 365.](https://spdesign.azurewebsites.net/)
+* [SharePoint look book](https://sharepointlookbook.azurewebsites.net/)
+* [SharePoint社内ポータルサイト構築例 ～ コミュニケーションサイト編 ～](https://www.micknabewata.com/entry/sharepoint/communicationSiteTemplate)
+
+## spguides.com
+
+* [How to Activate Workflows can use app permissions Feature programmatically using CSOM in SharePoint - SPGuides](https://www.spguides.com/activate-workflows-can-use-app-permissions/)
+* [Top 51 SharePoint JavaScript Examples (Download FREE PDF) - SPGuides](https://www.spguides.com/jsom-sharepoint/)
+* [How to use PowerShell in SharePoint Online/2016/2013 - SPGuides](https://www.spguides.com/powershell-sharepoint/)
+* [How to send email using PowerShell in Office 365 - SPGuides](https://www.spguides.com/send-email-powershell-office-365/)
+* [Various SharePoint developer tools](https://www.spguides.com/sharepoint-developer-tools/)
+* [How to upload documents to SharePoint document library programmatically with metadata](https://www.spguides.com/upload-file-to-sharepoint-document-library-programmatically/)
+* [How to Activate Workflows can use app permissions Feature programmatically using CSOM in SharePoint - SPGuides](https://www.spguides.com/activate-workflows-can-use-app-permissions/)
+* [CSOM SharePoint Online – Detailed Guide](https://www.spguides.com/sharepoint-csom-tutorial/)
+
+## enjoysharepoint.com
+
+* [50+ SharePoint server object model examples](https://www.enjoysharepoint.com/sharepoint-server-object-model-examples/)
+* [Add lookup column to SharePoint list programmatically using CSOMAdd lookup column to SharePoint list programmatically using CSOM](https://www.enjoysharepoint.com/add-lookup-column-to-sharepoint-list-programmatically/)
+* [Bulk Export SharePoint Files using PowerShell](https://www.enjoysharepoint.com/bulk-export-sharepoint-files-using-powershell/)
+* [CAML Query Builder for SharePoint 2013/2016/Online](https://www.enjoysharepoint.com/caml-query-builder-in-sharepoint-2013-online/)
+* [Check if user belongs to SharePoint group using CSOM](https://www.enjoysharepoint.com/check-if-user-belongs-to-sharepoint-group-using-csom/)
+* [Content type Examples using CSOM in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/sharepoint-csom-content-type-examples/)
+* [Create Azure WebJobs for SharePoint Online and Deploy to Microsoft Azure](https://www.enjoysharepoint.com/create-azure-webjobs-for-sharepoint-online/?sfns=mo)
+* [Create client side People Picker control in SharePoint Online Office 365](https://www.enjoysharepoint.com/how-to-use-client-side-people-picker-control-in-sharepoint-online-office-365/)
+* [Create Site Collection and Subsite in SharePoint Online using PowerShell](https://www.enjoysharepoint.com/create-site-collection-sharepoint-powershell/)
+* [Create/Rename SharePoint group using PowerShell and Browser](https://www.enjoysharepoint.com/sharepoint-group/)
+* [Deploy SharePoint 2013 designer workflow to different site in SharePoint 2013](https://www.enjoysharepoint.com/deploy-sharepoint-2013-designer-workflow-to-different-site-in-sharepoint-2013/)
+* [Display modal pop up in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/display-modal-pop-up-in-sharepoint/?sfns=mo)
+* [Enable breadcrumb and Implement Classic Breadcrumb in SharePoint 2013](https://www.enjoysharepoint.com/enable-breadcrumb-and-implement-classic-breadcrumb-in-sharepoint-2013/)
+* [Enjoy SharePointGet all subsites from a site collection in SharePoint Online using](https://www.enjoysharepoint.com/get-all-subsites-in-sharepoint-online-csom/)
+* [Get all subsites from a site collection in SharePoint Online using CSOM](https://www.enjoysharepoint.com/get-all-subsites-in-sharepoint-online-csom/)
+* [Get all subsites from a site collection in SharePoint Online using](https://www.enjoysharepoint.com/get-all-subsites-in-sharepoint-online-csom/)
+* [Get list items using Rest API in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/get-sharepoint-list-items-using-rest-api)
+* [How to display more than 3 views in SharePoint 2013/2016/Online list or document library](https://www.enjoysharepoint.com/sharepoint-list-display-more-than-3-views/?sfns=mo)
+* [How to get SharePoint Timer Job History using PowerShell](https://www.enjoysharepoint.com/how-to-get-sharepoint-timer-job-history-using-powershell/?sfns=mo)
+* [How to rename SharePoint 2013 group using browser and PowerShell?](https://www.enjoysharepoint.com/how-to-rename-sharepoint-2013-group-using-browser-and-powershell/)
+* [Microsoft Flow Send approval email when a new item is added in SharePoint Online Office 365](https://www.enjoysharepoint.com/microsoft-flow-send-approval-email/)
+* [PowerShell out gridview in SharePoint 2013/2016](https://www.enjoysharepoint.com/powershell-out-gridview/)
+* [Setup SharePoint Framework (SPFx) development environment in Windows 10 workstation](https://www.enjoysharepoint.com/sharepoint-framework-development-setup/)
+* [SharePoint 2013/2016/Online List Column Validation Examples](https://www.enjoysharepoint.com/sharepoint-2013-list-column-validation-examples/)
+* [SharePoint list operations using rest api](https://www.enjoysharepoint.com/sharepoint-list-operations-using-rest-api/)
+* [SharePoint modern list column formatting examples](https://www.enjoysharepoint.com/sharepoint-modern-list-column-formatting/)
+* [Steps to add items from CSV file to SharePoint Online List using PowerShell in CSOM](https://www.enjoysharepoint.com/steps-to-add-items-from-csv-file-to-sharepoint-online-list-using-powershell-in-csom/)
+* [Upload documents to SharePoint document library using PowerShell Remotely](https://www.enjoysharepoint.com/upload-document-using-powershell-remotely/)
+* [Validate rich textbox using jQuery in SharePoint 2013/2016](https://www.enjoysharepoint.com/sharepoint-2013-enhanced-or-rich-textbox-validation-using-jquery/?sfns=mo)
+* [What is people picker and how to HTML Div as a People picker control in SharePoint Online?](https://www.enjoysharepoint.com/client-side-people-picker-in-sharepoint-online-using-javascript/)
+
+## SharePoint FrameWork
+
+* [SharePoint Framework の概要 (SPFx)  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/spfx/sharepoint-framework-overview)
+* [SharePoint Framework 開発環境の設定  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/spfx/set-up-your-development-environment)
+* [SharePoint Framework 開発入門 まとめ - SharePoint Developer](https://sharepoint.orivers.jp/sharepoint-framework-dev)
+* [SharePoint Framework をはじめよう #spfx](https://www.slideshare.net/hirofumi_ota/sharepoint-framework-spfx)
+* [SharePoint Framework を触ってみた](https://www.slideshare.net/KosukeKuromiya/20170211-jpsps-kuromiyashare)
+* [【SharePoint Online】SPFxでアプリを作る その１ー  ほげふがな日常](https://www.hogehoge-note.com/2019/08/24/post-309/)
+* [【初心者向け】SharePoint Framework (SPFx) 入門 - 鍋綿ブログ](https://www.micknabewata.com/entry/sharepoint/spfx/newbee)
+* [Community Demo - Using Matomo Analytics in modern SharePoint with SPFx for page analytics](https://www.youtube.com/watch?v=qg-bfs11U-A)
+* [Getting started on creating SharePoint Framework list view command sets](https://www.youtube.com/watch?v=cyuzaycjxXs)
+* [MsGraphSpFxThangu](https://www.youtube.com/watch?v=AKftsTLQBGo)
+* [Office365 その5 開発用サイトをSharePoint Online上に作成する](http://www.rarpa.net/?p=5617)
+* [SharePoint Framework (SPFx) Extensions Application Customizer Example - SharePointSky](https://www.sharepointsky.com/spfx-application-customizer/)
+* [SharePoint Framework (SPFx) Extensions Application Customizer Example - SPGuides](https://www.spguides.com/spfx-application-customizer/)
+* [SharePoint Framework での SharePoint REST API 呼び出し (Promise 編)](https://sharepoint.orivers.jp/article/10389)
+* [SharePoint Framework におけるチーム ベースの開発  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/spfx/team-based-development-on-sharepoint-framework)
+* [SharePoint Framework の最初の拡張機能を構築する (Hello World パート 1)  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension)
+* [SharePoint Framework を使ってメール送信フォームを作ってみる - からめもぶろぐ。](https://zenn.dev/karamem0/articles/2020_02_09_170000)
+* [SharePoint Frameworkの記事一覧  ほげふがな日常](https://www.hogehoge-note.com/2019/09/07/post-372/)
+* [SharePoint のクライアント側の最初の Web パーツを作成する (Hello World パート 1)  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
+* [SPFxCalendar 1.5.3 を公開しました - からめもぶろぐ。](https://zenn.dev/karamem0/articles/2020_10_15_180000)
+* [Updated SharePoint Framework developer training package (June 2019)! - Microsoft 365 Developer Blog](https://developer.microsoft.com/en-us/sharepoint/blogs/updated-sharepoint-framework-developer-training-package-june-2019/)
+
+## Fiddler
+
+* [Fiddler を使って HTTPS トラフィックを確認する  idea.toString();](https://idea.tostring.jp/?p=1077)
+
+# Azure
+
+## Azure Application Gateway
+
+* [Application Gateway v2 の Key Vault 連携を試してみた - しばやん雑記](https://blog.shibayan.jp/entry/20190428/1556442190)
+* [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
+* [クイック スタート:Azure Application Gateway による Web トラフィックのルーティング - Azure portal](https://docs.microsoft.com/ja-jp/azure/application-gateway/quick-create-portal)
+* [Application Gateway の価格](https://azure.microsoft.com/ja-jp/pricing/details/application-gateway/)
+* [Application Gateway](https://azure.microsoft.com/ja-jp/services/application-gateway/)
+* [Azure Application Gateway の機能](https://docs.microsoft.com/ja-jp/azure/application-gateway/features)
+* [Azure Application Gatewayとは？負荷分散の考え方とWebアプリケーションの負荷分散について解説](https://www.rworks.jp/cloud/azure/azure-column/azure-entry/24604/)
+* [Azure Application Gateway v2 とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview-v2)
+* [Application Gateway 構成の概要](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-overview)
+* [【Azure】 Application Gateway 設定を解説する](https://qiita.com/hikaru_motomiya/items/d5fd669e3eb3a8491022)
+* [Azure Application Gatewayとは？その概要と機能、メリットについて](https://www.cloud-for-all.com/blog/azure-application-gateway.html)
+* [証明書の設定Azure Application Gateway 新規／更新用](https://www.secomtrust.net/service/pfw/apply/sr/3_2_AZURE_APPGW.html)
+* [Application Gateway のアクセスログについて](https://cptechweb.teldevice.co.jp/hc/ja/articles/360063918373-Application-Gateway-%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+* [Webシステムの負荷分散に力を発揮！Azure Application Gatewayの機能とは？](https://business.ntt-east.co.jp/content/cloudsolution/column-118.html)
+* [Azure Application Gateway のドキュメント](https://docs.microsoft.com/ja-jp/azure/application-gateway/)
+* [Azure Application Gatewayのリスナー証明書を自動で更新する](https://ascii.jp/elem/000/004/052/4052122/)
+* [Azure Application Gateway(アプリケーションゲートウェイ)とは](https://www.acrovision.jp/service/azure/?p=467)
+* [Azure Application Gatewayでリダイレクトを設定する](https://tech-blog.cloud-config.jp/2020-12-12-application-gateway-redirect/)
+* [Azure Application Gatewayを使用したインバウンドトラフィックの検査](https://cloudone.trendmicro.com/docs/jp/network-security/Azure_Deployment5_VMSS_AGW/)
+* [Webサーバー向けロードバランサー「Azure Application Gateway」とは？](https://www.cloudou.net/application-gateway/appg001/)
+* [Application Gateway - App Service 間のリダイレクトの問題](https://jpaztech.github.io/blog/network/appgw-appservice-redirectissue/)
+* [Azure Application Gateway の整理](https://blog.memobog.net/2018/11/11/application-gateway-201811/)
+
+## SQL Managed Instance
+
+* [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
+* [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure)
+* [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［後編］――Azure SQL DatabaseとAzure SQL Database Managed Instanceの違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
+* [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
+* [機能の比較: Azure SQL Database と Azure SQL Managed Instance](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/features-comparison)
+* [移行の概要: SQL Server から Azure SQL Managed Instance](https://docs.microsoft.com/ja-jp/azure/azure-sql/migration-guides/managed-instance/sql-server-to-managed-instance-overview)
+* [Azure Active Directory 認証を使用する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-overview)
+* [Azure SQL Database と SQL Managed Instance のセキュリティ機能の概要](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/security-overview)
+* [Azure SQL Managed Instance とは](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview)
+* [クイック スタート: Azure SQL Managed Instance を作成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/instance-create-quickstart)
+* [SharePoint Server でユーザー認証方法を計画する](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/plan-user-authentication)
+* [チュートリアル:Windows VM のシステム割り当てマネージド ID を使用して Azure SQL にアクセスする](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/tutorial-windows-vm-access-sql)
+* [データベース接続アップグレード用の SharePoint Server 2016 ファームを作成する](https://docs.microsoft.com/ja-jp/sharepoint/upgrade-and-update/create-the-sharepoint-server-2016-farm-for-a-database-attach-upgrade)
+
+* [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
+* [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
+
+## Azure Infomation Protection
+
+* [はじめての データの保護: Azure Information Protection  日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
+* [AIP試してみた](https://www.qes.co.jp/media/azure/a155)
+* [Final reminder to migrate from Azure Information Protection classic client to unified labeling](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/final-reminder-to-migrate-from-azure-information-protection/ba-p/2731734)
+* [Azure Information Protection requirements](https://docs.microsoft.com/en-us/azure/information-protection/requirements#applications)
+* [Azure Information Protection と AD RMS の比較](https://docs.microsoft.com/ja-jp/azure/information-protection/compare-on-premise)
+* [Officeデータの情報漏洩対策に大活躍！Azure Information Protectionとは？](https://www.jbsvc.co.jp/useful/windows10/what-is-AIP.html)
+* [Azure Information Protection とは](https://docs.microsoft.com/ja-jp/azure/information-protection/what-is-information-protection)
+* [新しい情報保護機能「AIP」](https://licensecounter.jp/office365/blog/2017/03/info-AzureInformationProtection.html)
+* [ファイルの保護・暗号化](https://ci.iii.kyushu-u.ac.jp/365/aip/)
+* [自分に合った保護と共有](https://track.azurerms.com/#/landing)
+* [Azure Information Protectionを紹介したかったがMicrosoft Information Protectionに統合されてたのでそのご紹介 ①](https://www.challenge-cf.jp/post/azure-information-protection%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%8Cmicrosoft-information-protection%E3%81%AB%E7%B5%B1%E5%90%88%E3%81%95%E3%82%8C%E3%81%A6%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9D%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B)
+* [Azure Information Protection でファイルのアクセス権はく奪（プレビュー）](https://live-style.jp/aip-deprivation/)
+* [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/information-protection/infoprotect-quick-start-tutorial)
+* [Windows Information Protection を正しく知る：Microsoft 365で実現するクラウド時代のセキュリティ（4） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1906/28/news022.html)
+* [Windows Information Protection を正しく知る　～設定編～：Microsoft 365で実現するクラウド時代のセキュリティ（5） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1907/24/news011.html#cxrecs_s)
 
 # サイト
 
