@@ -1,8 +1,6 @@
-# Private Bookmark
+# On-Premises SharePoint
 
-## On-Premises SharePoint
-
-### install
+## install
 
 * [SharePoint 2016: Step By Step Installation of Workflow Manager](https://social.technet.microsoft.com/wiki/contents/articles/34407.sharepoint-2016-step-by-step-installation-of-workflow-manager.aspx)
 * [ネットワーク共有から SharePoint Server の必須コンポーネントをインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-prerequisites-from-network-share)
@@ -10,7 +8,7 @@
 * [SharePoint Server 2016 のオフライン インストール](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/sharepoint-server-2016-%E3%81%AE%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 * [単一サーバーに SharePoint Server 2016 または SharePoint Server 2019 をインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-sharepoint-server-2016-on-one-server)
 
-### SharePoint 高可用性構成
+## SharePoint 高可用性構成
 
 * [Azure での高可用性 SharePoint Server 2016 ファームの実行](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/sharepoint/)
 * [高可用性 SharePoint ファーム](https://docs.microsoft.com/ja-jp/azure/architecture/solution-ideas/articles/highly-available-sharepoint-farm)
@@ -18,7 +16,7 @@
 * [Azure における SharePoint 2013 開発/テスト環境](https://docs.microsoft.com/ja-jp/sharepoint/administration/sharepoint-2013-dev-test-environments-in-azure)
 * [SharePoint Server 2016 および 2019 を使用した Azure SQL Managed Instance のデプロイ](https://docs.microsoft.com/ja-jp/sharepoint/administration/deploy-azure-sql-managed-instance-with-sharepoint-servers-2016-2019)
 
-### 代替アクセスマッピング
+## 代替アクセスマッピング
 
 * [SharePoint Server の代替アクセス マッピングを構成する](https://docs.microsoft.com/ja-jp/sharepoint/administration/configure-alternate-access-mappings)
 * [SharePoint Server の代替アクセス マッピングを計画する](https://docs.microsoft.com/ja-jp/sharepoint/administration/plan-alternate-access-mappings)
@@ -26,12 +24,12 @@
 * [パスベース および ホスト名付きサイト コレクションの構築](https://www.slideshare.net/aiyamasaki528/path-based-and-host-named-site-collection)
 * [代替アクセス マッピングを理解する](https://docs.microsoft.com/en-us/archive/blogs/sharepoint_support/4401)
 
-### サーバー自身からの接続方法
+## サーバー自身からの接続方法
 
 * [Windows Authentication Errors on local Servers (Loopback Protection)](https://webconnection.west-wind.com/docs/_4gi0ql5jb.htm)
 * [ホストヘッダーを利用する場合の注意事項](https://shanqiai.weblogs.jp/sharepoint_technical_note/2010/05/%E3%83%9B%E3%82%B9%E3%83%88%E3%83%98%E3%83%83%E3%83%80%E3%83%BC%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.html)
 
-### Kerberos
+## Kerberos
 
 * [Enabling Kerberos on SharePoint](https://thesharepointfarm.com/2017/10/enabling-kerberos-sharepoint/)
 
@@ -41,7 +39,7 @@
 
 * [SharePoint Server で Kerberos 認証を計画する](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/kerberos-authentication-planning)
 
-### SuitBar
+## SuitBar
 
 * [SharePoint 2016 How to Change SuitBar’s Text PowerShell - TechNet Articles - United States (English) - TechNet Wiki](https://social.technet.microsoft.com/wiki/contents/articles/34202.sharepoint-2016-how-to-change-suitbars-text-powershell.aspx)
 * [既定のサーバー リボンのカスタマイズの場所  Microsoft Docs](https://docs.microsoft.com/ja-jp/previous-versions/office/developer/sharepoint-2010/ee537543(v=office.14))
@@ -51,13 +49,13 @@
 * [Office 365 ナビゲーション バーのカスタムロゴの位置が変更された！](https://art-break.net/tech/?p=2690)
 * [SharePoint 2013 左上の製品ロゴを変更する](https://idea.tostring.jp/?p=508)
 
-### Search Service Application
+## Search Service Application
 
 * [Remove a SharePoint Search Server from the Search Service Application](https://microscoff.com/2018/05/24/remove-sharepoint-search-server-search-service-application/)
 * [How to remove the Search Topology (Removing Existing SSA with PowerShell)](https://collab365.com/removing-search-topology-removing-existing-ssa/)
 * [How To Configure Search Service Application Using PowerShell](https://www.c-sharpcorner.com/article/sharepoint-2016-how-to-configure-search-service-application-using-powershell/)
 
-### SSL
+## SSL
 
 * [SharePoint 2013 のサイトを SSL 通信（https）でもアクセスできるよう構成する](https://sharepointmaniacs.com/archives/4416)
 * [SharePoint Server 2016 での TLS 1.1 および TLS 1.2 のサポートの有効化](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/enable-tls-1-1-and-tls-1-2-support-in-sharepoint-server-2016)
@@ -67,7 +65,7 @@
 * [SharePoint Server 2016 での TLS 1.1 および TLS 1.2 のサポートの有効化](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/enable-tls-1-1-and-tls-1-2-support-in-sharepoint-server-2016)
 * [SharePoint 2013 で TLS と SSL のサポートを有効にする](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/enable-tls-and-ssl-support-in-sharepoint-2013)
 
-### Distributed Cache
+## Distributed Cache
 
 * [Distributed cache service is not enabled in this deployment (SharePoint Server)](https://docs.microsoft.com/en-us/sharepoint/technical-reference/distributed-cache-service-is-not-enabled-in-this-deployment)
 * [Distributed Cache Host error](https://social.technet.microsoft.com/Forums/en-US/35f8fe49-7e4a-4d3e-bb65-ad17b723d8d8/distributed-cache-host-error?forum=SP2016)
@@ -76,15 +74,15 @@
 * [cacheHostInfo is null when adding a 2nd Distributed Cache](https://social.technet.microsoft.com/Forums/windows/en-US/1a875aa8-b26d-43bd-af67-87d6b24d7ed7/cachehostinfo-is-null-when-adding-a-2nd-distributed-cache?forum=SP2016)
 * [Convert a SharePoint 2016 front-end to a front-end with Distributed Cache](https://blog.kuppens-switsers.net/sharepoint/convert-sharepoint-2016-front-end-to-front-end-with-distributed-cache/)
 
-### WorkFlow
+## WorkFlow
 
 * [WorkflowStatus Enum](https://docs.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.workflowservices.workflowstatus?view=sharepoint-server)
 
-### Office Web Apps
+## Office Web Apps
 
 * [Office Web Apps で SharePoint上のファイルが開けなくなる SPWOPIProofKey が更新されないことによる](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/720a6d3f-f6f4-492c-9195-23a9fed9a90c/office-web-apps-12391?forum=sharepointsupportteamja)
 
-### Azure Application Gateway
+## Azure Application Gateway
 
 * [Application Gateway v2 の Key Vault 連携を試してみた - しばやん雑記](https://blog.shibayan.jp/entry/20190428/1556442190)
 * [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
@@ -109,7 +107,7 @@
 * [Application Gateway - App Service 間のリダイレクトの問題](https://jpaztech.github.io/blog/network/appgw-appservice-redirectissue/)
 * [Azure Application Gateway の整理](https://blog.memobog.net/2018/11/11/application-gateway-201811/)
 
-### SQL Managed Instance
+## SQL Managed Instance
 
 * [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
 * [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure)
@@ -128,7 +126,7 @@
 * [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
 * [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
 
-### Azure Infomation Protection
+## Azure Infomation Protection
 
 * [はじめての データの保護: Azure Information Protection  日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
 * [AIP試してみた](https://www.qes.co.jp/media/azure/a155)
@@ -146,23 +144,23 @@
 * [Windows Information Protection を正しく知る：Microsoft 365で実現するクラウド時代のセキュリティ（4） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1906/28/news022.html)
 * [Windows Information Protection を正しく知る　～設定編～：Microsoft 365で実現するクラウド時代のセキュリティ（5） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1907/24/news011.html#cxrecs_s)
 
-### Developer Subscription
+## Developer Subscription
 
 * [Microsoft 365 開発者サンドボックス サブスクリプションの設定](https://docs.microsoft.com/ja-jp/office/developer-program/microsoft-365-developer-program-get-started)
 * [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
 * [Office 365 評価版サイト申し込み](https://www.microsoft.com/ja-jp/microsoft-365/enterprise/compare-office-365-plans)
 * [Microsoft 365 Enterprise のテスト ラボ ガイド - Microsoft 365 Enterprise  Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/m365-enterprise-test-lab-guides?view=o365-worldwide)
 
-## Microsoft 365
+# Microsoft 365
 
-### 帯域
+## 帯域
 
 * [Office365帯域調査してみました。 ? Exceedone Technical Knowledge](https://tech.exceedone.co.jp/office365-generally/office365-band-survey/)
 * [【オンラインセミナー】Office 365 を快適に利用するためのネットワークインフラ10のポイント～疑問はQ&Aで解決～](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-11Nov-16-Online-Seminar-Network-MCW0002364.html)
 * [【オンライン セミナー】 Office 365 の快適な利用に向けた帯域確保、プロキシ・ファイアウォールの運用について](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-02Feb-22-Office-365-and-use-proxy-firewalls-MCW0004275.html)
 * [【オンライン セミナー】 Office 365 を有効活用するためのリソースご紹介](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-01-effective-use-of-Office-365-MCW0004287.html)
 
-### Advanced Threat Protection
+## Advanced Threat Protection
 
 * [Office 365 の ATP (Advanced Threat Protection) を使ってみる - kazuakix の日記](https://blog.kazuakix.jp/entry/2017/12/05/000100)
 * [ATP のアタックシミュレータ - Office 365  Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/security/office-365-security/attack-simulator?view=o365-worldwide)
@@ -171,7 +169,7 @@
 * [Microsoft Threat Protection 評価ガイド Office 365 ATP 攻撃検証編](https://www.microsoft.com/cms/api/am/binary/RE4s8OE)
 * [Microsoft Threat Protection 評価ガイド Microsoft Defender ATP 攻撃検証編](https://www.microsoft.com/cms/api/am/binary/RE4zj4N)
 
-### Audit Log
+## Audit Log
 
 * [セキュリティ運用ソフトウェア「LogStare Collector 2.2」の提供を開始](https://prtimes.jp/main/html/rd/p/000000070.000038758.html)
 * [M365 監査ログ(旧 O365 監査ログ)収集の設定](https://www.secuavail.com/kb/references/ref-220203-01/)
@@ -179,9 +177,9 @@
 * [Export Office 365 User Activity Report to CSV using PowerShell](https://o365reports.com/2021/01/06/export-office-365-user-activity-report-to-csv-using-powershell/)
 * [Retrieve Office 365 Audit logs using PowerShell and store in Azure table for quick retrieval](https://blog.kloud.com.au/2018/12/21/retrieve-office-365-audit-logs-using-powershell-and-store-in-azure-table-for-quick-retrieval/)
 
-## サイト
+# サイト
 
-### Microsoft
+## Microsoft
 
 * [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
 * [Microsoft Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
@@ -197,13 +195,13 @@
 * [Azure Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
 * [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
 
-#### Support
+### Support
 
 * [Microsoft SQL Server Japan Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/?s=SQL+Troubleshooting)
 * [FAQ よくある質問事項について Azure SQL Database](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/faq-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F%E4%BA%8B%E9%A0%85%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-azure-sql-database)
 * [Exchange Team Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)
 
-### Others
+## Others
 
 * [ASCII × FIXER](https://ascii.jp/azure-fixer/)
 
