@@ -498,6 +498,30 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 # Azure
 
+* [Azure環境作ったら最初にやるべきこと 2021年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
+
+## WindowsVirtualDesktop
+
+* [今話題のWindows Virtual Desktopが大型アップデート！](https://licensecounter.jp/azure/blog/trend/windows-virtual-desktop-update.html)
+* [【Windows Virtual Desktopのディープな技術情報を解説】 #1 新しい管理ポータル](https://zine.qiita.com/topics/202010-wvd-1/)
+* [【Windows Virtual Desktopのディープな技術情報を解説】WVDにおけるネットワークセキュリティ - Qiita Zine](https://zine.qiita.com/topics/202010-wvd-2/)
+* [IT リソース キット Windows Virtual Desktop の使用を開始する](https://clouddamcdnprodep.azureedge.net/gdc/gdcamLwLh/original)
+* [Windows Virtual Desktop Event](https://info.microsoft.com/ww-landing-windows-virtual-desktop.html?ocid=AID3027037_QSG_496862)
+* [Windows Virtual Desktop 最短構築方法解説](https://www.gmo.jp/report/single/?art_id=261)
+
+## Cost
+
+* [CSPのAzure明細をPowerShellで整形する  日々徒然](https://blog.o365mvp.com/2020/04/07/format-csp-reconcile-with-powershell/)
+
+## Azure Red Hat OpenShift
+
+* [Microsoft Azure Red Hat OpenShift (ARO) その１ - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/2021/06/30/Microsoft_Azure_Red_Hat_OpenShift_%28ARO%29_%E3%81%9D%E3%81%AE%EF%BC%91)
+
+## Migration
+
+* [What is Azure Resource Mover?](https://docs.microsoft.com/en-us/azure/resource-mover/overview)
+* [徹底解説！できる Azure Migrate](https://info.microsoft.com/JA-AzureMig-CNTNT-FY20-03Mar-18-Thoroughcommentary-SRGCM3343_01Registration-ForminBody.html)
+
 ## Azure Application Gateway
 
 ### Setting_AAG
