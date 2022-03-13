@@ -186,6 +186,68 @@
 * [Retrieve Office 365 Audit logs using PowerShell and store in Azure table for quick retrieval](https://blog.kloud.com.au/2018/12/21/retrieve-office-365-audit-logs-using-powershell-and-store-in-azure-table-for-quick-retrieval/)
 * [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
 
+## Exchagne Online
+
+* [Office 365 の多要素認証環境で Outlook を接続する方法](https://blog.kazuakix.jp/entry/2018/04/15/223003)
+* [Office 365 でも拡張アドレスを使いたい](https://blog.kazuakix.jp/entry/2018/04/09/213959)
+* [Using Azure Automation to Process Exchange Online Data with PowerShell](https://practical365.com/use-azure-automation-exchange-online/)
+* [PowerShellから全社員に予定を投入したい](https://blog.o365mvp.com/2016/12/07/create_calendar_object_via_powershell/)
+* [Exchange Online のメッセージ追跡ログ](https://jpmessaging.github.io/blog/Exchange%20Online%20%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E8%BF%BD%E8%B7%A1%E3%83%AD%E3%82%B0/)
+* [Outlook in Exchange Online での最新認証の有効化または無効化  Microsoft Docs](https://docs.microsoft.com/ja-jp/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)
+* [PowerShell – Exchange Onlineに証明書を使用して接続する –](https://tech-lab.sios.jp/archives/24523)
+* [Exchange Onlineでの自動メール転送](https://exchange.ebisuda.com/2021/01/exchange-online%e3%81%a7%e3%81%ae%e8%87%aa%e5%8b%95%e3%83%a1%e3%83%bc%e3%83%ab%e8%bb%a2%e9%80%81/)
+* [セキュリティ/コンプライアンス センター PowerShell に接続する](https://docs.microsoft.com/ja-jp/powershell/exchange/connect-to-scc-powershell?view=exchange-ps)
+* [Exchange Online でやってはいけない 10 のこと  Outlook 研究所](https://outlooklab.wordpress.com/2017/01/21/Exchange-Online-でやってはいけない-10-のこと)
+* [Exchange Onlineで.NETのメール自動配信アプリを作成する際のメモ書き](http://naoki0311.hateblo.jp/entry/20121003/1349226713)
+* [よくわかる Exchange Online のメッセージ追跡 ～ Part 1 取得編 ～](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/47c1f9d4-f4eb-4667-a3bc-3dbe8f55e209/1242412367124311236312427-exchange-online?forum=exchangeteamjp)
+
+## SharePoint Online
+
+* [SharePoint home sites: a landing for your organization on the intelligent intranet - Microsoft Tech Community - 621933](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-home-sites-a-landing-for-your-organization-on-the/ba-p/621933)
+* [Updates to SharePoint security, and migration - Microsoft Tech Community - 549585](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/updates-to-sharepoint-security-administration-and-migration/ba-p/549585)
+* [SharePointのテンプレート化方法まとめ - 鍋綿ブログ](https://www.micknabewata.com/entry/sharepoint/template)
+* [外部ユーザーからのアクセス要求を承認してSharePointサイトに権限を付ける作業を自動化してみた - 鍋綿ブログ](https://www.micknabewata.com/entry/sharepoint/user-invite)
+* [SharePoint モダン サイト ～ サイト デザインとサイト スクリプト～](https://www.slideshare.net/aiyamasaki528/sharepoint-91933139)
+* [SharePoint ：Column formatting を使ってみたけど僕には今のところ難しい](https://art-break.net/tech/?p=1523)
+* [SharePoint 「注目リンク」リストをCSSでイイカンジにカスタマイズ](https://art-break.net/tech/?p=918)
+* [SharePoint webhook の概要  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/apis/webhooks/overview-sharepoint-webhooks)
+* [SharePoint のサイト デザインとサイト スクリプトの作成を開始する  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/get-started-create-site-design)
+* [ビューの書式設定を使用して SharePoint をカスタマイズする](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/view-formatting)
+* [SharePoint Online で調整またはブロックを回避する  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+* [SharePoint アドインのコンテキスト トークン OAUTH フロー](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/context-token-oauth-flow-for-sharepoint-add-ins)
+* [GitHub - pnp/sp-starter-kit: Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.](https://github.com/pnp/sp-starter-kit)
+* [SharePoint Online モダン ページのページ ヘッダーを非表示にする  idea.toString();](https://idea.tostring.jp/?p=2512)
+* [Microsoft Flow を使って SharePoint Online に保存されたドキュメントの承認ワークフローを作ってみる](https://idea.tostring.jp/?p=3540)
+* [Power Automate のフローで SharePoint リストアイテムの権限を操作してみる](https://idea.tostring.jp/?p=5427)
+* [SharePoint Online モダンサイトのホームサイトを設定する](https://idea.tostring.jp/?p=5013)
+* [SharePoint ハブ (Hub) を利用しよう](https://shanqiai.weblogs.jp/sharepoint_technical_note/2021/02/sharepoint-hub.html)
+* [待望の新たなモダンな SharePoint サイトテンプレート登場 !](https://shanqiai.weblogs.jp/sharepoint_technical_note/2021/04/modern-site-templates.html)
+* [モダンページのページレイアウトの種類と変更方法](http://sharepoint.orivers.jp/article/10031)
+* [Microsoft 365 SharePoint Modernization Scanner を動かしてみました - （）のブログ](https://mitomoha.hatenablog.com/entry/2020/07/09/012941)
+* [SharePoint Spaces - Mixed Reality for the Enterprise](https://m.youtube.com/watch?feature=youtu.be&v=MW565hMnXLg)
+* [SharePoint アドインのコンテキスト トークン OAUTH フロー](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/context-token-oauth-flow-for-sharepoint-add-ins)
+* [Moving SharePoint Documents to the File System](https://dataqueen.unlimitedviz.com/2013/02/moving-sharepoint-documents-to-the-file-system/)
+* [PowerShell Modules for Managing SharePoint Online](https://docs.microsoft.com/ja-jp/archive/blogs/dawiese/powershell-modules-for-managing-sharepoint-online)
+* [SharePoint Online モダン ページで “ちょっと” カスタマイズできる方法を模索してみる](https://idea.tostring.jp/?p=3986)
+* [新しい Microsoft Stream と SharePoint](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/10/new-microsoft-stream.html)
+* [Find And Extract Sharepoint Documents With SQL – Mikes Data Work](https://mikesdatawork.wordpress.com/2018/05/11/find-and-extract-sharepoint-documents-with-sql/)
+* [How to use PowerShell in SharePoint Online/2016/2013 - SPGuides](https://www.spguides.com/powershell-sharepoint/)
+* [Display modal pop up in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/display-modal-pop-up-in-sharepoint/?sfns=mo)
+* [Useful CSS Classes in SharePoint 2013 – JoshMcCarty.com](https://joshmccarty.com/useful-css-classes-sharepoint-2013/)
+* [既定のサーバー リボンのカスタマイズの場所  Microsoft Docs](https://docs.microsoft.com/ja-jp/previous-versions/office/developer/sharepoint-2010/ee537543(v=office.14))
+* [OneDrive announcements – SharePoint Conference 2019](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-announcements-sharepoint-conference-2019/ba-p/616047)
+* [Updates to SharePoint security, administration, and migration - Microsoft Tech Community - 549585](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/updates-to-sharepoint-security-administration-and-migration/ba-p/549585)
+* [PowerShell – ShareGate Desktop](https://support-desktop.sharegate.com/hc/en-us/categories/204661007-PowerShell)
+* [Find And Extract Sharepoint Documents With SQL ? Mikes Data Work](https://mikesdatawork.wordpress.com/2018/05/11/find-and-extract-sharepoint-documents-with-sql/)
+* [Useful CSS Classes in SharePoint 2013 ? JoshMcCarty.com](https://joshmccarty.com/useful-css-classes-sharepoint-2013/)
+* [SharePoint Spaces - Mixed Reality for the Enterprise](https://m.youtube.com/watch?v=MW565hMnXLg)
+* [Microsoft 365 SharePoint Modernization Scanner を動かしてみました - （）のブログ](https://mitomoha.hatenablog.com/entry/2020/07/09/012941)
+* [【オンライン セミナー】 SharePoint Online を使いこなすための設定大解説!](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-08-SharePoint-Online-MCW0004583.html)
+* [SPServicesでカスケード表示のドロップダウンを実現する](http://wakky10777.blog.fc2.com/blog-entry-39.html)
+* [SharePointでカスケードドロップダウンの実装サンプル](http://katoj.hatenablog.com/entry/2015/06/24/134250)
+* [カスケード分類作ってみた！](http://sharepointyuzuki.blog54.fc2.com/blog-entry-16.html)
+* [SharePoint 基本機能内で管理されたメタデータ以外で2階層のカスケード分類を実現させる方法](https://art-break.net/tech/?p=478)
+
 # サイト
 
 ## Microsoft
@@ -209,6 +271,18 @@
 * [Microsoft SQL Server Japan Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/?s=SQL+Troubleshooting)
 * [FAQ よくある質問事項について Azure SQL Database](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/faq-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F%E4%BA%8B%E9%A0%85%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-azure-sql-database)
 * [Exchange Team Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)
+* [Exchange_Outlookサポートチーム](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/home?forum=exchangeteamjp)
+* [Japan SharePoint Support Team Blog archive](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/)
+* [リスト ビューのしきい値によって発生する現象と対処策](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/31574)
+
+## blog
+
+* [karamem0](https://zenn.dev/karamem0)
+* [deepcom](https://deepcom.co.jp/blog/)
+* [idea.toString](https://idea.tostring.jp/)
+* [Sharepoint Technical Note](https://shanqiai.weblogs.jp/sharepoint_technical_note)
+* [SharePoint Developer](http://sharepoint.orivers.jp/)
+
 
 ## Others
 
