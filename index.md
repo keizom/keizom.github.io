@@ -214,13 +214,15 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [SharePoint リストにアイテムを一括登録する ($batchの活用) - MoreBeerMorePower](https://mofumofupower.hatenablog.com/entry/sharepoint_batching)
 * [SharePoint のリスト列の情報を JavaScript で確認する - Qiita](https://qiita.com/miyamiya/items/6e689f4221ab6c0a711d)
 * [Top 51 SharePoint JavaScript Examples (Download FREE PDF) - SPGuides](https://www.spguides.com/jsom-sharepoint/)
-* [GitHub - pnp/sp-starter-kit: Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.](https://github.com/pnp/sp-starter-kit)
 * [SharePoint JSOM を使用したアイテムの CRUD 方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/sharepoint-jsom-crud)
 * [方法 JavaScript を使用して、リスト アイテムの作成、更新、削除を行う](https://docs.microsoft.com/ja-jp/previous-versions/office/developer/sharepoint-2010/hh185011(v=office.14))
 * [SharePoint online client-side-people](http://onlinecoder.blogspot.com/2018/01/sharepoint-online-client-side-people.html)
 * [SharePoint Tabbed Web Parts HillbillyTabs2.0 ? MarkRackley.net](https://www.markrackley.net/2014/11/25/sharepoint-tabbed-web-partshillbillytabs2-0/)
 * [SharePoint への JavaScript の埋め込み](https://docs.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/embedding-javascript-into-sharepoint)
 * [SharePoint の JavaScript ライブラリ コードを使用して基本的な操作を完了する](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/complete-basic-operations-using-javascript-library-code-in-sharepoint)
+* [GitHub - pnp/sp-starter-kit: Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.](https://github.com/pnp/sp-starter-kit)
+* [GitHub - pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)
+* [GitHub - sp-dev-fx-webparts/samples/react-script-editor at master ? pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-script-editor)
 
 ## CSOM
 
@@ -335,21 +337,29 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## Azure Application Gateway
 
-* [Application Gateway v2 の Key Vault 連携を試してみた - しばやん雑記](https://blog.shibayan.jp/entry/20190428/1556442190)
-* [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
+### 設定_(Azure Application Gateway)
+
 * [クイック スタート:Azure Application Gateway による Web トラフィックのルーティング - Azure portal](https://docs.microsoft.com/ja-jp/azure/application-gateway/quick-create-portal)
+* [【Azure】 Application Gateway 設定を解説する](https://qiita.com/hikaru_motomiya/items/d5fd669e3eb3a8491022)
+
+### Microsoft_(Azure Application Gateway)
+
+* [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
 * [Application Gateway の価格](https://azure.microsoft.com/ja-jp/pricing/details/application-gateway/)
 * [Application Gateway](https://azure.microsoft.com/ja-jp/services/application-gateway/)
 * [Azure Application Gateway の機能](https://docs.microsoft.com/ja-jp/azure/application-gateway/features)
-* [Azure Application Gatewayとは？負荷分散の考え方とWebアプリケーションの負荷分散について解説](https://www.rworks.jp/cloud/azure/azure-column/azure-entry/24604/)
 * [Azure Application Gateway v2 とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview-v2)
 * [Application Gateway 構成の概要](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-overview)
-* [【Azure】 Application Gateway 設定を解説する](https://qiita.com/hikaru_motomiya/items/d5fd669e3eb3a8491022)
+* [Azure Application Gateway のドキュメント](https://docs.microsoft.com/ja-jp/azure/application-gateway/)
+
+### WebSite_(Azure Application Gateway)
+
+* [Application Gateway v2 の Key Vault 連携を試してみた - しばやん雑記](https://blog.shibayan.jp/entry/20190428/1556442190)
+* [Azure Application Gatewayとは？負荷分散の考え方とWebアプリケーションの負荷分散について解説](https://www.rworks.jp/cloud/azure/azure-column/azure-entry/24604/)
 * [Azure Application Gatewayとは？その概要と機能、メリットについて](https://www.cloud-for-all.com/blog/azure-application-gateway.html)
 * [証明書の設定Azure Application Gateway 新規／更新用](https://www.secomtrust.net/service/pfw/apply/sr/3_2_AZURE_APPGW.html)
 * [Application Gateway のアクセスログについて](https://cptechweb.teldevice.co.jp/hc/ja/articles/360063918373-Application-Gateway-%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 * [Webシステムの負荷分散に力を発揮！Azure Application Gatewayの機能とは？](https://business.ntt-east.co.jp/content/cloudsolution/column-118.html)
-* [Azure Application Gateway のドキュメント](https://docs.microsoft.com/ja-jp/azure/application-gateway/)
 * [Azure Application Gatewayのリスナー証明書を自動で更新する](https://ascii.jp/elem/000/004/052/4052122/)
 * [Azure Application Gateway(アプリケーションゲートウェイ)とは](https://www.acrovision.jp/service/azure/?p=467)
 * [Azure Application Gatewayでリダイレクトを設定する](https://tech-blog.cloud-config.jp/2020-12-12-application-gateway-redirect/)
@@ -360,10 +370,10 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## SQL Managed Instance
 
+### Microsoft_(SQL Managed Instance)
+
 * [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
 * [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure)
-* [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［後編］――Azure SQL DatabaseとAzure SQL Database Managed Instanceの違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
-* [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
 * [機能の比較: Azure SQL Database と Azure SQL Managed Instance](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/features-comparison)
 * [移行の概要: SQL Server から Azure SQL Managed Instance](https://docs.microsoft.com/ja-jp/azure/azure-sql/migration-guides/managed-instance/sql-server-to-managed-instance-overview)
 * [Azure Active Directory 認証を使用する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-overview)
@@ -373,25 +383,34 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [SharePoint Server でユーザー認証方法を計画する](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/plan-user-authentication)
 * [チュートリアル:Windows VM のシステム割り当てマネージド ID を使用して Azure SQL にアクセスする](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/tutorial-windows-vm-access-sql)
 * [データベース接続アップグレード用の SharePoint Server 2016 ファームを作成する](https://docs.microsoft.com/ja-jp/sharepoint/upgrade-and-update/create-the-sharepoint-server-2016-farm-for-a-database-attach-upgrade)
-
 * [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
 * [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
 
+### WebSite_(SQL Managed Instance)
+
+* [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
+* [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［後編］――Azure SQL DatabaseとAzure SQL Database Managed Instanceの違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
+
 ## Azure Infomation Protection
+
+### Microsoft_(Azure Infomation Protection)
 
 * [はじめての データの保護: Azure Information Protection  日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
 * [AIP試してみた](https://www.qes.co.jp/media/azure/a155)
 * [Final reminder to migrate from Azure Information Protection classic client to unified labeling](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/final-reminder-to-migrate-from-azure-information-protection/ba-p/2731734)
 * [Azure Information Protection requirements](https://docs.microsoft.com/en-us/azure/information-protection/requirements#applications)
 * [Azure Information Protection と AD RMS の比較](https://docs.microsoft.com/ja-jp/azure/information-protection/compare-on-premise)
-* [Officeデータの情報漏洩対策に大活躍！Azure Information Protectionとは？](https://www.jbsvc.co.jp/useful/windows10/what-is-AIP.html)
 * [Azure Information Protection とは](https://docs.microsoft.com/ja-jp/azure/information-protection/what-is-information-protection)
+* [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/information-protection/infoprotect-quick-start-tutorial)
+
+### WebSite_(Azure Infomation Protection)
+
+* [Officeデータの情報漏洩対策に大活躍！Azure Information Protectionとは？](https://www.jbsvc.co.jp/useful/windows10/what-is-AIP.html)
 * [新しい情報保護機能「AIP」](https://licensecounter.jp/office365/blog/2017/03/info-AzureInformationProtection.html)
 * [ファイルの保護・暗号化](https://ci.iii.kyushu-u.ac.jp/365/aip/)
 * [自分に合った保護と共有](https://track.azurerms.com/#/landing)
 * [Azure Information Protectionを紹介したかったがMicrosoft Information Protectionに統合されてたのでそのご紹介 ①](https://www.challenge-cf.jp/post/azure-information-protection%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%8Cmicrosoft-information-protection%E3%81%AB%E7%B5%B1%E5%90%88%E3%81%95%E3%82%8C%E3%81%A6%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9D%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B)
 * [Azure Information Protection でファイルのアクセス権はく奪（プレビュー）](https://live-style.jp/aip-deprivation/)
-* [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/information-protection/infoprotect-quick-start-tutorial)
 * [Windows Information Protection を正しく知る：Microsoft 365で実現するクラウド時代のセキュリティ（4） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1906/28/news022.html)
 * [Windows Information Protection を正しく知る　～設定編～：Microsoft 365で実現するクラウド時代のセキュリティ（5） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1907/24/news011.html#cxrecs_s)
 
@@ -431,7 +450,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [SharePoint Developer](http://sharepoint.orivers.jp/)
 
 
-## Others
+## WebSite
 
 * [ASCII × FIXER](https://ascii.jp/azure-fixer/)
 
