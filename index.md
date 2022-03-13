@@ -473,6 +473,29 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [【オンライン セミナー】 OneDrive for Business を便利に使うための設定大解説!](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-07-OneDrive-for-Business-Great-commentary-MCW0004581.html)
 
+## Microsoft Graph
+
+* [Announcing “A Lap Around Microsoft Graph Toolkit” Blog Series - Microsoft 365 Developer Blog](https://developer.microsoft.com/en-us/graph/blogs/announcing-a-lap-around-microsoft-graph-toolkit-blog-series/)
+* [GitHub - Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
+* [GitHub - Global Microsoft 365 Developer Bootcamp 2019 Tokyo：Microsoft Graph API](https://gist.github.com/rnakamuramartiny/13ae56ec3d97a468354c044bfdeea6df)
+* [Microsoft Graph - OneDrive API (C#) を使ったサンプル コード](https://docs.microsoft.com/ja-jp/archive/blogs/office_client_development_support_blog/microsoft-graph-onedrive-api-c-sample-code)
+* [Microsoft Graph (Unified API) のメリットとその使い方](https://tsmatz.wordpress.com/2015/06/22/office-365-unified-api/)
+* [Microsoft Graph API を利用して Azure AD のサインイン アクティビティ レポートをファイルに出力する PowerShell スクリプト  Japan Azure Identity Support Blog](https://jpazureid.github.io/blog/azure-active-directory/microsoft-graph-api-signin-activity-reports/)
+* [GitHub - rnakamuramartiny/GM365DevBootcamp_MGraphAPI.md](https://gist.github.com/rnakamuramartiny/13ae56ec3d97a468354c044bfdeea6df)
+* [MS Build SK110 What's new with Microsoft Graph](https://www.youtube.com/watch?v=6CIZWac0TBE)
+* [MsGraphSpFxThangu](https://www.youtube.com/watch?v=AKftsTLQBGo)
+* [MVP Article ? Working with Application Permissions (App-Only Auth) in SharePoint Online and the Microsoft Graph](https://developer.microsoft.com/en-us/sharepoint/blogs/mvp-article-working-with-application-permissions-app-only-auth-in-sharepoint-online-and-the-microsoft-graph/)
+* [Office 365 ? Microsoft Graph ? Part 4 Fetching all Office 365 groups using CSOM- Codebase](https://knowledge-junction.com/2018/12/25/office-365-microsoft-graph-part-4-fetching-all-office-365-groups-using-csom-codebase/)
+* [Office 365 ? Microsoft Graph ? Part 6 Adding Office 365 Group Owner using CSOM ? Codebase](https://knowledge-junction.com/2018/12/27/office-365-microsoft-graph-part-6-adding-office-365-group-owner-using-csom-codebase/)
+* [Office 365 ? Microsoft Graph ? Part 8 Getting all users of our tenant using CSOM](https://knowledge-junction.com/2019/01/12/office-365-microsoft-graph-part-8-getting-all-users-of-my-tenant-using-csom/)
+* [PowershellでMicrosoft Graph APIを使う方法について](https://blogs.technet.microsoft.com/jpintune/2017/08/09/powershell%E3%81%A7microsoft-graph-api%E3%82%92%E4%BD%BF%E3%81%86%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)
+* [PowershellでMicrosoft Graph APIを使う方法について](https://docs.microsoft.com/ja-jp/archive/blogs/jpintune/powershell%E3%81%A7microsoft-graph-api%E3%82%92%E4%BD%BF%E3%81%86%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+* [チュートリアル - Web アプリからアプリとして Microsoft Graph にアクセスする - Azure App Service](https://docs.microsoft.com/ja-jp/azure/app-service/scenario-secure-app-access-microsoft-graph-as-app)
+
+# Intune
+
+* [Export HW/SW Inventory Data from Intune Devices using PowerShell  Skatterbrainz Blog](https://skatterbrainz.wordpress.com/2020/01/18/export-hw-sw-inventory-data-from-intune-devices-using-powershell/)
+
 # Azure
 
 ## Azure Application Gateway
@@ -581,6 +604,8 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Japan SharePoint Support Team Blog archive](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/)
 * [リスト ビューのしきい値によって発生する現象と対処策](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/31574)
 * [Japan SharePoint Support Team](https://social.msdn.microsoft.com/Forums/ja-JP/home?forum=sharepointsupportteamja)
+* [Japan Azure Identity Support Blog](https://jpazureid.github.io/blog/index.html)
+* [Japan Microsoft Intune & MDM for Office 365 Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpintune/)
 
 ## blog
 
