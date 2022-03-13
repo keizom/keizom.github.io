@@ -42,6 +42,7 @@
 ## SuitBar
 
 * [SharePoint 2016 How to Change SuitBar’s Text PowerShell - TechNet Articles - United States (English) - TechNet Wiki](https://social.technet.microsoft.com/wiki/contents/articles/34202.sharepoint-2016-how-to-change-suitbars-text-powershell.aspx)
+* [既定のサーバー リボンのカスタマイズの場所  Microsoft Docs](https://docs.microsoft.com/ja-jp/previous-versions/office/developer/sharepoint-2010/ee537543(v=office.14))
 * [Replace SharePoint in Suitebar using SuiteBarBrandingElementHtml property not reflecting](https://social.technet.microsoft.com/Forums/en-US/21d067e5-eabd-4b13-ba7d-8cb8c780a30c/replace-sharepoint-in-suitebar-using-suitebarbrandingelementhtml-property-not-reflecting)
 * [[SharePoint 2016] SuiteBar の設定変更](https://shanqiai.weblogs.jp/sharepoint_technical_note/2017/01/sharepoint-2016-suitebar-%E3%81%AE%E8%A8%AD%E5%AE%9A%E5%A4%89%E6%9B%B4-.html)
 * [SharePoint ：検索窓の位置がスイートバーに移動された！( Search Box location moved to Suite Bar )](https://art-break.net/tech/?p=5425)
@@ -82,6 +83,7 @@
 
 ## Azure Application Gateway
 
+* [Application Gateway v2 の Key Vault 連携を試してみた - しばやん雑記](https://blog.shibayan.jp/entry/20190428/1556442190)
 * [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
 * [クイック スタート:Azure Application Gateway による Web トラフィックのルーティング - Azure portal](https://docs.microsoft.com/ja-jp/azure/application-gateway/quick-create-portal)
 * [Application Gateway の価格](https://azure.microsoft.com/ja-jp/pricing/details/application-gateway/)
@@ -127,6 +129,7 @@
 
 ## Azure Infomation Protection
 
+* [はじめての データの保護: Azure Information Protection  日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
 * [AIP試してみた](https://www.qes.co.jp/media/azure/a155)
 * [Final reminder to migrate from Azure Information Protection classic client to unified labeling](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/final-reminder-to-migrate-from-azure-information-protection/ba-p/2731734)
 * [Azure Information Protection requirements](https://docs.microsoft.com/en-us/azure/information-protection/requirements#applications)
@@ -138,13 +141,16 @@
 * [自分に合った保護と共有](https://track.azurerms.com/#/landing)
 * [Azure Information Protectionを紹介したかったがMicrosoft Information Protectionに統合されてたのでそのご紹介 ①](https://www.challenge-cf.jp/post/azure-information-protection%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%8Cmicrosoft-information-protection%E3%81%AB%E7%B5%B1%E5%90%88%E3%81%95%E3%82%8C%E3%81%A6%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9D%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B)
 * [Azure Information Protection でファイルのアクセス権はく奪（プレビュー）](https://live-style.jp/aip-deprivation/)
-* [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/
-information-protection/infoprotect-quick-start-tutorial)
+* [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/information-protection/infoprotect-quick-start-tutorial)
+* [Windows Information Protection を正しく知る：Microsoft 365で実現するクラウド時代のセキュリティ（4） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1906/28/news022.html)
+* [Windows Information Protection を正しく知る　～設定編～：Microsoft 365で実現するクラウド時代のセキュリティ（5） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1907/24/news011.html#cxrecs_s)
 
 ## Developer Subscription
 
 * [Microsoft 365 開発者サンドボックス サブスクリプションの設定](https://docs.microsoft.com/ja-jp/office/developer-program/microsoft-365-developer-program-get-started)
 * [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
+* [Office 365 評価版サイト申し込み](https://www.microsoft.com/ja-jp/microsoft-365/enterprise/compare-office-365-plans)
+* [Microsoft 365 Enterprise のテスト ラボ ガイド - Microsoft 365 Enterprise  Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/m365-enterprise-test-lab-guides?view=o365-worldwide)
 
 # サイト
 
@@ -152,3 +158,16 @@ information-protection/infoprotect-quick-start-tutorial)
 * [Microsoft Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
 * [Home - Power Platform Community](https://powerusers.microsoft.com/)
 * [ASCII × FIXER](https://ascii.jp/azure-fixer/)
+* [Microsoft SQL Server Japan Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/?s=SQL+Troubleshooting)
+* [FAQ よくある質問事項について Azure SQL Database](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/faq-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F%E4%BA%8B%E9%A0%85%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-azure-sql-database)
+* [コード サンプルを参照  Microsoft Docs](https://docs.microsoft.com/ja-jp/samples/browse/?products=azure)
+* [Exchange Team Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)
+* [Power Apps Community Plan](https://powerapps.microsoft.com/ja-jp/communityplan/)
+* [Microsoft Japan Code Labs](https://microsoft.github.io/code-labs-jp/)
+* [Microsoft の認定資格](https://docs.microsoft.com/ja-jp/learn/certifications/)
+* [Windows 10 で開発環境を設定する](https://docs.microsoft.com/ja-jp/windows/dev-environment/overview)
+* [mstep オンライン Microsoft Azure / サーバー製品](https://partner.microsoft.com/ja-jp/training/mstep-platform)
+* [オンデマンドで学ぶクラウド アプリケーション開発](https://www.microsoft.com/ja-jp/biz/cloud-platform/apps-innovation-ondemand.aspx)
+* [Microsoft Security Forum 2020 オンライン](https://www.microsoft.com/ja-jp/biz/security/forum-online.aspx)
+* [Azure Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
+* [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
