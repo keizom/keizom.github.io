@@ -226,6 +226,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## CSOM
 
+* [SharePoint Online の HTTP 調整 (応答コード 429, 503) に関して](https://social.msdn.microsoft.com/Forums/ja-JP/8e5a4116-c96a-4d3e-9bbf-6efb852b5d88/sharepoint-online-12398-http-3551925972-2454031572124671254012489-429-503?forum=sharepointsupportteamja)
 * [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
 * [Create Update Delete Or Retrieve SharePoint Site Collections Using CSOM PowerShell](https://www.c-sharpcorner.com/article/create-update-delete-or-retrieve-sharepoint-site-collectio/)
 * [Creating SharePoint Site Collection through PowerShell CSOM](http://alexbrassington.com/2014/08/20/creating-sharepoint-site-collection-through-powershell-csom/)
@@ -431,6 +432,47 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [ウェビナー Power BI を使う時の基本～最初に考えること～](https://info.microsoft.com/JA-SQLDB-WBNR-FY18-06Jun-21-PowerBI-MCW0006279_02OnDemandRegistration-ForminBody.html)
 * [組織内の Office 365 の利用状況を可視化する Power BI Office 365 Adoption Content Pack パブリック プレビュー開始  idea.toString();](https://idea.tostring.jp/?p=2873)
 
+## Planner
+
+* [【タスク管理】Teams × Planner で実現。簡単！便利！](https://m.youtube.com/watch?v=Tyqit541i2s)
+* [タスク管理の新提案！ Office 365 Plannerとは？ (1/4)：CodeZine（コードジン）](https://codezine.jp/article/detail/9467)
+* [Teams アプリ「タスク」 入門: Planner・To Do 統合  AvePoint Blog](https://www.avepoint.com/blog/ja/microsoft-teams-ja/teams-todo-planner/)
+* [Microsoft Planner にて一般ユーザーによるプラン作成を制限する方法について](https://social.msdn.microsoft.com/Forums/ja-JP/92e21369-0f36-40df-8b56-712bc1402c9f/microsoft-planner?forum=sharepointsupportteamja)
+
+## Teams
+
+* [「Microsoft Teams」の「Project」「Roadmap」アプリ発表 - CNET Japan](https://japan.cnet.com/article/35161885/)
+* [【Teams】すべてのTeamsから情報を取得する【PowerShell】  ほげふがな日常](https://www.hogehoge-note.com/2019/08/16/post-300/)
+* [【オンライン セミナー】 Microsoft Teams を使いこなす! 活用事例の紹介](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-02Feb-23-Online-Seminar-Master-the-Microsoft-Teams-MCW0004285.html)
+* [【タスク管理】Teams × Planner で実現。簡単！便利！](https://m.youtube.com/watch?v=Tyqit541i2s)
+* [ASCII.jp：本日18時から日本.NET界レジェンドたちのTeams会議を生公開！「その.NETアプリ、クラウドどうモダナイズするの？」](https://ascii.jp/elem/000/001/905/1905256)
+* [Microsoft Lists とは & Teams 接続方法  AvePoint Japan Blog](https://www.avepoint.com/blog/ja/office-365-ja/microsoft-lists/)
+* [Microsoft Teams ：TIPSを色々詰め込んだ資料を公開しました！  Art-Break : Tech ;](https://art-break.net/tech/?p=7743)
+* [Microsoft Teams 「ブレークアウトルーム」操作マニュアル](https://blogs.windows.com/japan/2020/12/18/microsoft-teams-breakoutroom-manual/)
+* [Microsoft Teams でイベントの監査ログを検索する](https://docs.microsoft.com/ja-jp/microsoftteams/audit-log-events)
+* [Microsoft Teams で共有されたファイルや IM を確認する方法  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/teamsjp/teams-inplace)
+* [Microsoft Teams のチャット履歴を管理者が確認できるか？  idea.toString();](https://idea.tostring.jp/?p=2913)
+* [Microsoft Teams の新機能  2020 年 5 月 - Windows Blog for Japan](https://blogs.windows.com/japan/2020/06/25/what-s-new-in-microsoft-teams-may-2020/)
+* [Microsoft Teams リソース - Microsoft for business](https://www.microsoft.com/ja-jp/biz/wsi/teams-remote-work.aspx)
+* [Microsoft Teams 管理ドキュメント - Microsoft Teams  Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoftteams/)
+* [Microsoft Teams 他が 1 年間試用できるようになるそうです - kazuakix の日記](https://blog.kazuakix.jp/entry/2018/05/03/182242)
+* [Microsoft Teams 日本語カタログ 第2版と徹底活用ブック](https://blogs.windows.com/japan/2020/11/11/teams-catalog-booklet/)
+* [Power Automate : Teams上で承認を行う](https://zezeze.hateblo.jp/entry/2019/11/29/040113)
+* [Power Automate（旧Microsoft Flow）からMicrosoft TeamsへBotで投稿する方法3種をまとめてみた - Qiita](https://qiita.com/tfunakoshi/items/76029bcc8ac1d4d9bd71)
+* [PowerShellからTeamsのAdaptive Card](https://qiita.com/syamamotorhead/items/5062cdcaaafc6740c0b2)
+* [Skype for Business から Teams への移行](https://blog.kazuakix.jp/entry/2018/11/08/234326)
+* [Teams クイックガイド](http://msft.it/6183TlOqZ)
+* [Teams 関連のマニュアル](https://www.yammer.com/japanoffice365users/#/threads/show?threadId=281992120745984)
+* [TeamsのAdaptive Cardにプロフィール画像を埋め込んでみた](https://qiita.com/syamamotorhead/items/5062cdcaaafc6740c0b2)
+* [TeamsのWeb会議、上級活用法](https://xtech.nikkei.com/atcl/nxt/column/18/01362/)
+* [Teamsのチームとチャネルの構成はこうせい！](https://blog.trainocate.co.jp/blog/teams01_020)
+* [Teamsの会話をPSTファイルとしてエクスポートが可能！ExchangeOnlineライセンスが必要](https://1manit.work/windows/office365/teams/exportdata-pst/)
+* [ノンコーディングで Microsoft Teams のチームをすべて取得する](https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
+
+## OneDrive
+
+* [【オンライン セミナー】 OneDrive for Business を便利に使うための設定大解説!](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-07-OneDrive-for-Business-Great-commentary-MCW0004581.html)
+
 # Azure
 
 ## Azure Application Gateway
@@ -538,6 +580,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Exchange_Outlookサポートチーム](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/home?forum=exchangeteamjp)
 * [Japan SharePoint Support Team Blog archive](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/)
 * [リスト ビューのしきい値によって発生する現象と対処策](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/31574)
+* [Japan SharePoint Support Team](https://social.msdn.microsoft.com/Forums/ja-JP/home?forum=sharepointsupportteamja)
 
 ## blog
 
