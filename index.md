@@ -7,8 +7,6 @@
 * [Azure 上で SharePoint Server 2016 をオフラインインストールしてみよう！(後編)](https://blogs.networld.co.jp/entry/azure-sharepoin-7f90)
 * [SharePoint Server 2016 のオフライン インストール](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/sharepoint-server-2016-%E3%81%AE%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 * [単一サーバーに SharePoint Server 2016 または SharePoint Server 2019 をインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-sharepoint-server-2016-on-one-server)
-* [SharePoint Server 2016 および 2019 を使用した Azure SQL Managed Instance のデプロイ](https://docs.microsoft.com/ja-jp/sharepoint/administration/deploy-azure-sql-managed-instance-with-sharepoint-servers-2016-2019)
-* [Azure での高可用性 SharePoint Server 2016 ファームの実行](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/sharepoint/)
 
 ## SharePoint 高可用性構成
 
@@ -16,6 +14,7 @@
 * [高可用性 SharePoint ファーム](https://docs.microsoft.com/ja-jp/azure/architecture/solution-ideas/articles/highly-available-sharepoint-farm)
 * [Azure で SharePoint Server 2016 と SQL Server の AlwaysOn 可用性グループを展開する](https://docs.microsoft.com/ja-jp/SharePoint/administration/deploying-sharepoint-server-2016-with-sql-server-alwayson-availability-groups-in)
 * [Azure における SharePoint 2013 開発/テスト環境](https://docs.microsoft.com/ja-jp/sharepoint/administration/sharepoint-2013-dev-test-environments-in-azure)
+* [SharePoint Server 2016 および 2019 を使用した Azure SQL Managed Instance のデプロイ](https://docs.microsoft.com/ja-jp/sharepoint/administration/deploy-azure-sql-managed-instance-with-sharepoint-servers-2016-2019)
 
 ## 代替アクセスマッピング
 
