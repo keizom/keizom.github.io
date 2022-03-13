@@ -153,12 +153,18 @@
 
 # Microsoft 365
 
+## PowerShell
+
+* [多要素認証 (MFA) の Office 365 に PowerShell で接続する方法まとめ](https://blog.kazuakix.jp/entry/2018/04/16/221554)
+
 ## 帯域
 
 * [Office365帯域調査してみました。 ? Exceedone Technical Knowledge](https://tech.exceedone.co.jp/office365-generally/office365-band-survey/)
 * [【オンラインセミナー】Office 365 を快適に利用するためのネットワークインフラ10のポイント～疑問はQ&Aで解決～](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-11Nov-16-Online-Seminar-Network-MCW0002364.html)
 * [【オンライン セミナー】 Office 365 の快適な利用に向けた帯域確保、プロキシ・ファイアウォールの運用について](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-02Feb-22-Office-365-and-use-proxy-firewalls-MCW0004275.html)
 * [【オンライン セミナー】 Office 365 を有効活用するためのリソースご紹介](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-01-effective-use-of-Office-365-MCW0004287.html)
+* [O365のネットワークの推奨帯域について マイクロソフト コミュニティ](https://answers.microsoft.com/ja-jp/msoffice/forum/all/o365%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF/9e6f9683-d922-4a85-80f6-6f4fb6e563bb)
+* [Office 365の利用者に動作が“重い”と苦情を言われたときにとるべき対策は？：最新ルーターでSaaS時代のネットワーク管理を高度化せよ - ＠IT](https://www.atmarkit.co.jp/ait/articles/1802/27/news001.html)
 
 ## Advanced Threat Protection
 
@@ -168,6 +174,8 @@
 * [Microsoft Threat Protection 評価ガイド 環境構築編](https://www.microsoft.com/cms/api/am/binary/RE4s3BN)
 * [Microsoft Threat Protection 評価ガイド Office 365 ATP 攻撃検証編](https://www.microsoft.com/cms/api/am/binary/RE4s8OE)
 * [Microsoft Threat Protection 評価ガイド Microsoft Defender ATP 攻撃検証編](https://www.microsoft.com/cms/api/am/binary/RE4zj4N)
+* [できるMicrosoft 365 E5 Security Compliance 管理編](https://aka.ms/dekiru-book_M365-E5-Security_kanri)
+* [できるMicrosoft 365 E5 Security Compliance 活用編](https://aka.ms/dekiru-book_M365-E5-Security_katuyo)
 
 ## Audit Log
 
@@ -176,6 +184,7 @@
 * [PowerBIとFlowで、監査ログ分析](https://techcommunity.microsoft.com/t5/Microsoft-Stream-Blog/Global-Admin-Pro-Tip-Learn-how-to-build-video-analytics/ba-p/365267)
 * [Export Office 365 User Activity Report to CSV using PowerShell](https://o365reports.com/2021/01/06/export-office-365-user-activity-report-to-csv-using-powershell/)
 * [Retrieve Office 365 Audit logs using PowerShell and store in Azure table for quick retrieval](https://blog.kloud.com.au/2018/12/21/retrieve-office-365-audit-logs-using-powershell-and-store-in-azure-table-for-quick-retrieval/)
+* [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
 
 # サイト
 
