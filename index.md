@@ -543,6 +543,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [Azure Cosmos DB for MongoDB API with Xamarin Quick Start](https://docs.microsoft.com/en-us/samples/azure-samples/azure-cosmos-db-mongodb-xamarin-getting-started/azure-cosmos-db-mongodb-xamarin-getting-started/)
 * [GitHub - DocumentDB-Quickstart-DotNet](https://github.com/dzadnip/DocumentDB-Quickstart-DotNet)
+* [Azure Cosmos DB 自習書 Azure Cosmos DB 入門 SQL API 編 ](https://www.cloud-for-all.com/resource/azure-cosmos-db-sql-api)
 
 ## Application Insights
 
@@ -560,6 +561,10 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [クイック スタート:Azure Application Gateway による Web トラフィックのルーティング - Azure portal](https://docs.microsoft.com/ja-jp/azure/application-gateway/quick-create-portal)
 * [【Azure】 Application Gateway 設定を解説する](https://qiita.com/hikaru_motomiya/items/d5fd669e3eb3a8491022)
+* [Application Gateway の構成について](https://jpaztech1.z11.web.core.windows.net/ApplicationGateway%E3%81%AE%E6%A7%8B%E6%88%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html)
+* [Azure Application Gateway の整理](https://blog.memobog.net/2018/11/11/application-gateway-201811/)
+* [Application Gateway での無効なゲートウェイによるエラーのトラブルシューティング](https://docs.microsoft.com/ja-jp/azure/application-gateway/application-gateway-troubleshooting-502)
+* [Application Gateway リスナーの構成](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-listeners)
 
 ### Microsoft_AAG
 
@@ -570,6 +575,9 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Azure Application Gateway v2 とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview-v2)
 * [Application Gateway 構成の概要](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-overview)
 * [Azure Application Gateway のドキュメント](https://docs.microsoft.com/ja-jp/azure/application-gateway/)
+* [Azure Web アプリケーション ファイアウォールとは](https://docs.microsoft.com/ja-jp/azure/web-application-firewall/overview)
+* [Application Gateway での TLS 終端とエンド ツー エンド TLS の概要](https://docs.microsoft.com/ja-jp/azure/application-gateway/ssl-overview)
+* [アプリケーション ゲートウェイの動作](https://docs.microsoft.com/ja-jp/azure/application-gateway/how-application-gateway-works)
 
 ### Web_AAG
 
@@ -585,7 +593,6 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Azure Application Gatewayを使用したインバウンドトラフィックの検査](https://cloudone.trendmicro.com/docs/jp/network-security/Azure_Deployment5_VMSS_AGW/)
 * [Webサーバー向けロードバランサー「Azure Application Gateway」とは？](https://www.cloudou.net/application-gateway/appg001/)
 * [Application Gateway - App Service 間のリダイレクトの問題](https://jpaztech.github.io/blog/network/appgw-appservice-redirectissue/)
-* [Azure Application Gateway の整理](https://blog.memobog.net/2018/11/11/application-gateway-201811/)
 
 ## SQL Managed Instance
 
