@@ -333,6 +333,74 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [Fiddler を使って HTTPS トラフィックを確認する  idea.toString();](https://idea.tostring.jp/?p=1077)
 
+## Dynamics 365
+
+* [Dynamics 365 トライアル環境の取得 （2020年9月版） - YouTube](https://m.youtube.com/watch?v=2vXTJK623TU)
+* [Community demo ? Calling Dynamics 365 CRM APIs from SharePoint - YouTube](https://www.youtube.com/watch?v=VXzYc6cfjuI)
+* [Dynamics 365 自習書シリーズ - Microsoft Dynamics 365](https://www.microsoft.com/ja-jp/biz/dynamics/learning.aspx)
+* [Community demo – Calling Dynamics 365 CRM APIs from SharePoint - YouTube](https://www.youtube.com/watch?v=VXzYc6cfjuI&app=desktop)
+* [Dynamics 365の無料トレーニング](https://www.microsoft.com/ja-jp/events/top/training-days/dynamics365)
+* [今日から始めるDynamics 365 + PowerAppsでカスタムアプリを作成！](https://memo.tyoshida.me/power-platform/powerapps/start-today-create-custom-apps-with-powerapps-and-dynamics-365/)
+* [Power PlatformのCommon Data Serviceを利用する10の理由 - 吉田の備忘録](https://memo.tyoshida.me/power-platform/powerapps/ten-reasons-to-use-the-common-data-service/)
+* [Common Data Service とは何か？ - Power Apps  Microsoft Docs](https://docs.microsoft.com/ja-jp/powerapps/maker/common-data-service/data-platform-intro)
+* [Power Apps を使用したモデル駆動型アプリの構築の概要 - Power Apps  Microsoft Docs](https://docs.microsoft.com/ja-jp/powerapps/maker/model-driven-apps/model-driven-app-overview)
+* [Power Apps のモデル駆動型アプリの概要 - Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/get-started-with-model-driven-apps-in-powerapps/)
+
+## Power Automate Desktop
+
+* [Windows10の無償デスクトップ自動化ツール「Power Automate Desktop」でWebブラウザーでの作業を自動化する](https://codezine.jp/article/detail/15410)
+* [Windows：PowerAutomate Desktopをインストールして使ってみる](https://zenn.dev/barusu/articles/b702ef21c713ba)
+* [Power AutomateのRPA機能「UI flows」の始め方](https://rpahack.com/uiflows)
+* [Power AutomateでRPAにトライ！！  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/18486)
+* [Power Automate で新しいデスクトップ用RPAソリューション「Power Automate Desktop」をリリース - 吉田の備忘録](https://memo.tyoshida.me/power-platform/power-automate/power-automate-desktop-preview-released/)
+
+## Power Automate
+
+* [202009_PowerAutomate_Handson](https://github.com/rnakamuramartiny/Share_RPACommunity/tree/master/202009_PowerAutomate_Handson)
+* [Azure活用！Power Automateならノーコードで顔写真から年齢や性別が判断できる！ハンズオンイベント！](https://rpa-bank.com/column/40730)
+* [Microsoft Flow から SharePoint REST サービス呼び出し](https://docs.microsoft.com/ja-jp/archive/blogs/office365-tech-japan/invoke-sporestservice-by-using-flow)
+* [Microsoft Flow でアイテムの権限を変更する](http://deepcom.co.jp/flow_item_permission_1/)
+* [Power Automate Teams上で承認を行う](https://zezeze.hateblo.jp/entry/2019/11/29/040113)
+* [Power Automate で Microsoft 365 の障害情報をチェックする（Graph API 版）](https://idea.tostring.jp/?p=6330)
+* [Power Automate でスクリプトの使用を開始する - Office Scripts  Microsoft Docs](https://docs.microsoft.com/ja-jp/office/dev/scripts/tutorials/excel-power-automate-manual)
+* [Power Automate でデバッグする際のTips - MoreBeerMorePower](https://mofumofupower.hatenablog.com/entry/2020/11/17/224059)
+* [Power Automate で処理に失敗した際にどのアクションで失敗したかを即時にメール通知する方法 - 欲しいアプリは自分で作る！](https://jn.hateblo.jp/entry/2020/10/31/174431)
+* [Power Automate で組織の連絡先のメールアドレスから所属グループを抽出する](https://jn.hateblo.jp/entry/2020/08/23/003210)
+* [Power Automate の Apply to each 内でOffice Script を使うときの注意点? - SharePoint Technical Notes](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/10/using_office_script_with_powerautomate.html)
+* [Power Automate のフローで SharePoint リストアイテムの権限を操作してみる  idea.toString();](https://idea.tostring.jp/?p=5427)
+* [Power Automate を使って予定表リスト(イベントリスト)から Microsoft Teams 会議を作成する](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/09/create-teamsmeeting-from-eventlist-onspo-using-powerautomate.html)
+* [Power Automate（旧Microsoft Flow）からMicrosoft TeamsへBotで投稿する方法3種をまとめてみた - Qiita](https://qiita.com/tfunakoshi/items/76029bcc8ac1d4d9bd71)
+* [Power Platform すべての標準階層のコネクタの一覧](https://docs.microsoft.com/ja-jp/connectors/connector-reference/connector-reference-standard-connectors)
+* [Power Platformでアプリを作ろう、まずはPower Automateでデータ収集  日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/01549/020100002/)
+* [RPA機能の Power Automate Desktop 一般公開（GA）とプロセスアドバイザーの公開 - 吉田の備忘録](https://memo.tyoshida.me/power-platform/power-automate/power-automate-desktop-general-availability/)
+* [RPA勉強会！Power Automate Talk #7 ～ハンズオンで勤怠報告ボタン作成！～ (2020/11/27 19:30〜)](https://rpacommunity.connpass.com/event/195217/)
+* [Windows 10 で開発環境を設定する](https://docs.microsoft.com/ja-jp/windows/dev-environment/overview)
+* [コネクタのドキュメント - Connectors  Microsoft Docs](https://docs.microsoft.com/ja-jp/connectors/)
+* [ノンコーディングで業務アプリ開発！「PowerApps」と「Microsoft Flow」とは](https://info.microsoft.com/JA-DynOps-WBNR-FY18-06Jun-14-Businessappdevelopment-MCW0006792_02OnDemandRegistration-ForminBody.html)
+* [マイクロソフトがPower Automateの機能を強化するProcess Advisorを公開、反復の多い作業のワークフローを効率化](https://jp.techcrunch.com/2020/12/10/2020-12-09-microsoft-brings-new-process-mining-features-to-power-automate/)
+
+## Power Virtual Agents
+
+* [Power Virtual Agents](https://powerva.microsoft.com/#/dialog/4c6f7ea5-a79a-48c5-ade0-7553c95a880d)
+
+## Power BI
+
+* [Azure Serverless or Power Platform ～ あなたならどっち？！ ～ Power Platform 編](https://www.slideshare.net/yugoes1021/azure-serverless-or-power-platform-power-platform?from_m_app=ios)
+* [Get Month Name from Month Number in Power BI - SPGuides](https://www.spguides.com/get-month-name-from-month-number-in-power-bi/)
+* [GitHub - The-Japan-DataScientist-Society/100knocks-preprocess: データサイエンス100本ノック（構造化データ加工編）](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
+* [Power BI Tips Power BI でリアルタイムアンケート ～ アンケートを即可視化 2020年版 ～ - Qiita](https://qiita.com/yugoes1021/items/ea4c96cec9f1c7e47347)
+* [Power BI Update - September 2020 - YouTube](https://www.youtube.com/watch?feature=youtu.be&v=gPGy18Yo0Go&app=desktop)
+* [Power BI で Azure 監査ログを表示および分析する方法](https://docs.microsoft.com/ja-jp/archive/blogs/jpitpro/power-bi-azure)
+* [Power BI データセットからピボットテーブルを作成する - Excel](https://support.microsoft.com/ja-jp/office/power-bi-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%83%E3%83%88%E3%81%8B%E3%82%89%E3%83%94%E3%83%9C%E3%83%83%E3%83%88%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B-31444a04-9c38-4dd7-9a45-22848c666884?ui=ja-jp&rs=ja-jp&ad=jp)
+* [Power BI でリアルタイムアンケート ～ アンケートを即可視化 2020年版](https://qiita.com/yugoes1021/items/ea4c96cec9f1c7e47347)
+* [Power BI のサンプルを入手する - Power BI  Microsoft Docs](https://docs.microsoft.com/ja-jp/power-bi/create-reports/sample-datasets)
+* [Power BIによるAzure アクティビティログの可視化 – Cloud Steady  パーソルプロセス＆テクノロジー株式会社](https://cloudsteady.jp/post/7312/)
+* [Power BIの学び-真似することから始めてみる - 業務ハックLab](https://yo-yon.hatenablog.com/entry/powerbimanabimane)
+* [powerbi-desktop-samples/Sample Reports at master microsoft/powerbi-desktop-samples · GitHub](https://github.com/microsoft/powerbi-desktop-samples/tree/master/Sample%20Reports)
+* [Global Admin Pro Tip: Learn how to build video analytics reporting using Office 365 audit logs](https://techcommunity.microsoft.com/t5/Microsoft-Stream-Blog/Global-Admin-Pro-Tip-Learn-how-to-build-video-analytics/ba-p/365267)
+* [ウェビナー Power BI を使う時の基本～最初に考えること～](https://info.microsoft.com/JA-SQLDB-WBNR-FY18-06Jun-21-PowerBI-MCW0006279_02OnDemandRegistration-ForminBody.html)
+* [組織内の Office 365 の利用状況を可視化する Power BI Office 365 Adoption Content Pack パブリック プレビュー開始  idea.toString();](https://idea.tostring.jp/?p=2873)
+
 # Azure
 
 ## Azure Application Gateway
