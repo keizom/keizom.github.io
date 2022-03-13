@@ -405,12 +405,12 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## Azure Application Gateway
 
-### 設定_(Azure Application Gateway)
+### Setting_AAG
 
 * [クイック スタート:Azure Application Gateway による Web トラフィックのルーティング - Azure portal](https://docs.microsoft.com/ja-jp/azure/application-gateway/quick-create-portal)
 * [【Azure】 Application Gateway 設定を解説する](https://qiita.com/hikaru_motomiya/items/d5fd669e3eb3a8491022)
 
-### Microsoft_(Azure Application Gateway)
+### Microsoft_AAG
 
 * [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
 * [Application Gateway の価格](https://azure.microsoft.com/ja-jp/pricing/details/application-gateway/)
@@ -420,7 +420,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Application Gateway 構成の概要](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-overview)
 * [Azure Application Gateway のドキュメント](https://docs.microsoft.com/ja-jp/azure/application-gateway/)
 
-### WebSite_(Azure Application Gateway)
+### Web_AAG
 
 * [Application Gateway v2 の Key Vault 連携を試してみた - しばやん雑記](https://blog.shibayan.jp/entry/20190428/1556442190)
 * [Azure Application Gatewayとは？負荷分散の考え方とWebアプリケーションの負荷分散について解説](https://www.rworks.jp/cloud/azure/azure-column/azure-entry/24604/)
@@ -438,7 +438,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## SQL Managed Instance
 
-### Microsoft_(SQL Managed Instance)
+### Microsoft_SQLMI
 
 * [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
 * [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure)
@@ -454,14 +454,14 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
 * [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
 
-### WebSite_(SQL Managed Instance)
+### Web_SQLMI
 
 * [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
 * [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［後編］――Azure SQL DatabaseとAzure SQL Database Managed Instanceの違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
 
 ## Azure Infomation Protection
 
-### Microsoft_(Azure Infomation Protection)
+### Microsoft_AIP
 
 * [はじめての データの保護: Azure Information Protection  日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
 * [AIP試してみた](https://www.qes.co.jp/media/azure/a155)
@@ -471,7 +471,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Azure Information Protection とは](https://docs.microsoft.com/ja-jp/azure/information-protection/what-is-information-protection)
 * [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/information-protection/infoprotect-quick-start-tutorial)
 
-### WebSite_(Azure Infomation Protection)
+### WebSite_AIP
 
 * [Officeデータの情報漏洩対策に大活躍！Azure Information Protectionとは？](https://www.jbsvc.co.jp/useful/windows10/what-is-AIP.html)
 * [新しい情報保護機能「AIP」](https://licensecounter.jp/office365/blog/2017/03/info-AzureInformationProtection.html)
