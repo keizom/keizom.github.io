@@ -195,7 +195,7 @@
 * [Azure Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
 * [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
 
-### Support
+## Microsoft Support Teams Blog
 
 * [Microsoft SQL Server Japan Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/?s=SQL+Troubleshooting)
 * [FAQ よくある質問事項について Azure SQL Database](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/faq-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F%E4%BA%8B%E9%A0%85%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-azure-sql-database)
