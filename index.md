@@ -671,25 +671,24 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Microsoft Japan Blog](https://news.microsoft.com/ja-jp/category/blog/)
 * [Japan SCCM & WSUS Support Team](https://social.msdn.microsoft.com/Forums/ja-JP/home?forum=jpsccmwsus)
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/)
-* [Microsoft SQL Server Japan Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/?s=SQL+Troubleshooting)
 * [Exchange Team Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)
 * [Exchange_Outlookサポートチーム](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/home?forum=exchangeteamjp)
-* [Japan SharePoint Support Team Blog archive](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/)
 * [Japan SharePoint Support Team](https://social.msdn.microsoft.com/Forums/ja-JP/home?forum=sharepointsupportteamja)
 * [Japan Azure Identity Support Blog](https://jpazureid.github.io/blog/)
-* [Japan Microsoft Intune & MDM for Office 365 Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpintune/)
 
 ## MicrosoftSupportTeamsBlog(Archive)
 
 * [Japan WSUS Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpwsus/)
 * [Japan System Center Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/systemcenterjp/)
 * [Cloud and Server Product Japan Blog](https://docs.microsoft.com/ja-jp/archive/blogs/mssvrpmj/)
+* [Japan SharePoint Support Team Blog archive](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/)
+* [Japan Microsoft Intune & MDM for Office 365 Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpintune/)
 
 ## Microsoft Support Teams Post
 
 * [FAQ よくある質問事項について Azure SQL Database](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/faq-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F%E4%BA%8B%E9%A0%85%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-azure-sql-database)
 * [リスト ビューのしきい値によって発生する現象と対処策](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/31574)
-
+* [Microsoft SQL Server Japan Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/?s=SQL+Troubleshooting)
 
 ## blog
 
