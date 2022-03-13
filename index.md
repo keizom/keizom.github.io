@@ -341,6 +341,36 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Community demo – Calling Dynamics 365 CRM APIs from SharePoint - YouTube](https://www.youtube.com/watch?v=VXzYc6cfjuI&app=desktop)
 * [Dynamics 365の無料トレーニング](https://www.microsoft.com/ja-jp/events/top/training-days/dynamics365)
 * [今日から始めるDynamics 365 + PowerAppsでカスタムアプリを作成！](https://memo.tyoshida.me/power-platform/powerapps/start-today-create-custom-apps-with-powerapps-and-dynamics-365/)
+
+## PowerApps
+
+* [【PowerApps Tip's】開発言語経験者の多くが陥る最初の罠と回避方法 - Qiita](https://qiita.com/yamad365/items/feed918f9934ee6a2f07)
+* [【PowerApps】カメラで撮った画像をSharePointリストに保存し、他のアプリで見る。 - Qiita](https://qiita.com/Econoshift/items/2727dc687f5801d87272)
+* [AI Builder の概要](https://docs.microsoft.com/ja-jp/ai-builder/overview)
+* [Common Data Service とは何か？ - Power Apps  Microsoft Docs](https://docs.microsoft.com/ja-jp/powerapps/maker/common-data-service/data-platform-intro)
+* [Get started with building Power Apps in Project Oakdale - YouTube](https://www.youtube.com/watch?v=6vdx7JDuCq4)
+* [Microsoft 365に付属する「Power Platform」、使ってみるべき理由  日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/01549/020100001/)
+* [Microsoft Ignite 2020 Power Platform アップデート日本語版](https://www.youtube.com/watch?v=dpkJIM602SY)
+* [Microsoft PowerApps で Office 365 をもっと便利に 1/4](https://www.youtube.com/watch?v=MZzvgy94fUk)
+* [Power Apps (CDS for Teams) が使われているチームを取得する - MoreBeerMorePower](https://mofumofupower.hatenablog.com/entry/2020/09/25/200421)
+* [Power Apps で作る！大学向け業務アプリ ハンズオン講座  日本マイクロソフト](https://m.youtube.com/watch?v=lSeUzTrS1v8)
+* [Power Apps のキャンバス アプリとは?](https://docs.microsoft.com/ja-jp/powerapps/maker/canvas-apps/getting-started)
+* [Power Apps の概要 - Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/get-started-with-powerapps/1-powerapps-introduction)
+* [Power Platform「CoE Starter Kit」使ってみた  cloud.config Tech Blog](https://tech-blog.cloud-config.jp/2019-12-20-tried-coe-starter-kit/)
+* [Power PlatformのCommon Data Serviceを利用する10の理由 - 吉田の備忘録](https://memo.tyoshida.me/power-platform/powerapps/ten-reasons-to-use-the-common-data-service/)
+* [PowerApps Portals（Preview）ことはじめ。初期構成＆関連情報まとめ - Morning Girl](https://kageura.hatenadiary.jp/entry/powerappsportals01)
+* [PowerApps で名刺管理アプリを作ってみる(1) - Qiita](https://qiita.com/IKETA/items/132633f4988477809355)
+* [PowerAppsで来訪者管理アプリを作成する](https://www.si-jirei.jp/2019/01/23/powerapps%E3%82%B3%E3%83%A9%E3%83%A0/)
+* [コネクタのドキュメント - Connectors  Microsoft Docs](https://docs.microsoft.com/ja-jp/connectors/)
+* [ノンコーディングで業務アプリ開発！「PowerApps」と「Microsoft Flow」とは](https://info.microsoft.com/JA-DynOps-WBNR-FY18-06Jun-14-Businessappdevelopment-MCW0006792_02OnDemandRegistration-ForminBody.html)
+* [社内緊急対策のためのPower Platform テンプレートをリリース](https://memo.tyoshida.me/power-platform/powerapps/crisis-communication-template-released/)
+* [働き方改革に効く！ゼロからはじめるPowerApps(5) Office 365のExcelとバーコード機能で固定資産の棚卸をしよう  マイナビニュース](https://news.mynavi.jp/article/powerapps-5/)
+* [働き方改革に効く！ゼロからはじめるPowerApps(11) スキルや資格をMicrosoft 365ユーザーにひもづけて管理するアプリを作る  マイナビニュース](https://news.mynavi.jp/article/powerapps-11/)
+
+
+## PowerAppsModelDriven
+
+* [Power Apps で モデル駆動型アプリを作る（１）  IT長のネタ帳](https://www.d3654.be/getting-started-model-driven-powerapps01/)
 * [Power PlatformのCommon Data Serviceを利用する10の理由 - 吉田の備忘録](https://memo.tyoshida.me/power-platform/powerapps/ten-reasons-to-use-the-common-data-service/)
 * [Common Data Service とは何か？ - Power Apps  Microsoft Docs](https://docs.microsoft.com/ja-jp/powerapps/maker/common-data-service/data-platform-intro)
 * [Power Apps を使用したモデル駆動型アプリの構築の概要 - Power Apps  Microsoft Docs](https://docs.microsoft.com/ja-jp/powerapps/maker/model-driven-apps/model-driven-app-overview)
