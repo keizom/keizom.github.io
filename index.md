@@ -658,15 +658,32 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Azure Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
 * [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
 
-## Microsoft Support Teams Blog
+## MicrosoftSupportTeamsBlog
 
+* [突然消滅したMicrosoft TechNet／MSDNブログ（日本語）の捜索](https://atmarkit.itmedia.co.jp/ait/articles/1906/04/news004.html)
+* [日本マイクロソフト サポート情報](https://cssjpn.github.io/)
+* [docs.microsoft.com チーム ブログ](https://docs.microsoft.com/ja-jp/teamblog/)
+* [Japan Exchange & Outlook Support Blog](https://jpmessaging.github.io/blog/)
+* [Japan Microsoft Endpoint Manager Support Blog](https://jpmem.github.io/blog/)
+* [Japan Developer Support Internet Team Blog](https://jpdsi.github.io/blog/)
+* [Tech Community](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
+* [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/)
+* [Microsoft Japan Blog](https://news.microsoft.com/ja-jp/category/blog/)
+* [Japan SCCM & WSUS Support Team](https://social.msdn.microsoft.com/Forums/ja-JP/home?forum=jpsccmwsus)
+* [Microsoft Security Response Center](https://msrc-blog.microsoft.com/)
 * [Microsoft SQL Server Japan Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/?s=SQL+Troubleshooting)
 * [Exchange Team Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)
 * [Exchange_Outlookサポートチーム](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/home?forum=exchangeteamjp)
 * [Japan SharePoint Support Team Blog archive](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/)
 * [Japan SharePoint Support Team](https://social.msdn.microsoft.com/Forums/ja-JP/home?forum=sharepointsupportteamja)
-* [Japan Azure Identity Support Blog](https://jpazureid.github.io/blog/index.html)
+* [Japan Azure Identity Support Blog](https://jpazureid.github.io/blog/)
 * [Japan Microsoft Intune & MDM for Office 365 Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpintune/)
+
+## MicrosoftSupportTeamsBlog(Archive)
+
+* [Japan WSUS Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpwsus/)
+* [Japan System Center Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/systemcenterjp/)
+* [Cloud and Server Product Japan Blog](https://docs.microsoft.com/ja-jp/archive/blogs/mssvrpmj/)
 
 ## Microsoft Support Teams Post
 
