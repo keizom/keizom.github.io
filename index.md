@@ -501,15 +501,64 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [Azure環境作ったら最初にやるべきこと 2021年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
 
+## Cognitive Services
+
+* [All Around Azure: Developers Guide to AI - 日本語配信](https://m.youtube.com/watch?v=rjtt6y_1Nak)
+* [Cogbot Meetup Online #29 - Ignite 2020 キャッチアップ編](https://www.youtube.com/watch?v=cIgjQgLjMuQ)
+* [Microsoftが誰でも簡単に機械学習モデルが作れるツール「Lobe」を公開！  Techable(テッカブル)](https://techable.jp/archives/140757)
+* [AI Builder: AI Embedded in Power Apps- Part 1 - RADACAD](https://radacad.com/ai-builder-power-apps-embed-with-ai-part-1)
+* [非エンジニア向け AI ビジネス スクール - tottokug  Microsoft Docs](https://docs.microsoft.com/ja-jp/users/tottokug/collections/2g78i6x8z1nxe)
+* [AIのビジネス活用スタート](https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-AIbusinessutilization-SRGCM1257.pdf)
+* [Cognitive Services Custom Vision から画像解析モデルを Dockerimage に Export して利用する - Qiita](https://qiita.com/annie/items/3c0d0ec517d61526eb63)
+* [Cognitive Services LUIS でノンコーディング自然言語分析始めよう (2019年6月版) - Qiita](https://qiita.com/annie/items/5fdc9030521f8a0ed61c)
+* [Cognitive Services Speech Service ことはじめ_20190725](https://www.slideshare.net/ayomori/cogbot-cognitive-servicesspeechgettingstarted20190725)
+* [GitHub - beachside-project/CustomVision-ML.NET-Hands-on: Create Image classifier in Custom Vision(Microsoft Cognitive Services) and Create App using ML.NET.](https://github.com/beachside-project/CustomVision-ML.NET-Hands-on)
+* [開発者のためのAI アプリケーション開発ガイド](https://azure.microsoft.com/mediahandler/files/resourcefiles/create-your-first-intelligent-bot-with-microsoft-ai-ja-jp/JA-JP-CNTNT-eBook-AI-A-Developer's-Guide-to-Building-AI-Applications.pdf)
+
 ## Azure VM
 
 * [Azure MonitorエージェントによるWindows仮想マシンの監視](https://cloudsteady.jp/post/50812/)
 * [チュートリアル - Azure PowerShell を使用して Windows VM を作成および管理する](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/tutorial-manage-vm)
 
+## Azure vNET
+
+* [Azure SQLDabase にプライベートなネットワークからアクセスしてみよう](https://blog.nextscape.net/archives/Date/2018/02/serviceendpointsqldb)
+* [仮想ネットワークを使用してApp ServiceからAzure Sql Databaseへのアクセスを保護する方法](https://www.it-swarm.dev/ja/azure/%E4%BB%AE%E6%83%B3%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6app-service%E3%81%8B%E3%82%89azure-sql-database%E3%81%B8%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%92%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/838275760/)
+* [aaSにプライベート接続を提供する サービスエンドポイント とは？](https://www.cloudou.net/virtual-network/vnet017/)
+* [VNet Integrationを利用してWeb apps とAzure Databaseを接続してみる - ピロローグ](https://pir0.hatenablog.com/entry/2019/01/28/154423)
+
 ## Azure Logic Apps
 
 * [Azure Logic Apps (Preview) を Visual Studio Codeで作成するための手順](https://mofumofupower.hatenablog.com/entry/2020/09/23/222908)
 * [メールで届く添付ファイルの暗号化を自動解除するLogic Appsを作ろう (1/3)](https://ascii.jp/elem/000/004/029/4029136/)
+
+## SendGrid
+
+* [Azure でメールを受信するには  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/ainaba-csa/how-to-receive-email-by-azure)
+* [Domain Authentication(SPF/DKIM設定)の設定方法](https://sendgrid.kke.co.jp/docs/User_Manual_JP/Settings/Sender_authentication/How_to_set_up_domain_authentication.html)
+* [SendGrid で Gmail へ送信したメールに「sendgrid.me 経由」という表示をさせない設定](https://blog.shibayan.jp/entry/20150118/1421582136)
+* [SendGrid 新人成長記　第九回　メールサーバを立ててメール送信してみた  SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=12347)
+* [SendGrid 電子メール サービスの使用方法 (.NET)  Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/sendgrid-dotnet-how-to-send-email)
+* [SendGridでメール配送を始めるためのまとめ - Qiita](https://qiita.com/shiru/items/0dbc48df217ffe51b1f3)
+* [Webhookのデバッグに便利なツール「Beeceptor」の紹介  SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=11260)
+* [Webhookのデバッグに便利なツール「Webhook.site」の紹介  SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=11340)
+* [まず最初にすることシリーズ：メール送信までにするべきこと](https://sendgrid.kke.co.jp/blog/?p=10372)
+* [メールのテストをする方法](https://sendgrid.kke.co.jp/blog/?p=10535)
+* [メール運用がロストテクノロジーになっていく話 - Qiita](https://qiita.com/koichiro/items/d65ac1af03b9063f0592)
+* [メール送信チュートリアル【まとめ】](https://sendgrid.kke.co.jp/blog/?p=10832)
+* [携帯キャリアにメールを届けるための設定　～なりすまし規制編～](https://sendgrid.kke.co.jp/blog/?p=10875)
+* [送信ドメインを認証するためのSPFレコードに詳しくなろう  SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=3509)
+
+## Azure DevOps
+
+* [Azure  知って得する DevOps  初心者向け 13 #くらでべ](https://www.youtube.com/watch?v=U_w9qBB5pVU)
+* [Azure DevOps + App Serviceで簡単にCI/CD環境を構築する](https://www.ryuzee.com/contents/blog/7136)
+* [Azure DevOps セキュリティ設定解説](https://www.youtube.com/watch?v=pLqimyafx8A)
+* [Azure TIPS API Apps の作成](https://www.youtube.com/watch?v=lIPJ7yYV-f8)
+* [DevOpsで開発とデプロイのサイクルを高速化し、テストや監視で事前に障害を潰す。「オペレーショナルエクセレンス」実現のポイント - Qiita Zine](https://zine.qiita.com/topics/202102-caf-waf-3/)
+* [ExcelマクロのVBAソースコードをAzure DevOpsでバージョン管理する方法  by Takeru Saso  Medium](https://medium.com/@saso_33429/excel%E3%83%9E%E3%82%AF%E3%83%AD%E3%81%AEvba%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92azure-devops%E3%81%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-d20b751ddc30)
+* [ゼロからはじめるAzure(26) 「Azure DevOps」でチーム開発を行おう（2）Azure Boardsの概要と使い方  マイナビニュース](https://news.mynavi.jp/article/zeroazure-26/)
+* [タスク管理をスプレッドシートからAzure Boardsにしたい人向けの話](https://kkamegawa.hatenablog.jp/entry/2020/10/03/133802)
 
 ## Azure API Management
 
@@ -520,6 +569,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [ゼロからはじめるAzure(23) 「Azure Key Vault」を使ってセキュアなアプリを作ろう  マイナビニュース](https://news.mynavi.jp/article/zeroazure-23/)
 * [Azure Key Vault のマネージド ストレージ アカウント - PowerShell バージョン  Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/key-vault/secrets/overview-storage-keys-powershell)
 * [Azure App Service で Azure Key Vault がめちゃ簡単に使えるようになりました（プレビュー）](https://blog.okazuki.jp/entry/2018/12/13/122834)
+* [「Azure Key Vault」との連携で実現：Azure SQL Database／SQL Data Warehouseの透過的データ暗号化機能（TDE）で「Bring Your Own Key」をサポート - ＠IT](http://www.atmarkit.co.jp/ait/spv/1708/31/news064.html)
 
 ## Azure Pipelines
 
@@ -617,7 +667,6 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [ノンコーディングで簡易FAQ Slack Botを作ってみた話（QnA Maker ＋ Azure Bot Service）](https://zuvuyalink.net/nrjlog/archives/4368)
 * [次世代コミュニケーションツール「チャットボット」の活用 ?Azure Bot ServiceでAzureのことに何でも答えてくれるLINEボットを作る ?【概要編】  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/17023)
 
-
 ## Azure Application Gateway
 
 ### Setting_AAG
@@ -709,12 +758,91 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Windows Information Protection を正しく知る：Microsoft 365で実現するクラウド時代のセキュリティ（4） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1906/28/news022.html)
 * [Windows Information Protection を正しく知る　～設定編～：Microsoft 365で実現するクラウド時代のセキュリティ（5） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1907/24/news011.html#cxrecs_s)
 
+# Develop
+
+## PowerShell
+
+* [【Write-Verbose】スクリプトや関数の詳細を表示する【PowerShell】](https://www.tekizai.net/entry/2021/08/26/063000)
+* [Windows PowerShell基本Tips](https://www.atmarkit.co.jp/ait/series/3410/)
+
+## Windows Terminal
+
+* [Microsoftが紹介する「Windows Terminal」のカスタマイズや活用のコツ](https://www.atmarkit.co.jp/ait/articles/2011/04/news052.html)
+* [Azure Cloud ShellをローカルのVisual Studio Code／Windows Terminalに統合する方法：Microsoft Azure最新機能フォローアップ（89） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1908/27/news017.html)
+
+## Docker
+
+* [マネージドサービスで始めるKubernetes入門](https://atmarkit.itmedia.co.jp/ait/series/16804/)
+* [コンテナーとは？ Kubernetesとは？ 導入や運用、ユースケースを解説](https://codezine.jp/article/detail/11336)
+* [「Visual Studio Code」で「WSL 2」上のリモートコンテナを使用するには、Microsoftが解説：Windows 10でDocker Desktop Stableを効果的に活用する - ＠IT](https://www.atmarkit.co.jp/ait/articles/2007/10/news138.html)
+* [モダンな帳票アプリを作る前に知っておきたい、Docker＋.NET開発の基本](https://codezine.jp/article/detail/15506)
+* [Windows 10 Homeでも使えて、インストールも超簡単な「Docker Desktop for Windows」登場 (1/2)：Windows 10 The Latest - ＠IT](https://www.atmarkit.co.jp/ait/articles/2011/20/news015.html)
+* [【連載】WSL2、Visual Studio Code、DockerでグッとよくなるWindows開発環境 〜 その1：まずは概要 〜  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/21023)
+* [Docker と Kubernetes でアプリをコンテナーに入れる](https://azure.microsoft.com/ja-jp/resources/containerize-your-apps-with-docker-and-kubernetes/)
+* [Docker と Kubernetes を使ったコンテナのデプロイ、スケーリング、オーケストレーション](https://azure.microsoft.com/mediahandler/files/resourcefiles/containerize-your-apps-with-docker-and-kubernetes/ja-jp/JA-JP-Containerize_your_Apps_with_Docker_and_Kubernetes.pdf)
+* [AzureAD ログインと Docker for Windows Shared Drive によるボリュームマウント - tech.guitarrapc.com](https://tech.guitarrapc.com/entry/2017/12/27/042458)
+* [Installing docker on azure virtual machine windows 10 - Stack Overflow](https://stackoverflow.com/questions/44817161/installing-docker-on-azure-virtual-machine-windows-10)
+* [【連載】世界一わかりみが深いコンテナ & Docker入門 〜 その1:コンテナってなに？ 〜  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/18811)
+* [第3回　Dockerコマンドの使い方：超入門Docker - ＠IT](https://www.atmarkit.co.jp/ait/articles/1702/01/news061.html)
+* [ゼロからはじめるDocker(1) Dockerとは？  マイナビニュース](https://news.mynavi.jp/article/docker-1/)
+* [Docker for Windows & Web Apps for Containers 実践活用技法](https://docs.microsoft.com/ja-jp/archive/blogs/nakama/dockerandazure)
+* [Docker入門（第一回）～Dockerとは何か、何が良いのか～](https://knowledge.sakura.ad.jp/13265/)
+
+## WSL
+
+* [【WSL入門】第1回　Windows 10標準Linux環境WSLを始めよう：ITの教室 - ＠IT](https://www.atmarkit.co.jp/ait/articles/1903/18/news031.html)
+* [「Windows×OpenSSH×WSL 2＝ほぼほぼネイティブなLinux」に見えてしまう、の作り方](https://www.atmarkit.co.jp/ait/articles/2007/15/news005.html)
+* [WSL2をインストールしてWindowsでUbuntuを使う方法](https://tombomemo.com/wsl2-install-settings/)
+* [Windows WSL2 WSL2でDocker開発環境を構築してみる - NicoNico Pun](https://blog.nicopun.com/post/2019-07-02-windows-wsl2/)
+
+## VisualStudioCode
+
+* [「Edge」の開発ツールを統合し「Visual Studio Code」でWebアプリの開発を完結 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1280989.html)
+* [「VS Code」を「Edge」の開発者ツールに接続する拡張機能 ～Microsoftが無償公開](https://forest.watch.impress.co.jp/docs/news/1193948.html)
+* [「VS Code」内から「Microsoft Edge」の開発者ツールが利用可能に：開発者ツールの「要素」と「ネットワーク」に対応 - ＠IT](https://www.atmarkit.co.jp/ait/articles/2010/16/news112.html)
+* [2019年時点で僕のVSCodeに入ってるプラグインや設定を紹介します - Shibajuku](https://shibajuku.net/vscode-plugin-settings/)
+* [2020年最新版 VSCodeのおすすめ拡張機能まとめ](https://homupedia.com/editor-vscode-extentions.html)
+* [RESTサービスを触る際の必須ツールPostmanを使ってみました  エクセルソフト ブログ](https://www.xlsoft.com/jp/blog/blog/2017/06/23/post-1638/)
+* [Visual Studio Code おすすめ拡張機能](https://web-guided.com/594/)
+* [Visual Studio Code で Git を 使う](https://azriton.github.io/2017/08/23/Visual-Studio-Code%E3%81%A7Git%E3%82%92%E4%BD%BF%E3%81%86/)
+* [Visual Studio Code ユーザースニペットの使い方まとめ](https://web-guided.com/620/)
+* [Visual Studio Code 入門～オススメ設定と拡張機能編～](https://necojackarc.hatenablog.com/entry/2017/03/16/090000)
+* [Visual Studio CodeでGitHubの複数アカウントを使い分ける - Qiita](https://qiita.com/ykoizumi0903/items/44e24d4180ae931552ce)
+* [Visual Studio CodeでGitHubリポジトリを「読む」のに便利な拡張機能が登場 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1331439.html)
+* [Visual Studio CodeでGitを利用する (1/3)](https://www.atmarkit.co.jp/ait/articles/1507/21/news017.html)
+* [Visual Studio Codeをインストール後に最初に設定したいこと](https://web-guided.com/567/)
+* [VS Code Conference Japanハンズオントラック - connpass](https://vscode.connpass.com/event/192720/)
+* [VS Code（Visual Studio Code）エディタを便利に使うための拡張機能](https://karaage.hatenadiary.jp/entry/2018/10/01/073000)
+* [VS Codeの見やすいテーマが登場！GitHubのデザインでコードも快適に -GitHub VS Code theme  コリス](https://coliss.com/articles/build-websites/operation/work/github-vscode-theme.html)
+* [VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介](https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c)
+* [VSCodeでのGitの基本操作まとめ - Qiita](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
+* [VSCodeのFindで今マッチしている場所にボーダーを引いて見やすくする](https://blog.shibayu36.org/entry/2020/10/12/180000)
+* [VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか) - Qiita](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
+* [コードを書くのが楽になる！知っておくと便利なVS Codeの機能・設定のまとめ  コリス](https://coliss.com/articles/build-websites/operation/work/vs-code-dont-need-extensions.html)
+* [チュートリアル:Visual Studio Code 拡張機能を設定する - Azure Machine Learning  Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/machine-learning/tutorial-setup-vscode-extension)
+* [続：Postman 使ってたけど VSCode の REST Client に乗り換えた - かずきのBlog@hatena](https://blog.okazuki.jp/entry/2019/07/14/104313)
+
+## VisualStudio
+
+* [Visual Studio 2019 で使っている拡張機能 - tech.guitarrapc.com](https://tech.guitarrapc.com/entry/2019/03/18/010348)
+* [Visual Studio 2019と拡張機能 : 情報系男子の備忘録](http://blog.livedoor.jp/robot_c/archives/17989990.html)
+* [【Visual Studio】括弧に色を付ける拡張機能「Viasfora」 - コガネブログ](https://baba-s.hatenablog.com/entry/2016/07/12/100000)
+* [【Visual Studio】オススメの拡張機能 その1（35個）](https://baba-s.hatenablog.com/entry/2016/06/29/100000)
+* [【Visual Studio】オススメの拡張機能 その2（16個） - コガネブログ](https://baba-s.hatenablog.com/entry/2017/10/03/100000)
+* [Visual Studio 2019 の新機能  Microsoft Docs](https://docs.microsoft.com/ja-jp/visualstudio/ide/whats-new-visual-studio-2019?view=vs-2019)
+* [Microsoft、「Visual Studio Container Tools」拡張機能をプレビュー公開 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1185382.html)
+* [Visual Studio 2019 で入れてる基本的な 拡張機能 - BEACHSIDE BLOG](https://blog.beachside.dev/entry/2019/04/08/204500)
+* [【Visual Studio 2017】オススメの拡張機能 その1（16個）](https://baba-s.hatenablog.com/entry/2017/10/04/100000)
+* [【Visual Studio 2017】オススメの拡張機能 その2（25個）](https://baba-s.hatenablog.com/entry/2017/12/25/000000)
+* [GitHub - CenterCLR/ozcodejapantour: OzCode japan tour materials.](https://github.com/CenterCLR/ozcodejapantour)
+
 # Site
 
 ## Microsoft
 
 * [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
 * [Microsoft Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
+* [Microsoft Azure](https://docs.microsoft.com/ja-jp/learn/azure/)
 * [Home - Power Platform Community](https://powerusers.microsoft.com/)
 * [コード サンプルを参照  Microsoft Docs](https://docs.microsoft.com/ja-jp/samples/browse/?products=azure)
 * [Power Apps Community Plan](https://powerapps.microsoft.com/ja-jp/communityplan/)
