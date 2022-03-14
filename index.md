@@ -543,7 +543,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [Azure Cosmos DB for MongoDB API with Xamarin Quick Start](https://docs.microsoft.com/en-us/samples/azure-samples/azure-cosmos-db-mongodb-xamarin-getting-started/azure-cosmos-db-mongodb-xamarin-getting-started/)
 * [GitHub - DocumentDB-Quickstart-DotNet](https://github.com/dzadnip/DocumentDB-Quickstart-DotNet)
-* [Azure Cosmos DB 自習書 Azure Cosmos DB 入門 SQL API 編 ](https://www.cloud-for-all.com/resource/azure-cosmos-db-sql-api)
+* [Azure Cosmos DB 自習書 Azure Cosmos DB 入門 SQL API 編](https://www.cloud-for-all.com/resource/azure-cosmos-db-sql-api)
 
 ## Application Insights
 
@@ -578,6 +578,12 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Azure Web アプリケーション ファイアウォールとは](https://docs.microsoft.com/ja-jp/azure/web-application-firewall/overview)
 * [Application Gateway での TLS 終端とエンド ツー エンド TLS の概要](https://docs.microsoft.com/ja-jp/azure/application-gateway/ssl-overview)
 * [アプリケーション ゲートウェイの動作](https://docs.microsoft.com/ja-jp/azure/application-gateway/how-application-gateway-works)
+* [Application Gateway で HTTP ヘッダーと URL を書き換える](https://docs.microsoft.com/ja-jp/azure/application-gateway/rewrite-http-headers-url)
+* [Application Gateway の複数サイトのホスト](https://docs.microsoft.com/ja-jp/azure/application-gateway/multiple-site-overview)
+* [Application Gateway の HTTP 設定の構成](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-http-settings)
+* [App Service などのマルチテナント バックエンドに対する Application Gateway のサポート](https://docs.microsoft.com/ja-jp/azure/application-gateway/application-gateway-web-app-overview)
+* [PowerShell を使用して Application Gateway で App Service を構成する](https://docs.microsoft.com/ja-jp/azure/application-gateway/create-web-app)
+
 
 ### Web_AAG
 
