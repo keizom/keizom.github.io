@@ -501,6 +501,69 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [Azure環境作ったら最初にやるべきこと 2021年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
 
+## Azure VM
+
+* [Azure MonitorエージェントによるWindows仮想マシンの監視](https://cloudsteady.jp/post/50812/)
+* [チュートリアル - Azure PowerShell を使用して Windows VM を作成および管理する](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/tutorial-manage-vm)
+
+## Azure Logic Apps
+
+* [Azure Logic Apps (Preview) を Visual Studio Codeで作成するための手順](https://mofumofupower.hatenablog.com/entry/2020/09/23/222908)
+* [メールで届く添付ファイルの暗号化を自動解除するLogic Appsを作ろう (1/3)](https://ascii.jp/elem/000/004/029/4029136/)
+
+## Azure API Management
+
+* [Azure API Managementの紹介](https://blog.nextscape.net/archives/Date/2019/02/azureapimanagement)
+
+## Azure Key Vault
+
+* [ゼロからはじめるAzure(23) 「Azure Key Vault」を使ってセキュアなアプリを作ろう  マイナビニュース](https://news.mynavi.jp/article/zeroazure-23/)
+* [Azure Key Vault のマネージド ストレージ アカウント - PowerShell バージョン  Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/key-vault/secrets/overview-storage-keys-powershell)
+* [Azure App Service で Azure Key Vault がめちゃ簡単に使えるようになりました（プレビュー）](https://blog.okazuki.jp/entry/2018/12/13/122834)
+
+## Azure Pipelines
+
+* [これからはじめるAzure Pipelines - Visual Studio Users Community Japan - kkamegawa's weblog](https://kkamegawa.hatenablog.jp/entry/2020/07/04/174915)
+* [Azure Pipelinesを使ったCI/CD環境の構築～Web Apps編～](https://cloudsteady.jp/post/16551/)
+* [(前編)CI/CDサービス「Azure Pipelines」入門 ～Microsoft Azure DevOps入門～](https://www.softbank.jp/biz/future_stride/entry/techblog/202001127_1/)
+
+## Azure SQL
+
+* [Azure SQL Database の便利機能!!使わないと損ですよ!!ネスケラボ](https://blog.nextscape.net/archives/Date/2017/11/azuresqldatabase01)
+* [Azure SQLDabase にプライベートなネットワークからアクセスしてみよう](https://blog.nextscape.net/archives/Date/2018/02/serviceendpointsqldb)
+
+## Azure Functions
+
+* [今Serverlessが面白いわけ](https://www.slideshare.net/yokawasa/serverless-151261322)
+* [Azure Serverless or Power Platform ～ あなたならどっち？！ ～ Power Platform 編](https://www.slideshare.net/yugoes1021/azure-serverless-or-power-platform-power-platform)
+* [【初心者向け】Azureでサーバーレスな簡易Webアプリケーションを作るハンズオン - Qiita](https://qiita.com/himarin269/items/d4b1001e088c23ff40f3)
+* [Azure Functionsを使ったイベント駆動アプリ](https://news.mynavi.jp/article/zeroazure-8/)
+* [多分わかりやすいDurable Functions ?サーバーレスは次のステージへ?【入門編】  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/12991)
+* [Azure Functions - C# を活用するために気をつけていることをまとめてみる - tech.guitarrapc.cóm](https://tech.guitarrapc.com/entry/2016/04/16/052124)
+* [サーバーレスアーキテクチャとAzure Functions](https://docs.microsoft.com/ja-jp/archive/blogs/azure-sa-members/azurefunctions)
+* [Azure サーバーレス コンピューティング クックブック、第 2 版](https://azure.microsoft.com/ja-jp/resources/azure-serverless-computing-cookbook/)
+* [Azure Functions その1 簡単な使い方を知る  RARPA　(ラーパ・RW高等研究計画局)](http://www.rarpa.net/?p=5877)
+* [Azure FunctionsでEvent Webhookデータを受信する SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=9403#2)
+* [Azure Functions から SQL Database に書き込む (ポータル版とVS版)](https://chomado.com/programming/c-sharp/update-sql-database-from-azure-functions/)
+* [Azure FunctionsでToken Bindingを使って、Azure Active DirectoryによるOAuth認証をラクチンにする](https://tech-lab.sios.jp/archives/12909)
+* [【TIPS】Azure Function 内で使用する秘密の文字列をソースコードに直書きしない](https://docs.microsoft.com/ja-jp/archive/blogs/junichia/%E3%80%90tips%E3%80%91azure-function-%E5%86%85%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E7%A7%98%E5%AF%86%E3%81%AE%E6%96%87%E5%AD%97%E5%88%97%E3%82%92%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC)
+* [Azure Functions から定期的に Microsoft Graph にアクセスする](https://docs.microsoft.com/ja-jp/archive/blogs/junichia/azure-functions-%E3%81%8B%E3%82%89%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AB-microsoft-graph-%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%99%E3%82%8B)
+
+## Azure App Service
+
+* [Azure App ServiceのVNet統合](https://tech-lab.sios.jp/archives/22563)
+* [PaaSにプライベート接続を提供する サービスエンドポイント とは？](https://www.cloudou.net/virtual-network/vnet017/)
+* [後悔しないための Azure App Service 設計パターン (2020 年版) - しばやん雑記](https://blog.shibayan.jp/entry/20200113/1578920798)
+* [App Service で KeyVault 参照する手順 - ぐだぐだ言ってないでコードを書けよ、ハゲ。](https://kheiakiyama.hateblo.jp/entry/2018/12/09/002517)
+* [Microsoft Azure入門 - Web Appsを使って簡単にWebアプリやAPIを公開してみよう - エンジニアHub若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2019/11/19/103000)
+
+## AADC
+
+* [デバイス ベースのアクセス制御  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/device_access)
+* [登録されたデバイスの管理方法  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/registerd_device_managemant)
+* [サイトのユーザー情報を強制的に AD と同期させる方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/ad)
+* [Azure AD Connectを使ってアカウントを同期する方法](https://www.gmo.jp/report/single/?art_id=244)
+
 ## WindowsVirtualDesktop
 
 * [今話題のWindows Virtual Desktopが大型アップデート！](https://licensecounter.jp/azure/blog/trend/windows-virtual-desktop-update.html)
@@ -689,6 +752,9 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Cloud and Server Product Japan Blog](https://docs.microsoft.com/ja-jp/archive/blogs/mssvrpmj/)
 * [Japan SharePoint Support Team Blog archive](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/)
 * [Japan Microsoft Intune & MDM for Office 365 Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpintune/)
+* [Japan Azure Identity Support Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/)
+* [Cloud Solution Architect チームブログ](https://docs.microsoft.com/ja-jp/archive/blogs/azure-sa-members/)
+* [フィールドSEあがりの安納です](https://docs.microsoft.com/ja-jp/archive/blogs/junichia/)
 
 ## Microsoft Support Teams Post
 
@@ -703,9 +769,15 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [idea.toString](https://idea.tostring.jp/)
 * [Sharepoint Technical Note](https://shanqiai.weblogs.jp/sharepoint_technical_note)
 * [SharePoint Developer](http://sharepoint.orivers.jp/)
-
+* [くらう道](https://www.cloudou.net/)
+* [しばやん雑記](https://blog.shibayan.jp/)
+* [SendGrid](https://sendgrid.kke.co.jp/blog/)
+* [サイオステクノロジー](https://tech-lab.sios.jp/)
+* [かずきのBlog@hatena](https://blog.okazuki.jp/)
+* [kkamegawa's weblog](https://kkamegawa.hatenablog.jp/)
+* [cloudsteady](https://cloudsteady.jp/post/category/blog/)
 
 ## WebSite
 
 * [ASCII × FIXER](https://ascii.jp/azure-fixer/)
-
+* [Mynavi](https://news.mynavi.jp/techplus/series/zeroazure/)
