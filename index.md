@@ -195,6 +195,10 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [カスケード分類作ってみた！](http://sharepointyuzuki.blog54.fc2.com/blog-entry-16.html)
 * [SharePoint 基本機能内で管理されたメタデータ以外で2階層のカスケード分類を実現させる方法](https://art-break.net/tech/?p=478)
 * [Youtube Cascading of Lookup Dropdown Fields on SharePoint 2013 and Office 365](https://www.youtube.com/watch?v=V_Jvv0arEm8)
+* [SharePoint サイト テンプレートとサイト スクリプトの概要](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/site-design-overview?WT.mc_id=M365-MVP-10648)
+* [サイト テンプレートをSharePointカスタマイズする](https://support.microsoft.com/ja-jp/office/%E3%82%B5%E3%82%A4%E3%83%88-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92sharepoint%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%99%E3%82%8B-39382463-0e45-4d1b-be27-0e96aeec8398?ui=ja-jp&rs=ja-jp&ad=jp#ID0EBADAAA=From_your_organization)
+
+
 
 ## SharePoint REST API
 
