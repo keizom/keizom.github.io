@@ -1,5 +1,7 @@
 # SharePoint Server
 
+* [SharePoint Server の認証の概要](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/authentication-overview)
+
 ## install
 
 * [SharePoint 2016: Step By Step Installation of Workflow Manager](https://social.technet.microsoft.com/wiki/contents/articles/34407.sharepoint-2016-step-by-step-installation-of-workflow-manager.aspx)
@@ -64,6 +66,15 @@
 * [SP2013 SSL 証明書の管理と SharePoint アプリ](https://shanqiai.weblogs.jp/sharepoint_technical_note/2014/12/sp2013-ssl-certification-and-sharepointapps.html)
 * [SharePoint Server 2016 での TLS 1.1 および TLS 1.2 のサポートの有効化](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/enable-tls-1-1-and-tls-1-2-support-in-sharepoint-server-2016)
 * [SharePoint 2013 で TLS と SSL のサポートを有効にする](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/enable-tls-and-ssl-support-in-sharepoint-2013)
+* [IISでhttpsのサイトを作成する - SSLサイトの構成 (IIS - Internet Information Service Tips)](https://www.ipentec.com/document/windows-windows-server-iis-setup-https-site)
+* [「証明機関」による証明書の発行 (サーバー証明書を作成する) (Windows Server Tips)](https://www.ipentec.com/document/create-server-certificate-file)
+* [認証局での証明書の生成](https://support.kaspersky.com/KWTS/6.1/ja-JP/186284.htm)
+* [【AD CS】エンタープライズ CA でサーバー証明書の発行手順](https://pkiwithadcs.com/issuing_server_cert_using_certweb/)
+* [Windows環境で証明書をインポートする方法](https://jp.globalsign.com/support/ssl/config/cert-import-win.html)
+* [「エンタープライズのルートCA」を用いた証明書の設定（Windows Server 2008以降）](https://support.brother.co.jp/j/s/support/ssl/setup/setup2012.html)
+* [Windowsの証明書サービスでサーバ証明書を発行する](https://atmarkit.itmedia.co.jp/ait/articles/0708/17/news079.html)
+* [2階層CAの構築(Windows2016)　③中間証明書の発行とインストール](https://milestone-of-se.nesuke.com/sv-advanced/digicert/intermediate-cert-issue-and-install/)
+* [AD CS で 5 年間有効なサーバー認証用の証明書を作成](https://blog.engineer-memo.com/2015/01/13/ad-cs-%E3%81%A7-5-%E5%B9%B4%E9%96%93%E6%9C%89%E5%8A%B9%E3%81%AA%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E8%AA%8D%E8%A8%BC%E7%94%A8%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%92%E4%BD%9C%E6%88%90/)
 
 ## Distributed Cache
 
@@ -681,9 +692,19 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Azure Application Gateway の整理](https://blog.memobog.net/2018/11/11/application-gateway-201811/)
 * [Application Gateway での無効なゲートウェイによるエラーのトラブルシューティング](https://docs.microsoft.com/ja-jp/azure/application-gateway/application-gateway-troubleshooting-502)
 * [Application Gateway リスナーの構成](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-listeners)
+* [Setting up Application Gateway with an App Service that uses Azure Active Directory Authentication](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/setting-up-application-gateway-with-an-app-service-that-uses/ba-p/392490)
+* [Enable remote access to SharePoint with Azure Active Directory Application Proxy](https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy-integrate-with-sharepoint-server)
+* [ポータルを使用して Application Gateway での相互認証を構成する](https://docs.microsoft.com/ja-jp/azure/application-gateway/mutual-authentication-portal)
+* [Application Gateway に関してよく寄せられる質問](https://docs.microsoft.com/ja-jp/azure/application-gateway/application-gateway-faq)
+* [Application Gateway での相互認証の概要](https://docs.microsoft.com/ja-jp/azure/application-gateway/mutual-authentication-overview)
+* [Application Gateway での相互認証エラーのトラブルシューティング](https://docs.microsoft.com/ja-jp/azure/application-gateway/mutual-authentication-troubleshooting)
+* [クライアント認証で使用する信頼されたクライアント CA 証明書チェーンをエクスポートする](https://docs.microsoft.com/ja-jp/azure/application-gateway/mutual-authentication-certificate-management)
+* [Azure Application Gateway でバックエンドを許可する証明書を作成する](https://docs.microsoft.com/ja-jp/azure/application-gateway/certificates-for-backend-authentication)
+* [What is Azure Application Gateway?](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
 
 ### Microsoft_AAG
 
+* [Using Azure Application Gateway to publish applications](https://savilltech.com/2018/03/17/using-azure-application-gateway-to-publish-applications/)
 * [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
 * [Application Gateway の価格](https://azure.microsoft.com/ja-jp/pricing/details/application-gateway/)
 * [Application Gateway](https://azure.microsoft.com/ja-jp/services/application-gateway/)
