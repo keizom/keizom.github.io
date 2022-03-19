@@ -164,33 +164,22 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [SharePoint Online エクスプローラーで開く機能の制限事項について](https://social.msdn.microsoft.com/Forums/ja-JP/75d6134c-69f2-4013-878f-7892b23e9042/sharepoint-online?forum=sharepointsupportteamja)
 * [SharePoint home sites: a landing for your organization on the intelligent intranet - Microsoft Tech Community - 621933](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-home-sites-a-landing-for-your-organization-on-the/ba-p/621933)
 * [Updates to SharePoint security, and migration - Microsoft Tech Community - 549585](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/updates-to-sharepoint-security-administration-and-migration/ba-p/549585)
-* [SharePointのテンプレート化方法まとめ - 鍋綿ブログ](https://www.micknabewata.com/entry/sharepoint/template)
 * [外部ユーザーからのアクセス要求を承認してSharePointサイトに権限を付ける作業を自動化してみた - 鍋綿ブログ](https://www.micknabewata.com/entry/sharepoint/user-invite)
-* [SharePoint モダン サイト ～ サイト デザインとサイト スクリプト～](https://www.slideshare.net/aiyamasaki528/sharepoint-91933139)
 * [SharePoint ：Column formatting を使ってみたけど僕には今のところ難しい](https://art-break.net/tech/?p=1523)
 * [SharePoint 「注目リンク」リストをCSSでイイカンジにカスタマイズ](https://art-break.net/tech/?p=918)
 * [SharePoint webhook の概要  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/apis/webhooks/overview-sharepoint-webhooks)
-* [SharePoint のサイト デザインとサイト スクリプトの作成を開始する  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/get-started-create-site-design)
 * [ビューの書式設定を使用して SharePoint をカスタマイズする](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/view-formatting)
-* [SharePoint Online で調整またはブロックを回避する  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 * [SharePoint アドインのコンテキスト トークン OAUTH フロー](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/context-token-oauth-flow-for-sharepoint-add-ins)
 * [GitHub - pnp/sp-starter-kit: Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.](https://github.com/pnp/sp-starter-kit)
 * [SharePoint Online モダン ページのページ ヘッダーを非表示にする  idea.toString();](https://idea.tostring.jp/?p=2512)
 * [Microsoft Flow を使って SharePoint Online に保存されたドキュメントの承認ワークフローを作ってみる](https://idea.tostring.jp/?p=3540)
 * [Power Automate のフローで SharePoint リストアイテムの権限を操作してみる](https://idea.tostring.jp/?p=5427)
-* [SharePoint Online モダンサイトのホームサイトを設定する](https://idea.tostring.jp/?p=5013)
-* [SharePoint ハブ (Hub) を利用しよう](https://shanqiai.weblogs.jp/sharepoint_technical_note/2021/02/sharepoint-hub.html)
-* [待望の新たなモダンな SharePoint サイトテンプレート登場 !](https://shanqiai.weblogs.jp/sharepoint_technical_note/2021/04/modern-site-templates.html)
-* [モダンページのページレイアウトの種類と変更方法](http://sharepoint.orivers.jp/article/10031)
 * [Microsoft 365 SharePoint Modernization Scanner を動かしてみました - （）のブログ](https://mitomoha.hatenablog.com/entry/2020/07/09/012941)
 * [SharePoint Spaces - Mixed Reality for the Enterprise](https://m.youtube.com/watch?feature=youtu.be&v=MW565hMnXLg)
-* [SharePoint アドインのコンテキスト トークン OAUTH フロー](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/context-token-oauth-flow-for-sharepoint-add-ins)
 * [Moving SharePoint Documents to the File System](https://dataqueen.unlimitedviz.com/2013/02/moving-sharepoint-documents-to-the-file-system/)
 * [PowerShell Modules for Managing SharePoint Online](https://docs.microsoft.com/ja-jp/archive/blogs/dawiese/powershell-modules-for-managing-sharepoint-online)
-* [SharePoint Online モダン ページで “ちょっと” カスタマイズできる方法を模索してみる](https://idea.tostring.jp/?p=3986)
 * [新しい Microsoft Stream と SharePoint](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/10/new-microsoft-stream.html)
 * [Find And Extract Sharepoint Documents With SQL – Mikes Data Work](https://mikesdatawork.wordpress.com/2018/05/11/find-and-extract-sharepoint-documents-with-sql/)
-* [How to use PowerShell in SharePoint Online/2016/2013 - SPGuides](https://www.spguides.com/powershell-sharepoint/)
 * [Display modal pop up in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/display-modal-pop-up-in-sharepoint/?sfns=mo)
 * [Useful CSS Classes in SharePoint 2013 – JoshMcCarty.com](https://joshmccarty.com/useful-css-classes-sharepoint-2013/)
 * [既定のサーバー リボンのカスタマイズの場所  Microsoft Docs](https://docs.microsoft.com/ja-jp/previous-versions/office/developer/sharepoint-2010/ee537543(v=office.14))
@@ -202,15 +191,30 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [SharePoint Spaces - Mixed Reality for the Enterprise](https://m.youtube.com/watch?v=MW565hMnXLg)
 * [Microsoft 365 SharePoint Modernization Scanner を動かしてみました - （）のブログ](https://mitomoha.hatenablog.com/entry/2020/07/09/012941)
 * [【オンライン セミナー】 SharePoint Online を使いこなすための設定大解説!](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-08-SharePoint-Online-MCW0004583.html)
+
+### Cascade
+
 * [SPServicesでカスケード表示のドロップダウンを実現する](http://wakky10777.blog.fc2.com/blog-entry-39.html)
 * [SharePointでカスケードドロップダウンの実装サンプル](http://katoj.hatenablog.com/entry/2015/06/24/134250)
 * [カスケード分類作ってみた！](http://sharepointyuzuki.blog54.fc2.com/blog-entry-16.html)
 * [SharePoint 基本機能内で管理されたメタデータ以外で2階層のカスケード分類を実現させる方法](https://art-break.net/tech/?p=478)
 * [Youtube Cascading of Lookup Dropdown Fields on SharePoint 2013 and Office 365](https://www.youtube.com/watch?v=V_Jvv0arEm8)
+
+### Modern
+
+* [SharePoint Online モダン ページで “ちょっと” カスタマイズできる方法を模索してみる](https://idea.tostring.jp/?p=3986)
+* [SharePoint Online モダンサイトのホームサイトを設定する](https://idea.tostring.jp/?p=5013)
+* [SharePoint ハブ (Hub) を利用しよう](https://shanqiai.weblogs.jp/sharepoint_technical_note/2021/02/sharepoint-hub.html)
+* [待望の新たなモダンな SharePoint サイトテンプレート登場 !](https://shanqiai.weblogs.jp/sharepoint_technical_note/2021/04/modern-site-templates.html)
+* [モダンページのページレイアウトの種類と変更方法](http://sharepoint.orivers.jp/article/10031)
+
+### Template
+
 * [SharePoint サイト テンプレートとサイト スクリプトの概要](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/site-design-overview?WT.mc_id=M365-MVP-10648)
 * [サイト テンプレートをSharePointカスタマイズする](https://support.microsoft.com/ja-jp/office/%E3%82%B5%E3%82%A4%E3%83%88-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92sharepoint%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%99%E3%82%8B-39382463-0e45-4d1b-be27-0e96aeec8398?ui=ja-jp&rs=ja-jp&ad=jp#ID0EBADAAA=From_your_organization)
-
-
+* [SharePointのテンプレート化方法まとめ - 鍋綿ブログ](https://www.micknabewata.com/entry/sharepoint/template)
+* [SharePoint モダン サイト ～ サイト デザインとサイト スクリプト～](https://www.slideshare.net/aiyamasaki528/sharepoint-91933139)
+* [SharePoint のサイト デザインとサイト スクリプトの作成を開始する  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/get-started-create-site-design)
 
 ## SharePoint REST API
 
@@ -245,6 +249,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [SharePoint Online の HTTP 調整 (応答コード 429, 503) に関して](https://social.msdn.microsoft.com/Forums/ja-JP/8e5a4116-c96a-4d3e-9bbf-6efb852b5d88/sharepoint-online-12398-http-3551925972-2454031572124671254012489-429-503?forum=sharepointsupportteamja)
 * [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
+* [SharePoint Online で調整またはブロックを回避する  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 * [Create Update Delete Or Retrieve SharePoint Site Collections Using CSOM PowerShell](https://www.c-sharpcorner.com/article/create-update-delete-or-retrieve-sharepoint-site-collectio/)
 * [Creating SharePoint Site Collection through PowerShell CSOM](http://alexbrassington.com/2014/08/20/creating-sharepoint-site-collection-through-powershell-csom/)
 * [Office 365グループの一覧とメンバーを取得するPowerShellスクリプト(多要素認証対応)](https://windowsadmin.ebisuda.com/2017/12/19/office-365%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E4%B8%80%E8%A6%A7%E3%81%A8%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8Bpowershell%E3%82%B9%E3%82%AF%E3%83%AA/)
@@ -252,6 +257,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [SharePoint Online: Start Workflow on All Items in a List using PowerShell - SharePoint Diary](https://www.sharepointdiary.com/2018/05/sharepoint-online-start-workflow-using-powershell.html)
 * [Bulk Upload Files to SharePoint](https://docs.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/bulk-upload-documents-sample-app-for-sharepoint)
 * [PnP/Samples/Core.LargeFileUpload/](https://github.com/pnp/PnP/tree/master/Samples/Core.LargeFileUpload)
+* [How to use PowerShell in SharePoint Online/2016/2013 - SPGuides](https://www.spguides.com/powershell-sharepoint/)
 
 ## PnP SharePoint
 
@@ -362,6 +368,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## PowerApps
 
+* [Webinar オンデマンド一覧](https://www.microsoft.com/ja-jp/biz/dynamics/power-platform-webinar.aspx)
 * [【PowerApps Tip's】開発言語経験者の多くが陥る最初の罠と回避方法 - Qiita](https://qiita.com/yamad365/items/feed918f9934ee6a2f07)
 * [【PowerApps】カメラで撮った画像をSharePointリストに保存し、他のアプリで見る。 - Qiita](https://qiita.com/Econoshift/items/2727dc687f5801d87272)
 * [AI Builder の概要](https://docs.microsoft.com/ja-jp/ai-builder/overview)
@@ -525,6 +532,12 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [IP アドレス 168.63.129.16 とは](https://docs.microsoft.com/ja-jp/azure/virtual-network/what-is-ip-address-168-63-129-16)
 
+## Microsoft Operations Management Suite
+
+* [クラウド時代には、なぜ「ログ分析」が重要になるのか――高度なログ分析機能を、すぐに、簡単に使えるMicrosoft Operations Management Suite](https://atmarkit.itmedia.co.jp/ait/articles/1611/07/news010.html)
+* [安全で管理の行き届いたクラウド](https://azure.microsoft.com/ja-jp/services/virtual-machines/secure-well-managed-iaas/#overview)
+* [Azure Monitor](https://azure.microsoft.com/ja-jp/services/monitor/#overview)
+
 ## Cognitive Services
 
 * [All Around Azure: Developers Guide to AI - 日本語配信](https://m.youtube.com/watch?v=rjtt6y_1Nak)
@@ -622,9 +635,12 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Azure FunctionsでToken Bindingを使って、Azure Active DirectoryによるOAuth認証をラクチンにする](https://tech-lab.sios.jp/archives/12909)
 * [【TIPS】Azure Function 内で使用する秘密の文字列をソースコードに直書きしない](https://docs.microsoft.com/ja-jp/archive/blogs/junichia/%E3%80%90tips%E3%80%91azure-function-%E5%86%85%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E7%A7%98%E5%AF%86%E3%81%AE%E6%96%87%E5%AD%97%E5%88%97%E3%82%92%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC)
 * [Azure Functions から定期的に Microsoft Graph にアクセスする](https://docs.microsoft.com/ja-jp/archive/blogs/junichia/azure-functions-%E3%81%8B%E3%82%89%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AB-microsoft-graph-%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%99%E3%82%8B)
+* [Azure Functions における Azure Blob Storage の出力バインド](https://docs.microsoft.com/ja-jp/azure/azure-functions/functions-bindings-storage-blob-output?tabs=csharp)
+* [Azure Functionsのお勉強メモ（7）Blob Storage出力バインドを使ってBlobにファイルを出力する その2](https://miyohide.hatenablog.com/entry/2021/04/25/174107)
 
 ## Azure App Service
 
+* [AzurePaaS研究サイト](https://www.azureportal-site.com/appservice-functions-portal)
 * [Azure App ServiceのVNet統合](https://tech-lab.sios.jp/archives/22563)
 * [PaaSにプライベート接続を提供する サービスエンドポイント とは？](https://www.cloudou.net/virtual-network/vnet017/)
 * [後悔しないための Azure App Service 設計パターン (2020 年版) - しばやん雑記](https://blog.shibayan.jp/entry/20200113/1578920798)
@@ -685,6 +701,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 ## Application Insights
 
 * [既存の Application Insights を Workspace ベースに移行した - しばやん雑記](https://blog.shibayan.jp/entry/20200928/1601229167)
+* [世界一わかりみの深いAPM 〜Application Insightsでアプリケーションパフォーマンス管理に全集中！！〜](https://tech-lab.sios.jp/archives/23948)
 
 ## Azure Bot Service
 
@@ -792,6 +809,97 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Windows Information Protection を正しく知る：Microsoft 365で実現するクラウド時代のセキュリティ（4） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1906/28/news022.html)
 * [Windows Information Protection を正しく知る　～設定編～：Microsoft 365で実現するクラウド時代のセキュリティ（5） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1907/24/news011.html#cxrecs_s)
 
+# Web
+
+## VScode
+
+* [コードを書くのが楽になる！知っておくと便利なVS Codeの機能・設定のまとめ  コリス](https://coliss.com/articles/build-websites/operation/work/vs-code-dont-need-extensions.html)
+* [VS CodeでHTMLを楽々コーディング！ (1/2)](https://www.atmarkit.co.jp/ait/articles/1806/26/news032.html)
+* [WebコーダーがVSCodeで使いたいショートカットと設定、拡張機能](https://haniwaman.com/web-vscode/)
+* [VS Codeの見やすいテーマが登場！GitHubのデザインでコードも快適に -GitHub VS Code theme  コリス](https://coliss.com/articles/build-websites/operation/work/github-vscode-theme.html)
+
+## Carousel
+
+* [Bootstrapで画像をアルバムみたいにカッコよく表示しよう](https://codezine.jp/article/detail/8350)
+* [bootstrapのカルーセルの使い方とカスタマイズのサンプルを紹介](https://be-engineer.jp/programming/514/)
+* [カルーセルUIを実現するJSライブラリまとめ(2021年版) - 導入手間や機能の比較紹介](https://ics.media/entry/210902/)
+
+## html
+
+* [HTML/CSS初学者がつまづきやすい記述ミスと修正方法  Webクリエイターボックス](https://www.webcreatorbox.com/tech/html-css-beginner)
+* [初心者向け！HTML/CSSのコーディング手順をイチからしっかりと。  Webクリエイターボックス](https://www.webcreatorbox.com/tech/html-css-coding-steps)
+* [「全ての住所フォームがこうなってほしい」　SIerが公開した“使いやすい入力欄”の作り方が話題　ソースコードも掲載](https://www.itmedia.co.jp/news/articles/2203/02/news056.html)
+* [【暫定】コーダー歴2年で辿り着いた保守しやすいコーディング手法](https://zenn.dev/haniwaman/articles/bf392f397c8db7341881)
+* [HTML Living Standard HTML要素チートシート](https://htmlls.docs-share.com/)
+* [HTMLコーダーにとっての2020年](https://ics.media/entry/200710/)
+* [Webサイトのコーディングで困る前に知っておきたい3つのポイント](https://stocker.jp/diary/web-coding-point/)
+* [Webフォントで文字化けしたときのよくある原因と対処法](http://blog.1dz.jp/?eid=830)
+* [Web制作が捗るChrome拡張機能12選 – おすすめの拡張機能を集めてみた  Pulp Note - WebデザインやWebサイト制作の現場で使えるTipsやアイデアを紹介](https://pulpxstyle.com/chrome-extensions/)
+* [Web制作の効率、生産性アップ！話題の最新オンラインツール33個まとめ - PhotoshopVIP](https://photoshopvip.net/126320)
+* [アコーディオンのアイコン：どのシグニファイアが最適か – U-Site](https://u-site.jp/alertbox/accordion-icons/)
+* [配色に迷ったらこれ！配色イメージを言語化して論理的に伝えられるスケールがめちゃくちゃ役に立つ「語彙力ない私にうってつけ」 - Togetter](https://togetter.com/li/1744709)
+* [これから使い始めたいWebフォント＆Google Font活用法まとめ](https://ascii.jp/elem/000/001/220/1220736/)
+* [「誰がこんなネーミングにしたんだ……。」プログラミングのネーミングルールを決める時に参考にしたい情報まとめ](https://ferret-plus.com/4680)
+* [フロントエンドエンジニア必見！JavaScript開発現場で人気の「Webpack」とは？](https://ferret-plus.com/6337)
+* [地味にスゴいってホント!? わかりやすくHTML5.1の追加された新機能を紹介](https://ferret-plus.com/5693)
+* [2020年、オンラインサービスやWebアプリの開発を独学で勉強したい人に役立つ練習プロジェクトのまとめ  コリス](https://coliss.com/articles/build-websites/operation/work/8-projects-with-modern-designs.html)
+* [Bootstrap 5の作業環境の構築方法、jQueryを使用しないJavaScriptでの実装方法を解説  コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-tutorial-without-jquery.html)
+* [CSSで画像の上に表示するテキストをより読みやすく、より美しくするテクニック・実装方法のまとめ  コリス](https://coliss.com/articles/build-websites/operation/css/handling-text-over-images-in-css.html)
+* [HTML5の基本テンプレートファイル一式、Webページを実装するための必要最小限をまとめたHTML  コリス](https://coliss.com/articles/build-websites/operation/work/html-template-for-web-apps-or-sites.html)
+* [HTMLのtableにクラスを加えるだけで、グラフやチャートを簡単に実装できるCSSのフレームワーク -Charts.css](https://coliss.com/articles/build-websites/operation/css/charts-css-for-data-visualization.html)
+* [JavaScriptでのメディアクエリ、matchMediaの使い方を解説  コリス](https://coliss.com/articles/build-websites/operation/javascript/javascript-media-queries.html)
+* [Responsive Height Design -レスポンシブを高さの観点から、Webサイトやスマホアプリの実装で役立つテクニック](https://coliss.com/articles/build-websites/operation/css/responsive-height-design.html)
+* [Webページやスマホアプリでよく使用される代表的な5つのレイアウトをCSS Gridで実装するテクニック  コリス](https://coliss.com/articles/build-websites/operation/css/css-grid-with-5-layouts.html)
+* [Web制作者は要チェック！最近のランディングページで見かけるデザインやアイデアのまとめ -SaaS Pages](https://coliss.com/articles/build-websites/operation/work/collection-of-the-best-landing-pages.html)
+* [これなら簡単で便利！最近見かけるCSSのさまざまなコンポーネントをコピペで利用できる -CodyHouse Framework  コリス](https://coliss.com/articles/build-websites/operation/css/codyhouse-framework-2-0.html)
+* [よく使われるレイアウトやUIコンポーネント、それだけを実装するためのHTMLとCSSのシンプルなコードのまとめ  コリス](https://coliss.com/articles/build-websites/operation/css/popular-layouts-and-patterns-made-with-css.html)
+* [最近の実装に合わせた最新版HTMLテンプレート、基本構造に使用するすべての要素とその役割も解説  コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplate-by-mmatuzo.html)
+* [新しくなったBootstrap 5を使用して、管理画面のUIを実装する方法を解説  コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-dashboard-tutorial.html)
+* [知っておくと便利なHTML5の機能、要素や属性のまとめ  コリス](https://coliss.com/articles/build-websites/operation/work/10-useful-html5-features.html)
+* [地味に便利！さまざまなプロジェクトに適したHTMLのテンプレートを簡単に生成できる -HTML Boilerplates  コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplates.html)
+
+## css
+
+* [ほんの数行のCSSで実装できる小技テクニック12個まとめ 【簡単＆実用的】](https://photoshopvip.net/127316)
+* [簡単CSSアニメーション＆デザイン20選（ソースコードと解説付き）](https://baigie.me/officialblog/2021/02/25/css-tips-1/)
+* [ブレイクポイントは特定のデバイスの画面サイズを基準にしない](https://zenn.dev/tak_dcxi/articles/690caf6e9c4e26)
+* [CSSコピペで完成！押したくなるWebボタンデザインまとめ](https://photoshopvip.net/130681)
+* [CSSだけでできるあんなことこんなこと - Qiita](https://qiita.com/rana_kualu/items/43e8841a4fccb8a80113)
+* [Amazonも！有名WebサイトのCSSボタンデザイン77個をコピペ再現できる Copy ＆ Paste CSS](https://photoshopvip.net/129699)
+* [【第3弾】少しのコードで実装可能な15のCSS小技集](https://www.webcreatorbox.com/tech/css-tips-3)
+* [Web制作の面倒な作業をラクにするCSS便利ツール59個まとめ - PhotoshopVIP](http://photoshopvip.net/123398)
+* [CodePen Home Blurred Background CSS](https://codepen.io/ariona/pen/geFIK)
+* [Super simple CSS tooltips](https://codepen.io/mildrenben/pen/rVBrpK)
+* [CSSだけでできるあんなことこんなこと - Qiita](https://qiita.com/rana_kualu/items/43e8841a4fccb8a80113)
+* [打ち込むより簡単！保存しておくと便利なCSSスニペット18選](https://ferret-plus.com/6036)
+* [CSSでフォームの実装に悩んだら！ さまざまなフレームワークで実装されたフォームのライブラリ -HeroTofu](https://coliss.com/articles/build-websites/operation/css/html-forms-library-herotofu.html)
+* [Web制作者は要チェック！Instagramに使用されているCSSのテクニック](https://coliss.com/articles/build-websites/operation/css/css-techniques-used-for-instagram.html)
+* [これなら簡単で便利！最近見かけるCSSのさまざまなコンポーネントをコピペで利用できる -CodyHouse Framework  コリス](https://coliss.com/articles/build-websites/operation/css/codyhouse-framework-2-0.html)
+* [CSS GridをChrome デベロッパーツールで検証、デバッグする方法を解説](https://coliss.com/articles/build-websites/operation/css/inspect-css-grid-by-chrome-devtools.html)
+* [2020年のCSSのまとめ、FlexboxやCSS Gridの使用状況、よく使用するプロパティや単位、人気のフレームワークやツールなど](https://coliss.com/articles/build-websites/operation/css/the-state-of-css-2020.html)
+
+## Bootstrap
+
+* [初心者でもWeb制作ができる！CSSフレームワーク「Bootstrap」入門編](https://ferret-plus.com/5129)
+* [Bootstrap（ブートストラップ）を使ったランディングページの無料デザインテンプレート35選](https://ferret-plus.com/8517)
+* [Microsoft、「WinUI 2.5」を公開 ～プログレスリングやBootstrap風の情報バーを追加／ナビゲーションペインにはフッターメニューを設定できるように](https://forest.watch.impress.co.jp/docs/news/1293642.html)
+* [Bootstrap Carousel in SPFX (ReactJS)](https://www.c-sharpcorner.com/article/bootstrap-carousel-in-spfxreactjs/)
+* [新しくなったBootstrap 5を使用して、管理画面のUIを実装する方法を解説  コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-dashboard-tutorial.html)
+* [Bootstrap 5の作業環境の構築方法、jQueryを使用しないJavaScriptでの実装方法を解説  コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-tutorial-without-jquery.html)
+
+## JavaScript
+
+* [動かして学ぶ！ Rustの言語仕様](https://codezine.jp/article/detail/15083)
+* [個人でWebアプリを開発する時に便利な高機能JavaScriptライブラリ6選！](https://paiza.hatenablog.com/entry/2018/12/26/%E5%80%8B%E4%BA%BA%E3%81%A7Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B%E6%99%82%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AA%E9%AB%98%E6%A9%9F%E8%83%BDJavaScript%E3%83%A9%E3%82%A4)
+* [わずか数行のJavaScriptで機械学習をフル活用できる無料Webサービス「StackML」を使ってみた！ - paiza開発日誌](https://paiza.hatenablog.com/entry/2019/07/03/%E3%82%8F%E3%81%9A%E3%81%8B%E6%95%B0%E8%A1%8C%E3%81%AEJavaScript%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%82%92%E3%83%95%E3%83%AB%E6%B4%BB%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E7%84%A1%E6%96%99Web)
+* [JavaScriptだけでExcel風のスプレッドシートを開発できる「jExcel」を使ってみた！ - paiza開発日誌](https://paiza.hatenablog.com/entry/2020/06/10/JavaScript%E3%81%A0%E3%81%91%E3%81%A7Excel%E9%A2%A8%E3%81%AE%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%80%8CjExcel)
+* [Vue Formulate ?? The easiest way to build forms with Vue.js](https://vueformulate.com/#live-code-examples)
+* [Essential Cheat Sheet: Convert jQuery to JavaScript](https://webdesign.tutsplus.com/articles/essential-cheat-sheet-convert-jquery-to-javascript--cms-35633)
+* [脱jQueryの道 初級編](https://www.webopixel.net/javascript/1487.html)
+* [JavaScriptでのメディアクエリ、matchMedia()の使い方を解説  コリス](https://coliss.com/articles/build-websites/operation/javascript/javascript-media-queries.html)
+* [便利なのが登場！フォームのバリデーションをシンプルな記述で実装できる超軽量JavaScriptライブラリ -v8n](https://coliss.com/articles/build-websites/operation/javascript/js-validation-library-v8n.html)
+* [知っておくと実装に役立つ！JavaScriptのテクニックのまとめ](https://coliss.com/articles/build-websites/operation/javascript/javascript-tips-by-garvitmotwani.html)
+
 # Develop
 
 ## PowerShell
@@ -799,10 +907,58 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [【Write-Verbose】スクリプトや関数の詳細を表示する【PowerShell】](https://www.tekizai.net/entry/2021/08/26/063000)
 * [Windows PowerShell基本Tips](https://www.atmarkit.co.jp/ait/series/3410/)
 
+## csharp
+
+* [GitHub - microsoft/TailwindTraders](https://github.com/microsoft/TailwindTraders)
+* [Home - Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
+* [The .NET Portability Analyzer - .NET  Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/portability-analyzer)
+* [Minimal API の概要](https://docs.microsoft.com/ja-jp/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0)
+* [.NET Core での自己完結型アプリのデプロイにおけるランタイムのロール フォワード - .NET Core  Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/deploying/runtime-patch-selection)
+* [.NET Core で使用できない .NET Framework テクノロジ  Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/porting/net-framework-tech-unavailable)
+* [C# で Single Page Web Application が書ける Blazor が凄かった件 - Qiita](https://qiita.com/jsakamoto/items/20d4893f6c8cdb0356f6)
+* [【連載】PowerShell Core入門 - 基本コマンドの使い方 * [2] PowerShell Coreのインストールサーバ/ストレージIT製品の事例・解説記事](https://news.mynavi.jp/itsearch/article/hardware/3628)
+* [PowerMap サンプル](https://onedrive.live.com/?id=A9FD866E9122F8EA%21107&cid=A9FD866E9122F8EA)
+* [C#で東京メトロオープンデータAPIを使って遅延時間(遅延情報)を取得する](https://blog.ch3cooh.jp/entry/20140922/1411349400)
+* [【特集】LINEログイン～読めばわかる！ 導入方法、活用事例からメリットまで](https://blog.feedmatic.net/linelogin/)
+* [web.configの暗号化](https://blogonos.wordpress.com/2006/02/23/web-config%E3%81%AE%E6%9A%97%E5%8F%B7%E5%8C%96/)
+* [UWPアプリを作るとき、画面遷移やアーキテクチャで悩んだら!? ～Windows Template Studioを使ってみよう](https://codezine.jp/article/detail/11282)
+* [C#でSPAが実現できる、Blazor WebAssemblyのはじめかた (1/3)：CodeZine（コードジン）](https://codezine.jp/article/detail/13036)
+* [多分わかりやすいC#のDelegateとラムダ式入門  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/15318)
+* [多分わかりやすいC#の非同期処理その1 ? ThreadとTask ?  SIOS Tech. Lab](https://tech-lab.sios.jp/archives/15637)
+
 ## Windows Terminal
 
 * [Microsoftが紹介する「Windows Terminal」のカスタマイズや活用のコツ](https://www.atmarkit.co.jp/ait/articles/2011/04/news052.html)
 * [Azure Cloud ShellをローカルのVisual Studio Code／Windows Terminalに統合する方法：Microsoft Azure最新機能フォローアップ（89） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1908/27/news017.html)
+
+## ASP.NETIdentity
+
+* [空または既存の Web フォームプロジェクトへの ASP.NET Identity の追加-ASP.NET 4.x](https://docs.microsoft.com/ja-jp/aspnet/identity/overview/getting-started/adding-aspnet-identity-to-an-empty-or-existing-web-forms-project)
+* [ASP.NET Identity入門連載一覧：CodeZine（コードジン）](https://codezine.jp/article/corner/511)
+* [ASP.NET Identityカスタマイズに挑戦](https://blog.okazuki.jp/entry/2013/11/10/190811)
+* [ASP.NET Identityで独自データストアからデータを取得する（ログインからロールまで）](https://blog.okazuki.jp/entry/2015/08/20/214212)
+
+## ASP.NETMVC
+
+* [ASP.NET MVC のコントローラにて SSL 接続を要求する方法](https://aspnet.keicode.com/basic/aspnet-mvc101-ssl.php)
+* [ASP.NET チュートリアル  Microsoft Docs](https://docs.microsoft.com/ja-jp/aspnet/tutorials)
+* [C# で Single Page Web Application が書ける Blazor が凄かった件 - Qiita](https://qiita.com/jsakamoto/items/20d4893f6c8cdb0356f6)
+* [ASP.NET MVC 入門 (3) 編集 (Edit) ビューと POST データの受け取り方法](https://aspnet.keicode.com/basic/aspnet-mvc101-view.php)
+* [ASP.NET MVC5で最初にやったこと2014冬のメモ](https://blog.beachside.dev/entry/2015/02/06/220929)
+* [asp.net MVCとjQueryでファイルアップロードするメモ](https://blog.regrex.jp/2016/06/03/post-498/)
+* [ASP.NET MVC でアップロードされたファイルを検証する](https://blog.shibayan.jp/entry/20110105/1294155788)
+* [ASP.NET MVC 3 開発入門 (10) - 動画アップロードの実装](https://blog.shibayan.jp/entry/20110301/1298987419)
+* [ASP.NET MVC 3 開発入門 (16) - HTML ヘルパーを活用](https://blog.shibayan.jp/entry/20110327/1301152413)
+* [ASP.NET のセキュリティ対策について考える](https://blog.shibayan.jp/entry/20120526/1338001863)
+* [ASP.NET MVC でドロップダウンリスト周りを良い感じに扱う](https://blog.shibayan.jp/entry/20130201/1359725910)
+* [ASP.NET MVC 4 で理想的なスマートフォン対応サイトを作成する方法](https://blog.shibayan.jp/entry/20130624/1372085770)
+* [ASP.NET MVC で1画面にボタンが2つあるときの処理](https://blogonos.wordpress.com/2011/07/06/asp-net-mvc-%E3%81%A71%E7%94%BB%E9%9D%A2%E3%81%AB%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%8C2%E3%81%A4%E3%81%82%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%87%A6%E7%90%86/)
+
+## .NETCore
+
+* [ASP.NET Core、最小限の API、.NET 6 を使用して Web アプリとサービスを作成する - Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/aspnet-core-minimal-api/)
+* [.NET Core での自己完結型アプリのデプロイにおけるランタイムのロール フォワード - .NET Core  Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/deploying/runtime-patch-selection)
+* [.NET Core で使用できない .NET Framework テクノロジ  Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/porting/net-framework-tech-unavailable)
 
 ## Docker
 
@@ -870,6 +1026,32 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [【Visual Studio 2017】オススメの拡張機能 その2（25個）](https://baba-s.hatenablog.com/entry/2017/12/25/000000)
 * [GitHub - CenterCLR/ozcodejapantour: OzCode japan tour materials.](https://github.com/CenterCLR/ozcodejapantour)
 
+## GitHubCodespaces
+
+* [GitHub - Codespaces](https://github.co.jp/features/codespaces)
+
+## git
+
+* [* [Developers Festa Sapporo 2020] Microsoft/GitHubが提供するDeveloper Cloud (Developer Cloud from Microsoft/GitHub)](https://satonaoki.wordpress.com/2020/12/05/devfesta-microsoft-github/)
+* [Git(GitHub)おじさんに俺はなるBefore Git After Git](https://karaage.hatenadiary.jp/entry/2016/01/23/073000)
+* [Git入門（VSCode Git の使い方）](https://celtislab.net/archives/20180418/git-vscode/)
+* [VisualStudioCodeとgitlabを使ってバージョン管理をしてみた備忘録](https://doubleloop.tokyo/visual-studio-code/)
+* [今日からはじめるGitHub ? 初心者がGitをインストールして、プルリクできるようになるまでを解説 - エンジニアHub若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)
+* [GitをWindowsで使うためのGit for Windowsのインストールと初期設定](https://haniwaman.com/git-for-windows/)
+* [いまさらだけどGitを基本から分かりやすくまとめてみた - Qiita](https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0)
+* [Gitのコミットメッセージの書き方 - Qiita](https://qiita.com/itosho/items/9565c6ad2ffc24c09364)
+* [Gitハンズオン研修 / Git Hands-on - Speaker Deck](https://speakerdeck.com/brainpadpr/git-hands-on)
+* [VSCodeにGithub純正のプルリクエスト拡張が来た！](https://tech.actindi.net/2018/09/11/083655)
+* [“はじめのGit”――超基本的な作業フローと5つのコマンド (1/3)](https://www.atmarkit.co.jp/ait/articles/1604/26/news019.html)
+* [ポインタ嫌いでも分かるGitブランチの基本――作成、確認、切り替え、masterにマージ、削除 (1/3)](https://www.atmarkit.co.jp/ait/articles/1606/10/news022.html)
+* [初めてのGitHub](https://xtech.nikkei.com/atcl/nxt/column/18/00528/)
+* [サル先生のGit入門【プロジェクト管理ツールBacklog】](https://backlog.com/ja/git-tutorial/)
+
+## Python
+
+* [Python学習 (パイソン)  企業IT](https://news.mynavi.jp/top/business/enterprise/python_engineer/)
+* [無料で読める、東大／京大の「Python教科書」電子書籍：AI・機械学習の無料電子書籍 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2105/26/news025.html)
+
 # Site
 
 ## Microsoft
@@ -888,12 +1070,13 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Microsoft Security Forum 2020 オンライン](https://www.microsoft.com/ja-jp/biz/security/forum-online.aspx)
 * [Azure Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
 * [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
+* [Microsoft Partner blog](https://blogs.partner.microsoft.com/mpn/)
+* [Azure のイベントとウェビナー](https://azure.microsoft.com/ja-jp/resources/events/)
 
 ## MicrosoftSupportTeamsBlog
 
-* [突然消滅したMicrosoft TechNet／MSDNブログ（日本語）の捜索](https://atmarkit.itmedia.co.jp/ait/articles/1906/04/news004.html)
 * [日本マイクロソフト サポート情報](https://cssjpn.github.io/)
-* [docs.microsoft.com チーム ブログ](https://docs.microsoft.com/ja-jp/teamblog/)
+* [突然消滅したMicrosoft TechNet／MSDNブログ（日本語）の捜索](https://atmarkit.itmedia.co.jp/ait/articles/1906/04/news004.html)* [docs.microsoft.com チーム ブログ](https://docs.microsoft.com/ja-jp/teamblog/)
 * [Japan Exchange & Outlook Support Blog](https://jpmessaging.github.io/blog/)
 * [Japan Microsoft Endpoint Manager Support Blog](https://jpmem.github.io/blog/)
 * [Japan Developer Support Internet Team Blog](https://jpdsi.github.io/blog/)
@@ -942,4 +1125,74 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 ## WebSite
 
 * [ASCII × FIXER](https://ascii.jp/azure-fixer/)
-* [Mynavi](https://news.mynavi.jp/techplus/series/zeroazure/)
+* [ゼロからはじめるAzure Mynavi](https://news.mynavi.jp/techplus/series/zeroazure/)
+* [ASP.NET 入門](https://aspnet.keicode.com/)
+* [microsoft Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+* [Microsoft Azure最新機能フォローアップ](https://atmarkit.itmedia.co.jp/ait/series/1845/)
+* [Azure AD webinar にご参加ください](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)
+* [AzureAD Japan](https://www.youtube.com/channel/UCVrKqrCLcB0eJu8heNB2ZKg/videos)
+
+# Windows OS
+
+* [NUC7i7DNHE に Windows Server 2019 をインストールしてみる](https://blog.engineer-memo.com/2018/09/02/nuc7i7dnhe-%e3%81%ab-windows-server-2019-%e3%82%92%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/)
+* [Intel NUCにHyper-V 2019をインストールするときにNICのドライバが無かった件](https://www.challenge-cf.jp/post/2019/10/23/intel-nucにhyper-v-2019をインストールするときにNICのドライバが無かった件)
+* [IIS の調査に必要な通信系のログ情報について](https://jpdsi.github.io/blog/web-apps/LogCollection2/)
+* [MSFC構築1 構成～AD構築](http://c.itdo.jp/technical-information/windows/msfc1/)
+* [PowerShell and the Active Directory Schema: Part 1](https://devblogs.microsoft.com/scripting/powershell-and-the-active-directory-schema-part-1/)
+* [SQL Server AlwaysOn 可用性グループの制約とSIOS SANLess Clustersの優位](https://mk.sios.jp/l/751023/QLServer-AG-vs-FCISANLessClust/kzd2x)
+* [GPOにWindows 10 May 2020 Update 2004用の管理テンプレートを適用させる方法](https://ittrip.xyz/active-directory/policy-2004)
+* [Windows 10 October 2018 Updateで変わった、サーバ管理ツールRSATのインストール方法：Tech TIPS - ＠IT](https://www.atmarkit.co.jp/ait/articles/1811/29/news046.html)
+* [Windows 10にリモートサーバー管理ツール（RSAT）をインストールしてWindows Serverを管理する：Tech TIPS - ＠IT](https://www.atmarkit.co.jp/ait/articles/1510/19/news023.html)
+* [Windows10 1809にリモートサーバ管理ツール(RSAT)をインストールする  楽しいブログ](https://cs.machijun.net/install-rsat-to-windows10-1809.html)
+* [セントラル ストアについて  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpntsblog/433)
+* [Windows 10で面倒になった「Windows Update」のコントロールを取り戻す方法はあるのか？：山市良のうぃんどうず日記（197） - ＠IT](https://www.atmarkit.co.jp/ait/articles/2012/23/news007.html)
+* [Windows Server Failover Clustering に関する調査レポート](https://mk.sios.jp/l/751023/IOS-WSFC-examreport-201702-pdf/kzd2v)
+* [Windows用アプリのインストールがコマンドラインで可能なパッケージマネージャー「winget」はどうなった？](https://ascii.jp/elem/000/004/025/4025912/)
+* [ハードウェアの制約でWindowsの新規インストールを開始できない場合の「抜け道ガイド」：山市良のうぃんどうず日記（196） - ＠IT](https://www.atmarkit.co.jp/ait/articles/2012/09/news014.html)
+* [仮想スイッチの種別と用途：Windows 10 Hyper-V入門 - ＠IT](https://www.atmarkit.co.jp/ait/articles/2008/14/news018.html)
+* [仮想マシンの状態を保存する「チェックポイント」 (1/2)：Windows 10 Hyper-V入門 - ＠IT](https://www.atmarkit.co.jp/ait/articles/2009/10/news017.html)
+* [第1回 Active Directoryの必要性【MicrosoftのMVP解説！第二弾 Active Directoryのハウツー読本】](https://blogs.manageengine.jp/needs_of_ad/)
+* [iSCSI ターゲット サーバーの概要](https://docs.microsoft.com/ja-jp/windows-server/storage/iscsi/iscsi-target-server)
+
+# SQL Server
+
+* [DO’s&DONT’s #12: やった方がいいこと - max server memory を設定する](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-12-max-server-memory)
+* [DO’s&DONT’s #17: やっておいた方がいいこと - tempdb データファイル数を CPU 数に一致させる](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-17-tempdb-259)
+* [SQL Troubleshooting SQL Server トラブルシューティング 6 回シリーズのご案内](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/sql-troubleshooting-sql-server-6)
+
+# Adobe
+
+## Dreamweaver
+
+* [DreamweaverとBootstrapで作るレスポンシブページ 第1回 「Jumbotronを使ったヒーローエリアのレイアウト」](https://blog.adobe.com/jp/publish/2015/08/17/web-dreamweaver-bootstrap-01-jumbotron-layout)
+* [DreamweaverではじめるWebクリエイターのためのGit入門](https://blog.adobe.com/jp/publish/2017/07/27/web-dreamweaver-git-for-beginners)
+* [Dreamweaver入門 第1回 サイト設定がDreamweaverのカナメです](https://blogs.adobe.com/japan/web-start-dreamweaver-getting-start-01-site-settings/)
+
+## Adobe XD
+
+* [社内の標準デザインツールをXDに統一した話もとやまふとし / 地方webディレクター・マーケターnote](https://note.com/futoshi/n/nc6a49d3b6a3a)
+* [Adobe XDでシンプルなワイヤーフレームを作ろう！便利なUIキットいろいろ](https://www.webcreatorbox.com/webinfo/adobe-xd-wireframe)
+* [Adobe XDでWebデザインをしよう！画面作成からページ推移までの手順を紹介  Webクリエイターボックス](https://www.webcreatorbox.com/inspiration/adobe-xd-steps)
+* [Adobe XD 2020年10月の新機能！ついにVisual Studio Codeと連携可能に  コリス](https://coliss.com/articles/build-websites/operation/work/adobe-xd-whats-new-2020-oct.html)
+* [Adobe XDをHTMLにエクスポートする方法 - インターネットとソーシャル  七月 2020](https://ja.rockycode.com/how-export-adobe-xd-html)
+* [Adobe XDの新機能『CSS書き出し』を使ってみよう  studioDoghands](https://www.doghands.com/adobe-xd-css-code-snippets/)
+* [Adobe XD 2019年8月アップデートリリース！CSSコード自動生成（第一弾）、ローカルでのPhotoshop編集連携、コンポーネントの操作性改善など #AdobeXD  Adobe Blog](https://blogs.adobe.com/japan/cc-web-xd-august-2019-update-auto-css-plugins-panel-more/)
+* [まだAdobe XD使ってないの？はじめての人もこれを読めばすぐに使えるAdobe XDのトリセツ  東京のWeb制作会社LIG](http://liginc.co.jp/467917)
+* [Adobe XDとBootstrapで作業を効率化 第1回: 中小規模のサイトに有効なデザインシステムLiteとは | アドビUX道場 #UXDojo](https://blog.adobe.com/jp/publish/2019/12/18/adobe-xd-bootstrap-designsytem-lite)
+* [Adobe XDの基本的な使い方を解説！専門知識不要でUI・UXデザインが簡単に！ferret](https://ferret-plus.com/13236)
+* [VS CodeのAdobe XD用拡張機能が登場！デザインシステムにもとづきコード出力と補完が可能に](https://ics.media/entry/210107/)
+* [Adobe XDのデザインを「Flutter」のコードに変換するプラグインが一般公開 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1279609.html)
+
+
+# Security
+
+* [AWS環境の公開サーバに対する セキュリティ検討ガイド  トレンドマイクロ](https://resources.trendmicro.com/jp-docdownload-form-m294-social-2020-awssecurityreport.html)
+* [実際の標的型攻撃の事例を基にした「インシデント対応ハンズオン」コンテンツをJPCERT／CCが公開：標的型攻撃を受けたときのWindowsログ調査方法を学べる - ＠IT](https://www.atmarkit.co.jp/ait/articles/2007/30/news025.html)
+* [JPCERT／CCがイベントログ分析支援ツール「LogonTracer v1.5.0」を公開](https://www.atmarkit.co.jp/ait/articles/2011/04/news028.html)
+* [オンボーディング支援プログラム - Mackerel（マカレル）: 新世代のサーバー管理・監視サービス](https://mackerel.io/ja/services-support/onboarding/)
+
+# MISC
+
+* [会話の公理（ポール・グライス） ? *ListFreak](https://listfreak.com/list/1301)
+* [糖尿病予備群たちに告ぐ！ 今やるべき対処法5つ  Tarzan Web（ターザンウェブ）](https://tarzanweb.jp/post-210390)
+* [「旧街道サイクリングの旅」サイクルスポーツ.jpにて好評連載中！［最終回 更新！］](https://www.strada.jp/events/kyukaidou_201908/)
