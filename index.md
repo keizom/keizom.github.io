@@ -84,6 +84,7 @@
 * [SharePoint 2013 Distributed Cache: Issue 1. “CacheHostinfo is null”.](https://sharepointjournaldotcom.wordpress.com/tag/sharepoint-distributed-cache/)
 * [cacheHostInfo is null when adding a 2nd Distributed Cache](https://social.technet.microsoft.com/Forums/windows/en-US/1a875aa8-b26d-43bd-af67-87d6b24d7ed7/cachehostinfo-is-null-when-adding-a-2nd-distributed-cache?forum=SP2016)
 * [Convert a SharePoint 2016 front-end to a front-end with Distributed Cache](https://blog.kuppens-switsers.net/sharepoint/convert-sharepoint-2016-front-end-to-front-end-with-distributed-cache/)
+* [この環境では分散キャッシュ サービスが有効になっていません (SharePoint Server)](https://docs.microsoft.com/ja-jp/sharepoint/technical-reference/distributed-cache-service-is-not-enabled-in-this-deployment)
 
 ## WorkFlow
 
@@ -515,6 +516,14 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 # Azure
 
 * [Azure環境作ったら最初にやるべきこと 2021年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
+
+## Azure DNS
+
+* [Azure 仮想ネットワーク内のリソースの名前解決](https://docs.microsoft.com/ja-jp/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
+
+> Azure DNS IP アドレスは 168.63.129.16 です。これは静的な IP アドレスであり、変更されません。
+
+* [IP アドレス 168.63.129.16 とは](https://docs.microsoft.com/ja-jp/azure/virtual-network/what-is-ip-address-168-63-129-16)
 
 ## Cognitive Services
 
