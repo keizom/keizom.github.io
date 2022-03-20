@@ -40,6 +40,20 @@
     ```
 
 * [SharePoint Server で Kerberos 認証を計画する](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/kerberos-authentication-planning)
+* [SharePoint 2013/2016 Kerberos Authentication](https://www.noralku.net/2016/05/08/sharepoint-20132016-kerberos-authentication/)
+* [Part2: Step by Step Guide for Configuring Kerberos Authentication for SharePoint 2013/2016](https://vivekmalviya.home.blog/2019/03/21/part2-step-by-step-guide-for-configuring-kerberos-authentication-for-sharepoint-webapplication/)
+
+* [SharePointとKerberos認証](https://mossmomo.exblog.jp/13137689/)
+* [Enabling Kerberos on SharePoint](https://thesharepointfarm.com/2017/10/enabling-kerberos-sharepoint/)
+* [Set SPNs for the SharePoint Service Account](https://help.nintex.com/en-US/k2blackpearl/icg/4.6.10/Install_SetSPNsSharePoint.html)
+* [Kerberos 認証の設定](https://community.denodo.com/docs/html/browse/8.0/jp/platform/installation/postinstallation_tasks/postinstallation_tasks_in_virtual_dataport/setting-up_kerberos_authentication)
+* [The final Kerberos guide for SharePoint technicians](https://blog.blksthl.com/2012/09/26/the-final-kerberos-guide-for-sharepoint-technicians/)
+
+## Forms based authentication
+
+* [SharePoint – FBA – 8306 – The security token username and password could not be validated.](https://adamsorenson.com/sharepoint-fba-8306-the-security-token-username-and-password-could-not-be-validated/)
+* [Configuration issues in configure Forms based authentication with LDAP membership provider in sharPoint 2016 webapplication](https://social.technet.microsoft.com/Forums/Windows/en-US/f68533ea-c1b2-4309-b99b-aa6ace779a6e/configuration-issues-in-configure-forms-based-authentication-with-ldap-membership-provider-in?forum=SP2016)
+* [[SharePoint]JPSPSフォローアップ：認証設定①～フォームベース認証](https://idmlab.eidentity.jp/2013/05/sharepointjpsps.html)
 
 ## SuitBar
 
@@ -698,6 +712,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Azure Cosmos DB for MongoDB API with Xamarin Quick Start](https://docs.microsoft.com/en-us/samples/azure-samples/azure-cosmos-db-mongodb-xamarin-getting-started/azure-cosmos-db-mongodb-xamarin-getting-started/)
 * [GitHub - DocumentDB-Quickstart-DotNet](https://github.com/dzadnip/DocumentDB-Quickstart-DotNet)
 * [Azure Cosmos DB 自習書 Azure Cosmos DB 入門 SQL API 編](https://www.cloud-for-all.com/resource/azure-cosmos-db-sql-api)
+* [Azure Cosmos DB入門（1）](https://ryuichi111std.hatenablog.com/entry/2017/05/21/013229)
 
 ## Application Insights
 
@@ -990,6 +1005,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## VisualStudioCode
 
+* [爆速コーディングを実現！Emmetの使い方とVSCodeのおすすめ設定まとめ](https://webdesign-trends.net/entry/13588)
 * [Web制作者必見！VSCodeのおすすめ拡張機能15個まとめ](https://webdesign-trends.net/entry/13147)
 * [「Edge」の開発ツールを統合し「Visual Studio Code」でWebアプリの開発を完結 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1280989.html)
 * [「VS Code」を「Edge」の開発者ツールに接続する拡張機能 ～Microsoftが無償公開](https://forest.watch.impress.co.jp/docs/news/1193948.html)
