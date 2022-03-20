@@ -537,6 +537,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [クラウド時代には、なぜ「ログ分析」が重要になるのか――高度なログ分析機能を、すぐに、簡単に使えるMicrosoft Operations Management Suite](https://atmarkit.itmedia.co.jp/ait/articles/1611/07/news010.html)
 * [安全で管理の行き届いたクラウド](https://azure.microsoft.com/ja-jp/services/virtual-machines/secure-well-managed-iaas/#overview)
 * [Azure Monitor](https://azure.microsoft.com/ja-jp/services/monitor/#overview)
+* [【Microsoft Azure】Azure Monitorでできることを理解する](https://www.simpletraveler.jp/2020/11/14/microsoftazure-understanding-azuremonitor/)
 
 ## Cognitive Services
 
@@ -857,9 +858,11 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [新しくなったBootstrap 5を使用して、管理画面のUIを実装する方法を解説  コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-dashboard-tutorial.html)
 * [知っておくと便利なHTML5の機能、要素や属性のまとめ  コリス](https://coliss.com/articles/build-websites/operation/work/10-useful-html5-features.html)
 * [地味に便利！さまざまなプロジェクトに適したHTMLのテンプレートを簡単に生成できる -HTML Boilerplates  コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplates.html)
+* [デザインに少し手を加え、フォームを改善する実践的なUIのテクニックのまとめ](https://coliss.com/articles/build-websites/operation/work/ui-tips-for-better-forms.html?fbclid=IwAR3WLaiZYw8yTlyGfvfHBU2dvfnKt2L7HzLbphaVcpQ1y261VSIAtqtmY_k)
 
 ## css
 
+* [よくあるWeb制作の悩みをCSSで解決！最新テクニック40選まとめ](https://photoshopvip.net/131693)
 * [ほんの数行のCSSで実装できる小技テクニック12個まとめ 【簡単＆実用的】](https://photoshopvip.net/127316)
 * [簡単CSSアニメーション＆デザイン20選（ソースコードと解説付き）](https://baigie.me/officialblog/2021/02/25/css-tips-1/)
 * [ブレイクポイントは特定のデバイスの画面サイズを基準にしない](https://zenn.dev/tak_dcxi/articles/690caf6e9c4e26)
@@ -987,6 +990,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## VisualStudioCode
 
+* [Web制作者必見！VSCodeのおすすめ拡張機能15個まとめ](https://webdesign-trends.net/entry/13147)
 * [「Edge」の開発ツールを統合し「Visual Studio Code」でWebアプリの開発を完結 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1280989.html)
 * [「VS Code」を「Edge」の開発者ツールに接続する拡張機能 ～Microsoftが無償公開](https://forest.watch.impress.co.jp/docs/news/1193948.html)
 * [「VS Code」内から「Microsoft Edge」の開発者ツールが利用可能に：開発者ツールの「要素」と「ネットワーク」に対応 - ＠IT](https://www.atmarkit.co.jp/ait/articles/2010/16/news112.html)
