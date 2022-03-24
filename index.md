@@ -686,6 +686,10 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [Microsoft Azure Red Hat OpenShift (ARO) その１ - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/2021/06/30/Microsoft_Azure_Red_Hat_OpenShift_%28ARO%29_%E3%81%9D%E3%81%AE%EF%BC%91)
 
+## Azure Database Migration Service
+* [チュートリアル:DMS を使用してオンラインで SQL Server を Azure SQL Managed Instance に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-managed-instance-online)
+* [クイック スタート:Azure Portal を使用して Azure Database Migration Service のインスタンスを作成する](https://docs.microsoft.com/ja-jp/azure/dms/quickstart-create-data-migration-service-portal)
+
 ## Migration
 
 * [What is Azure Resource Mover?](https://docs.microsoft.com/en-us/azure/resource-mover/overview)
