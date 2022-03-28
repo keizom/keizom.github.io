@@ -263,6 +263,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 * [SharePoint Online の HTTP 調整 (応答コード 429, 503) に関して](https://social.msdn.microsoft.com/Forums/ja-JP/8e5a4116-c96a-4d3e-9bbf-6efb852b5d88/sharepoint-online-12398-http-3551925972-2454031572124671254012489-429-503?forum=sharepointsupportteamja)
 * [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
+* [SharePoint Online 管理シェルは SharePoint Online Client Components SDK がインストールされた端末で使用できません](https://jpspsupport.github.io/blog/sharepoint-online/managementshell-clientcomponentsSDK/)
 * [SharePoint Online で調整またはブロックを回避する  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 * [Create Update Delete Or Retrieve SharePoint Site Collections Using CSOM PowerShell](https://www.c-sharpcorner.com/article/create-update-delete-or-retrieve-sharepoint-site-collectio/)
 * [Creating SharePoint Site Collection through PowerShell CSOM](http://alexbrassington.com/2014/08/20/creating-sharepoint-site-collection-through-powershell-csom/)
@@ -529,6 +530,16 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [PowershellでMicrosoft Graph APIを使う方法について](https://blogs.technet.microsoft.com/jpintune/2017/08/09/powershell%E3%81%A7microsoft-graph-api%E3%82%92%E4%BD%BF%E3%81%86%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)
 * [PowershellでMicrosoft Graph APIを使う方法について](https://docs.microsoft.com/ja-jp/archive/blogs/jpintune/powershell%E3%81%A7microsoft-graph-api%E3%82%92%E4%BD%BF%E3%81%86%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 * [チュートリアル - Web アプリからアプリとして Microsoft Graph にアクセスする - Azure App Service](https://docs.microsoft.com/ja-jp/azure/app-service/scenario-secure-app-access-microsoft-graph-as-app)
+* [Microsoft Graph PowerShell SDK をインストールする](https://docs.microsoft.com/ja-jp/graph/powershell/installation)
+* [Microsoft Graph PowerShellを利用してユーザーへOffice365ライセンスを付与する](https://blog.iotaker.jp/?p=977)
+* [Microsoft Graph PowerShell SDK を使用したライセンス管理操作の紹介](https://jpazureid.github.io/blog/azure-active-directory/operating-license-with-microsoft-graph/)
+* [Microsoft Graph PowerShell SDK の試し方](https://blog.rykoma.net/2020/10/21/1570/)
+* [Microsoft の PowerShell SDK でアプリGraphを使用する](https://docs.microsoft.com/ja-jp/graph/powershell/app-only?tabs=azure-portal)
+* [Microsoft Graph API へ接続するため、Microsoft Graph PowerShell SDK インストール](https://tkjzblog.com/2021/10/09/microsoft-graph-api-%E3%81%B8%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%80%81microsoft-graph-powershell-sdk-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/)
+* [Microsoft Graph を使って、会議室の予定表を取得する](https://qiita.com/rnakamuramartiny/items/8556bbc3f3b54fe3ea65)
+* [Microsoft Graph ドキュメント](https://docs.microsoft.com/ja-jp/graph/)
+* [group リソースの種類](https://docs.microsoft.com/ja-jp/graph/api/resources/group?view=graph-rest-1.0)
+* [Microsoft Graph の認証と承認の基本方法](https://docs.microsoft.com/ja-jp/graph/auth/auth-concepts)
 
 # Intune
 
@@ -687,8 +698,11 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 * [Microsoft Azure Red Hat OpenShift (ARO) その１ - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/2021/06/30/Microsoft_Azure_Red_Hat_OpenShift_%28ARO%29_%E3%81%9D%E3%81%AE%EF%BC%91)
 
 ## Azure Database Migration Service
+
 * [チュートリアル:DMS を使用してオンラインで SQL Server を Azure SQL Managed Instance に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-managed-instance-online)
 * [クイック スタート:Azure Portal を使用して Azure Database Migration Service のインスタンスを作成する](https://docs.microsoft.com/ja-jp/azure/dms/quickstart-create-data-migration-service-portal)
+* [リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルをポータルで作成する](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-create-service-principal-portal)
+* [リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルをポータルで作成する](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-create-service-principal-portal)
 
 ## Migration
 
