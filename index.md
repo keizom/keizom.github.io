@@ -699,10 +699,16 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## Azure Database Migration Service
 
+* [チュートリアル: DMS を使用して SQL Server を Azure SQL Database に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-to-azure-sql)
+* [チュートリアル:DMS を使用してオフラインで SQL Server を Azure SQL Managed Instance に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-to-managed-instance)
 * [チュートリアル:DMS を使用してオンラインで SQL Server を Azure SQL Managed Instance に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-managed-instance-online)
 * [クイック スタート:Azure Portal を使用して Azure Database Migration Service のインスタンスを作成する](https://docs.microsoft.com/ja-jp/azure/dms/quickstart-create-data-migration-service-portal)
 * [リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルをポータルで作成する](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-create-service-principal-portal)
-* [リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルをポータルで作成する](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-create-service-principal-portal)
+* [SQL Server から Azure SQL Managed Instance へオンライン移行するためのカスタム ロール](https://docs.microsoft.com/ja-jp/azure/dms/resource-custom-roles-sql-db-managed-instance)
+* [Azure Database Migration Service を使用するための前提条件の概要](https://docs.microsoft.com/ja-jp/azure/dms/pre-reqs)
+* [Azure Database Migration Service を使用して Azure SQL Managed Instance を移行するためのネットワーク トポロジ](https://docs.microsoft.com/ja-jp/azure/dms/resource-network-topologies)
+* [Azure Database Migration Service によってサポートされる移行シナリオの状態](https://docs.microsoft.com/ja-jp/azure/dms/resource-scenario-status)
+* [もう多分怖くないサービスプリンシパル](https://tech-lab.sios.jp/archives/23371)
 
 ## Migration
 
