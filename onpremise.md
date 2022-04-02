@@ -135,9 +135,6 @@
 * [Office Online Server での IBM Content Navigator の構成](https://www.ibm.com/docs/ja/content-navigator/3.0.x?topic=components-configuring-content-navigator-office-online-server)
 * [Office – VLSCのOffice2019（ボリュームライセンス版）をインストールする方法](https://se.ekaki-j.com/office-vlsc/)
 
-
-
-
 # Windows OS
 
 * [NUC7i7DNHE に Windows Server 2019 をインストールしてみる](https://blog.engineer-memo.com/2018/09/02/nuc7i7dnhe-%e3%81%ab-windows-server-2019-%e3%82%92%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/)
