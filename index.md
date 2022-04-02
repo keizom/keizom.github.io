@@ -1,150 +1,91 @@
-# SharePoint Server
+# Bookmarks
 
-* [SharePoint Server の認証の概要](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/authentication-overview)
+* [site](https://keizom.github.io/)
+* [onpremise](https://keizom.github.io/onpremise.html)
+* [Adobe](https://keizom.github.io/adobe.html)
+* [Azure](https://keizom.github.io/Azure.html)
+* [develop](https://keizom.github.io/develop.html)
+* [intune](https://keizom.github.io/intune.html)
+* [Office365](https://keizom.github.io/Office365.html)
+* [web](https://keizom.github.io/web.html)
 
-## install
+# site
 
-* [SharePoint 2016: Step By Step Installation of Workflow Manager](https://social.technet.microsoft.com/wiki/contents/articles/34407.sharepoint-2016-step-by-step-installation-of-workflow-manager.aspx)
-* [ネットワーク共有から SharePoint Server の必須コンポーネントをインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-prerequisites-from-network-share)
-* [Azure 上で SharePoint Server 2016 をオフラインインストールしてみよう！(後編)](https://blogs.networld.co.jp/entry/azure-sharepoin-7f90)
-* [SharePoint Server 2016 のオフライン インストール](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/sharepoint-server-2016-%E3%81%AE%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
-* [単一サーバーに SharePoint Server 2016 または SharePoint Server 2019 をインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-sharepoint-server-2016-on-one-server)
+## Microsoft
 
-## SharePoint 高可用性構成
+* [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
+* [Microsoft Learn  Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
+* [Microsoft Azure](https://docs.microsoft.com/ja-jp/learn/azure/)
+* [Home - Power Platform Community](https://powerusers.microsoft.com/)
+* [コード サンプルを参照  Microsoft Docs](https://docs.microsoft.com/ja-jp/samples/browse/?products=azure)
+* [Power Apps Community Plan](https://powerapps.microsoft.com/ja-jp/communityplan/)
+* [Microsoft Japan Code Labs](https://microsoft.github.io/code-labs-jp/)
+* [Microsoft の認定資格](https://docs.microsoft.com/ja-jp/learn/certifications/)
+* [Windows 10 で開発環境を設定する](https://docs.microsoft.com/ja-jp/windows/dev-environment/overview)
+* [mstep オンライン Microsoft Azure / サーバー製品](https://partner.microsoft.com/ja-jp/training/mstep-platform)
+* [オンデマンドで学ぶクラウド アプリケーション開発](https://www.microsoft.com/ja-jp/biz/cloud-platform/apps-innovation-ondemand.aspx)
+* [Microsoft Security Forum 2020 オンライン](https://www.microsoft.com/ja-jp/biz/security/forum-online.aspx)
+* [Azure Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
+* [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
+* [Microsoft Partner blog](https://blogs.partner.microsoft.com/mpn/)
+* [Azure のイベントとウェビナー](https://azure.microsoft.com/ja-jp/resources/events/)
 
-* [Azure での高可用性 SharePoint Server 2016 ファームの実行](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/sharepoint/)
-* [高可用性 SharePoint ファーム](https://docs.microsoft.com/ja-jp/azure/architecture/solution-ideas/articles/highly-available-sharepoint-farm)
-* [Azure で SharePoint Server 2016 と SQL Server の AlwaysOn 可用性グループを展開する](https://docs.microsoft.com/ja-jp/SharePoint/administration/deploying-sharepoint-server-2016-with-sql-server-alwayson-availability-groups-in)
-* [Azure における SharePoint 2013 開発/テスト環境](https://docs.microsoft.com/ja-jp/sharepoint/administration/sharepoint-2013-dev-test-environments-in-azure)
-* [SharePoint Server 2016 および 2019 を使用した Azure SQL Managed Instance のデプロイ](https://docs.microsoft.com/ja-jp/sharepoint/administration/deploy-azure-sql-managed-instance-with-sharepoint-servers-2016-2019)
+## MicrosoftSupportTeamsBlog
 
-## AlternateAccessMappings(代替アクセスマッピング)
+* [日本マイクロソフト サポート情報](https://cssjpn.github.io/)
+* [突然消滅したMicrosoft TechNet／MSDNブログ（日本語）の捜索](https://atmarkit.itmedia.co.jp/ait/articles/1906/04/news004.html)* [docs.microsoft.com チーム ブログ](https://docs.microsoft.com/ja-jp/teamblog/)
+* [Japan Exchange & Outlook Support Blog](https://jpmessaging.github.io/blog/)
+* [Japan Microsoft Endpoint Manager Support Blog](https://jpmem.github.io/blog/)
+* [Japan Developer Support Internet Team Blog](https://jpdsi.github.io/blog/)
+* [Tech Community](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
+* [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/)
+* [Microsoft Japan Blog](https://news.microsoft.com/ja-jp/category/blog/)
+* [Japan SCCM & WSUS Support Team](https://social.msdn.microsoft.com/Forums/ja-JP/home?forum=jpsccmwsus)
+* [Microsoft Security Response Center](https://msrc-blog.microsoft.com/)
+* [Exchange Team Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)
+* [Exchange_Outlookサポートチーム](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/home?forum=exchangeteamjp)
+* [Japan SharePoint Support Team](https://social.msdn.microsoft.com/Forums/ja-JP/home?forum=sharepointsupportteamja)
+* [Japan Azure Identity Support Blog](https://jpazureid.github.io/blog/)
 
-* [SharePoint Server の代替アクセス マッピングを構成する](https://docs.microsoft.com/ja-jp/sharepoint/administration/configure-alternate-access-mappings)
-* [SharePoint Server の代替アクセス マッピングを計画する](https://docs.microsoft.com/ja-jp/sharepoint/administration/plan-alternate-access-mappings)
-* [SharePoint Server 2013 の構成 － 代替アクセスマッピング](https://yama30501.blog.fc2.com/blog-entry-134.html)
-* [パスベース および ホスト名付きサイト コレクションの構築](https://www.slideshare.net/aiyamasaki528/path-based-and-host-named-site-collection)
-* [代替アクセス マッピングを理解する](https://docs.microsoft.com/en-us/archive/blogs/sharepoint_support/4401)
+## MicrosoftSupportTeamsBlog(Archive)
 
-## Loopback(サーバー自身からの接続方法)
+* [Japan WSUS Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpwsus/)
+* [Japan System Center Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/systemcenterjp/)
+* [Cloud and Server Product Japan Blog](https://docs.microsoft.com/ja-jp/archive/blogs/mssvrpmj/)
+* [Japan SharePoint Support Team Blog archive](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/)
+* [Japan Microsoft Intune & MDM for Office 365 Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpintune/)
+* [Japan Azure Identity Support Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/)
+* [Cloud Solution Architect チームブログ](https://docs.microsoft.com/ja-jp/archive/blogs/azure-sa-members/)
+* [フィールドSEあがりの安納です](https://docs.microsoft.com/ja-jp/archive/blogs/junichia/)
 
-* [Windows Authentication Errors on local Servers (Loopback Protection)](https://webconnection.west-wind.com/docs/_4gi0ql5jb.htm)
-* [ホストヘッダーを利用する場合の注意事項](https://shanqiai.weblogs.jp/sharepoint_technical_note/2010/05/%E3%83%9B%E3%82%B9%E3%83%88%E3%83%98%E3%83%83%E3%83%80%E3%83%BC%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.html)
+## Microsoft Support Teams Post
 
-## Kerberos
+* [FAQ よくある質問事項について Azure SQL Database](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/faq-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F%E4%BA%8B%E9%A0%85%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-azure-sql-database)
+* [リスト ビューのしきい値によって発生する現象と対処策](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/31574)
+* [Microsoft SQL Server Japan Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/?s=SQL+Troubleshooting)
 
-* [Enabling Kerberos on SharePoint](https://thesharepointfarm.com/2017/10/enabling-kerberos-sharepoint/)
+## blog
 
-    ``` cmd
-    setspn -U -S HTTP/sharepoint.example.com CORP\webAppAccount
-    ```
+* [karamem0](https://zenn.dev/karamem0)
+* [deepcom](https://deepcom.co.jp/blog/)
+* [idea.toString](https://idea.tostring.jp/)
+* [Sharepoint Technical Note](https://shanqiai.weblogs.jp/sharepoint_technical_note)
+* [SharePoint Developer](http://sharepoint.orivers.jp/)
+* [くらう道](https://www.cloudou.net/)
+* [しばやん雑記](https://blog.shibayan.jp/)
+* [SendGrid](https://sendgrid.kke.co.jp/blog/)
+* [サイオステクノロジー](https://tech-lab.sios.jp/)
+* [かずきのBlog@hatena](https://blog.okazuki.jp/)
+* [kkamegawa's weblog](https://kkamegawa.hatenablog.jp/)
+* [cloudsteady](https://cloudsteady.jp/post/category/blog/)
 
-* [SharePoint Server で Kerberos 認証を計画する](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/kerberos-authentication-planning)
-* [SharePoint 2013/2016 Kerberos Authentication](https://www.noralku.net/2016/05/08/sharepoint-20132016-kerberos-authentication/)
-* [Part2: Step by Step Guide for Configuring Kerberos Authentication for SharePoint 2013/2016](https://vivekmalviya.home.blog/2019/03/21/part2-step-by-step-guide-for-configuring-kerberos-authentication-for-sharepoint-webapplication/)
+## WebSite
 
-* [SharePointとKerberos認証](https://mossmomo.exblog.jp/13137689/)
-* [Enabling Kerberos on SharePoint](https://thesharepointfarm.com/2017/10/enabling-kerberos-sharepoint/)
-* [Set SPNs for the SharePoint Service Account](https://help.nintex.com/en-US/k2blackpearl/icg/4.6.10/Install_SetSPNsSharePoint.html)
-* [Kerberos 認証の設定](https://community.denodo.com/docs/html/browse/8.0/jp/platform/installation/postinstallation_tasks/postinstallation_tasks_in_virtual_dataport/setting-up_kerberos_authentication)
-* [The final Kerberos guide for SharePoint technicians](https://blog.blksthl.com/2012/09/26/the-final-kerberos-guide-for-sharepoint-technicians/)
+* [ASCII × FIXER](https://ascii.jp/azure-fixer/)
+* [ゼロからはじめるAzure Mynavi](https://news.mynavi.jp/techplus/series/zeroazure/)
+* [ASP.NET 入門](https://aspnet.keicode.com/)
+* [microsoft Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+* [Microsoft Azure最新機能フォローアップ](https://atmarkit.itmedia.co.jp/ait/series/1845/)
+* [Azure AD webinar にご参加ください](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)
+* [AzureAD Japan](https://www.youtube.com/channel/UCVrKqrCLcB0eJu8heNB2ZKg/videos)
 
-## Forms based authentication
-
-* [SharePoint – FBA – 8306 – The security token username and password could not be validated.](https://adamsorenson.com/sharepoint-fba-8306-the-security-token-username-and-password-could-not-be-validated/)
-* [Configuration issues in configure Forms based authentication with LDAP membership provider in sharPoint 2016 webapplication](https://social.technet.microsoft.com/Forums/Windows/en-US/f68533ea-c1b2-4309-b99b-aa6ace779a6e/configuration-issues-in-configure-forms-based-authentication-with-ldap-membership-provider-in?forum=SP2016)
-* [[SharePoint]JPSPSフォローアップ：認証設定①～フォームベース認証](https://idmlab.eidentity.jp/2013/05/sharepointjpsps.html)
-
-## SuitBar
-
-* [SharePoint 2016 How to Change SuitBar’s Text PowerShell - TechNet Articles - United States (English) - TechNet Wiki](https://social.technet.microsoft.com/wiki/contents/articles/34202.sharepoint-2016-how-to-change-suitbars-text-powershell.aspx)
-* [既定のサーバー リボンのカスタマイズの場所  Microsoft Docs](https://docs.microsoft.com/ja-jp/previous-versions/office/developer/sharepoint-2010/ee537543(v=office.14))
-* [Replace SharePoint in Suitebar using SuiteBarBrandingElementHtml property not reflecting](https://social.technet.microsoft.com/Forums/en-US/21d067e5-eabd-4b13-ba7d-8cb8c780a30c/replace-sharepoint-in-suitebar-using-suitebarbrandingelementhtml-property-not-reflecting)
-* [[SharePoint 2016] SuiteBar の設定変更](https://shanqiai.weblogs.jp/sharepoint_technical_note/2017/01/sharepoint-2016-suitebar-%E3%81%AE%E8%A8%AD%E5%AE%9A%E5%A4%89%E6%9B%B4-.html)
-* [SharePoint ：検索窓の位置がスイートバーに移動された！( Search Box location moved to Suite Bar )](https://art-break.net/tech/?p=5425)
-* [Office 365 ナビゲーション バーのカスタムロゴの位置が変更された！](https://art-break.net/tech/?p=2690)
-* [SharePoint 2013 左上の製品ロゴを変更する](https://idea.tostring.jp/?p=508)
-
-## Search Service Application
-
-* [Remove a SharePoint Search Server from the Search Service Application](https://microscoff.com/2018/05/24/remove-sharepoint-search-server-search-service-application/)
-* [How to remove the Search Topology (Removing Existing SSA with PowerShell)](https://collab365.com/removing-search-topology-removing-existing-ssa/)
-* [How To Configure Search Service Application Using PowerShell](https://www.c-sharpcorner.com/article/sharepoint-2016-how-to-configure-search-service-application-using-powershell/)
-
-## SSL
-
-* [SharePoint 2013 のサイトを SSL 通信（https）でもアクセスできるよう構成する](https://sharepointmaniacs.com/archives/4416)
-* [SharePoint Server 2016 での TLS 1.1 および TLS 1.2 のサポートの有効化](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/enable-tls-1-1-and-tls-1-2-support-in-sharepoint-server-2016)
-* [IIS 8 または 7.5 での SSL の設定](https://help.sap.com/viewer/5377d77f068843799cdc630e678a755d/4.2.4/ja-JP/ec9ee4136fdb101497906a7cb0e91070.html)
-* [サーバーからサーバーへの接続Microsoft 365構成SharePointする](https://docs.microsoft.com/ja-jp/sharepoint/hybrid/configure-inbound-connectivity)
-* [SP2013 SSL 証明書の管理と SharePoint アプリ](https://shanqiai.weblogs.jp/sharepoint_technical_note/2014/12/sp2013-ssl-certification-and-sharepointapps.html)
-* [SharePoint Server 2016 での TLS 1.1 および TLS 1.2 のサポートの有効化](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/enable-tls-1-1-and-tls-1-2-support-in-sharepoint-server-2016)
-* [SharePoint 2013 で TLS と SSL のサポートを有効にする](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/enable-tls-and-ssl-support-in-sharepoint-2013)
-* [IISでhttpsのサイトを作成する - SSLサイトの構成 (IIS - Internet Information Service Tips)](https://www.ipentec.com/document/windows-windows-server-iis-setup-https-site)
-* [「証明機関」による証明書の発行 (サーバー証明書を作成する) (Windows Server Tips)](https://www.ipentec.com/document/create-server-certificate-file)
-* [認証局での証明書の生成](https://support.kaspersky.com/KWTS/6.1/ja-JP/186284.htm)
-* [【AD CS】エンタープライズ CA でサーバー証明書の発行手順](https://pkiwithadcs.com/issuing_server_cert_using_certweb/)
-* [Windows環境で証明書をインポートする方法](https://jp.globalsign.com/support/ssl/config/cert-import-win.html)
-* [「エンタープライズのルートCA」を用いた証明書の設定（Windows Server 2008以降）](https://support.brother.co.jp/j/s/support/ssl/setup/setup2012.html)
-* [Windowsの証明書サービスでサーバ証明書を発行する](https://atmarkit.itmedia.co.jp/ait/articles/0708/17/news079.html)
-* [2階層CAの構築(Windows2016)　③中間証明書の発行とインストール](https://milestone-of-se.nesuke.com/sv-advanced/digicert/intermediate-cert-issue-and-install/)
-* [AD CS で 5 年間有効なサーバー認証用の証明書を作成](https://blog.engineer-memo.com/2015/01/13/ad-cs-%E3%81%A7-5-%E5%B9%B4%E9%96%93%E6%9C%89%E5%8A%B9%E3%81%AA%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E8%AA%8D%E8%A8%BC%E7%94%A8%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%92%E4%BD%9C%E6%88%90/)
-
-## Distributed Cache
-
-* [Distributed cache service is not enabled in this deployment (SharePoint Server)](https://docs.microsoft.com/en-us/sharepoint/technical-reference/distributed-cache-service-is-not-enabled-in-this-deployment)
-* [Distributed Cache Host error](https://social.technet.microsoft.com/Forums/en-US/35f8fe49-7e4a-4d3e-bb65-ad17b723d8d8/distributed-cache-host-error?forum=SP2016)
-* [Troubleshooting Distributed Cache in SharePoint Server 2013](https://vigneshsharepointthoughts.com/2015/10/20/troubleshooting-distributed-cache-in-sharepoint-server-2013/)
-* [SharePoint 2013 Distributed Cache: Issue 1. “CacheHostinfo is null”.](https://sharepointjournaldotcom.wordpress.com/tag/sharepoint-distributed-cache/)
-* [cacheHostInfo is null when adding a 2nd Distributed Cache](https://social.technet.microsoft.com/Forums/windows/en-US/1a875aa8-b26d-43bd-af67-87d6b24d7ed7/cachehostinfo-is-null-when-adding-a-2nd-distributed-cache?forum=SP2016)
-* [Convert a SharePoint 2016 front-end to a front-end with Distributed Cache](https://blog.kuppens-switsers.net/sharepoint/convert-sharepoint-2016-front-end-to-front-end-with-distributed-cache/)
-* [この環境では分散キャッシュ サービスが有効になっていません (SharePoint Server)](https://docs.microsoft.com/ja-jp/sharepoint/technical-reference/distributed-cache-service-is-not-enabled-in-this-deployment)
-
-## WorkFlow
-
-* [WorkflowStatus Enum](https://docs.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.workflowservices.workflowstatus?view=sharepoint-server)
-
-## Office Web Apps
-
-* [Office Web Apps で SharePoint上のファイルが開けなくなる SPWOPIProofKey が更新されないことによる](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/720a6d3f-f6f4-492c-9195-23a9fed9a90c/office-web-apps-12391?forum=sharepointsupportteamja)
-
-# Windows OS
-
-* [NUC7i7DNHE に Windows Server 2019 をインストールしてみる](https://blog.engineer-memo.com/2018/09/02/nuc7i7dnhe-%e3%81%ab-windows-server-2019-%e3%82%92%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/)
-* [Intel NUCにHyper-V 2019をインストールするときにNICのドライバが無かった件](https://www.challenge-cf.jp/post/2019/10/23/intel-nucにhyper-v-2019をインストールするときにNICのドライバが無かった件)
-* [IIS の調査に必要な通信系のログ情報について](https://jpdsi.github.io/blog/web-apps/LogCollection2/)
-* [MSFC構築1 構成～AD構築](http://c.itdo.jp/technical-information/windows/msfc1/)
-* [PowerShell and the Active Directory Schema: Part 1](https://devblogs.microsoft.com/scripting/powershell-and-the-active-directory-schema-part-1/)
-* [SQL Server AlwaysOn 可用性グループの制約とSIOS SANLess Clustersの優位](https://mk.sios.jp/l/751023/QLServer-AG-vs-FCISANLessClust/kzd2x)
-* [GPOにWindows 10 May 2020 Update 2004用の管理テンプレートを適用させる方法](https://ittrip.xyz/active-directory/policy-2004)
-* [Windows 10 October 2018 Updateで変わった、サーバ管理ツールRSATのインストール方法：Tech TIPS - ＠IT](https://www.atmarkit.co.jp/ait/articles/1811/29/news046.html)
-* [Windows 10にリモートサーバー管理ツール（RSAT）をインストールしてWindows Serverを管理する：Tech TIPS - ＠IT](https://www.atmarkit.co.jp/ait/articles/1510/19/news023.html)
-* [Windows10 1809にリモートサーバ管理ツール(RSAT)をインストールする  楽しいブログ](https://cs.machijun.net/install-rsat-to-windows10-1809.html)
-* [セントラル ストアについて  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpntsblog/433)
-* [Windows 10で面倒になった「Windows Update」のコントロールを取り戻す方法はあるのか？：山市良のうぃんどうず日記（197） - ＠IT](https://www.atmarkit.co.jp/ait/articles/2012/23/news007.html)
-* [Windows Server Failover Clustering に関する調査レポート](https://mk.sios.jp/l/751023/IOS-WSFC-examreport-201702-pdf/kzd2v)
-* [Windows用アプリのインストールがコマンドラインで可能なパッケージマネージャー「winget」はどうなった？](https://ascii.jp/elem/000/004/025/4025912/)
-* [ハードウェアの制約でWindowsの新規インストールを開始できない場合の「抜け道ガイド」：山市良のうぃんどうず日記（196） - ＠IT](https://www.atmarkit.co.jp/ait/articles/2012/09/news014.html)
-* [仮想スイッチの種別と用途：Windows 10 Hyper-V入門 - ＠IT](https://www.atmarkit.co.jp/ait/articles/2008/14/news018.html)
-* [仮想マシンの状態を保存する「チェックポイント」 (1/2)：Windows 10 Hyper-V入門 - ＠IT](https://www.atmarkit.co.jp/ait/articles/2009/10/news017.html)
-* [第1回 Active Directoryの必要性【MicrosoftのMVP解説！第二弾 Active Directoryのハウツー読本】](https://blogs.manageengine.jp/needs_of_ad/)
-* [iSCSI ターゲット サーバーの概要](https://docs.microsoft.com/ja-jp/windows-server/storage/iscsi/iscsi-target-server)
-
-# SQL Server
-
-* [DO’s&DONT’s #12: やった方がいいこと - max server memory を設定する](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-12-max-server-memory)
-* [DO’s&DONT’s #17: やっておいた方がいいこと - tempdb データファイル数を CPU 数に一致させる](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-17-tempdb-259)
-* [SQL Troubleshooting SQL Server トラブルシューティング 6 回シリーズのご案内](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/sql-troubleshooting-sql-server-6)
-
-# Security
-
-* [AWS環境の公開サーバに対する セキュリティ検討ガイド  トレンドマイクロ](https://resources.trendmicro.com/jp-docdownload-form-m294-social-2020-awssecurityreport.html)
-* [実際の標的型攻撃の事例を基にした「インシデント対応ハンズオン」コンテンツをJPCERT／CCが公開：標的型攻撃を受けたときのWindowsログ調査方法を学べる - ＠IT](https://www.atmarkit.co.jp/ait/articles/2007/30/news025.html)
-* [JPCERT／CCがイベントログ分析支援ツール「LogonTracer v1.5.0」を公開](https://www.atmarkit.co.jp/ait/articles/2011/04/news028.html)
-* [オンボーディング支援プログラム - Mackerel（マカレル）: 新世代のサーバー管理・監視サービス](https://mackerel.io/ja/services-support/onboarding/)
-
-# MISC
-
-* [会話の公理（ポール・グライス） ? *ListFreak](https://listfreak.com/list/1301)
-* [糖尿病予備群たちに告ぐ！ 今やるべき対処法5つ  Tarzan Web（ターザンウェブ）](https://tarzanweb.jp/post-210390)
-* [「旧街道サイクリングの旅」サイクルスポーツ.jpにて好評連載中！［最終回 更新！］](https://www.strada.jp/events/kyukaidou_201908/)

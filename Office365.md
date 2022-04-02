@@ -1,4 +1,15 @@
-# Microsoft 365
+# Bookmarks
+
+* [site](https://keizom.github.io/)
+* [onpremise](https://keizom.github.io/onpremise.html)
+* [Adobe](https://keizom.github.io/adobe.html)
+* [Azure](https://keizom.github.io/Azure.html)
+* [develop](https://keizom.github.io/develop.html)
+* [intune](https://keizom.github.io/intune.html)
+* [Office365](https://keizom.github.io/Office365.html)
+* [web](https://keizom.github.io/web.html)
+
+ Microsoft 365
 
 ## Office 365 PowerShell
 
