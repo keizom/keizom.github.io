@@ -89,3 +89,17 @@
 * [Azure AD webinar にご参加ください](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)
 * [AzureAD Japan](https://www.youtube.com/channel/UCVrKqrCLcB0eJu8heNB2ZKg/videos)
 
+
+
+# Security
+
+* [AWS環境の公開サーバに対する セキュリティ検討ガイド  トレンドマイクロ](https://resources.trendmicro.com/jp-docdownload-form-m294-social-2020-awssecurityreport.html)
+* [実際の標的型攻撃の事例を基にした「インシデント対応ハンズオン」コンテンツをJPCERT／CCが公開：標的型攻撃を受けたときのWindowsログ調査方法を学べる - ＠IT](https://www.atmarkit.co.jp/ait/articles/2007/30/news025.html)
+* [JPCERT／CCがイベントログ分析支援ツール「LogonTracer v1.5.0」を公開](https://www.atmarkit.co.jp/ait/articles/2011/04/news028.html)
+* [オンボーディング支援プログラム - Mackerel（マカレル）: 新世代のサーバー管理・監視サービス](https://mackerel.io/ja/services-support/onboarding/)
+
+# MISC
+
+* [会話の公理（ポール・グライス） ? *ListFreak](https://listfreak.com/list/1301)
+* [糖尿病予備群たちに告ぐ！ 今やるべき対処法5つ  Tarzan Web（ターザンウェブ）](https://tarzanweb.jp/post-210390)
+* [「旧街道サイクリングの旅」サイクルスポーツ.jpにて好評連載中！［最終回 更新！］](https://www.strada.jp/events/kyukaidou_201908/)

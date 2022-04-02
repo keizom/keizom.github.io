@@ -126,10 +126,12 @@
 
 ## Office Online Server
 
+* [Office Online Server を計画する](https://docs.microsoft.com/ja-jp/officeonlineserver/plan-office-online-server)
 * [Office Online Server を展開する](https://docs.microsoft.com/ja-jp/officeonlineserver/deploy-office-online-server)
 * [Office Online Server (OOS) のインストールと構成](https://shanqiai.weblogs.jp/sharepoint_technical_note/2016/02/office-online-server-preview-install-configuration.html)
 * [Exchange 組織に Office Online Server をインストールする](https://docs.microsoft.com/ja-jp/Exchange/plan-and-deploy/install-office-online-server?redirectedfrom=MSDN&view=exchserver-2019)
 * [Office Online Serverを使ってみる](http://sptakesato.blog.fc2.com/blog-entry-20.html)
+* [TLS 1.1 および TLS 1.2 以降のサポートを有効Office Online Server](https://docs.microsoft.com/ja-jp/officeonlineserver/enable-tls-1-1-and-tls-1-2-support-in-office-online-server)
 * [Office Web Apps で SharePoint上のファイルが開けなくなる SPWOPIProofKey が更新されないことによる](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/720a6d3f-f6f4-492c-9195-23a9fed9a90c/office-web-apps-12391?forum=sharepointsupportteamja)
 * [Office 2019 製品版をインストールしてみました](https://curio-shiki.com/blog/office/office2019-firstinstall)
 * [Office Online Server での IBM Content Navigator の構成](https://www.ibm.com/docs/ja/content-navigator/3.0.x?topic=components-configuring-content-navigator-office-online-server)
@@ -162,16 +164,3 @@
 * [DO’s&DONT’s #12: やった方がいいこと - max server memory を設定する](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-12-max-server-memory)
 * [DO’s&DONT’s #17: やっておいた方がいいこと - tempdb データファイル数を CPU 数に一致させる](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-17-tempdb-259)
 * [SQL Troubleshooting SQL Server トラブルシューティング 6 回シリーズのご案内](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/sql-troubleshooting-sql-server-6)
-
-# Security
-
-* [AWS環境の公開サーバに対する セキュリティ検討ガイド  トレンドマイクロ](https://resources.trendmicro.com/jp-docdownload-form-m294-social-2020-awssecurityreport.html)
-* [実際の標的型攻撃の事例を基にした「インシデント対応ハンズオン」コンテンツをJPCERT／CCが公開：標的型攻撃を受けたときのWindowsログ調査方法を学べる - ＠IT](https://www.atmarkit.co.jp/ait/articles/2007/30/news025.html)
-* [JPCERT／CCがイベントログ分析支援ツール「LogonTracer v1.5.0」を公開](https://www.atmarkit.co.jp/ait/articles/2011/04/news028.html)
-* [オンボーディング支援プログラム - Mackerel（マカレル）: 新世代のサーバー管理・監視サービス](https://mackerel.io/ja/services-support/onboarding/)
-
-# MISC
-
-* [会話の公理（ポール・グライス） ? *ListFreak](https://listfreak.com/list/1301)
-* [糖尿病予備群たちに告ぐ！ 今やるべき対処法5つ  Tarzan Web（ターザンウェブ）](https://tarzanweb.jp/post-210390)
-* [「旧街道サイクリングの旅」サイクルスポーツ.jpにて好評連載中！［最終回 更新！］](https://www.strada.jp/events/kyukaidou_201908/)
