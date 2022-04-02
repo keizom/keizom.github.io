@@ -304,6 +304,13 @@
 * [Azure Information Protection と AD RMS の比較](https://docs.microsoft.com/ja-jp/azure/information-protection/compare-on-premise)
 * [Azure Information Protection とは](https://docs.microsoft.com/ja-jp/azure/information-protection/what-is-information-protection)
 * [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/information-protection/infoprotect-quick-start-tutorial)
+* [AIP Azure Information Protection の良くあるお問い合わせについて](https://social.technet.microsoft.com/Forums/ja-JP/9b5964c6-5e4a-4a2b-8338-e1c17ed2ee75/aip-azure-information-protection?forum=jpsecurity)
+
+> Office 2013以降、AIP Client
+> %LocalAppdata%\Microsoft\MSIPC
+
+> Office 2010
+> %LocalAppdata%\Microsoft\DRM
 
 ### WebSite_AIP
 

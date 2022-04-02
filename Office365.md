@@ -9,7 +9,7 @@
 * [Office365](https://keizom.github.io/Office365.html)
 * [web](https://keizom.github.io/web.html)
 
- Microsoft 365
+# Microsoft 365
 
 ## Office 365 PowerShell
 
