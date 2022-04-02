@@ -17,6 +17,7 @@
 * [VS CodeでHTMLを楽々コーディング！ (1/2)](https://www.atmarkit.co.jp/ait/articles/1806/26/news032.html)
 * [WebコーダーがVSCodeで使いたいショートカットと設定、拡張機能](https://haniwaman.com/web-vscode/)
 * [VS Codeの見やすいテーマが登場！GitHubのデザインでコードも快適に -GitHub VS Code theme  コリス](https://coliss.com/articles/build-websites/operation/work/github-vscode-theme.html)
+* [爆速コーディングを実現！Emmetの使い方とVSCodeのおすすめ設定まとめ](https://webdesign-trends.net/entry/13588)
 
 ## Carousel
 
