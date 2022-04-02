@@ -20,6 +20,7 @@
 * [Azure 上で SharePoint Server 2016 をオフラインインストールしてみよう！(後編)](https://blogs.networld.co.jp/entry/azure-sharepoin-7f90)
 * [SharePoint Server 2016 のオフライン インストール](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/sharepoint-server-2016-%E3%81%AE%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 * [単一サーバーに SharePoint Server 2016 または SharePoint Server 2019 をインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-sharepoint-server-2016-on-one-server)
+* [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
 
 ## SharePoint 高可用性構成
 
@@ -36,6 +37,7 @@
 * [SharePoint Server 2013 の構成 － 代替アクセスマッピング](https://yama30501.blog.fc2.com/blog-entry-134.html)
 * [パスベース および ホスト名付きサイト コレクションの構築](https://www.slideshare.net/aiyamasaki528/path-based-and-host-named-site-collection)
 * [代替アクセス マッピングを理解する](https://docs.microsoft.com/en-us/archive/blogs/sharepoint_support/4401)
+* [SharePoint Server の Web アプリケーションの URL と IIS のバインドを更新する](https://docs.microsoft.com/ja-jp/sharepoint/administration/update-a-web-application-url-and-iis-bindings)
 
 ## Loopback(サーバー自身からの接続方法)
 
@@ -59,6 +61,13 @@
 * [Set SPNs for the SharePoint Service Account](https://help.nintex.com/en-US/k2blackpearl/icg/4.6.10/Install_SetSPNsSharePoint.html)
 * [Kerberos 認証の設定](https://community.denodo.com/docs/html/browse/8.0/jp/platform/installation/postinstallation_tasks/postinstallation_tasks_in_virtual_dataport/setting-up_kerberos_authentication)
 * [The final Kerberos guide for SharePoint technicians](https://blog.blksthl.com/2012/09/26/the-final-kerberos-guide-for-sharepoint-technicians/)
+
+## template
+
+* [SharePoint サイト テンプレートとサイト スクリプトの概要](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/site-design-overview?WT.mc_id=M365-MVP-10648)
+* [サイト テンプレートをSharePointカスタマイズする](https://support.microsoft.com/ja-jp/office/%E3%82%B5%E3%82%A4%E3%83%88-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92sharepoint%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%99%E3%82%8B-39382463-0e45-4d1b-be27-0e96aeec8398?ui=ja-jp&rs=ja-jp&ad=jp#ID0EBADAAA=From_your_organization)
+* [サイト テンプレートとサイト スクリプトの作成を開始する](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/get-started-create-site-design)
+
 
 ## Forms based authentication
 
@@ -115,9 +124,19 @@
 
 * [WorkflowStatus Enum](https://docs.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.workflowservices.workflowstatus?view=sharepoint-server)
 
-## Office Web Apps
+## Office Online Server
 
+* [Office Online Server を展開する](https://docs.microsoft.com/ja-jp/officeonlineserver/deploy-office-online-server)
+* [Office Online Server (OOS) のインストールと構成](https://shanqiai.weblogs.jp/sharepoint_technical_note/2016/02/office-online-server-preview-install-configuration.html)
+* [Exchange 組織に Office Online Server をインストールする](https://docs.microsoft.com/ja-jp/Exchange/plan-and-deploy/install-office-online-server?redirectedfrom=MSDN&view=exchserver-2019)
+* [Office Online Serverを使ってみる](http://sptakesato.blog.fc2.com/blog-entry-20.html)
 * [Office Web Apps で SharePoint上のファイルが開けなくなる SPWOPIProofKey が更新されないことによる](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/720a6d3f-f6f4-492c-9195-23a9fed9a90c/office-web-apps-12391?forum=sharepointsupportteamja)
+* [Office 2019 製品版をインストールしてみました](https://curio-shiki.com/blog/office/office2019-firstinstall)
+* [Office Online Server での IBM Content Navigator の構成](https://www.ibm.com/docs/ja/content-navigator/3.0.x?topic=components-configuring-content-navigator-office-online-server)
+* [Office – VLSCのOffice2019（ボリュームライセンス版）をインストールする方法](https://se.ekaki-j.com/office-vlsc/)
+
+
+
 
 # Windows OS
 

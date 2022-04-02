@@ -224,6 +224,9 @@
 * [Application Gateway リスナーの構成](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-listeners)
 * [Setting up Application Gateway with an App Service that uses Azure Active Directory Authentication](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/setting-up-application-gateway-with-an-app-service-that-uses/ba-p/392490)
 * [Enable remote access to SharePoint with Azure Active Directory Application Proxy](https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy-integrate-with-sharepoint-server)
+
+> Application Gateway v2 では、NTLM 認証を使用したプロキシ要求をサポートしていません。
+
 * [ポータルを使用して Application Gateway での相互認証を構成する](https://docs.microsoft.com/ja-jp/azure/application-gateway/mutual-authentication-portal)
 * [Application Gateway に関してよく寄せられる質問](https://docs.microsoft.com/ja-jp/azure/application-gateway/application-gateway-faq)
 * [Application Gateway での相互認証の概要](https://docs.microsoft.com/ja-jp/azure/application-gateway/mutual-authentication-overview)
