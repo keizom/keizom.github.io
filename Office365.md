@@ -249,6 +249,7 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## SharePoint FrameWork
 
+* [SharePoint Framework client-side web パーツ開発のファースト ステップ](https://www.illuminate-j.jp/blog/sharepointframework-client-side-webpart)
 * [SharePoint Framework の概要 (SPFx)  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/spfx/sharepoint-framework-overview)
 * [SharePoint Framework 開発環境の設定  Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/spfx/set-up-your-development-environment)
 * [SharePoint Framework 開発入門 まとめ - SharePoint Developer](https://sharepoint.orivers.jp/sharepoint-framework-dev)
@@ -277,6 +278,9 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## Dynamics 365
 
+* [dynamics 365: 無料試用版刷新、セットアップ手順解説](https://shenghaohuang.com/2021/07/29/dynamics-365-trial/)
+* [Dynamics 365トライアル版(試用版)の取得方法(2021年8月版)](https://www.arcuss-japan.com/crmblogs/5077)
+* [Dynamics 365 無料試用版の概要](https://dynamics.microsoft.com/ja-jp/dynamics-365-free-trial/)
 * [Dynamics 365 トライアル環境の取得 （2020年9月版） - YouTube](https://m.youtube.com/watch?v=2vXTJK623TU)
 * [Community demo ? Calling Dynamics 365 CRM APIs from SharePoint - YouTube](https://www.youtube.com/watch?v=VXzYc6cfjuI)
 * [Dynamics 365 自習書シリーズ - Microsoft Dynamics 365](https://www.microsoft.com/ja-jp/biz/dynamics/learning.aspx)

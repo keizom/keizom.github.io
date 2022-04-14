@@ -15,6 +15,8 @@
 
 ## install
 
+* [SharePoint Server 2016 MinRole 構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-minrole)
+* [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
 * [SharePoint 2016: Step By Step Installation of Workflow Manager](https://social.technet.microsoft.com/wiki/contents/articles/34407.sharepoint-2016-step-by-step-installation-of-workflow-manager.aspx)
 * [ネットワーク共有から SharePoint Server の必須コンポーネントをインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-prerequisites-from-network-share)
 * [Azure 上で SharePoint Server 2016 をオフラインインストールしてみよう！(後編)](https://blogs.networld.co.jp/entry/azure-sharepoin-7f90)
@@ -55,13 +57,12 @@
 * [SharePoint Server で Kerberos 認証を計画する](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/kerberos-authentication-planning)
 * [SharePoint 2013/2016 Kerberos Authentication](https://www.noralku.net/2016/05/08/sharepoint-20132016-kerberos-authentication/)
 * [Part2: Step by Step Guide for Configuring Kerberos Authentication for SharePoint 2013/2016](https://vivekmalviya.home.blog/2019/03/21/part2-step-by-step-guide-for-configuring-kerberos-authentication-for-sharepoint-webapplication/)
-
 * [SharePointとKerberos認証](https://mossmomo.exblog.jp/13137689/)
 * [Enabling Kerberos on SharePoint](https://thesharepointfarm.com/2017/10/enabling-kerberos-sharepoint/)
 * [Set SPNs for the SharePoint Service Account](https://help.nintex.com/en-US/k2blackpearl/icg/4.6.10/Install_SetSPNsSharePoint.html)
 * [Kerberos 認証の設定](https://community.denodo.com/docs/html/browse/8.0/jp/platform/installation/postinstallation_tasks/postinstallation_tasks_in_virtual_dataport/setting-up_kerberos_authentication)
 * [The final Kerberos guide for SharePoint technicians](https://blog.blksthl.com/2012/09/26/the-final-kerberos-guide-for-sharepoint-technicians/)
-
+* [SharePoint 2013: Form based Authentication (FBA)](https://social.technet.microsoft.com/wiki/contents/articles/23539.sharepoint-2013-form-based-authentication-fba.aspx)
 ## template
 
 * [SharePoint サイト テンプレートとサイト スクリプトの概要](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/site-design-overview?WT.mc_id=M365-MVP-10648)
