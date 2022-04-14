@@ -27,6 +27,8 @@
 
 ## html
 
+* [少しのコードで実装可能なHTML小技集](https://www.webcreatorbox.com/tech/html-tips)
+* [Web制作者がチェックしておきたい！ 2022年版、CSSフレームワークのまとめ](https://coliss.com/articles/build-websites/operation/css/awesome-css-frameworks.html)
 * [HTML/CSS初学者がつまづきやすい記述ミスと修正方法  Webクリエイターボックス](https://www.webcreatorbox.com/tech/html-css-beginner)
 * [初心者向け！HTML/CSSのコーディング手順をイチからしっかりと。  Webクリエイターボックス](https://www.webcreatorbox.com/tech/html-css-coding-steps)
 * [「全ての住所フォームがこうなってほしい」　SIerが公開した“使いやすい入力欄”の作り方が話題　ソースコードも掲載](https://www.itmedia.co.jp/news/articles/2203/02/news056.html)

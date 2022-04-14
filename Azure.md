@@ -237,6 +237,7 @@
 
 ### Microsoft_AAG
 
+* [Azure Firewall を作って動かしてみた](https://www.softbanktech.co.jp/special/blog/cloud_blog/2019/0028/)
 * [Using Azure Application Gateway to publish applications](https://savilltech.com/2018/03/17/using-azure-application-gateway-to-publish-applications/)
 * [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
 * [Application Gateway の価格](https://azure.microsoft.com/ja-jp/pricing/details/application-gateway/)

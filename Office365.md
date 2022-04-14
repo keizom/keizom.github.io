@@ -76,6 +76,8 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## SharePoint Online
 
+* [Accessing Mixed-Mode SharePoint Web Applications With CSOM And PowerShell](http://www.lifeonplanetgroove.com/accessing-mixed-mode-sharepoint-web-applications-with-csom-and-powershell/)
+* [SharePoint のファイル管理機能をどう使っていくべきか？](https://shanqiai.weblogs.jp/sharepoint_technical_note/2022/04/sharepoint-filemanagement-from-my-point-of-view.html)
 * [SharePoint Online エクスプローラーで開く機能の制限事項について](https://social.msdn.microsoft.com/Forums/ja-JP/75d6134c-69f2-4013-878f-7892b23e9042/sharepoint-online?forum=sharepointsupportteamja)
 * [SharePoint home sites: a landing for your organization on the intelligent intranet - Microsoft Tech Community - 621933](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-home-sites-a-landing-for-your-organization-on-the/ba-p/621933)
 * [Updates to SharePoint security, and migration - Microsoft Tech Community - 549585](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/updates-to-sharepoint-security-administration-and-migration/ba-p/549585)
