@@ -15,6 +15,19 @@
 
 * [【Write-Verbose】スクリプトや関数の詳細を表示する【PowerShell】](https://www.tekizai.net/entry/2021/08/26/063000)
 * [Windows PowerShell基本Tips](https://www.atmarkit.co.jp/ait/series/3410/)
+* [PowerShell のデバッグに役立つコマンド設定](https://www.pine4.net/Memo/Article/Archives/207)
+* [Windows PowerShell 入門（10）－デバッグ編](https://codezine.jp/article/detail/3067?p=3)
+
+> $DebugPreference  
+> "Continue":Write-Debugに指定されたメッセージを出力  
+> "SilentlyContinue":Write-Debugに指定されたメッセージを出力しない  
+> "Stop":Write-Debugに指定されたメッセージを出力した後、動作を停止  
+> "Inquire":Write-Debugに指定されたメッセージを出力後、続行するかを確認  
+> 
+> Set-PSDebug 
+> 
+> $host.EnterNestedPrompt()
+
 
 ## csharp
 
