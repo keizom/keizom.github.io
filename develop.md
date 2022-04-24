@@ -86,7 +86,7 @@
 * [ゼロからはじめるDocker(1) Dockerとは？  マイナビニュース](https://news.mynavi.jp/article/docker-1/)
 * [Docker for Windows & Web Apps for Containers 実践活用技法](https://docs.microsoft.com/ja-jp/archive/blogs/nakama/dockerandazure)
 * [Docker入門（第一回）～Dockerとは何か、何が良いのか～](https://knowledge.sakura.ad.jp/13265/)
-
+* [イラストではじめる「Kubernetes」](https://codezine.jp/article/corner/917)
 ## WSL
 
 * [【WSL入門】第1回　Windows 10標準Linux環境WSLを始めよう：ITの教室 - ＠IT](https://www.atmarkit.co.jp/ait/articles/1903/18/news031.html)
