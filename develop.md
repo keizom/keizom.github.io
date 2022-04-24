@@ -18,11 +18,13 @@
 * [PowerShell のデバッグに役立つコマンド設定](https://www.pine4.net/Memo/Article/Archives/207)
 * [Windows PowerShell 入門（10）－デバッグ編](https://codezine.jp/article/detail/3067?p=3)
 
-> $DebugPreference  
-> "Continue":Write-Debugに指定されたメッセージを出力  
-> "SilentlyContinue":Write-Debugに指定されたメッセージを出力しない  
-> "Stop":Write-Debugに指定されたメッセージを出力した後、動作を停止  
-> "Inquire":Write-Debugに指定されたメッセージを出力後、続行するかを確認  
+> $DebugPreference
+> |設定値|Write-Debugの動作|
+> |---|---|
+> |Continue|メッセージを出力する|
+> |SilentlyContinue|メッセージを出力しない|
+> |Stop|メッセージを出力・停止|
+> |Inquire|メッセージを出力・続行|
 > 
 > Set-PSDebug 
 > 
