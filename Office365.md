@@ -84,6 +84,21 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 >  モダン環境で並べ替えを実行する際のインデックスの自動作成は、アイテム数が 20,000 未満のリストおよびライブラリに限定されています。
 + [リスト ビューのしきい値によって発生する現象と対処策](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/31574)
 * [Accessing Mixed-Mode SharePoint Web Applications With CSOM And PowerShell](http://www.lifeonplanetgroove.com/accessing-mixed-mode-sharepoint-web-applications-with-csom-and-powershell/)
+* [リストまたはライブラリ列にインデックスを追加する](https://support.microsoft.com/ja-jp/office/%E3%83%AA%E3%82%B9%E3%83%88%E3%81%BE%E3%81%9F%E3%81%AF%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E5%88%97%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B-f3f00554-b7dc-44d1-a2ed-d477eac463b0)
+> インデックス作成でサポートされている列とサポートされていない列  
+
+|サポートされている列の種類|サポートされていない列の種類|
+|---|---|
+|1 行テキスト|複数行テキスト|
+|選択肢 (単一値)|選択肢 (複数値)|
+|数値|集計値|
+|通貨|ハイパーリンクまたは画像|
+|日付と時刻に関する数式|ユーザー設定の列|
+|人物またはグループ (単一値) (ルックアップ)|人物またはグループ (複数値) (ルックアップ)|
+|管理メタデータ (ルックアップ)|外部データ|
+|Yes/No|-|
+|ルックアップ (ルックアップ)|-|
+
 * [SharePoint のファイル管理機能をどう使っていくべきか？](https://shanqiai.weblogs.jp/sharepoint_technical_note/2022/04/sharepoint-filemanagement-from-my-point-of-view.html)
 * [SharePoint Online エクスプローラーで開く機能の制限事項について](https://social.msdn.microsoft.com/Forums/ja-JP/75d6134c-69f2-4013-878f-7892b23e9042/sharepoint-online?forum=sharepointsupportteamja)
 * [SharePoint home sites: a landing for your organization on the intelligent intranet - Microsoft Tech Community - 621933](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-home-sites-a-landing-for-your-organization-on-the/ba-p/621933)
