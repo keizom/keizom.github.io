@@ -25,11 +25,10 @@
 > |SilentlyContinue|メッセージを出力しない|
 > |Stop|メッセージを出力・停止|
 > |Inquire|メッセージを出力・続行|
-> 
-> Set-PSDebug 
-> 
+>
+> Set-PSDebug
+>
 > $host.EnterNestedPrompt()
-
 
 ## csharp
 
@@ -102,6 +101,7 @@
 * [Docker for Windows & Web Apps for Containers 実践活用技法](https://docs.microsoft.com/ja-jp/archive/blogs/nakama/dockerandazure)
 * [Docker入門（第一回）～Dockerとは何か、何が良いのか～](https://knowledge.sakura.ad.jp/13265/)
 * [イラストではじめる「Kubernetes」](https://codezine.jp/article/corner/917)
+
 ## WSL
 
 * [【WSL入門】第1回　Windows 10標準Linux環境WSLを始めよう：ITの教室 - ＠IT](https://www.atmarkit.co.jp/ait/articles/1903/18/news031.html)
@@ -155,7 +155,7 @@
 * [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-* [Log File Highlighter ](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter)
+* [Log File Highlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter)
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -214,4 +214,3 @@
 
 * [Python学習 (パイソン)  企業IT](https://news.mynavi.jp/top/business/enterprise/python_engineer/)
 * [無料で読める、東大／京大の「Python教科書」電子書籍：AI・機械学習の無料電子書籍 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2105/26/news025.html)
-

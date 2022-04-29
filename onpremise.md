@@ -23,6 +23,9 @@
 * [SharePoint Server 2016 のオフライン インストール](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/sharepoint-server-2016-%E3%81%AE%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 * [単一サーバーに SharePoint Server 2016 または SharePoint Server 2019 をインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-sharepoint-server-2016-on-one-server)
 * [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
+* [What’s new in SharePoint Server 2016 Installation and Deployment](https://thirusweb.wordpress.com/2015/06/04/hello-world/)
+* [Install SharePoint Server 2016](https://docs.microsoft.com/en-us/sharepoint/install/install-for-sharepoint-server-2016?msclkid=c58d6b9cc79f11ec81d217c19644dc96)
+* [SharePoint Server 2016 Prerequisites, Installation and Deployment](https://social.technet.microsoft.com/wiki/contents/articles/32950.sharepoint-server-2016-prerequisites-installation-and-deployment.aspx?msclkid=c58f61a4c79f11ec9144129fbacb31b4)
 
 ## SharePoint 高可用性構成
 

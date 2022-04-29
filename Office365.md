@@ -76,6 +76,13 @@ powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## SharePoint Online
 
+* [リスト ビューのしきい値に関する FAQ](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/faq)
+> Q1 : リスト ビューのしきい値とは何なのか？  
+> リスト ビューのしきい値とは、ユーザー観点でいうと、同一階層で表示 (ビュー) できるアイテムの数です。  
+> リストビューのしきい値の 5000 件を、ドキュメントライブラリやリストに登録できるアイテムの件数と混同されている場合があります。
+* [大規模なリストとライブラリを管理する](https://support.microsoft.com/ja-jp/office/%e5%a4%a7%e8%a6%8f%e6%a8%a1%e3%81%aa%e3%83%aa%e3%82%b9%e3%83%88%e3%81%a8%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%82%92%e7%ae%a1%e7%90%86%e3%81%99%e3%82%8b-b8588dae-9387-48c2-9248-c24122f07c59?ui=ja-jp&rs=ja-jp&ad=jp)
+>  モダン環境で並べ替えを実行する際のインデックスの自動作成は、アイテム数が 20,000 未満のリストおよびライブラリに限定されています。
++ [リスト ビューのしきい値によって発生する現象と対処策](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/31574)
 * [Accessing Mixed-Mode SharePoint Web Applications With CSOM And PowerShell](http://www.lifeonplanetgroove.com/accessing-mixed-mode-sharepoint-web-applications-with-csom-and-powershell/)
 * [SharePoint のファイル管理機能をどう使っていくべきか？](https://shanqiai.weblogs.jp/sharepoint_technical_note/2022/04/sharepoint-filemanagement-from-my-point-of-view.html)
 * [SharePoint Online エクスプローラーで開く機能の制限事項について](https://social.msdn.microsoft.com/Forums/ja-JP/75d6134c-69f2-4013-878f-7892b23e9042/sharepoint-online?forum=sharepointsupportteamja)
