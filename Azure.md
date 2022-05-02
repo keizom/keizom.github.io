@@ -46,6 +46,14 @@
 
 * [Azure MonitorエージェントによるWindows仮想マシンの監視](https://cloudsteady.jp/post/50812/)
 * [チュートリアル - Azure PowerShell を使用して Windows VM を作成および管理する](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/tutorial-manage-vm)
+* [複数の NIC を持つ Windows 仮想マシンの作成と管理](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/multiple-nics#configure-guest-os-for-multiple-nics)
+
+> route print 
+> Interface List  
+> 3...00 0d 3a 10 92 ce ......Microsoft Hyper-V Network Adapter #3  
+> 7...00 0d 3a 10 9b 2a ......Microsoft Hyper-V Network Adapter #4  
+> 
+> route add -p 0.0.0.0 MASK 0.0.0.0 デフォルトゲートウェイIP METRIC 5015 IF インターフェースNo.
 
 ## Azure vNET
 
