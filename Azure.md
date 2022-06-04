@@ -7,13 +7,17 @@
 - [develop](https://keizom.github.io/develop.html)
 - [intune](https://keizom.github.io/intune.html)
 - [Office365](https://keizom.github.io/Office365.html)
+<<<<<<< HEAD
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
+=======
+>>>>>>> 146670627d9e80a3a62bec57baf1c2c522ecf23f
 - [web](https://keizom.github.io/web.html)
 
 # Azure
 
 - [Azure 環境作ったら最初にやるべきこと 2021 年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
+<<<<<<< HEAD
 
 ## Azure Private Link
 
@@ -22,6 +26,8 @@
 ## Azure AD B2C
 
 - [基礎から分かる Azure AD B2C](https://qiita.com/Shinya-Yamaguchi/items/03321728b373a27be009)
+=======
+>>>>>>> 146670627d9e80a3a62bec57baf1c2c522ecf23f
 
 ## Azure DNS
 
@@ -188,6 +194,14 @@
 - [リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルをポータルで作成する](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-create-service-principal-portal)
 - [SQL Server から Azure SQL Managed Instance へオンライン移行するためのカスタム ロール](https://docs.microsoft.com/ja-jp/azure/dms/resource-custom-roles-sql-db-managed-instance)
 - [Azure Database Migration Service を使用するための前提条件の概要](https://docs.microsoft.com/ja-jp/azure/dms/pre-reqs)
+<<<<<<< HEAD
+=======
+
+  > 仮想ネットワークのネットワーク セキュリティ グループ (NSG) の規則によって、
+  > ServiceBus、Storage、AzureMonitor の ServiceTag の送信ポート 443 がブロックされていないことを確認します
+  > Storage Account のファイヤウォール設定、DMS と SQL MI のセグメントを追加する
+
+>>>>>>> 146670627d9e80a3a62bec57baf1c2c522ecf23f
 - [Azure Database Migration Service を使用して Azure SQL Managed Instance を移行するためのネットワーク トポロジ](https://docs.microsoft.com/ja-jp/azure/dms/resource-network-topologies)
 - [Azure Database Migration Service によってサポートされる移行シナリオの状態](https://docs.microsoft.com/ja-jp/azure/dms/resource-scenario-status)
 - [もう多分怖くないサービスプリンシパル](https://tech-lab.sios.jp/archives/23371)
