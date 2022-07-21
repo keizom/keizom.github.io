@@ -321,7 +321,7 @@
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［後編］――Azure SQL Database と Azure SQL Database Managed Instance の違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
 
-## Azure Infomation Protection
+## Azure Information Protection
 
 ### Microsoft_AIP
 
