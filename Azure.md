@@ -19,9 +19,20 @@
 
 - [Azure Private Link を構成するにあたって注意点は？](https://cloudsteady.jp/post/37510/)
 
+## Azure AD
+
+- [2022 年 6 月末から「セキュリティの既定値群」の有効化が促されます (対象 : 一部のテナント)](https://jpazureid.github.io/blog/azure-active-directory/security-default-2022/)
+
 ## Azure AD B2C
 
 - [基礎から分かる Azure AD B2C](https://qiita.com/Shinya-Yamaguchi/items/03321728b373a27be009)
+
+## Azure AD Connect
+
+- [デバイス ベースのアクセス制御 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/device_access)
+- [登録されたデバイスの管理方法 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/registerd_device_managemant)
+- [サイトのユーザー情報を強制的に AD と同期させる方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/ad)
+- [Azure AD Connect を使ってアカウントを同期する方法](https://www.gmo.jp/report/single/?art_id=244)
 
 ## Azure DNS
 
@@ -154,13 +165,6 @@
 - [後悔しないための Azure App Service 設計パターン (2020 年版) - しばやん雑記](https://blog.shibayan.jp/entry/20200113/1578920798)
 - [App Service で KeyVault 参照する手順 - ぐだぐだ言ってないでコードを書けよ、ハゲ。](https://kheiakiyama.hateblo.jp/entry/2018/12/09/002517)
 - [Microsoft Azure 入門 - Web Apps を使って簡単に Web アプリや API を公開してみよう - エンジニア Hub 若手 Web エンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2019/11/19/103000)
-
-## Azure AD Connect
-
-- [デバイス ベースのアクセス制御 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/device_access)
-- [登録されたデバイスの管理方法 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/registerd_device_managemant)
-- [サイトのユーザー情報を強制的に AD と同期させる方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/ad)
-- [Azure AD Connect を使ってアカウントを同期する方法](https://www.gmo.jp/report/single/?art_id=244)
 
 ## WindowsVirtualDesktop
 
@@ -320,6 +324,7 @@
 
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［後編］――Azure SQL Database と Azure SQL Database Managed Instance の違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
+- [【失敗と対策】Azure SQL Managed Instance を ExpressRoute 経由で使用する際の注意](https://note.com/avakansai/n/nd4e6632710f6)
 
 ## Azure Information Protection
 

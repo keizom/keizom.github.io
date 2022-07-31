@@ -24,6 +24,8 @@
 - [Community demo – Calling Dynamics 365 CRM APIs from SharePoint - YouTube](https://www.youtube.com/watch?v=VXzYc6cfjuI&app=desktop)
 - [Dynamics 365 の無料トレーニング](https://www.microsoft.com/ja-jp/events/top/training-days/dynamics365)
 - [今日から始める Dynamics 365 + PowerApps でカスタムアプリを作成！](https://memo.tyoshida.me/power-platform/powerapps/start-today-create-custom-apps-with-powerapps-and-dynamics-365/)
+- [モデル駆動型アプリのクライアント API リファレンス](https://docs.microsoft.com/ja-jp/power-apps/developer/model-driven-apps/clientapi/reference)
+- [クライアント アプリケーションで、XRM ツール共通ログイン コントロールを使用する](https://docs.microsoft.com/ja-jp/power-apps/developer/data-platform/xrm-tooling/use-xrm-tooling-common-login-control-client-applications)
 
 ## PowerApps
 

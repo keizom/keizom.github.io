@@ -21,6 +21,13 @@
 - [【SPO】CSOM と SharePoint Online 管理シェルを PowerShell でパッケージ管理](https://www.samurainote.com/entry/2019/02/23/222546)
 - [単一の PowerShell ウィンドウですべての Microsoft 365 サービスに接続する](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/connect-to-all-microsoft-365-services-in-a-single-windows-powershell-window?view=o365-worldwide)
 - [PowerShell を使用して Microsoft 365 サービスへのアクセスを無効にする](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/disable-access-to-services-with-microsoft-365-powershell?view=o365-worldwide)
+- [Audit SharePoint Online Group Membership Changes using PowerShell](https://o365reports.com/2022/06/22/audit-sharepoint-online-group-membership-changes-using-powershell/)
+- [Bulk Import Contacts to Office 365 using PowerShell](https://m365scripts.com/exchange-online/bulk-import-contacts-office-365-powershell/)
+- [Office365 監査ログの管理方法を検討する](https://www.engineer-base.net/office365%E3%81%AE%E7%9B%A3%E6%9F%BB%E3%83%AD%E3%82%B0%E7%AE%A1%E7%90%86/)
+- [Microsoft Graph PowerShell でユーザー作成（MSOnline との比較）](https://tech-lab.sios.jp/archives/29212)
+- [Azure AD の変更管理を簡素化します](https://jpazureid.github.io/blog/azure-active-directory/azure-ad-change-management-simplified/)
+
+> 2022 年 12 月以降に 2 つの PowerShell モジュール (MSOL & AAD) が廃止となる予定
 
 ## Developer Subscription
 
@@ -50,7 +57,6 @@
 - [できる Microsoft 365 E5 Security Compliance 活用編](https://aka.ms/dekiru-book_M365-E5-Security_katuyo)
 - [はじめての クラウド ストレージの保護: Office 365 Advanced Threat Protection   日本マイクロソフト](https://m.youtube.com/watch?v=Ze_QlJf5ET4)
 - [はじめての クラウドの保護: Microsoft Cloud App Security   日本マイクロソフト](https://m.youtube.com/watch?v=PbgQpWeduMY)
-  powershell-csom-sample-code-for-spo-http-429-incremental-backoff-retry-2)
 
 ## Audit Log
 

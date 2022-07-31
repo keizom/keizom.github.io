@@ -179,6 +179,7 @@
 - [仮想マシンの状態を保存する「チェックポイント」 (1/2)：Windows 10 Hyper-V 入門 - ＠IT](https://www.atmarkit.co.jp/ait/articles/2009/10/news017.html)
 - [第 1 回 Active Directory の必要性【Microsoft の MVP 解説！第二弾 Active Directory のハウツー読本】](https://blogs.manageengine.jp/needs_of_ad/)
 - [iSCSI ターゲット サーバーの概要](https://docs.microsoft.com/ja-jp/windows-server/storage/iscsi/iscsi-target-server)
+- [winget を使おう 前編：winget のインストールと基本操作](https://astherier.com/blog/2021/08/winget-usage-1/)
 
 # SQL Server
 
