@@ -66,6 +66,14 @@
 - [Windows Authentication Errors on local Servers (Loopback Protection)](https://webconnection.west-wind.com/docs/_4gi0ql5jb.htm)
 - [ホストヘッダーを利用する場合の注意事項](https://shanqiai.weblogs.jp/sharepoint_technical_note/2010/05/%E3%83%9B%E3%82%B9%E3%83%88%E3%83%98%E3%83%83%E3%83%80%E3%83%BC%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.html)
 
+## 通知メール設定
+
+- [通知メールのカスタマイズ (4.実際にメール内容をカスタマイズしてみる)](https://shanqiai.weblogs.jp/sharepoint_technical_note/2008/03/4-dae9.html)
+
+## Farm 設定
+
+- [SPFarmInfo.ps1](https://github.com/acasilla/SPFarmInfo)
+
 ## Kerberos
 
 - [Enabling Kerberos on SharePoint](https://thesharepointfarm.com/2017/10/enabling-kerberos-sharepoint/)

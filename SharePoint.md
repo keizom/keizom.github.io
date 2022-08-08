@@ -132,6 +132,7 @@
 - [SharePoint Online 管理シェルは SharePoint Online Client Components SDK がインストールされた端末で使用できません](https://jpspsupport.github.io/blog/sharepoint-online/managementshell-clientcomponentsSDK/)
 - [SharePoint Online で調整またはブロックを回避する Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 - [Create Update Delete Or Retrieve SharePoint Site Collections Using CSOM PowerShell](https://www.c-sharpcorner.com/article/create-update-delete-or-retrieve-sharepoint-site-collectio/)
+- [SharePoint Online: Change List or Library URL using PowerShell](https://www.sharepointdiary.com/2017/09/sharepoint-online-change-list-document-library-url-using-powershell.html)
 - [Creating SharePoint Site Collection through PowerShell CSOM](http://alexbrassington.com/2014/08/20/creating-sharepoint-site-collection-through-powershell-csom/)
 - [Office 365 グループの一覧とメンバーを取得する PowerShell スクリプト(多要素認証対応)](https://windowsadmin.ebisuda.com/2017/12/19/office-365%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E4%B8%80%E8%A6%A7%E3%81%A8%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8Bpowershell%E3%82%B9%E3%82%AF%E3%83%AA/)
 - [ディスカッション掲示板のデータ移行 サンプル スクリプトについて](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/1250-2)
