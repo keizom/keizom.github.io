@@ -14,6 +14,7 @@
 # Azure
 
 - [Azure 環境作ったら最初にやるべきこと 2021 年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
+- [Azure 始める人向けに見てほしい資料など](https://kkamegawa.hatenablog.jp/entry/2022/07/24/134600)
 
 ## Azure Private Link
 
@@ -48,6 +49,12 @@
 - [安全で管理の行き届いたクラウド](https://azure.microsoft.com/ja-jp/services/virtual-machines/secure-well-managed-iaas/#overview)
 - [Azure Monitor](https://azure.microsoft.com/ja-jp/services/monitor/#overview)
 - [【Microsoft Azure】Azure Monitor でできることを理解する](https://www.simpletraveler.jp/2020/11/14/microsoftazure-understanding-azuremonitor/)
+
+## Load Test
+
+- [Cloud-based load testing features will be retired on March 31 2020](https://azure.microsoft.com/en-us/updates/cloud-based-load-testing-features-will-be-retired-on-march-31-2020/)
+- [Azure Load Testing に JMeter スクリプトの事前準備が不要なクイックテスト機能が追加されたので使ってみた](https://dev.classmethod.jp/articles/azure-load-testing-quick-test/)
+- [Azure 仮想ネットワークに Azure Load Testing をデプロイしてプライベート エンドポイントをテストする](https://docs.microsoft.com/ja-jp/azure/load-testing/how-to-test-private-endpoint)
 
 ## Cognitive Services
 
@@ -221,6 +228,7 @@
 - [Azure Key Vault のマネージド ストレージ アカウント - PowerShell バージョン Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/key-vault/secrets/overview-storage-keys-powershell)
 - [クイック スタート:Azure Resource Graph エクスプローラーを使用して初めての Resource Graph クエリを実行する](https://docs.microsoft.com/ja-jp/azure/governance/resource-graph/first-query-portal)
 - [PowerShell Script: 使用されていない不要な Azure リソースを自動検知して削除する](https://docs.microsoft.com/ja-jp/archive/blogs/jpaztech/cleanup-unused-storage)
+- [Schedule and Run PowerShell Scripts for Azure VMs using Azure Automation](https://www.thomasmaurer.ch/2022/08/schedule-and-run-powershell-scripts-for-azure-vms-using-azure-automation/)
 
 ## Azure Cosmos DB
 

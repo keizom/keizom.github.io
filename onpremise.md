@@ -17,17 +17,23 @@
 
 ## install
 
+- [SPFarmInfo.ps1](https://github.com/acasilla/SPFarmInfo/)
+- [SharePoint 更新プログラム](https://docs.microsoft.com/ja-jp/officeupdates/sharepoint-updates)
 - [SharePoint Server 2016 MinRole 構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-minrole)
 - [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
 - [SharePoint 2016: Step By Step Installation of Workflow Manager](https://social.technet.microsoft.com/wiki/contents/articles/34407.sharepoint-2016-step-by-step-installation-of-workflow-manager.aspx)
 - [ネットワーク共有から SharePoint Server の必須コンポーネントをインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-prerequisites-from-network-share)
 - [Azure 上で SharePoint Server 2016 をオフラインインストールしてみよう！(後編)](https://blogs.networld.co.jp/entry/azure-sharepoin-7f90)
 - [SharePoint Server 2016 のオフライン インストール](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/sharepoint-server-2016-%E3%81%AE%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+
+> Dism.exe /online /enable-feature /featurename:NetFX3 /All /Source:E:\sources\sxs /LimitAccess
+> PrerequisiteInstaller.exe
+
 - [単一サーバーに SharePoint Server 2016 または SharePoint Server 2019 をインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-sharepoint-server-2016-on-one-server)
 - [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
 - [What’s new in SharePoint Server 2016 Installation and Deployment](https://thirusweb.wordpress.com/2015/06/04/hello-world/)
 - [Install SharePoint Server 2016](https://docs.microsoft.com/en-us/sharepoint/install/install-for-sharepoint-server-2016?msclkid=c58d6b9cc79f11ec81d217c19644dc96)
-- [SharePoint Server 2016 Prerequisites, Installation and Deployment](https://social.technet.microsoft.com/wiki/contents/articles/32950.sharepoint-server-2016-prerequisites-installation-and-deployment.aspx?msclkid=c58f61a4c79f11ec9144129fbacb31b4)
+- [SharePoint Server 2016 Prerequisites, Installation and Deployment](https://social.technet.microsoft.com/wiki/contents/articles/32950.sharepoint-server-2016-prerequisites-installation-and-deployment.aspx)
 - [構成キャッシュの再作成](https://social.msdn.microsoft.com/Forums/ja-JP/590627a7-d369-47b2-bfc8-7726d7cf9342/2708325104124611251512483124711251712398208772031625104?forum=sharepointsupportteamja)
 
 > 構成キャッシュが破損すると、以下のような様々な事象が発生する場合があります。
@@ -168,6 +174,8 @@
 
 # Windows OS
 
+- [SharePoint 2013: Disable Loopback Check](https://social.technet.microsoft.com/wiki/contents/articles/37664.sharepoint-2013-disable-loopback-check.aspx)
+- [DisablePasswordChange](<https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc962289(v=technet.10)?redirectedfrom=MSDN>)
 - [NUC7i7DNHE に Windows Server 2019 をインストールしてみる](https://blog.engineer-memo.com/2018/09/02/nuc7i7dnhe-%e3%81%ab-windows-server-2019-%e3%82%92%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/)
 - [Intel NUC に Hyper-V 2019 をインストールするときに NIC のドライバが無かった件](https://www.challenge-cf.jp/post/2019/10/23/intel-nucにhyper-v-2019をインストールするときにNICのドライバが無かった件)
 - [IIS の調査に必要な通信系のログ情報について](https://jpdsi.github.io/blog/web-apps/LogCollection2/)

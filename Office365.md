@@ -69,6 +69,7 @@
 
 ## Exchagne Online
 
+- [Connect to Exchange Online PowerShell with MFA](https://o365reports.com/2022/08/09/connect-to-exchange-online-powershell-with-mfa/)
 - [Office 365 の多要素認証環境で Outlook を接続する方法](https://blog.kazuakix.jp/entry/2018/04/15/223003)
 - [Office 365 でも拡張アドレスを使いたい](https://blog.kazuakix.jp/entry/2018/04/09/213959)
 - [Using Azure Automation to Process Exchange Online Data with PowerShell](https://practical365.com/use-azure-automation-exchange-online/)
@@ -151,3 +152,7 @@
 - [Microsoft Graph ドキュメント](https://docs.microsoft.com/ja-jp/graph/)
 - [group リソースの種類](https://docs.microsoft.com/ja-jp/graph/api/resources/group?view=graph-rest-1.0)
 - [Microsoft Graph の認証と承認の基本方法](https://docs.microsoft.com/ja-jp/graph/auth/auth-concepts)
+
+## Microsoft Graph Sample
+
+> https://graph.microsoft.com/v1.0/users/user@tenant.microsoft.com/events?$select=subject,body,bodyPreview,organizer,attendees,start,end,location,iCalUId > https://graph.microsoft.com/v1.0/me/events?$select=subject,body,bodyPreview,organizer,attendees,start,end,location
