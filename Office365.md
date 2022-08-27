@@ -152,7 +152,3 @@
 - [Microsoft Graph ドキュメント](https://docs.microsoft.com/ja-jp/graph/)
 - [group リソースの種類](https://docs.microsoft.com/ja-jp/graph/api/resources/group?view=graph-rest-1.0)
 - [Microsoft Graph の認証と承認の基本方法](https://docs.microsoft.com/ja-jp/graph/auth/auth-concepts)
-
-## Microsoft Graph Sample
-
-> https://graph.microsoft.com/v1.0/users/user@tenant.microsoft.com/events?$select=subject,body,bodyPreview,organizer,attendees,start,end,location,iCalUId > https://graph.microsoft.com/v1.0/me/events?$select=subject,body,bodyPreview,organizer,attendees,start,end,location
