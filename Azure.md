@@ -16,6 +16,11 @@
 - [Azure 環境作ったら最初にやるべきこと 2021 年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
 - [Azure 始める人向けに見てほしい資料など](https://kkamegawa.hatenablog.jp/entry/2022/07/24/134600)
 
+## メンテナンス
+
+- [Azure での仮想マシンのメンテナンス](https://docs.microsoft.com/ja-jp/azure/virtual-machines/maintenance-and-updates)
+  > Azure により、都合の良いときに自分でメンテナンスを開始できる時間枠も与えられます。 セルフ メンテナンス期間は、そのメンテナンスが緊急でない限り、通常は 35 日間です (ホスト マシンの場合)。
+
 ## Azure Private Link
 
 - [Azure Private Link を構成するにあたって注意点は？](https://cloudsteady.jp/post/37510/)
@@ -249,8 +254,6 @@
 
 ## Azure Application Gateway
 
-### Setting_AAG
-
 - [クイック スタート:Azure Application Gateway による Web トラフィックのルーティング - Azure portal](https://docs.microsoft.com/ja-jp/azure/application-gateway/quick-create-portal)
 - [【Azure】 Application Gateway 設定を解説する](https://qiita.com/hikaru_motomiya/items/d5fd669e3eb3a8491022)
 - [Application Gateway の構成について](https://jpaztech1.z11.web.core.windows.net/ApplicationGateway%E3%81%AE%E6%A7%8B%E6%88%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html)
@@ -269,9 +272,6 @@
 - [クライアント認証で使用する信頼されたクライアント CA 証明書チェーンをエクスポートする](https://docs.microsoft.com/ja-jp/azure/application-gateway/mutual-authentication-certificate-management)
 - [Azure Application Gateway でバックエンドを許可する証明書を作成する](https://docs.microsoft.com/ja-jp/azure/application-gateway/certificates-for-backend-authentication)
 - [What is Azure Application Gateway?](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
-
-### Microsoft_AAG
-
 - [Azure Firewall を作って動かしてみた](https://www.softbanktech.co.jp/special/blog/cloud_blog/2019/0028/)
 - [Using Azure Application Gateway to publish applications](https://savilltech.com/2018/03/17/using-azure-application-gateway-to-publish-applications/)
 - [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
@@ -289,9 +289,6 @@
 - [Application Gateway の HTTP 設定の構成](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-http-settings)
 - [App Service などのマルチテナント バックエンドに対する Application Gateway のサポート](https://docs.microsoft.com/ja-jp/azure/application-gateway/application-gateway-web-app-overview)
 - [PowerShell を使用して Application Gateway で App Service を構成する](https://docs.microsoft.com/ja-jp/azure/application-gateway/create-web-app)
-
-### Web_AAG
-
 - [Application Gateway v2 の Key Vault 連携を試してみた - しばやん雑記](https://blog.shibayan.jp/entry/20190428/1556442190)
 - [Azure Application Gateway とは？負荷分散の考え方と Web アプリケーションの負荷分散について解説](https://www.rworks.jp/cloud/azure/azure-column/azure-entry/24604/)
 - [Azure Application Gateway とは？その概要と機能、メリットについて](https://www.cloud-for-all.com/blog/azure-application-gateway.html)
@@ -307,13 +304,21 @@
 
 ## SQL Managed Instance
 
-### Microsoft_SQLMI
-
 - [Azure SQL Managed Instance の接続の種類](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connection-types-overview)
 
-> リダイレクト (推奨): クライアントは、データベースをホストしているノードへの直接接続を確立します。 リダイレクトを使用して接続を有効にするには、ファイアウォールとネットワーク セキュリティ グループ (NSG) を開き、ポート 1433 と 11000 から 11999 でのアクセスを許可する必要があります。
-> プロキシ (既定値): このモードでは、すべての接続でプロキシ ゲートウェイ コンポーネントが使用されます。 接続を有効にするには、プライベート ネットワーク用のポート 1433、およびパブリック接続用のポート 3342 のみを開く必要があります。
+  > リダイレクト (推奨): クライアントは、データベースをホストしているノードへの直接接続を確立します。 リダイレクトを使用して接続を有効にするには、ファイアウォールとネットワーク セキュリティ グループ (NSG) を開き、ポート 1433 と 11000 から 11999 でのアクセスを許可する必要があります。
 
+  > プロキシ (既定値): このモードでは、すべての接続でプロキシ ゲートウェイ コンポーネントが使用されます。 接続を有効にするには、プライベート ネットワーク用のポート 1433、およびパブリック接続用のポート 3342 のみを開く必要があります。
+
+- [メンテナンス期間に関する FAQ](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/maintenance-window-faq?view=azuresql)
+  > 計画メンテナンスの更新は、平均で 35 日に 1 回 (つまり、Azure SQL Database およびマネージド インスタンスごとに 1 か月あたり約 1 件の計画メンテナンス イベントが予想される)、顧客が選択したメンテナンス期間スロット中に限り実行されます
+- [メンテナンス期間](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/maintenance-window?view=azuresql)
+
+  > メンテナンス期間の構成および変更を行うと、サブネットの IP アドレス範囲内で、インスタンスの IP アドレスが変更されます。
+
+  > Azure Resource Graph Explorer を使用して、メンテナンス イベントのクエリを実行できます。 これらのクエリを実行する方法の概要については、「クイック スタート: Azure Resource Graph Explorer を使用して最初の Resource Graph クエリを実行する」を参照してください。
+
+- [クイック スタート:Azure Resource Graph エクスプローラーを使用して初めての Resource Graph クエリを実行する](https://docs.microsoft.com/ja-JP/azure/governance/resource-graph/first-query-portal)
 - [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
 - [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure)
 - [機能の比較: Azure SQL Database と Azure SQL Managed Instance](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/features-comparison)
@@ -327,16 +332,11 @@
 - [データベース接続アップグレード用の SharePoint Server 2016 ファームを作成する](https://docs.microsoft.com/ja-jp/sharepoint/upgrade-and-update/create-the-sharepoint-server-2016-farm-for-a-database-attach-upgrade)
 - [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
 - [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
-
-### Web_SQLMI
-
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［後編］――Azure SQL Database と Azure SQL Database Managed Instance の違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
 - [【失敗と対策】Azure SQL Managed Instance を ExpressRoute 経由で使用する際の注意](https://note.com/avakansai/n/nd4e6632710f6)
 
 ## Azure Information Protection
-
-### Microsoft_AIP
 
 - [はじめての データの保護: Azure Information Protection 日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
 - [AIP 試してみた](https://www.qes.co.jp/media/azure/a155)
@@ -347,13 +347,11 @@
 - [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/information-protection/infoprotect-quick-start-tutorial)
 - [AIP Azure Information Protection の良くあるお問い合わせについて](https://social.technet.microsoft.com/Forums/ja-JP/9b5964c6-5e4a-4a2b-8338-e1c17ed2ee75/aip-azure-information-protection?forum=jpsecurity)
 
-> Office 2013 以降、AIP Client
-> %LocalAppdata%\Microsoft\MSIPC
+  > Office 2013 以降、AIP Client
+  > %LocalAppdata%\Microsoft\MSIPC
 
-> Office 2010
-> %LocalAppdata%\Microsoft\DRM
-
-### WebSite_AIP
+  > Office 2010
+  > %LocalAppdata%\Microsoft\DRM
 
 - [Office データの情報漏洩対策に大活躍！Azure Information Protection とは？](https://www.jbsvc.co.jp/useful/windows10/what-is-AIP.html)
 - [新しい情報保護機能「AIP」](https://licensecounter.jp/office365/blog/2017/03/info-AzureInformationProtection.html)
