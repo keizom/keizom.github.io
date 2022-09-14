@@ -7,17 +7,14 @@
 - [develop](https://keizom.github.io/develop.html)
 - [intune](https://keizom.github.io/intune.html)
 - [Office365](https://keizom.github.io/Office365.html)
-<<<<<<< HEAD
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
-=======
->>>>>>> 146670627d9e80a3a62bec57baf1c2c522ecf23f
 - [web](https://keizom.github.io/web.html)
 
 # Azure
 
 - [Azure 環境作ったら最初にやるべきこと 2021 年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
-<<<<<<< HEAD
+  <<<<<<< HEAD
 
 ## Azure Private Link
 
@@ -26,8 +23,6 @@
 ## Azure AD B2C
 
 - [基礎から分かる Azure AD B2C](https://qiita.com/Shinya-Yamaguchi/items/03321728b373a27be009)
-=======
->>>>>>> 146670627d9e80a3a62bec57baf1c2c522ecf23f
 
 ## Azure DNS
 
@@ -127,6 +122,18 @@
 - [これからはじめる Azure Pipelines - Visual Studio Users Community Japan - kkamegawa's weblog](https://kkamegawa.hatenablog.jp/entry/2020/07/04/174915)
 - [Azure Pipelines を使った CI/CD 環境の構築～ Web Apps 編～](https://cloudsteady.jp/post/16551/)
 - [(前編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/future_stride/entry/techblog/202001127_1/)
+- [(前編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/blog/cloud-technology/articles/202012/azure-pipelines-1/)
+- [Azure Pipelines を使った CI/CD 環境の構築～ Web Apps 編～](https://cloudsteady.jp/post/16551/)
+- [Azure Pipelines の使い方 (Hello World)](https://maku.blog/p/vxoctbs/)
+- [【丁寧解説】Azure DevOps Pipelines を使い、ASP.NET Core アプリを Azure WebApps にデプロイする](https://www.sigmact.com/updated/azure/devops/azuredevops/)
+- [【Maven】Azure DevOps の Pipelines を使ってみた](https://tech-lab.sios.jp/archives/26237)
+
+## Azure Static Web Apps
+
+- [クイックスタート: Azure portal で最初の静的サイトを構築する](https://docs.microsoft.com/ja-jp/azure/static-web-apps/get-started-portal?pivots=azure-devops&tabs=vanilla-javascript)
+- [「Azure Static Web Apps」を使って静的サイトを公開しよう](https://news.mynavi.jp/techplus/article/zeroazure-37/)
+- [【Azure】ぎりぎりに Azure Static Web Apps について調べてみた](https://qiita.com/hikaru_motomiya/items/467004e48a8c7bfdb99a)
+- [Azure Static Web Apps を試してみた](https://qiita.com/akihiro-nakano/items/7b8a8399be7dea307842)
 
 ## Azure SQL
 
@@ -194,14 +201,11 @@
 - [リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルをポータルで作成する](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-create-service-principal-portal)
 - [SQL Server から Azure SQL Managed Instance へオンライン移行するためのカスタム ロール](https://docs.microsoft.com/ja-jp/azure/dms/resource-custom-roles-sql-db-managed-instance)
 - [Azure Database Migration Service を使用するための前提条件の概要](https://docs.microsoft.com/ja-jp/azure/dms/pre-reqs)
-<<<<<<< HEAD
-=======
 
   > 仮想ネットワークのネットワーク セキュリティ グループ (NSG) の規則によって、
   > ServiceBus、Storage、AzureMonitor の ServiceTag の送信ポート 443 がブロックされていないことを確認します
   > Storage Account のファイヤウォール設定、DMS と SQL MI のセグメントを追加する
 
->>>>>>> 146670627d9e80a3a62bec57baf1c2c522ecf23f
 - [Azure Database Migration Service を使用して Azure SQL Managed Instance を移行するためのネットワーク トポロジ](https://docs.microsoft.com/ja-jp/azure/dms/resource-network-topologies)
 - [Azure Database Migration Service によってサポートされる移行シナリオの状態](https://docs.microsoft.com/ja-jp/azure/dms/resource-scenario-status)
 - [もう多分怖くないサービスプリンシパル](https://tech-lab.sios.jp/archives/23371)
@@ -246,8 +250,6 @@
 
 ## Azure Application Gateway
 
-### Setting_AAG
-
 - [クイック スタート:Azure Application Gateway による Web トラフィックのルーティング - Azure portal](https://docs.microsoft.com/ja-jp/azure/application-gateway/quick-create-portal)
 - [【Azure】 Application Gateway 設定を解説する](https://qiita.com/hikaru_motomiya/items/d5fd669e3eb3a8491022)
 - [Application Gateway の構成について](https://jpaztech1.z11.web.core.windows.net/ApplicationGateway%E3%81%AE%E6%A7%8B%E6%88%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html)
@@ -266,9 +268,6 @@
 - [クライアント認証で使用する信頼されたクライアント CA 証明書チェーンをエクスポートする](https://docs.microsoft.com/ja-jp/azure/application-gateway/mutual-authentication-certificate-management)
 - [Azure Application Gateway でバックエンドを許可する証明書を作成する](https://docs.microsoft.com/ja-jp/azure/application-gateway/certificates-for-backend-authentication)
 - [What is Azure Application Gateway?](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
-
-### Microsoft_AAG
-
 - [Azure Firewall を作って動かしてみた](https://www.softbanktech.co.jp/special/blog/cloud_blog/2019/0028/)
 - [Using Azure Application Gateway to publish applications](https://savilltech.com/2018/03/17/using-azure-application-gateway-to-publish-applications/)
 - [Azure Application Gateway とは](https://docs.microsoft.com/ja-jp/azure/application-gateway/overview)
@@ -286,9 +285,6 @@
 - [Application Gateway の HTTP 設定の構成](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-http-settings)
 - [App Service などのマルチテナント バックエンドに対する Application Gateway のサポート](https://docs.microsoft.com/ja-jp/azure/application-gateway/application-gateway-web-app-overview)
 - [PowerShell を使用して Application Gateway で App Service を構成する](https://docs.microsoft.com/ja-jp/azure/application-gateway/create-web-app)
-
-### Web_AAG
-
 - [Application Gateway v2 の Key Vault 連携を試してみた - しばやん雑記](https://blog.shibayan.jp/entry/20190428/1556442190)
 - [Azure Application Gateway とは？負荷分散の考え方と Web アプリケーションの負荷分散について解説](https://www.rworks.jp/cloud/azure/azure-column/azure-entry/24604/)
 - [Azure Application Gateway とは？その概要と機能、メリットについて](https://www.cloud-for-all.com/blog/azure-application-gateway.html)
@@ -303,8 +299,6 @@
 - [Application Gateway - App Service 間のリダイレクトの問題](https://jpaztech.github.io/blog/network/appgw-appservice-redirectissue/)
 
 ## SQL Managed Instance
-
-### Microsoft_SQLMI
 
 - [Azure SQL Managed Instance の接続の種類](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connection-types-overview)
 
@@ -324,15 +318,10 @@
 - [データベース接続アップグレード用の SharePoint Server 2016 ファームを作成する](https://docs.microsoft.com/ja-jp/sharepoint/upgrade-and-update/create-the-sharepoint-server-2016-farm-for-a-database-attach-upgrade)
 - [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
 - [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
-
-### Web_SQLMI
-
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［後編］――Azure SQL Database と Azure SQL Database Managed Instance の違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
 
 ## Azure Infomation Protection
-
-### Microsoft_AIP
 
 - [はじめての データの保護: Azure Information Protection 日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
 - [AIP 試してみた](https://www.qes.co.jp/media/azure/a155)
@@ -348,8 +337,6 @@
 
 > Office 2010
 > %LocalAppdata%\Microsoft\DRM
-
-### WebSite_AIP
 
 - [Office データの情報漏洩対策に大活躍！Azure Information Protection とは？](https://www.jbsvc.co.jp/useful/windows10/what-is-AIP.html)
 - [新しい情報保護機能「AIP」](https://licensecounter.jp/office365/blog/2017/03/info-AzureInformationProtection.html)

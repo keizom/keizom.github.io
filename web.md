@@ -63,6 +63,7 @@
 - [知っておくと便利な HTML5 の機能、要素や属性のまとめ   コリス](https://coliss.com/articles/build-websites/operation/work/10-useful-html5-features.html)
 - [地味に便利！さまざまなプロジェクトに適した HTML のテンプレートを簡単に生成できる -HTML Boilerplates   コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplates.html)
 - [デザインに少し手を加え、フォームを改善する実践的な UI のテクニックのまとめ](https://coliss.com/articles/build-websites/operation/work/ui-tips-for-better-forms.html?fbclid=IwAR3WLaiZYw8yTlyGfvfHBU2dvfnKt2L7HzLbphaVcpQ1y261VSIAtqtmY_k)
+- [レスポンシブの確認が簡単に！ iPhone, iPad, Android など各モデルのサイズ、操作や動画にも対応した優れもの -モバイルシミュレーター](https://coliss.com/articles/build-websites/operation/work/mobile-simulator-for-responsive.html)
 
 ## css
 
