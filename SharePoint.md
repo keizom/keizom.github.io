@@ -133,6 +133,7 @@
 - [SharePoint Online 管理シェルは SharePoint Online Client Components SDK がインストールされた端末で使用できません](https://jpspsupport.github.io/blog/sharepoint-online/managementshell-clientcomponentsSDK/)
 - [SharePoint Online で調整またはブロックを回避する Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 - [Create Update Delete Or Retrieve SharePoint Site Collections Using CSOM PowerShell](https://www.c-sharpcorner.com/article/create-update-delete-or-retrieve-sharepoint-site-collectio/)
+- [SharePoint Online: Change List or Library URL using PowerShell](https://www.sharepointdiary.com/2017/09/sharepoint-online-change-list-document-library-url-using-powershell.html)
 - [Creating SharePoint Site Collection through PowerShell CSOM](http://alexbrassington.com/2014/08/20/creating-sharepoint-site-collection-through-powershell-csom/)
 - [Office 365 グループの一覧とメンバーを取得する PowerShell スクリプト(多要素認証対応)](https://windowsadmin.ebisuda.com/2017/12/19/office-365%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E4%B8%80%E8%A6%A7%E3%81%A8%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8Bpowershell%E3%82%B9%E3%82%AF%E3%83%AA/)
 - [ディスカッション掲示板のデータ移行 サンプル スクリプトについて](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/1250-2)
@@ -144,7 +145,12 @@
 ## PnP SharePoint
 
 - [Tree view navigation using PnP Treeview control in the SharePoint Framework (SPFx) web part – RAVICHANDRAN BLOG](https://ravichandran.blog/2020/05/14/tree-view-navigation-using-pnp-treeview-control-in-the-sharepoint-framework-spfx-web-part/)
-- [コンソール アプリケーションのプロビジョニング サンプル](https://docs.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/provisioning-console-application-sample)
+- # [コンソール アプリケーションのプロビジョニング サンプル](https://docs.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/provisioning-console-application-sample)
+- [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
+- [Updating a Script Editor web part's snippet contents via PowerShell & CSOM is failing](https://sharepoint.stackexchange.com/questions/298000/updating-a-script-editor-web-parts-snippet-contents-via-powershell-csom-is-fa/)
+  > > > > > > > 643f915dafd305038985d435db4713ca392a5aba
+- [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
+- [Updating a Script Editor web part's snippet contents via PowerShell & CSOM is failing](https://sharepoint.stackexchange.com/questions/298000/updating-a-script-editor-web-parts-snippet-contents-via-powershell-csom-is-fa/)
 
 ## SharePoint Tools
 

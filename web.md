@@ -63,7 +63,11 @@
 - [知っておくと便利な HTML5 の機能、要素や属性のまとめ   コリス](https://coliss.com/articles/build-websites/operation/work/10-useful-html5-features.html)
 - [地味に便利！さまざまなプロジェクトに適した HTML のテンプレートを簡単に生成できる -HTML Boilerplates   コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplates.html)
 - [デザインに少し手を加え、フォームを改善する実践的な UI のテクニックのまとめ](https://coliss.com/articles/build-websites/operation/work/ui-tips-for-better-forms.html?fbclid=IwAR3WLaiZYw8yTlyGfvfHBU2dvfnKt2L7HzLbphaVcpQ1y261VSIAtqtmY_k)
-- [レスポンシブの確認が簡単に！ iPhone, iPad, Android など各モデルのサイズ、操作や動画にも対応した優れもの -モバイルシミュレーター](https://coliss.com/articles/build-websites/operation/work/mobile-simulator-for-responsive.html)
+- # [レスポンシブの確認が簡単に！ iPhone, iPad, Android など各モデルのサイズ、操作や動画にも対応した優れもの -モバイルシミュレーター](https://coliss.com/articles/build-websites/operation/work/mobile-simulator-for-responsive.html)
+- [デザインに少し手を加え、フォームを改善する実践的な UI のテクニックのまとめ](https://coliss.com/articles/build-websites/operation/work/ui-tips-for-better-forms.html)
+- [Tailwind CSS の実装やデバッグに便利！ 各セレクタに対応したプロパティや値を表示するデベロッパーツールの機能拡張 -Tailwind DX](https://coliss.com/articles/build-websites/operation/css/devtools-extension-for-tailwind-css.html)
+- [UI デザインに特化された配色ツール！ Web サイトやスマホアプリで使用する色に悩んだときに便利 -Goodpalette](https://coliss.com/articles/build-websites/operation/design/color-palette-for-ui-design.html)
+- [毎日ちょっとずつ、デザインを学ぼう](https://chot.design/)
 
 ## css
 

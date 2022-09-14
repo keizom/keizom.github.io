@@ -15,14 +15,35 @@
 
 - [Azure 環境作ったら最初にやるべきこと 2021 年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
   <<<<<<< HEAD
+  <<<<<<< HEAD
+  =======
+- [Azure 始める人向けに見てほしい資料など](https://kkamegawa.hatenablog.jp/entry/2022/07/24/134600)
+
+## メンテナンス
+
+- [Azure での仮想マシンのメンテナンス](https://docs.microsoft.com/ja-jp/azure/virtual-machines/maintenance-and-updates)
+  > Azure により、都合の良いときに自分でメンテナンスを開始できる時間枠も与えられます。 セルフ メンテナンス期間は、そのメンテナンスが緊急でない限り、通常は 35 日間です (ホスト マシンの場合)。
+  >
+  > > > > > > > 643f915dafd305038985d435db4713ca392a5aba
 
 ## Azure Private Link
 
 - [Azure Private Link を構成するにあたって注意点は？](https://cloudsteady.jp/post/37510/)
 
+## Azure AD
+
+- [2022 年 6 月末から「セキュリティの既定値群」の有効化が促されます (対象 : 一部のテナント)](https://jpazureid.github.io/blog/azure-active-directory/security-default-2022/)
+
 ## Azure AD B2C
 
 - [基礎から分かる Azure AD B2C](https://qiita.com/Shinya-Yamaguchi/items/03321728b373a27be009)
+
+## Azure AD Connect
+
+- [デバイス ベースのアクセス制御 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/device_access)
+- [登録されたデバイスの管理方法 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/registerd_device_managemant)
+- [サイトのユーザー情報を強制的に AD と同期させる方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/ad)
+- [Azure AD Connect を使ってアカウントを同期する方法](https://www.gmo.jp/report/single/?art_id=244)
 
 ## Azure DNS
 
@@ -38,6 +59,12 @@
 - [安全で管理の行き届いたクラウド](https://azure.microsoft.com/ja-jp/services/virtual-machines/secure-well-managed-iaas/#overview)
 - [Azure Monitor](https://azure.microsoft.com/ja-jp/services/monitor/#overview)
 - [【Microsoft Azure】Azure Monitor でできることを理解する](https://www.simpletraveler.jp/2020/11/14/microsoftazure-understanding-azuremonitor/)
+
+## Load Test
+
+- [Cloud-based load testing features will be retired on March 31 2020](https://azure.microsoft.com/en-us/updates/cloud-based-load-testing-features-will-be-retired-on-march-31-2020/)
+- [Azure Load Testing に JMeter スクリプトの事前準備が不要なクイックテスト機能が追加されたので使ってみた](https://dev.classmethod.jp/articles/azure-load-testing-quick-test/)
+- [Azure 仮想ネットワークに Azure Load Testing をデプロイしてプライベート エンドポイントをテストする](https://docs.microsoft.com/ja-jp/azure/load-testing/how-to-test-private-endpoint)
 
 ## Cognitive Services
 
@@ -168,13 +195,6 @@
 - [App Service で KeyVault 参照する手順 - ぐだぐだ言ってないでコードを書けよ、ハゲ。](https://kheiakiyama.hateblo.jp/entry/2018/12/09/002517)
 - [Microsoft Azure 入門 - Web Apps を使って簡単に Web アプリや API を公開してみよう - エンジニア Hub 若手 Web エンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2019/11/19/103000)
 
-## Azure AD Connect
-
-- [デバイス ベースのアクセス制御 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/device_access)
-- [登録されたデバイスの管理方法 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/registerd_device_managemant)
-- [サイトのユーザー情報を強制的に AD と同期させる方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/ad)
-- [Azure AD Connect を使ってアカウントを同期する方法](https://www.gmo.jp/report/single/?art_id=244)
-
 ## WindowsVirtualDesktop
 
 - [今話題の Windows Virtual Desktop が大型アップデート！](https://licensecounter.jp/azure/blog/trend/windows-virtual-desktop-update.html)
@@ -230,6 +250,7 @@
 - [Azure Key Vault のマネージド ストレージ アカウント - PowerShell バージョン Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/key-vault/secrets/overview-storage-keys-powershell)
 - [クイック スタート:Azure Resource Graph エクスプローラーを使用して初めての Resource Graph クエリを実行する](https://docs.microsoft.com/ja-jp/azure/governance/resource-graph/first-query-portal)
 - [PowerShell Script: 使用されていない不要な Azure リソースを自動検知して削除する](https://docs.microsoft.com/ja-jp/archive/blogs/jpaztech/cleanup-unused-storage)
+- [Schedule and Run PowerShell Scripts for Azure VMs using Azure Automation](https://www.thomasmaurer.ch/2022/08/schedule-and-run-powershell-scripts-for-azure-vms-using-azure-automation/)
 
 ## Azure Cosmos DB
 
@@ -302,9 +323,19 @@
 
 - [Azure SQL Managed Instance の接続の種類](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connection-types-overview)
 
-> リダイレクト (推奨): クライアントは、データベースをホストしているノードへの直接接続を確立します。 リダイレクトを使用して接続を有効にするには、ファイアウォールとネットワーク セキュリティ グループ (NSG) を開き、ポート 1433 と 11000 から 11999 でのアクセスを許可する必要があります。
-> プロキシ (既定値): このモードでは、すべての接続でプロキシ ゲートウェイ コンポーネントが使用されます。 接続を有効にするには、プライベート ネットワーク用のポート 1433、およびパブリック接続用のポート 3342 のみを開く必要があります。
+  > リダイレクト (推奨): クライアントは、データベースをホストしているノードへの直接接続を確立します。 リダイレクトを使用して接続を有効にするには、ファイアウォールとネットワーク セキュリティ グループ (NSG) を開き、ポート 1433 と 11000 から 11999 でのアクセスを許可する必要があります。
 
+  > プロキシ (既定値): このモードでは、すべての接続でプロキシ ゲートウェイ コンポーネントが使用されます。 接続を有効にするには、プライベート ネットワーク用のポート 1433、およびパブリック接続用のポート 3342 のみを開く必要があります。
+
+- [メンテナンス期間に関する FAQ](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/maintenance-window-faq?view=azuresql)
+  > 計画メンテナンスの更新は、平均で 35 日に 1 回 (つまり、Azure SQL Database およびマネージド インスタンスごとに 1 か月あたり約 1 件の計画メンテナンス イベントが予想される)、顧客が選択したメンテナンス期間スロット中に限り実行されます
+- [メンテナンス期間](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/maintenance-window?view=azuresql)
+
+  > メンテナンス期間の構成および変更を行うと、サブネットの IP アドレス範囲内で、インスタンスの IP アドレスが変更されます。
+
+  > Azure Resource Graph Explorer を使用して、メンテナンス イベントのクエリを実行できます。 これらのクエリを実行する方法の概要については、「クイック スタート: Azure Resource Graph Explorer を使用して最初の Resource Graph クエリを実行する」を参照してください。
+
+- [クイック スタート:Azure Resource Graph エクスプローラーを使用して初めての Resource Graph クエリを実行する](https://docs.microsoft.com/ja-JP/azure/governance/resource-graph/first-query-portal)
 - [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
 - [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure)
 - [機能の比較: Azure SQL Database と Azure SQL Managed Instance](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/features-comparison)
@@ -320,8 +351,17 @@
 - [Azure リソースのマネージド ID とは](https://docs.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/overview)
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［後編］――Azure SQL Database と Azure SQL Database Managed Instance の違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
+- [【失敗と対策】Azure SQL Managed Instance を ExpressRoute 経由で使用する際の注意](https://note.com/avakansai/n/nd4e6632710f6)
+
+<<<<<<< HEAD
 
 ## Azure Infomation Protection
+
+=======
+
+## Azure Information Protection
+
+> > > > > > > 643f915dafd305038985d435db4713ca392a5aba
 
 - [はじめての データの保護: Azure Information Protection 日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
 - [AIP 試してみた](https://www.qes.co.jp/media/azure/a155)
@@ -332,11 +372,18 @@
 - [チュートリアル: Azure Information Protection ポリシーの設定を構成して新しいラベルを作成する](https://docs.microsoft.com/ja-jp/azure/information-protection/infoprotect-quick-start-tutorial)
 - [AIP Azure Information Protection の良くあるお問い合わせについて](https://social.technet.microsoft.com/Forums/ja-JP/9b5964c6-5e4a-4a2b-8338-e1c17ed2ee75/aip-azure-information-protection?forum=jpsecurity)
 
-> Office 2013 以降、AIP Client
-> %LocalAppdata%\Microsoft\MSIPC
+  > Office 2013 以降、AIP Client
+  > %LocalAppdata%\Microsoft\MSIPC
+
+<<<<<<< HEAD
 
 > Office 2010
 > %LocalAppdata%\Microsoft\DRM
+> =======
+> Office 2010
+> %LocalAppdata%\Microsoft\DRM
+>
+> > > > > > > 643f915dafd305038985d435db4713ca392a5aba
 
 - [Office データの情報漏洩対策に大活躍！Azure Information Protection とは？](https://www.jbsvc.co.jp/useful/windows10/what-is-AIP.html)
 - [新しい情報保護機能「AIP」](https://licensecounter.jp/office365/blog/2017/03/info-AzureInformationProtection.html)

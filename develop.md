@@ -15,6 +15,7 @@
 
 ## PowerShell
 
+- [about_Comment_Based_Help](<https://docs.microsoft.com/ja-jp/previous-versions/windows/powershell-scripting/hh847834(v=wps.640)?redirectedfrom=MSDN>)
 - [【Write-Verbose】スクリプトや関数の詳細を表示する【PowerShell】](https://www.tekizai.net/entry/2021/08/26/063000)
 - [Windows PowerShell 基本 Tips](https://www.atmarkit.co.jp/ait/series/3410/)
 - [PowerShell のデバッグに役立つコマンド設定](https://www.pine4.net/Memo/Article/Archives/207)
