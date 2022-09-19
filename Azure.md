@@ -14,12 +14,17 @@
 # Azure
 
 - [Azure 環境作ったら最初にやるべきこと 2021 年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
+  <<<<<<< HEAD
+  <<<<<<< HEAD
+  =======
 - [Azure 始める人向けに見てほしい資料など](https://kkamegawa.hatenablog.jp/entry/2022/07/24/134600)
 
 ## メンテナンス
 
 - [Azure での仮想マシンのメンテナンス](https://docs.microsoft.com/ja-jp/azure/virtual-machines/maintenance-and-updates)
   > Azure により、都合の良いときに自分でメンテナンスを開始できる時間枠も与えられます。 セルフ メンテナンス期間は、そのメンテナンスが緊急でない限り、通常は 35 日間です (ホスト マシンの場合)。
+  >
+  > > > > > > > 643f915dafd305038985d435db4713ca392a5aba
 
 ## Azure Private Link
 
@@ -144,6 +149,18 @@
 - [これからはじめる Azure Pipelines - Visual Studio Users Community Japan - kkamegawa's weblog](https://kkamegawa.hatenablog.jp/entry/2020/07/04/174915)
 - [Azure Pipelines を使った CI/CD 環境の構築～ Web Apps 編～](https://cloudsteady.jp/post/16551/)
 - [(前編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/future_stride/entry/techblog/202001127_1/)
+- [(前編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/blog/cloud-technology/articles/202012/azure-pipelines-1/)
+- [Azure Pipelines を使った CI/CD 環境の構築～ Web Apps 編～](https://cloudsteady.jp/post/16551/)
+- [Azure Pipelines の使い方 (Hello World)](https://maku.blog/p/vxoctbs/)
+- [【丁寧解説】Azure DevOps Pipelines を使い、ASP.NET Core アプリを Azure WebApps にデプロイする](https://www.sigmact.com/updated/azure/devops/azuredevops/)
+- [【Maven】Azure DevOps の Pipelines を使ってみた](https://tech-lab.sios.jp/archives/26237)
+
+## Azure Static Web Apps
+
+- [クイックスタート: Azure portal で最初の静的サイトを構築する](https://docs.microsoft.com/ja-jp/azure/static-web-apps/get-started-portal?pivots=azure-devops&tabs=vanilla-javascript)
+- [「Azure Static Web Apps」を使って静的サイトを公開しよう](https://news.mynavi.jp/techplus/article/zeroazure-37/)
+- [【Azure】ぎりぎりに Azure Static Web Apps について調べてみた](https://qiita.com/hikaru_motomiya/items/467004e48a8c7bfdb99a)
+- [Azure Static Web Apps を試してみた](https://qiita.com/akihiro-nakano/items/7b8a8399be7dea307842)
 
 ## Azure SQL
 
@@ -336,7 +353,15 @@
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［後編］――Azure SQL Database と Azure SQL Database Managed Instance の違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
 - [【失敗と対策】Azure SQL Managed Instance を ExpressRoute 経由で使用する際の注意](https://note.com/avakansai/n/nd4e6632710f6)
 
+<<<<<<< HEAD
+
+## Azure Infomation Protection
+
+=======
+
 ## Azure Information Protection
+
+> > > > > > > 643f915dafd305038985d435db4713ca392a5aba
 
 - [はじめての データの保護: Azure Information Protection 日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
 - [AIP 試してみた](https://www.qes.co.jp/media/azure/a155)
@@ -350,8 +375,15 @@
   > Office 2013 以降、AIP Client
   > %LocalAppdata%\Microsoft\MSIPC
 
-  > Office 2010
-  > %LocalAppdata%\Microsoft\DRM
+<<<<<<< HEAD
+
+> Office 2010
+> %LocalAppdata%\Microsoft\DRM
+> =======
+> Office 2010
+> %LocalAppdata%\Microsoft\DRM
+>
+> > > > > > > 643f915dafd305038985d435db4713ca392a5aba
 
 - [Office データの情報漏洩対策に大活躍！Azure Information Protection とは？](https://www.jbsvc.co.jp/useful/windows10/what-is-AIP.html)
 - [新しい情報保護機能「AIP」](https://licensecounter.jp/office365/blog/2017/03/info-AzureInformationProtection.html)
