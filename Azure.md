@@ -23,8 +23,6 @@
 
 - [Azure での仮想マシンのメンテナンス](https://docs.microsoft.com/ja-jp/azure/virtual-machines/maintenance-and-updates)
   > Azure により、都合の良いときに自分でメンテナンスを開始できる時間枠も与えられます。 セルフ メンテナンス期間は、そのメンテナンスが緊急でない限り、通常は 35 日間です (ホスト マシンの場合)。
-  >
-  > > > > > > > 643f915dafd305038985d435db4713ca392a5aba
 
 ## Azure Private Link
 
