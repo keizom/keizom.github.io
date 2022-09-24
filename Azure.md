@@ -32,6 +32,7 @@
 
 ## Azure AD
 
+- [Azure Active Directory で証明書ベースの認証を行ってみた](https://www.cybertrust.co.jp/blog/certificate-authority/client-authentication/azure-ad-certificate.html)
 - [2022 年 6 月末から「セキュリティの既定値群」の有効化が促されます (対象 : 一部のテナント)](https://jpazureid.github.io/blog/azure-active-directory/security-default-2022/)
 
 ## Azure AD B2C
@@ -107,6 +108,8 @@
 
 ## SendGrid
 
+- [口コミからわかる SendGrid のメリット・デメリット](https://sendgrid.kke.co.jp/blog/?p=14191)
+- [より良い HTML メールの作り方](https://sendgrid.kke.co.jp/blog/?p=15742)
 - [Azure でメールを受信するには  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/ainaba-csa/how-to-receive-email-by-azure)
 - [Domain Authentication(SPF/DKIM 設定)の設定方法](https://sendgrid.kke.co.jp/docs/User_Manual_JP/Settings/Sender_authentication/How_to_set_up_domain_authentication.html)
 - [SendGrid で Gmail へ送信したメールに「sendgrid.me 経由」という表示をさせない設定](https://blog.shibayan.jp/entry/20150118/1421582136)
