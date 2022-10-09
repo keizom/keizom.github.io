@@ -144,6 +144,8 @@
 
 ## PnP SharePoint
 
+- [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
+- [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)
 - [【SharePoint Online】モダン認証で指定のサイトに対してアクセス許可を設定する](https://www.hogehoge-note.com/2022/02/19/post-937/)
 - [Azure AD アプリ専用を使用してアクセスを許可する](https://learn.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/security-apponly-azuread)
 - [Tree view navigation using PnP Treeview control in the SharePoint Framework (SPFx) web part – RAVICHANDRAN BLOG](https://ravichandran.blog/2020/05/14/tree-view-navigation-using-pnp-treeview-control-in-the-sharepoint-framework-spfx-web-part/)

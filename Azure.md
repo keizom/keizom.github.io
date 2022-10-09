@@ -24,6 +24,16 @@
 - [Azure での仮想マシンのメンテナンス](https://docs.microsoft.com/ja-jp/azure/virtual-machines/maintenance-and-updates)
   > Azure により、都合の良いときに自分でメンテナンスを開始できる時間枠も与えられます。 セルフ メンテナンス期間は、そのメンテナンスが緊急でない限り、通常は 35 日間です (ホスト マシンの場合)。
 
+## Azure Sentinel
+
+- [Azure Sentinel](https://azure.microsoft.com/ja-jp/products/microsoft-sentinel/#overview)
+- [Microsoft Sentinel とは](https://learn.microsoft.com/ja-jp/azure/sentinel/overview)
+- [【Azure】Azure Sentinel 　第一回　概要編](https://www.qes.co.jp/media/azure/a81)
+- [Microsoft Sentinel とは？導入でできる 4 つの機能や導入メリットを解説](https://www.softbanktech.co.jp/special/blog/it-keyword/2022/0012/)
+- [Azure Sentinel の環境構築](https://tarenagashi.hatenablog.jp/entry/2021/09/25/150651)
+- [Azure Sentinel でログ収集・分析基盤を構築してみた ① ~Windows セキュリティイベントの収集~](https://cloud.nissho-ele.co.jp/blog/azure-sentinel/)
+- [Azure 使いだすときに Sentinel でやっておくべきこと](https://zenn.dev/tomot/articles/79aeae00252ba6)
+
 ## Azure Private Link
 
 - [Azure Private Link を構成するにあたって注意点は？](https://cloudsteady.jp/post/37510/)
