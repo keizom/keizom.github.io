@@ -135,6 +135,8 @@
 
 ## Azure DevOps
 
+- [Azure DevOps の Build Pipeline で WebApps にデプロイ（Build 編）](https://blog.nextscape.net/archives/Date/2019/06/devops-build-1)
+- [Azure DevOps の Build Pipeline で WebApps にデプロイ（リリース編）](https://blog.nextscape.net/archives/Date/2019/06/devops-build-2)
 - [Azure   知って得する DevOps   初心者向け 13 #くらでべ](https://www.youtube.com/watch?v=U_w9qBB5pVU)
 - [Azure DevOps + App Service で簡単に CI/CD 環境を構築する](https://www.ryuzee.com/contents/blog/7136)
 - [Azure DevOps セキュリティ設定解説](https://www.youtube.com/watch?v=pLqimyafx8A)
