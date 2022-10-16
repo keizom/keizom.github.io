@@ -13,6 +13,10 @@
 
 # Develop
 
+## Widnows 11 VHD
+
+- [Get a Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+
 ## PowerShell
 
 - [about_Comment_Based_Help](<https://docs.microsoft.com/ja-jp/previous-versions/windows/powershell-scripting/hh847834(v=wps.640)?redirectedfrom=MSDN>)
@@ -120,6 +124,7 @@
 
 ## VisualStudioCode
 
+- [VS Code エディタ入門](https://zenn.dev/karaage0703/books/80b6999d429abc8051bb)
 - [「Edge」の開発ツールを統合し「Visual Studio Code」で Web アプリの開発を完結 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1280989.html)
 - [「VS Code」を「Edge」の開発者ツールに接続する拡張機能 ～ Microsoft が無償公開](https://forest.watch.impress.co.jp/docs/news/1193948.html)
 - [「VS Code」内から「Microsoft Edge」の開発者ツールが利用可能に：開発者ツールの「要素」と「ネットワーク」に対応 - ＠IT](https://www.atmarkit.co.jp/ait/articles/2010/16/news112.html)
