@@ -170,3 +170,5 @@
 - [Microsoft Graph ドキュメント](https://docs.microsoft.com/ja-jp/graph/)
 - [group リソースの種類](https://docs.microsoft.com/ja-jp/graph/api/resources/group?view=graph-rest-1.0)
 - [Microsoft Graph の認証と承認の基本方法](https://docs.microsoft.com/ja-jp/graph/auth/auth-concepts)
+- [Microsoft Graph を使ってみよう : サイト、リスト、リストアイテムリソース (SharePoint)](https://qiita.com/kenakamu/items/61ff83a2b381bc3e9cdb)
+- [GraphAPI を使って SharePoint リストに大量のデータを投入する](https://qiita.com/Rambosan/items/2eefca18f1760bb784c6)
