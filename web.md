@@ -29,6 +29,7 @@
 
 ## html
 
+- [フロントエンド開発をマスターする上で必要な知識 8 選 2022 年版](https://zenn.dev/nameless_sn/articles/frontend-masternote)
 - [少しのコードで実装可能な HTML 小技集](https://www.webcreatorbox.com/tech/html-tips)
 - [Web 制作者がチェックしておきたい！ 2022 年版、CSS フレームワークのまとめ](https://coliss.com/articles/build-websites/operation/css/awesome-css-frameworks.html)
 - [HTML/CSS 初学者がつまづきやすい記述ミスと修正方法  Web クリエイターボックス](https://www.webcreatorbox.com/tech/html-css-beginner)

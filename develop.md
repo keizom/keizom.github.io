@@ -98,6 +98,8 @@
 
 ## Docker
 
+- [Windows マシンで Docker Desktop を使用せずに Docker CLI 実行環境を整備する方法](https://dev.classmethod.jp/articles/docker-cli-without-dockerdesktop-on-windows/)
+- [Docker Desktop を使わずに Docker を利用する](https://www.d3654.be/create-hyperv-machine-for-docker04)
 - [マネージドサービスで始める Kubernetes 入門](https://atmarkit.itmedia.co.jp/ait/series/16804/)
 - [コンテナーとは？ Kubernetes とは？ 導入や運用、ユースケースを解説](https://codezine.jp/article/detail/11336)
 - [「Visual Studio Code」で「WSL 2」上のリモートコンテナを使用するには、Microsoft が解説：Windows 10 で Docker Desktop Stable を効果的に活用する - ＠IT](https://www.atmarkit.co.jp/ait/articles/2007/10/news138.html)
@@ -228,3 +230,4 @@
 
 - [Python 学習 (パイソン) 企業 IT](https://news.mynavi.jp/top/business/enterprise/python_engineer/)
 - [無料で読める、東大／京大の「Python 教科書」電子書籍：AI・機械学習の無料電子書籍 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2105/26/news025.html)
+- [オライリー「Think Python」第 2 版 ダウンロード](https://cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython2.pdf)

@@ -199,6 +199,10 @@
 - [Azure Functions における Azure Blob Storage の出力バインド](https://docs.microsoft.com/ja-jp/azure/azure-functions/functions-bindings-storage-blob-output?tabs=csharp)
 - [Azure Functions のお勉強メモ（7）Blob Storage 出力バインドを使って Blob にファイルを出力する その 2](https://miyohide.hatenablog.com/entry/2021/04/25/174107)
 
+## Azure Data Factory
+
+- [Azure Data Factory を触ってみる #Azure リレー](https://tech-blog.cloud-config.jp/2022-06-13-adf-hands-on/)
+
 ## Azure App Service
 
 - [AzurePaaS 研究サイト](https://www.azureportal-site.com/appservice-functions-portal)
@@ -387,16 +391,8 @@
 
   > Office 2013 以降、AIP Client
   > %LocalAppdata%\Microsoft\MSIPC
-
-<<<<<<< HEAD
-
-> Office 2010
-> %LocalAppdata%\Microsoft\DRM
-> =======
-> Office 2010
-> %LocalAppdata%\Microsoft\DRM
->
-> > > > > > > 643f915dafd305038985d435db4713ca392a5aba
+  > Office 2010
+  > %LocalAppdata%\Microsoft\DRM
 
 - [Office データの情報漏洩対策に大活躍！Azure Information Protection とは？](https://www.jbsvc.co.jp/useful/windows10/what-is-AIP.html)
 - [新しい情報保護機能「AIP」](https://licensecounter.jp/office365/blog/2017/03/info-AzureInformationProtection.html)

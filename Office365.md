@@ -15,6 +15,7 @@
 
 ## Office 365 PowerShell
 
+- [MSOnline / AzureAD PowerShell から Graph PowerShell SDK への移行について 1\_概要](https://jpazureid.github.io/blog/azure-active-directory/azuread-module-retirement1/)
 - [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
 - [Office 365 の PowerShell 運用を PaaS 化してみる](https://sprestaurant.hatenablog.com/entry/2019/07/07/011839)
 - [多要素認証 (MFA) の Office 365 に PowerShell で接続する方法まとめ](https://blog.kazuakix.jp/entry/2018/04/16/221554)
