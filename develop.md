@@ -91,6 +91,7 @@
 - [.NET Core で使用できない .NET Framework テクノロジ Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/porting/net-framework-tech-unavailable)
 - [Visual Studio Code で始める ASP.Net Core](https://github.com/ichiohta/vschw)
 - [.NET 6 で ASP.NET Core の Razor Pages アプリケーションを理解しよう](https://codezine.jp/article/detail/15824)
+- [https://tech-lab.sios.jp/archives/30760](https://tech-lab.sios.jp/archives/30858)
 
 ## .NET MAUI
 
@@ -126,6 +127,7 @@
 
 ## VisualStudioCode
 
+- [【Visual Studio Code 入門】インストールしたらまずはコレ！オススメのテーマ/フォントと拡張機能](https://tech-lab.sios.jp/archives/30760)
 - [VS Code エディタ入門](https://zenn.dev/karaage0703/books/80b6999d429abc8051bb)
 - [「Edge」の開発ツールを統合し「Visual Studio Code」で Web アプリの開発を完結 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1280989.html)
 - [「VS Code」を「Edge」の開発者ツールに接続する拡張機能 ～ Microsoft が無償公開](https://forest.watch.impress.co.jp/docs/news/1193948.html)

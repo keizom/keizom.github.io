@@ -14,9 +14,6 @@
 # Azure
 
 - [Azure 環境作ったら最初にやるべきこと 2021 年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
-  <<<<<<< HEAD
-  <<<<<<< HEAD
-  =======
 - [Azure 始める人向けに見てほしい資料など](https://kkamegawa.hatenablog.jp/entry/2022/07/24/134600)
 
 ## メンテナンス
@@ -135,6 +132,7 @@
 
 ## Azure DevOps
 
+- [Visual Studio や Azure から Azure DevOps を使う](https://www.slideshare.net/ssuser411bae/visual-studioazureazure-devops)
 - [Azure DevOps の Build Pipeline で WebApps にデプロイ（Build 編）](https://blog.nextscape.net/archives/Date/2019/06/devops-build-1)
 - [Azure DevOps の Build Pipeline で WebApps にデプロイ（リリース編）](https://blog.nextscape.net/archives/Date/2019/06/devops-build-2)
 - [(後編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/blog/cloud-technology/articles/202012/azure-pipelines-2/)
@@ -166,13 +164,13 @@
 - [Azure Pipelines を使った CI/CD 環境の構築～ Web Apps 編～](https://cloudsteady.jp/post/16551/)
 - [(前編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/future_stride/entry/techblog/202001127_1/)
 - [(前編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/blog/cloud-technology/articles/202012/azure-pipelines-1/)
-- [Azure Pipelines を使った CI/CD 環境の構築～ Web Apps 編～](https://cloudsteady.jp/post/16551/)
 - [Azure Pipelines の使い方 (Hello World)](https://maku.blog/p/vxoctbs/)
 - [【丁寧解説】Azure DevOps Pipelines を使い、ASP.NET Core アプリを Azure WebApps にデプロイする](https://www.sigmact.com/updated/azure/devops/azuredevops/)
 - [【Maven】Azure DevOps の Pipelines を使ってみた](https://tech-lab.sios.jp/archives/26237)
 
 ## Azure Static Web Apps
 
+- [すぐ実践できる！Azure Static Web Apps 開発環境構築](https://aadojo.alterbooth.com/entry/2022/09/09/170000)
 - [クイックスタート: Azure portal で最初の静的サイトを構築する](https://docs.microsoft.com/ja-jp/azure/static-web-apps/get-started-portal?pivots=azure-devops&tabs=vanilla-javascript)
 - [「Azure Static Web Apps」を使って静的サイトを公開しよう](https://news.mynavi.jp/techplus/article/zeroazure-37/)
 - [【Azure】ぎりぎりに Azure Static Web Apps について調べてみた](https://qiita.com/hikaru_motomiya/items/467004e48a8c7bfdb99a)
@@ -208,6 +206,7 @@
 
 ## Azure App Service
 
+- [推しの Azure リソース「App Service」について語り尽くしました](https://tech-lab.sios.jp/archives/25879)
 - [AzurePaaS 研究サイト](https://www.azureportal-site.com/appservice-functions-portal)
 - [Azure App Service の VNet 統合](https://tech-lab.sios.jp/archives/22563)
 - [PaaS にプライベート接続を提供する サービスエンドポイント とは？](https://www.cloudou.net/virtual-network/vnet017/)

@@ -15,12 +15,14 @@
 
 ## 認証関係
 
+- [Azure AD 認証を使って Azure REST API へアクセスする ~Service Bus 編~](https://tech-lab.sios.jp/archives/31473)
 - [Microsoft Graph PowerShell でユーザー作成（MSOnline との比較）](https://tech-lab.sios.jp/archives/29212)
 - [Azure AD アプリ専用を使用してアクセスを許可する](https://learn.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/security-apponly-azuread)
 - [【SharePoint Online】モダン認証で指定のサイトに対してアクセス許可を設定する](https://www.hogehoge-note.com/2022/02/19/post-937/)
 - [AI Builder でのカスタム ドキュメントの処理](https://learn.microsoft.com/ja-jp/training/modules/get-started-with-form-processing/)
 - [PnP PowerShell を任意のアクセス許可で実行する](https://zenn.dev/karamem0/articles/2021_07_02_170000)
 - [PowerShell – Exchange Online に証明書を使用して接続する –](https://tech-lab.sios.jp/archives/24523)
+- [Azure Key Vault を利用して Linux PowerShell から Exchange Online へアクセスする](https://tech-lab.sios.jp/archives/31188)
 
 ## AI Builder
 
