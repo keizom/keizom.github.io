@@ -137,6 +137,9 @@
 
 - [Azure DevOps の Build Pipeline で WebApps にデプロイ（Build 編）](https://blog.nextscape.net/archives/Date/2019/06/devops-build-1)
 - [Azure DevOps の Build Pipeline で WebApps にデプロイ（リリース編）](https://blog.nextscape.net/archives/Date/2019/06/devops-build-2)
+- [(後編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/blog/cloud-technology/articles/202012/azure-pipelines-2/)
+- [Azure Pipelines を使用してビルド パイプラインを作成する](https://learn.microsoft.com/ja-jp/training/modules/create-a-build-pipeline/)
+- [Azure Pipelines の使い方 (Hello World)](https://maku.blog/p/vxoctbs/)
 - [Azure   知って得する DevOps   初心者向け 13 #くらでべ](https://www.youtube.com/watch?v=U_w9qBB5pVU)
 - [Azure DevOps + App Service で簡単に CI/CD 環境を構築する](https://www.ryuzee.com/contents/blog/7136)
 - [Azure DevOps セキュリティ設定解説](https://www.youtube.com/watch?v=pLqimyafx8A)

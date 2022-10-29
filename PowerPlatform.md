@@ -100,6 +100,11 @@
 
 ## Power BI
 
+- [【Forms × Power BI 活用】Forms の複数回答データを Power BI で解析する方法](https://www.powerplatformknowledge.com/powerbi-forms-multi-answer/)
+- [Power BI Tips Power BI でリアルタイムアンケート ～ アンケートを即可視化 2020 年版 ～](https://qiita.com/yugoes1021/items/ea4c96cec9f1c7e47347)
+- [Power BI Tips Power BI でリアルタイムアンケート ～ アンケートを即可視化 2020 年版 Vol.2 ～](https://qiita.com/yugoes1021/items/ef963bc81ec18e83d735)
+- [アンケートを即可視化！～ MS Forms ⇒ MS Flow ⇒ Power BI ～](https://www.slideshare.net/yugoes1021/ms-forms-ms-flow-power-bi-83167435)
+- [Microsoft Forms API 現時点でのまとめ](https://qiita.com/baku2san/items/47c8ad906e01d7e5d5b9)
 - [Azure Serverless or Power Platform ～ あなたならどっち？！ ～ Power Platform 編](https://www.slideshare.net/yugoes1021/azure-serverless-or-power-platform-power-platform?from_m_app=ios)
 - [Get Month Name from Month Number in Power BI - SPGuides](https://www.spguides.com/get-month-name-from-month-number-in-power-bi/)
 - [GitHub - The-Japan-DataScientist-Society/100knocks-preprocess: データサイエンス 100 本ノック（構造化データ加工編）](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)

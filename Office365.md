@@ -13,6 +13,21 @@
 
 # Microsoft 365
 
+## 認証関係
+
+- [Microsoft Graph PowerShell でユーザー作成（MSOnline との比較）](https://tech-lab.sios.jp/archives/29212)
+- [Azure AD アプリ専用を使用してアクセスを許可する](https://learn.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/security-apponly-azuread)
+- [【SharePoint Online】モダン認証で指定のサイトに対してアクセス許可を設定する](https://www.hogehoge-note.com/2022/02/19/post-937/)
+- [AI Builder でのカスタム ドキュメントの処理](https://learn.microsoft.com/ja-jp/training/modules/get-started-with-form-processing/)
+- [PnP PowerShell を任意のアクセス許可で実行する](https://zenn.dev/karamem0/articles/2021_07_02_170000)
+- [PowerShell – Exchange Online に証明書を使用して接続する –](https://tech-lab.sios.jp/archives/24523)
+
+## AI Builder
+
+- [AI Builder の「カスタムモデル」で日本語対応の「名刺リーダー」を作る](https://qiita.com/nori790822/items/8a2303adace8dde68fab)
+- [Power Apps と AI Builder を使って最速で OCR アプリを作る！！#Power Platform リレー](https://tech-blog.cloud-config.jp/2021-12-23-power-apps-ai-builder-ocr/)
+- [AI Builder による画像認識モデルの構築](https://rpa.bigtreetc.com/column/aibuilder-builing-customai/)
+
 ## Office 365 PowerShell
 
 - [MSOnline / AzureAD PowerShell から Graph PowerShell SDK への移行について 1\_概要](https://jpazureid.github.io/blog/azure-active-directory/azuread-module-retirement1/)
