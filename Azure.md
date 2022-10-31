@@ -394,6 +394,17 @@
 
   > Azure Resource Graph Explorer を使用して、メンテナンス イベントのクエリを実行できます。 これらのクエリを実行する方法の概要については、「クイック スタート: Azure Resource Graph Explorer を使用して最初の Resource Graph クエリを実行する」を参照してください。
 
+- [Azure SQL Managed Instance の管理操作の概要](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/management-operations-overview?view=azuresql)
+
+  > 仮想クラスターに対する操作は、所要時間がさまざまですが、通常かなり時間がかかります。
+
+| 手順                              | 推定所要時間                                      |
+| --------------------------------- | ------------------------------------------------- |
+| 仮想クラスターの作成              | 操作の 90% は 4 時間以内に完了                    |
+| 仮想クラスターのサイズ変更        | クラスター拡張の 90% は 2.5 時間未満で完了        |
+| 仮想クラスターの削除              | クラスターの削除の 90% は 1.5 時間以内に完了      |
+| データベース ファイルのシード処理 | これらの操作の 90% は毎時 220 GB 以上で実行される |
+
 - [クイック スタート:Azure Resource Graph エクスプローラーを使用して初めての Resource Graph クエリを実行する](https://docs.microsoft.com/ja-JP/azure/governance/resource-graph/first-query-portal)
 - [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
 - [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure)
