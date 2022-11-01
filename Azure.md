@@ -405,6 +405,16 @@
 | 仮想クラスターの削除              | クラスターの削除の 90% は 1.5 時間以内に完了      |
 | データベース ファイルのシード処理 | これらの操作の 90% は毎時 220 GB 以上で実行される |
 
+- [Azure SQL Managed Instance の接続アーキテクチャ](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connectivity-architecture-overview?view=azuresql)
+- [Azure SQL Managed Instance に必要なサブネット サイズおよび範囲を決める](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/vnet-subnet-determine-size?view=azuresql)
+
+| レベル | IP アドレス個数 |
+| ------ | --------------- |
+| GP     | 14              |
+| BC     | 16              |
+
+- [SQL Server から Azure SQL Managed Instance へオンライン移行するためのカスタム ロール](https://learn.microsoft.com/ja-jp/azure/dms/resource-custom-roles-sql-db-managed-instance)
+- [リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルをポータルで作成する](https://learn.microsoft.com/ja-jp/azure/active-directory/develop/howto-create-service-principal-portal)
 - [クイック スタート:Azure Resource Graph エクスプローラーを使用して初めての Resource Graph クエリを実行する](https://docs.microsoft.com/ja-JP/azure/governance/resource-graph/first-query-portal)
 - [Azure SQL での Azure AD 認証を構成して管理する](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell)
 - [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure)
