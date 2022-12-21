@@ -86,6 +86,7 @@
 
 ## .NETCore
 
+- [C#で SPA を実現！ .NET 6 で ASP.NET Core の Blazor アプリケーションの基本「Blazor Server」を理解しよう](https://codezine.jp/article/detail/16848)
 - [ASP.NET Core、最小限の API、.NET 6 を使用して Web アプリとサービスを作成する - Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/aspnet-core-minimal-api/)
 - [.NET Core での自己完結型アプリのデプロイにおけるランタイムのロール フォワード - .NET Core Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/deploying/runtime-patch-selection)
 - [.NET Core で使用できない .NET Framework テクノロジ Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/porting/net-framework-tech-unavailable)
@@ -99,6 +100,7 @@
 
 ## Docker
 
+- [Windows 内の Docker 環境を入れ替えてみた（Docker Desktop → Rancher Desktop](https://dev.classmethod.jp/articles/migration-from-docker-desktop-to-rancher-desktop/)
 - [Windows マシンで Docker Desktop を使用せずに Docker CLI 実行環境を整備する方法](https://dev.classmethod.jp/articles/docker-cli-without-dockerdesktop-on-windows/)
 - [Docker Desktop を使わずに Docker を利用する](https://www.d3654.be/create-hyperv-machine-for-docker04)
 - [マネージドサービスで始める Kubernetes 入門](https://atmarkit.itmedia.co.jp/ait/series/16804/)
@@ -213,7 +215,8 @@
 
 ## git
 
-- [\* [Developers Festa Sapporo 2020] Microsoft/GitHub が提供する Developer Cloud (Developer Cloud from Microsoft/GitHub)](https://satonaoki.wordpress.com/2020/12/05/devfesta-microsoft-github/)
+- [Git によるチーム開発のいろはを基礎から学ぼう！](https://codezine.jp/article/detail/16910)
+- [Developers Festa Sapporo 2020 Microsoft/GitHub が提供する Developer Cloud (Developer Cloud from Microsoft/GitHub)](https://satonaoki.wordpress.com/2020/12/05/devfesta-microsoft-github/)
 - [Git(GitHub)おじさんに俺はなる Before Git After Git](https://karaage.hatenadiary.jp/entry/2016/01/23/073000)
 - [Git 入門（VSCode Git の使い方）](https://celtislab.net/archives/20180418/git-vscode/)
 - [VisualStudioCode と gitlab を使ってバージョン管理をしてみた備忘録](https://doubleloop.tokyo/visual-studio-code/)
@@ -234,3 +237,12 @@
 - [無料で読める、東大／京大の「Python 教科書」電子書籍：AI・機械学習の無料電子書籍 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2105/26/news025.html)
 - [オライリー「Think Python」第 2 版 ダウンロード](https://cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython2.pdf)
 - [Python 早見表](https://chokkan.github.io/python/index.html)
+
+## GoogleApps
+
+-[Google Apps Script スプレッドシート編　初心者向け](https://tech-lab.sios.jp/archives/32066)
+
+## Tool
+
+- [開発に使える脆弱性スキャンツール](https://engineers.ntt.com/entry/2022/12/07/113602)
+- [シェル・ワンライナー 160 本ノックを完走した](https://engineers.ntt.com/entry/2022/12/04/071122)

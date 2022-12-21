@@ -24,10 +24,17 @@
 - [Azure での仮想マシンのメンテナンス](https://docs.microsoft.com/ja-jp/azure/virtual-machines/maintenance-and-updates)
   > Azure により、都合の良いときに自分でメンテナンスを開始できる時間枠も与えられます。 セルフ メンテナンス期間は、そのメンテナンスが緊急でない限り、通常は 35 日間です (ホスト マシンの場合)。
 
+## Azure Container
+
+- [Datadog による Azure コンテナ環境のモニタリング](https://lp.datadoghq.com/rs/875-UVY-685/images/Content-eBookAzureContainersJP.pdf)
+- [Azure クラウドモニタリング eBook](https://www.datadoghq.com/ja/resources/azure-ebook/)
+
 ## Azure AD
 
+- [フェデレーション認証から Azure AD 認証への移行事例のご紹介](https://www.softbanktech.co.jp/special/blog/cloud_blog/2022/0087/)
 - [Azure Active Directory で証明書ベースの認証を行ってみた](https://www.cybertrust.co.jp/blog/certificate-authority/client-authentication/azure-ad-certificate.html)
 - [2022 年 6 月末から「セキュリティの既定値群」の有効化が促されます (対象 : 一部のテナント)](https://jpazureid.github.io/blog/azure-active-directory/security-default-2022/)
+- [Conditional Access Workflow - v1.4.pdf](https://github.com/kennethvs/cabaseline202212/blob/main/Conditional%20Access%20Workflow%20-%20v1.4.pdf)
 
 ## Azure AD B2C
 
@@ -132,6 +139,7 @@
 
 ## Azure Cognitive Services
 
+- [Microsoft Ignite 2022 注目の Azure Data&AI セッション](https://zenn.dev/k14i/articles/57c1ab104928ec)
 - [All Around Azure: Developers Guide to AI - 日本語配信](https://m.youtube.com/watch?v=rjtt6y_1Nak)
 - [Cogbot Meetup Online #29 - Ignite 2020 キャッチアップ編](https://www.youtube.com/watch?v=cIgjQgLjMuQ)
 - [Microsoft が誰でも簡単に機械学習モデルが作れるツール「Lobe」を公開！ Techable(テッカブル)](https://techable.jp/archives/140757)
@@ -148,8 +156,16 @@
 
 - [Azure Data Factory を触ってみる #Azure リレー](https://tech-blog.cloud-config.jp/2022-06-13-adf-hands-on/)
 
+## Azure Deployment Environments
+
+- [Azure Deployment Environments](https://azure.microsoft.com/ja-jp/products/deployment-environments/#overview)
+- [Azure Deployment Environments で実現する組織における Azure インフラストラクチャー構成管理](https://techblog.ap-com.co.jp/entry/2022/10/19/130457)
+
 ## Azure DevOps
 
+- [Azure Data Factory - 関数およびシステム変数](https://learn.microsoft.com/ja-jp/azure/data-factory/v1/data-factory-functions-variables)
+- [Azure Data Factory または Azure Synapse パイプラインを使用して電子メールを送信する](https://learn.microsoft.com/ja-jp/azure/data-factory/how-to-send-email)
+- [Azure Data Factory および Azure Synapse Analytics の Delete アクティビティ](https://learn.microsoft.com/ja-jp/azure/data-factory/delete-activity)
 - [「Azure DevOps」でチーム開発を行おう(4)Azure Pipelines を使ったビルドとデプロイ](https://news.mynavi.jp/techplus/article/zeroazure-28/)
 - [「Azure DevOps」でチーム開発を行おう(3)Azure Repos を使ったソースコードの管理](https://news.mynavi.jp/techplus/article/zeroazure-27/)
 - [「Azure DevOps」でチーム開発を行おう（2）Azure Boards の概要と使い方](https://news.mynavi.jp/techplus/article/zeroazure-26/)
@@ -224,6 +240,7 @@
 
 ## Azure Key Vault
 
+- [Azure KeyVault Set and Retrieve Secrets using Powershell](https://dotnet-helpers.com/powershell/azure-keyvault-set-and-retrieve-secrets/?fbclid=IwAR2AAtvCSpJv3e2F8YsS9HWpC-OygYqo7oTp_YZP090iU5UJto5xRsKCDuk)
 - [「Azure Key Vault」を使ってセキュアなアプリを作ろう](https://news.mynavi.jp/techplus/article/zeroazure-23/)
 - [ゼロからはじめる Azure(23) 「Azure Key Vault」を使ってセキュアなアプリを作ろう マイナビニュース](https://news.mynavi.jp/article/zeroazure-23/)
 - [Azure Key Vault のマネージド ストレージ アカウント - PowerShell バージョン Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/key-vault/secrets/overview-storage-keys-powershell)
@@ -272,6 +289,18 @@
 - [【丁寧解説】Azure DevOps Pipelines を使い、ASP.NET Core アプリを Azure WebApps にデプロイする](https://www.sigmact.com/updated/azure/devops/azuredevops/)
 - [【Maven】Azure DevOps の Pipelines を使ってみた](https://tech-lab.sios.jp/archives/26237)
 
+## Azure Stack HCI
+
+- [Azure Arc と Azure Stack HCI を統合する](https://learn.microsoft.com/ja-jp/training/modules/stack-hci-arc-integration/)
+- [Azure Arc に Azure Stack HCI を登録してみた](https://japancatalog.dell.com/c/isg_blog_windows-admin-center_11/)
+- [Azure Stack HCI とは何か？ 「謎の新 OS」は何をするためのものか](https://www.sbbit.jp/article/cont1/55479)
+- [Azure Stack HCI の無料評価期間が 60 日に延長、より時間をかけた検証、評価が可能に](https://atmarkit.itmedia.co.jp/ait/articles/2106/01/news020.html)
+- [Azure Stack HCI ソフトウェアのダウンロード](https://azure.microsoft.com/ja-jp/contact/azure-stack-hci/)
+- [Azure Stack HCI に含まれないもの、それはゲスト OS のライセンス](https://atmarkit.itmedia.co.jp/ait/articles/2110/13/news006.html)
+- [Azure Stack Hub Development Kit とは](https://blog.aimless.jp/archives/2018-12-04-what-is-asdk/)
+- [Azure Stack HCI 単一ノードクラスターの評価環境を作成して ESU の検証環境を作成する](https://blog.engineer-memo.com/2022/07/05/azure-stack-hci-%E5%8D%98%E4%B8%80%E3%83%8E%E3%83%BC%E3%83%89%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE%E8%A9%95%E4%BE%A1%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6-esu/)
+- [ Azure Stack HCI 評価ガイド - Part 1 「Azure Stack HCI の基礎と展開」 編](https://info.microsoft.com/JA-HCS-CNTNT-FY23-10Oct-12-Azure-Stack-HCI-Assessment-Guide-Part-1-Azure-Stack-HCI-Fundamentals-and-Deployment-SRGCM7946_LP01-Registration---Form-in-Body.html)
+
 ## Azure Static Web Apps
 
 - [すぐ実践できる！Azure Static Web Apps 開発環境構築](https://aadojo.alterbooth.com/entry/2022/09/09/170000)
@@ -312,6 +341,8 @@
 
 ## SendGrid
 
+- [ベアメールブログ](https://baremail.jp/blog/)
+- [SendGrid Web API【入門】](https://sendgrid.kke.co.jp/blog/?p=1156&fbclid=IwAR3z3XRAh8Mn1szX9cLAZobBLr7O7MD9yW0jI3jDhuRVitLIpGHbWmd1VoI)
 - [口コミからわかる SendGrid のメリット・デメリット](https://sendgrid.kke.co.jp/blog/?p=14191)
 - [より良い HTML メールの作り方](https://sendgrid.kke.co.jp/blog/?p=15742)
 - [Azure でメールを受信するには  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/ainaba-csa/how-to-receive-email-by-azure)

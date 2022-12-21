@@ -27,8 +27,22 @@
 - [bootstrap のカルーセルの使い方とカスタマイズのサンプルを紹介](https://be-engineer.jp/programming/514/)
 - [カルーセル UI を実現する JS ライブラリまとめ(2021 年版) - 導入手間や機能の比較紹介](https://ics.media/entry/210902/)
 
+## Loading
+
+- [処理中のユーザーの誤操作を防止しよう](https://www.htmlhifive.com/conts/web/view/recipe/indicator)
+- [ASP.NET でローディング画像(処理中)を表示する](https://itneko.com/asp-loading-image/)
+- [［ASP.NET AJAX］Ajax 通信で使われる「ロード中／更新中」の画像を入手するには？](https://atmarkit.itmedia.co.jp/fdotnet/dotnettips/984ajaxloadingpic/ajaxloadingpic.html)
+- [画面読込中のグルグルまわるローディング画像を出す。jQuery・javascript](http://mori-coding.blog.jp/archives/6760786.html)
+- [Ignite UI for jQuery](https://jp.infragistics.com/support/product-help-downloads/ignite-ui-help)
+- [.NET Core に対応した InputMan で次世代のアプリ配布方法を試す（自己完結型編）](https://devlog.grapecity.co.jp/inputman-dotnetcore-self-contained-publishsinglefile/)
+- [.NET 開発コンポーネントセット](https://www.grapecity.co.jp/developer/componentone)
+-
+
 ## html
 
+- [【パーツ集】HTML・CSS・JavaScript をコピペで終わらせられるサイトまとめ](https://masata-blog.com/parts-collection/)
+- [Web 制作者はブックマークしておくと便利！ 各 UI コンポーネントのさまざまな実装方法のまとめ -The Component Gallery](https://coliss.com/articles/build-websites/operation/work/ui-component-gallery-for-developer.html)
+- [リンク/ボタン/フォームをより良くする HTML・CSS 17 選](https://ics.media/entry/221208/)
 - [フロントエンド開発をマスターする上で必要な知識 8 選 2022 年版](https://zenn.dev/nameless_sn/articles/frontend-masternote)
 - [少しのコードで実装可能な HTML 小技集](https://www.webcreatorbox.com/tech/html-tips)
 - [Web 制作者がチェックしておきたい！ 2022 年版、CSS フレームワークのまとめ](https://coliss.com/articles/build-websites/operation/css/awesome-css-frameworks.html)

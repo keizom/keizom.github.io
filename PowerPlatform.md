@@ -13,8 +13,21 @@
 
 # Microsoft 365
 
+## PowerPlatform
+
+- [Japan Power Platform Conference 2022](https://app.powerbi.com/view?r=eyJrIjoiZmQ3YzcwYmUtNDc1OS00YWNiLTk2YzAtMzZhYjA4ZTNmZTAxIiwidCI6ImEyYjExZTNlLWY3MjItNDQ0OS1iMTY3LWFhMDA2NzIyN2I0MiJ9)
+- [Microsoft Power Platform の新しいガバナンス機能「マネージド環境」をプレビュー公開](https://memo.tyoshida.me/power-platform/microsoft-power-platform-managed-environments-preview/)
+- [Managed Environments overview](https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-overview)
+
+## AI Builder Lobe
+
+- [Automate Document Processing end-to-end with AI Builder](https://powerautomate.microsoft.com/en-us/blog/automate-document-processing-end-to-end-with-ai-builder/)
+- [Microsoft が誰でも簡単に機械学習モデルが作れるツール「Lobe」を公開！ Techable(テッカブル)](https://techable.jp/archives/140757)
+- - [Microsoft Lobe × Power App で画像分析アプリをカンタン作成 [BUILD2022 Update]](https://qiita.com/annie/items/2531eb6f9dc2231b8ef6)
+
 ## Dynamics 365
 
+- [【Dynamics 365】【8.2 新機能】サーバ間（S2S）認証を試してみた](https://kageura.hatenadiary.jp/entry/2017/04/06/%E3%80%90Dynamics_365%E3%80%91%E3%80%908_2%E6%96%B0%E6%A9%9F%E8%83%BD%E3%80%91%E3%82%B5%E3%83%BC%E3%83%90%E9%96%93%EF%BC%88S2S%EF%BC%89%E8%AA%8D%E8%A8%BC%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF)
 - [dynamics 365: 無料試用版刷新、セットアップ手順解説](https://shenghaohuang.com/2021/07/29/dynamics-365-trial/)
 - [Dynamics 365 トライアル版(試用版)の取得方法(2021 年 8 月版)](https://www.arcuss-japan.com/crmblogs/5077)
 - [Dynamics 365 無料試用版の概要](https://dynamics.microsoft.com/ja-jp/dynamics-365-free-trial/)
@@ -29,6 +42,7 @@
 
 ## PowerApps
 
+- [Microsoft Power Apps × Outlook「会議室予約状況可視化アプリ」のご紹介動画が再生回数 4,000 回を達成しました。](https://dx.si-jirei.jp/cloud-news-microsoft_power_apps-outlook-youtube-meeting-room-reservation-appli-video-play-4000times/)
 - [Webinar オンデマンド一覧](https://www.microsoft.com/ja-jp/biz/dynamics/power-platform-webinar.aspx)
 - [【PowerApps Tip's】開発言語経験者の多くが陥る最初の罠と回避方法 - Qiita](https://qiita.com/yamad365/items/feed918f9934ee6a2f07)
 - [【PowerApps】カメラで撮った画像を SharePoint リストに保存し、他のアプリで見る。 - Qiita](https://qiita.com/Econoshift/items/2727dc687f5801d87272)
@@ -100,6 +114,7 @@
 
 ## Power BI
 
+- [列のピボットを解除する](https://learn.microsoft.com/ja-jp/power-query/unpivot-column)
 - [【Forms × Power BI 活用】Forms の複数回答データを Power BI で解析する方法](https://www.powerplatformknowledge.com/powerbi-forms-multi-answer/)
 - [Power BI Tips Power BI でリアルタイムアンケート ～ アンケートを即可視化 2020 年版 ～](https://qiita.com/yugoes1021/items/ea4c96cec9f1c7e47347)
 - [Power BI Tips Power BI でリアルタイムアンケート ～ アンケートを即可視化 2020 年版 Vol.2 ～](https://qiita.com/yugoes1021/items/ef963bc81ec18e83d735)

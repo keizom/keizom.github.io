@@ -50,6 +50,12 @@
 
 - [データベースの種類と説明](https://docs.microsoft.com/ja-jp/SharePoint/technical-reference/database-types-and-descriptions)
 
+## SEO 対策
+
+- [[Web]Google とかのインデックス拒否は robots.txt じゃなくて X-Robots-Tag を使う](https://sevenb.jp/wordpress/ura/2016/07/06/webgoogle%E3%81%A8%E3%81%8B%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E6%8B%92%E5%90%A6%E3%81%AFrobots-txt%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6x-robots-tag%E3%82%92/)
+- [Robots meta tag, data-nosnippet, and X-Robots-Tag specificationsbook](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#header)
+- [ディレクティブ設定と検索エンジン](https://info-search.yahoo.co.jp/archives/002878.php)
+
 ## SharePoint 高可用性構成
 
 - [Azure での高可用性 SharePoint Server 2016 ファームの実行](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/sharepoint/)
@@ -174,6 +180,8 @@
 
 # Windows OS
 
+- [「Windows Server コンテナ」「Hyper-V コンテナ」「Linux コンテナ」「Docker」の違いとは？](https://atmarkit.itmedia.co.jp/ait/articles/1611/04/news028.html)
+- [Windows Server 2016 に Windows コンテナ機能をインストールする](https://atmarkit.itmedia.co.jp/ait/articles/1610/26/news042.html)
 - [SharePoint 2013: Disable Loopback Check](https://social.technet.microsoft.com/wiki/contents/articles/37664.sharepoint-2013-disable-loopback-check.aspx)
 - [DisablePasswordChange](<https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc962289(v=technet.10)?redirectedfrom=MSDN>)
 - [NUC7i7DNHE に Windows Server 2019 をインストールしてみる](https://blog.engineer-memo.com/2018/09/02/nuc7i7dnhe-%e3%81%ab-windows-server-2019-%e3%82%92%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/)
@@ -202,3 +210,7 @@
 - [DO’s&DONT’s #12: やった方がいいこと - max server memory を設定する](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-12-max-server-memory)
 - [DO’s&DONT’s #17: やっておいた方がいいこと - tempdb データファイル数を CPU 数に一致させる](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-17-tempdb-259)
 - [SQL Troubleshooting SQL Server トラブルシューティング 6 回シリーズのご案内](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/sql-troubleshooting-sql-server-6)
+
+## VMware
+
+- [おうちクラウド 第 3 回 "仮想化基盤を作ってみよう" サンプルコード・参考情報集](https://github.com/tuna-jp/ouchi-cloud/blob/main/vol3/README.md)

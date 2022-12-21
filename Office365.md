@@ -65,6 +65,7 @@
 
 ## Advanced Threat Protection
 
+- [Microsoft Defender for Endpoint - デモ シナリオ](https://learn.microsoft.com/ja-jp/microsoft-365/security/defender-endpoint/defender-endpoint-demonstrations?view=o365-worldwide)
 - [Office 365 の ATP (Advanced Threat Protection) を使ってみる - kazuakix の日記](https://blog.kazuakix.jp/entry/2017/12/05/000100)
 - [ATP のアタックシミュレータ - Office 365 Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/security/office-365-security/attack-simulator?view=o365-worldwide)
 - [Changes in the support case submission experience - Microsoft Tech Community - 1521387](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387)
@@ -84,6 +85,7 @@
 - [Export Office 365 User Activity Report to CSV using PowerShell](https://o365reports.com/2021/01/06/export-office-365-user-activity-report-to-csv-using-powershell/)
 - [Retrieve Office 365 Audit logs using PowerShell and store in Azure table for quick retrieval](https://blog.kloud.com.au/2018/12/21/retrieve-office-365-audit-logs-using-powershell-and-store-in-azure-table-for-quick-retrieval/)
 - [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
+- [Send system disk space utilization HTML report Email using PowerShell](http://vcloud-lab.com/entries/powershell/send-system-disk-space-utilization-html-report-email-using-powershell)
 
 ## Exchagne Online
 
@@ -144,6 +146,8 @@
 
 ## Microsoft Graph
 
+- [Microsoft Graph を使ってみよう : サイト、リスト、リストアイテムリソース (SharePoint)](https://qiita.com/kenakamu/items/61ff83a2b381bc3e9cdb)
+- [Graph API で Azure AD B2C のコンシューマーユーザーを作成する (C#)](https://blog.beachside.dev/entry/2022/09/02/224500)
 - [Announcing “A Lap Around Microsoft Graph Toolkit” Blog Series - Microsoft 365 Developer Blog](https://developer.microsoft.com/en-us/graph/blogs/announcing-a-lap-around-microsoft-graph-toolkit-blog-series/)
 - [GitHub - Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
 - [GitHub - Global Microsoft 365 Developer Bootcamp 2019 Tokyo：Microsoft Graph API](https://gist.github.com/rnakamuramartiny/13ae56ec3d97a468354c044bfdeea6df)
