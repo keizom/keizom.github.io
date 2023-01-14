@@ -13,6 +13,11 @@
 
 # Develop
 
+
+## 学習サイト
+
+― [どっとインストール](https://microsoft-search.github.io/pnp-modern-search/)
+
 ## Widnows 11 VHD
 
 - [Get a Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)

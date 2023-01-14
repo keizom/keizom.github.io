@@ -201,6 +201,7 @@
 
 ## Azure Functions
 
+- [Azure FunctionsのSwaggerドキュメントをラクラク作成！OpenAPI Extension！](https://tech-lab.sios.jp/archives/32091)
 - [Functions を使ったイベント駆動アプリ](https://news.mynavi.jp/techplus/article/zeroazure-8/)
 - [今 Serverless が面白いわけ](https://www.slideshare.net/yokawasa/serverless-151261322)
 - [Azure Serverless or Power Platform ～ あなたならどっち？！ ～ Power Platform 編](https://www.slideshare.net/yugoes1021/azure-serverless-or-power-platform-power-platform)
@@ -352,6 +353,7 @@
 
 ## SendGrid
 
+- [ブラウザでWeb APIをテストする方法](https://sendgrid.kke.co.jp/blog/?p=15000)
 - [ベアメールブログ](https://baremail.jp/blog/)
 - [SendGrid Web API【入門】](https://sendgrid.kke.co.jp/blog/?p=1156&fbclid=IwAR3z3XRAh8Mn1szX9cLAZobBLr7O7MD9yW0jI3jDhuRVitLIpGHbWmd1VoI)
 - [口コミからわかる SendGrid のメリット・デメリット](https://sendgrid.kke.co.jp/blog/?p=14191)

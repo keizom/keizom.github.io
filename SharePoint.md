@@ -128,6 +128,7 @@
 
 ## CSOM
 
+- [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
 - [SharePointCSOM でログインにパスワード以外を使う](https://qiita.com/RYO-4947123/items/db4dfdba0ea888c893cc)
 - [SharePoint Online の HTTP 調整 (応答コード 429, 503) に関して](https://social.msdn.microsoft.com/Forums/ja-JP/8e5a4116-c96a-4d3e-9bbf-6efb852b5d88/sharepoint-online-12398-http-3551925972-2454031572124671254012489-429-503?forum=sharepointsupportteamja)
 - [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
@@ -145,6 +146,7 @@
 
 ## PnP SharePoint
 
+- [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)
 - [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
 - [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)
 - [【SharePoint Online】モダン認証で指定のサイトに対してアクセス許可を設定する](https://www.hogehoge-note.com/2022/02/19/post-937/)
@@ -225,6 +227,7 @@
 
 ## SharePoint FrameWork
 
+- [MsGraphSpFxThangu](https://www.youtube.com/watch?v=AKftsTLQBGo)
 - [SharePoint Framework (SPFx) 開発で分かった私的ベストプラクティスまとめ](https://www.micknabewata.com/entry/spfx-best-practice)
 - [拡張機能を SharePoint に展開する (Hello world パート 3)](https://learn.microsoft.com/ja-jp/sharepoint/dev/spfx/extensions/get-started/serving-your-extension-from-sharepoint)
 - [SharePoint Framework 開発環境を構築する](https://qiita.com/Shomi-Nijo/items/61a062ae155f2e873a39)
