@@ -111,6 +111,10 @@
 - [Web サーバー向けロードバランサー「Azure Application Gateway」とは？](https://www.cloudou.net/application-gateway/appg001/)
 - [Application Gateway - App Service 間のリダイレクトの問題](https://jpaztech.github.io/blog/network/appgw-appservice-redirectissue/)
 
+## Azure Automation
+
+- [PowerShellの操作を自動化！ Azure Automation の Power Shell Runbook を使いこなそう！！](https://tech-blog.cloud-config.jp/2023-01-11-azure-automation-runbook
+
 ## Application Insights
 
 - [Application Insights を使ったアプリケーションの監視](https://news.mynavi.jp/techplus/article/zeroazure-14/)
@@ -163,6 +167,8 @@
 
 ## Azure DevOps
 
+- [Azure DevOpsを触ってみた](https://www.qes.co.jp/media/Microservices/a104)
+- [Git を使用したコード](https://learn.microsoft.com/ja-jp/azure/devops/user-guide/code-with-git?view=azure-devops)
 - [Azure Data Factory - 関数およびシステム変数](https://learn.microsoft.com/ja-jp/azure/data-factory/v1/data-factory-functions-variables)
 - [Azure Data Factory または Azure Synapse パイプラインを使用して電子メールを送信する](https://learn.microsoft.com/ja-jp/azure/data-factory/how-to-send-email)
 - [Azure Data Factory および Azure Synapse Analytics の Delete アクティビティ](https://learn.microsoft.com/ja-jp/azure/data-factory/delete-activity)
@@ -240,6 +246,7 @@
 
 ## Azure Key Vault
 
+- [Azure Key Vault を作成する](https://qiita.com/kk-ishii/items/0176b1f02e77bd4fd948)
 - [Azure KeyVault Set and Retrieve Secrets using Powershell](https://dotnet-helpers.com/powershell/azure-keyvault-set-and-retrieve-secrets/?fbclid=IwAR2AAtvCSpJv3e2F8YsS9HWpC-OygYqo7oTp_YZP090iU5UJto5xRsKCDuk)
 - [「Azure Key Vault」を使ってセキュアなアプリを作ろう](https://news.mynavi.jp/techplus/article/zeroazure-23/)
 - [ゼロからはじめる Azure(23) 「Azure Key Vault」を使ってセキュアなアプリを作ろう マイナビニュース](https://news.mynavi.jp/article/zeroazure-23/)
@@ -303,8 +310,12 @@
 
 ## Azure Static Web Apps
 
+- [Azure Static Web Apps の機能をいろいろさわってみる](https://qiita.com/ussvgr/items/b5c827f9dc7ec145895f)
+- [クイック スタート: 静的 Web アプリを初めてビルドする](https://learn.microsoft.com/ja-jp/azure/static-web-apps/get-started-portal?pivots=azure-devops&tabs=vanilla-javascript)
+- [Azure Static Web Apps×Azure DevOpsでお手軽にプレビュー環境を構築する](https://tech-lab.sios.jp/archives/31286)
+- [「Azure Static Web Apps」を使って静的サイトを公開しよう](https://news.mynavi.jp/techplus/article/zeroazure-37/)
+- [Azure Static Web Appsと外部APIを統合して柔軟なCI/CD環境を構築](https://tech-lab.sios.jp/archives/32360)
 - [すぐ実践できる！Azure Static Web Apps 開発環境構築](https://aadojo.alterbooth.com/entry/2022/09/09/170000)
-- [クイックスタート: Azure portal で最初の静的サイトを構築する](https://docs.microsoft.com/ja-jp/azure/static-web-apps/get-started-portal?pivots=azure-devops&tabs=vanilla-javascript)
 - [「Azure Static Web Apps」を使って静的サイトを公開しよう](https://news.mynavi.jp/techplus/article/zeroazure-37/)
 - [【Azure】ぎりぎりに Azure Static Web Apps について調べてみた](https://qiita.com/hikaru_motomiya/items/467004e48a8c7bfdb99a)
 - [Azure Static Web Apps を試してみた](https://qiita.com/akihiro-nakano/items/7b8a8399be7dea307842)

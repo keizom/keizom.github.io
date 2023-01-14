@@ -213,8 +213,12 @@
 
 - [GitHub - Codespaces](https://github.co.jp/features/codespaces)
 
-## git
+## TypeScript
 
+- [TypeScriptを効率的に独習しよう！ 無料で学べる「TypeScript Deep Dive」日本語版の翻訳者が学習法を解説](https://codezine.jp/article/detail/15148)
+
+## git
+- [Git を使用したコード](https://learn.microsoft.com/ja-jp/azure/devops/user-guide/code-with-git?view=azure-devops)
 - [Git によるチーム開発のいろはを基礎から学ぼう！](https://codezine.jp/article/detail/16910)
 - [Developers Festa Sapporo 2020 Microsoft/GitHub が提供する Developer Cloud (Developer Cloud from Microsoft/GitHub)](https://satonaoki.wordpress.com/2020/12/05/devfesta-microsoft-github/)
 - [Git(GitHub)おじさんに俺はなる Before Git After Git](https://karaage.hatenadiary.jp/entry/2016/01/23/073000)
