@@ -315,12 +315,12 @@
 - [Azure Static Web Apps の機能をいろいろさわってみる](https://qiita.com/ussvgr/items/b5c827f9dc7ec145895f)
 - [クイック スタート: 静的 Web アプリを初めてビルドする](https://learn.microsoft.com/ja-jp/azure/static-web-apps/get-started-portal?pivots=azure-devops&tabs=vanilla-javascript)
 - [Azure Static Web Apps×Azure DevOpsでお手軽にプレビュー環境を構築する](https://tech-lab.sios.jp/archives/31286)
-- [「Azure Static Web Apps」を使って静的サイトを公開しよう](https://news.mynavi.jp/techplus/article/zeroazure-37/)
 - [Azure Static Web Appsと外部APIを統合して柔軟なCI/CD環境を構築](https://tech-lab.sios.jp/archives/32360)
 - [すぐ実践できる！Azure Static Web Apps 開発環境構築](https://aadojo.alterbooth.com/entry/2022/09/09/170000)
 - [「Azure Static Web Apps」を使って静的サイトを公開しよう](https://news.mynavi.jp/techplus/article/zeroazure-37/)
 - [【Azure】ぎりぎりに Azure Static Web Apps について調べてみた](https://qiita.com/hikaru_motomiya/items/467004e48a8c7bfdb99a)
 - [Azure Static Web Apps を試してみた](https://qiita.com/akihiro-nakano/items/7b8a8399be7dea307842)
+- [Azure Static Web Appsを試してみた２【Azure DevOpsと連携】](https://qiita.com/akihiro-nakano/items/d072542312a2c51a4743)
 
 ## Azure SQL
 
