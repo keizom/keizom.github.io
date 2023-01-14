@@ -115,7 +115,7 @@
 
 - [PowerShellの操作を自動化！ Azure Automation の Power Shell Runbook を使いこなそう！！](https://tech-blog.cloud-config.jp/2023-01-11-azure-automation-runbook
 
-## Application Insights
+## Azure Application Insights
 
 - [Application Insights を使ったアプリケーションの監視](https://news.mynavi.jp/techplus/article/zeroazure-14/)
 - [既存の Application Insights を Workspace ベースに移行した - しばやん雑記](https://blog.shibayan.jp/entry/20200928/1601229167)
@@ -143,6 +143,7 @@
 
 ## Azure Cognitive Services
 
+- [コードが書けなくても使える機械学習プラットフォーム「Azure Machine Learning」は何がすごいのか](https://logmi.jp/tech/articles/322297)
 - [Microsoft Ignite 2022 注目の Azure Data&AI セッション](https://zenn.dev/k14i/articles/57c1ab104928ec)
 - [All Around Azure: Developers Guide to AI - 日本語配信](https://m.youtube.com/watch?v=rjtt6y_1Nak)
 - [Cogbot Meetup Online #29 - Ignite 2020 キャッチアップ編](https://www.youtube.com/watch?v=cIgjQgLjMuQ)
@@ -325,6 +326,9 @@
 
 - [Azure SQL Database の便利機能!!使わないと損ですよ!!ネスケラボ](https://blog.nextscape.net/archives/Date/2017/11/azuresqldatabase01)
 - [Azure SQLDabase にプライベートなネットワークからアクセスしてみよう](https://blog.nextscape.net/archives/Date/2018/02/serviceendpointsqldb)
+
+## Azure REST API
+- [Azure REST API を使ってみよう](https://jpazasms.github.io/blog/AzureSubscriptionManagement/20181113a/)
 
 ## Azure Redis Cache
 
