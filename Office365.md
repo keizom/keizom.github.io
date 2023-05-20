@@ -10,8 +10,12 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
 - [web](https://keizom.github.io/web.html)
+- [mac](https://keizom.github.io/mac.html)
 
 # Microsoft 365
+
+- [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
+- [ライセンス](https://m365maps.com/matrix.htm)
 
 ## 認証関係
 
@@ -30,10 +34,18 @@
 - [Power Apps と AI Builder を使って最速で OCR アプリを作る！！#Power Platform リレー](https://tech-blog.cloud-config.jp/2021-12-23-power-apps-ai-builder-ocr/)
 - [AI Builder による画像認識モデルの構築](https://rpa.bigtreetc.com/column/aibuilder-builing-customai/)
 
+## loops
+
+- [Microsoft Loop アプリ (public preview) - 勉強会の録画公開](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/04/microsoft-loop--6f48.html)
+- [AI搭載の多機能メモアプリ｢Microsoft Loop｣、Notionとはここがちがいます](https://www.gizmodo.jp/2023/04/loop-notion-comparison.html)
+
 ## Office 365 PowerShell
 
 - [MSOnline / AzureAD PowerShell から Graph PowerShell SDK への移行について 1\_概要](https://jpazureid.github.io/blog/azure-active-directory/azuread-module-retirement1/)
 - [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
+
+- [Export Office 365 Groups a User is Member Of Using PowerShell](https://o365reports.com/2021/04/15/export-office-365-groups-a-user-is-member-of-using-powershell/?fbclid=IwAR0oSgtDfo0gkCH4dJLXTvvpQtKXhK3hDbUn1dd7UfUXpTTPN4p3EpYxQ3E)
+- [Export Office 365 Guest User Report with their Membership](https://o365reports.com/2020/11/12/export-office-365-guest-user-report-with-their-membership/)
 - [Office 365 の PowerShell 運用を PaaS 化してみる](https://sprestaurant.hatenablog.com/entry/2019/07/07/011839)
 - [多要素認証 (MFA) の Office 365 に PowerShell で接続する方法まとめ](https://blog.kazuakix.jp/entry/2018/04/16/221554)
 - [【SPO】CSOM と SharePoint Online 管理シェルを PowerShell でパッケージ管理](https://www.samurainote.com/entry/2019/02/23/222546)
@@ -176,3 +188,8 @@
 - [Microsoft Graph の認証と承認の基本方法](https://docs.microsoft.com/ja-jp/graph/auth/auth-concepts)
 - [Microsoft Graph を使ってみよう : サイト、リスト、リストアイテムリソース (SharePoint)](https://qiita.com/kenakamu/items/61ff83a2b381bc3e9cdb)
 - [GraphAPI を使って SharePoint リストに大量のデータを投入する](https://qiita.com/Rambosan/items/2eefca18f1760bb784c6)
+- [Connect to Microsoft Graph PowerShell using Certificate](https://blog.admindroid.com/connect-to-microsoft-graph-powershell-using-certificate/)
+
+## Microsoft Viva
+
+- [できるMicrosoft Viva【改訂版】](https://info.microsoft.com/JA-EMPEX-CNTNT-FY23-02Feb-27-Microsoft-Viva-Revised-Edition-SRGCM9341_LP01-Registration---Form-in-Body.html)

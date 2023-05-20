@@ -10,6 +10,7 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
 - [web](https://keizom.github.io/web.html)
+- [mac](https://keizom.github.io/mac.html)
 
 # SharePoint
 
@@ -96,7 +97,12 @@
 - [SharePoint のテンプレート化方法まとめ - 鍋綿ブログ](https://www.micknabewata.com/entry/sharepoint/template)
 - [SharePoint モダン サイト ～ サイト デザインとサイト スクリプト～](https://www.slideshare.net/aiyamasaki528/sharepoint-91933139)
 - [SharePoint のサイト デザインとサイト スクリプトの作成を開始する Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/get-started-create-site-design)
+- [Microsoft 365 Virtual Marathon 2021 – SharePoint サイトの自動作成あれこれ ](https://sharepoint.orivers.jp/article/10450)
 
+
+## Stream on SharePoint
+
+- [Stream (on SharePoint) への移行: Stream (クラシック) Webパーツを見つけるスクリプト](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/01/stream-on-share-d043.html)
 ## SharePoint REST API
 
 - [Sharepoint の REST API のリファレンスが不親切だったので簡潔に(?)書いてみる。](https://blog.freedom-man.com/sharepoint_restapi)
@@ -255,6 +261,10 @@
 - [Updated SharePoint Framework developer training package (June 2019)! - Microsoft 365 Developer Blog](https://developer.microsoft.com/en-us/sharepoint/blogs/updated-sharepoint-framework-developer-training-package-june-2019/)
 - [How to get user details using Microsoft Graph API in SPFx](https://www.enjoysharepoint.com/sharepoint-spfx-graph-api/)
 
+## Graph
+
+- [Streamline your SharePoint experience with the new Microsoft Graph SharePoint Admin API](https://devblogs.microsoft.com/microsoft365dev/streamline-your-sharepoint-experience-with-the-new-microsoft-graph-sharepoint-admin-api/)
+
 ## Fiddler
 
 - [Fiddler を使って HTTPS トラフィックを確認する idea.toString();](https://idea.tostring.jp/?p=1077)
@@ -284,3 +294,6 @@
 > $Web.SetUseAccessRequestDefaultAndUpdate($False)
 > $Web.Update()
 > Invoke-PnPQuery
+
+## Microsoft Syntex
+- [Microsoft Ignite 2022 Recap: 凄い! Microsoft Syntex による最新のMicrosoft 365 コンテンツ管理を学ぼう](https://shanqiai.lekumo.biz/sharepoint_technical_note/2022/10/microsoft-ignite-2022-recap-microsoft-syntex.html)

@@ -10,6 +10,7 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
 - [web](https://keizom.github.io/web.html)
+- [mac](https://keizom.github.io/mac.html)
 
 # Web
 
@@ -40,6 +41,10 @@
 
 ## html
 
+- [便利なのが登場！ 最近見かけるさまざまなUI要素600種類以上をシンプルなHTMLとCSSで簡単に実装できる -UIverse](https://coliss.com/articles/build-websites/operation/work/open-source-ui-elements-uiverse.html)
+- [HTML5 UP](https://html5up.net/)
+- [2023年最新版: HTMLのheadの書き方、head内に記述する要素の総まとめ](https://coliss.com/articles/build-websites/operation/work/html-head-elements.html)
+- [divはボタンではない、ボタンの実装について知っておくべきすべてのこと](https://coliss.com/articles/build-websites/operation/work/need-to-know-about-buttons.html)
 - [【パーツ集】HTML・CSS・JavaScript をコピペで終わらせられるサイトまとめ](https://masata-blog.com/parts-collection/)
 - [Web 制作者はブックマークしておくと便利！ 各 UI コンポーネントのさまざまな実装方法のまとめ -The Component Gallery](https://coliss.com/articles/build-websites/operation/work/ui-component-gallery-for-developer.html)
 - [リンク/ボタン/フォームをより良くする HTML・CSS 17 選](https://ics.media/entry/221208/)
@@ -78,7 +83,7 @@
 - [知っておくと便利な HTML5 の機能、要素や属性のまとめ   コリス](https://coliss.com/articles/build-websites/operation/work/10-useful-html5-features.html)
 - [地味に便利！さまざまなプロジェクトに適した HTML のテンプレートを簡単に生成できる -HTML Boilerplates   コリス](https://coliss.com/articles/build-websites/operation/work/html-boilerplates.html)
 - [デザインに少し手を加え、フォームを改善する実践的な UI のテクニックのまとめ](https://coliss.com/articles/build-websites/operation/work/ui-tips-for-better-forms.html?fbclid=IwAR3WLaiZYw8yTlyGfvfHBU2dvfnKt2L7HzLbphaVcpQ1y261VSIAtqtmY_k)
-- # [レスポンシブの確認が簡単に！ iPhone, iPad, Android など各モデルのサイズ、操作や動画にも対応した優れもの -モバイルシミュレーター](https://coliss.com/articles/build-websites/operation/work/mobile-simulator-for-responsive.html)
+- [レスポンシブの確認が簡単に！ iPhone, iPad, Android など各モデルのサイズ、操作や動画にも対応した優れもの -モバイルシミュレーター](https://coliss.com/articles/build-websites/operation/work/mobile-simulator-for-responsive.html)
 - [デザインに少し手を加え、フォームを改善する実践的な UI のテクニックのまとめ](https://coliss.com/articles/build-websites/operation/work/ui-tips-for-better-forms.html)
 - [Tailwind CSS の実装やデバッグに便利！ 各セレクタに対応したプロパティや値を表示するデベロッパーツールの機能拡張 -Tailwind DX](https://coliss.com/articles/build-websites/operation/css/devtools-extension-for-tailwind-css.html)
 - [UI デザインに特化された配色ツール！ Web サイトやスマホアプリで使用する色に悩んだときに便利 -Goodpalette](https://coliss.com/articles/build-websites/operation/design/color-palette-for-ui-design.html)
@@ -86,6 +91,12 @@
 
 ## css
 
+- [最近のWeb制作に役立つ、CSSの便利ツール総まとめ](https://coliss.com/articles/build-websites/operation/work/useful-tools-for-web-developer.html)
+- [Web制作者がチェックしておきたい！ 2023年版、CSSフレームワークのまとめ](https://coliss.com/articles/build-websites/operation/css/awesome-css-frameworks.html)
+- [全部、完全に商用利用無料！ さまざまなデザインが揃ってる、ランディングページ用のHTMLテンプレート -HTMLrev](https://coliss.com/articles/build-websites/operation/work/free-landing-page-html-templates-by-htmlrev.html)
+- [Web制作に役立つ超便利ツールが登場！ HTMLやCSSやJavaScriptのさまざまなツールがひとまとめになったツールボックス -He3](https://coliss.com/articles/build-websites/operation/work/modern-developer-toolbox-he3.html)
+- [ユーザーのインタラクションを伴うさまざまなUIコンポーネントをCSSで実装できる軽量フレームワーク -Ellegant CSS](https://coliss.com/articles/build-websites/operation/css/ellegant-css-microframework.html)
+- [CSSとHTMLだけで作れる様々なUIのコードを公開しているCSSスニペットコレクション・「CSS Stock」](http://kachibito.net/useful-resource/css-stock)
 - [よくある Web 制作の悩みを CSS で解決！最新テクニック 40 選まとめ](https://photoshopvip.net/131693)
 - [ほんの数行の CSS で実装できる小技テクニック 12 個まとめ 【簡単＆実用的】](https://photoshopvip.net/127316)
 - [簡単 CSS アニメーション＆デザイン 20 選（ソースコードと解説付き）](https://baigie.me/officialblog/2021/02/25/css-tips-1/)
@@ -116,6 +127,7 @@
 
 ## JavaScript
 
+- [【JavaScript】動画以外の要素でもピクチャーインピクチャーできるらしい！](https://qiita.com/degudegu2510/items/0406363d982fabf30c84)
 - [動かして学ぶ！ Rust の言語仕様](https://codezine.jp/article/detail/15083)
 - [個人で Web アプリを開発する時に便利な高機能 JavaScript ライブラリ 6 選！](https://paiza.hatenablog.com/entry/2018/12/26/%E5%80%8B%E4%BA%BA%E3%81%A7Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B%E6%99%82%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AA%E9%AB%98%E6%A9%9F%E8%83%BDJavaScript%E3%83%A9%E3%82%A4)
 - [わずか数行の JavaScript で機械学習をフル活用できる無料 Web サービス「StackML」を使ってみた！ - paiza 開発日誌](https://paiza.hatenablog.com/entry/2019/07/03/%E3%82%8F%E3%81%9A%E3%81%8B%E6%95%B0%E8%A1%8C%E3%81%AEJavaScript%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%82%92%E3%83%95%E3%83%AB%E6%B4%BB%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E7%84%A1%E6%96%99Web)

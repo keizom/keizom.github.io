@@ -10,15 +10,25 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
 - [web](https://keizom.github.io/web.html)
+- [mac](https://keizom.github.io/mac.html)
 
 # Microsoft 365
 
 ## PowerPlatform
 
+- [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
 - [Power Platform用GitHub Actionsでアプリ管理・デプロイの自動化をする【前編】](https://tech-blog.cloud-config.jp/2022-06-20-power-platform-github-deploy/)
 - [Japan Power Platform Conference 2022](https://app.powerbi.com/view?r=eyJrIjoiZmQ3YzcwYmUtNDc1OS00YWNiLTk2YzAtMzZhYjA4ZTNmZTAxIiwidCI6ImEyYjExZTNlLWY3MjItNDQ0OS1iMTY3LWFhMDA2NzIyN2I0MiJ9)
 - [Microsoft Power Platform の新しいガバナンス機能「マネージド環境」をプレビュー公開](https://memo.tyoshida.me/power-platform/microsoft-power-platform-managed-environments-preview/)
 - [Managed Environments overview](https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-overview)
+
+## copilot
+
+- [The Future of Work with AI（Microsoft 365 Copilot 発表イベント）- 日本語まとめ](https://memo.tyoshida.me/office-365/the-future-of-work-with-ai-summary/#Power_Automate_denoCopilot)
+- [Microsoft 365 Copilotでできるようになること](https://blog.ict-in-education.jp/entry/2023/04/01/050000)
+- [Microsoft Dynamics 365 Copilot ～ CRM と ERP を支える世界初の AI アシスタント～ | 日本マイクロソフト](https://www.youtube.com/watch?v=jaTXXhZUNVw)
+- [Microsoft 365 Copilotでできること──プロンプト例で紹介](https://www.itmedia.co.jp/news/articles/2303/17/news102.html)
+- [Microsoft、企業向けにも生成系AI　「Dynamics 365 Copilot」提供開始](https://www.itmedia.co.jp/news/articles/2303/07/news076.html)
 
 ## AI Builder Lobe
 

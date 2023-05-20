@@ -10,6 +10,7 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
 - [web](https://keizom.github.io/web.html)
+- [mac](https://keizom.github.io/mac.html)
 
 # Adobe
 

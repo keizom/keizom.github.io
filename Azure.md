@@ -10,24 +10,26 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
 - [web](https://keizom.github.io/web.html)
+- [mac](https://keizom.github.io/mac.html)
 
 # Azure
 
+- [Azureを勉強したいけど何したらいいかわからない人へ ~ 勉強資料インデックスの紹介 ~](https://qiita.com/aktsmm/items/d0da6b7b245b6a88ef95)
+- [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
+- [Microsoft Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
+- [Microsoft Azure 自習書一式](https://www.microsoft.com/ja-jp/download/details.aspx?id=43120)
+- [Microsoft Azure 自習書シリーズ 日本データセンター稼働記念：概要編](https://download.microsoft.com/download/C/C/E/CCEBFE71-DF0E-4436-B19A-5B6A4B029D9C/Azure_SelfLearning00_Overview.pdf)
 - [Azure 環境作ったら最初にやるべきこと 2021 年版](https://zenn.dev/tomot/articles/7ddeb902e8f426)
 - [Azure 始める人向けに見てほしい資料など](https://kkamegawa.hatenablog.jp/entry/2022/07/24/134600)
 - [Azure をコマンドラインツールから操作してみよう](https://news.mynavi.jp/techplus/article/zeroazure-18/)
 - [Azure の NoSQL データベース「Cosmos DB」を使ってみよう](https://news.mynavi.jp/techplus/article/zeroazure-15/)
 - [テーブルストレージを用いた Web アプリケーション](https://news.mynavi.jp/techplus/article/zeroazure-3/)
+- [AWS サービスと Azure サービスの比較](https://learn.microsoft.com/ja-jp/azure/architecture/aws-professional/services)
 
 ## メンテナンス
 
 - [Azure での仮想マシンのメンテナンス](https://docs.microsoft.com/ja-jp/azure/virtual-machines/maintenance-and-updates)
   > Azure により、都合の良いときに自分でメンテナンスを開始できる時間枠も与えられます。 セルフ メンテナンス期間は、そのメンテナンスが緊急でない限り、通常は 35 日間です (ホスト マシンの場合)。
-
-## Azure Container
-
-- [Datadog による Azure コンテナ環境のモニタリング](https://lp.datadoghq.com/rs/875-UVY-685/images/Content-eBookAzureContainersJP.pdf)
-- [Azure クラウドモニタリング eBook](https://www.datadoghq.com/ja/resources/azure-ebook/)
 
 ## Azure AD
 
@@ -35,10 +37,16 @@
 - [Azure Active Directory で証明書ベースの認証を行ってみた](https://www.cybertrust.co.jp/blog/certificate-authority/client-authentication/azure-ad-certificate.html)
 - [2022 年 6 月末から「セキュリティの既定値群」の有効化が促されます (対象 : 一部のテナント)](https://jpazureid.github.io/blog/azure-active-directory/security-default-2022/)
 - [Conditional Access Workflow - v1.4.pdf](https://github.com/kennethvs/cabaseline202212/blob/main/Conditional%20Access%20Workflow%20-%20v1.4.pdf)
+- [Microsoft Graph PowerShellを利用してユーザーの最終サインイン日時を取得する](https://blog.jbs.co.jp/entry/2023/03/15/124720)
+
+### 条件付きアクセス
+
+- [条件付きアクセスの基本的な考え方](https://jpazureid.github.io/blog/azure-active-directory/conditional-access-basic/)
 
 ## Azure AD B2C
 
 - [基礎から分かる Azure AD B2C](https://qiita.com/Shinya-Yamaguchi/items/03321728b373a27be009)
+- [Azure AD B2C を利用した認証付き Web アプリケーションを構築するハンズオンを公開しました](https://zenarchitects.co.jp/posts/aadb2c-swa-handson)
 
 ## Azure AD Connect
 
@@ -46,6 +54,7 @@
 - [登録されたデバイスの管理方法 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/registerd_device_managemant)
 - [サイトのユーザー情報を強制的に AD と同期させる方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/ad)
 - [Azure AD Connect を使ってアカウントを同期する方法](https://www.gmo.jp/report/single/?art_id=244)
+- [Azure AD Connect導入がオンプレAD廃止の足掛かりになるって、どういうこと？](https://blog.cloudnative.co.jp/15912/)
 
 ## Azure API Management
 
@@ -113,7 +122,10 @@
 
 ## Azure Automation
 
-- [PowerShellの操作を自動化！ Azure Automation の Power Shell Runbook を使いこなそう！！](https://tech-blog.cloud-config.jp/2023-01-11-azure-automation-runbook
+- [PowerShellの操作を自動化！ Azure Automation の Power Shell Runbook を使いこなそう！！](https://tech-blog.cloud-config.jp/2023-01-11-azure-automation-runbook)
+- [Azure Automation と Microsoft Graph を介して Microsoft Entra Identity Governance のタスクを自動化する](https://learn.microsoft.com/ja-jp/azure/active-directory/governance/identity-governance-automation)
+- [Power Automate から Azure Automation を呼び出してクラウド上で PowerShell を実行してみる](https://idea.tostring.jp/?p=5899)
+- [Power Automate から PowerShell を実行する方法](https://jpdynamicscrm.github.io/blog/powerautomate/Execute-PowerShell/)
 
 ## Azure Application Insights
 
@@ -157,9 +169,37 @@
 - [GitHub - beachside-project/CustomVision-ML.NET-Hands-on: Create Image classifier in Custom Vision(Microsoft Cognitive Services) and Create App using ML.NET.](https://github.com/beachside-project/CustomVision-ML.NET-Hands-on)
 - [開発者のための AI アプリケーション開発ガイド](https://azure.microsoft.com/mediahandler/files/resourcefiles/create-your-first-intelligent-bot-with-microsoft-ai-ja-jp/JA-JP-CNTNT-eBook-AI-A-Developer's-Guide-to-Building-AI-Applications.pdf)
 
+## Azure Container
+
+- [Datadog による Azure コンテナ環境のモニタリング](https://lp.datadoghq.com/rs/875-UVY-685/images/Content-eBookAzureContainersJP.pdf)
+- [Azure クラウドモニタリング eBook](https://www.datadoghq.com/ja/resources/azure-ebook/)
+
+## Azure Cost
+
+- [CSP の Azure 明細を PowerShell で整形する 日々徒然](https://blog.o365mvp.com/2020/04/07/format-csp-reconcile-with-powershell/)
+
 ## Azure Data Factory
 
 - [Azure Data Factory を触ってみる #Azure リレー](https://tech-blog.cloud-config.jp/2022-06-13-adf-hands-on/)
+
+## Azure Database Migration Service
+
+- [チュートリアル: DMS を使用して SQL Server を Azure SQL Database に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-to-azure-sql)
+- [チュートリアル:DMS を使用してオフラインで SQL Server を Azure SQL Managed Instance に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-to-managed-instance)
+- [チュートリアル:DMS を使用してオンラインで SQL Server を Azure SQL Managed Instance に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-managed-instance-online)
+- [クイック スタート:Azure Portal を使用して Azure Database Migration Service のインスタンスを作成する](https://docs.microsoft.com/ja-jp/azure/dms/quickstart-create-data-migration-service-portal)
+- [リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルをポータルで作成する](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-create-service-principal-portal)
+- [SQL Server から Azure SQL Managed Instance へオンライン移行するためのカスタム ロール](https://docs.microsoft.com/ja-jp/azure/dms/resource-custom-roles-sql-db-managed-instance)
+- [Azure Database Migration Service を使用するための前提条件の概要](https://docs.microsoft.com/ja-jp/azure/dms/pre-reqs)
+
+  > 仮想ネットワークのネットワーク セキュリティ グループ (NSG) の規則によって、
+  > ServiceBus、Storage、AzureMonitor の ServiceTag の送信ポート 443 がブロックされていないことを確認します
+  > Storage Account のファイヤウォール設定、DMS と SQL MI のセグメントを追加する
+
+- [Azure Database Migration Service を使用して Azure SQL Managed Instance を移行するためのネットワーク トポロジ](https://docs.microsoft.com/ja-jp/azure/dms/resource-network-topologies)
+- [Azure Database Migration Service によってサポートされる移行シナリオの状態](https://docs.microsoft.com/ja-jp/azure/dms/resource-scenario-status)
+- [もう多分怖くないサービスプリンシパル](https://tech-lab.sios.jp/archives/23371)
+
 
 ## Azure Deployment Environments
 
@@ -168,6 +208,7 @@
 
 ## Azure DevOps
 
+- [ASP.NET Web アプリを作って Azure DevOps から Azure App Service に CI/CD してみた](https://www.softbanktech.co.jp/special/blog/cloud_blog/2023/0018/)
 - [Azure DevOpsを触ってみた](https://www.qes.co.jp/media/Microservices/a104)
 - [Git を使用したコード](https://learn.microsoft.com/ja-jp/azure/devops/user-guide/code-with-git?view=azure-devops)
 - [Azure Data Factory - 関数およびシステム変数](https://learn.microsoft.com/ja-jp/azure/data-factory/v1/data-factory-functions-variables)
@@ -192,6 +233,16 @@
 - [ゼロからはじめる Azure(26) 「Azure DevOps」でチーム開発を行おう（2）Azure Boards の概要と使い方   マイナビニュース](https://news.mynavi.jp/article/zeroazure-26/)
 - [タスク管理をスプレッドシートから Azure Boards にしたい人向けの話](https://kkamegawa.hatenablog.jp/entry/2020/10/03/133802)
 
+### Azure Pipelines
+
+- [これからはじめる Azure Pipelines - Visual Studio Users Community Japan - kkamegawa's weblog](https://kkamegawa.hatenablog.jp/entry/2020/07/04/174915)
+- [Azure Pipelines を使った CI/CD 環境の構築～ Web Apps 編～](https://cloudsteady.jp/post/16551/)
+- [(前編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/future_stride/entry/techblog/202001127_1/)
+- [(前編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/blog/cloud-technology/articles/202012/azure-pipelines-1/)
+- [Azure Pipelines の使い方 (Hello World)](https://maku.blog/p/vxoctbs/)
+- [【丁寧解説】Azure DevOps Pipelines を使い、ASP.NET Core アプリを Azure WebApps にデプロイする](https://www.sigmact.com/updated/azure/devops/azuredevops/)
+- [【Maven】Azure DevOps の Pipelines を使ってみた](https://tech-lab.sios.jp/archives/26237)
+
 ## Azure DNS
 
 - [Azure 仮想ネットワーク内のリソースの名前解決](https://docs.microsoft.com/ja-jp/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
@@ -200,8 +251,20 @@
 
 - [IP アドレス 168.63.129.16 とは](https://docs.microsoft.com/ja-jp/azure/virtual-network/what-is-ip-address-168-63-129-16)
 
+## Azure Front Door
+
+- [2021年は Azure Front Door を使いたおしたい人のために、おさえておきたい4つの機能](https://qiita.com/hoisjp/items/29b6c9ed7528ab09fb2f)
+
 ## Azure Functions
 
+- [How can I use NuGet packages in my Azure Functions?](https://stackoverflow.com/questions/36411536/how-can-i-use-nuget-packages-in-my-azure-functions)
+- [Azure Functions バインド拡張機能を登録する](https://github.com/MicrosoftDocs/azure-docs.ja-jp/blob/master/articles/azure-functions/functions-bindings-register.md)
+- [Azure Functions - C# で Nuget パッケージを利用してみた](https://tech.guitarrapc.com/entry/2016/04/05/043723)
+- [Azure Functions (Node.JS) からの http リクエスト (GET|POST) で async/await を適用する](https://qiita.com/annie/items/538e4410ac16fe75e745)
+- [AZURE Function AppでSendGridを使ってメール送信する](https://qiita.com/sunack/items/98a4ed71eea88ee5e119)
+- [Azure Function からSendGridバインドを使ってメールを送る](https://qiita.com/sato_ryu/items/30267d709d42b1d69aa4)
+- [Azure Functionsで環境変数を設定する方法【サーバーとローカルで必要】](https://playfab-master.com/azure-environment-variable)
+- [Azure Functionsで環境変数を使ってみる](https://www.magata.net/memo/index.php?Azure%20Functions%A4%C7%B4%C4%B6%AD%CA%D1%BF%F4%A4%F2%BB%C8%A4%C3%A4%C6%A4%DF%A4%EB)
 - [Azure FunctionsのSwaggerドキュメントをラクラク作成！OpenAPI Extension！](https://tech-lab.sios.jp/archives/32091)
 - [Functions を使ったイベント駆動アプリ](https://news.mynavi.jp/techplus/article/zeroazure-8/)
 - [今 Serverless が面白いわけ](https://www.slideshare.net/yokawasa/serverless-151261322)
@@ -255,13 +318,37 @@
 - [Azure Key Vault のマネージド ストレージ アカウント - PowerShell バージョン Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/key-vault/secrets/overview-storage-keys-powershell)
 - [Azure App Service で Azure Key Vault がめちゃ簡単に使えるようになりました（プレビュー）](https://blog.okazuki.jp/entry/2018/12/13/122834)
 - [「Azure Key Vault」との連携で実現：Azure SQL Database／SQL Data Warehouse の透過的データ暗号化機能（TDE）で「Bring Your Own Key」をサポート - ＠IT](http://www.atmarkit.co.jp/ait/spv/1708/31/news064.html)
+- [Azure Key Vault の認証](https://learn.microsoft.com/ja-jp/azure/key-vault/general/authentication)
+- [Azure Key Vault のシークレットについて](https://learn.microsoft.com/ja-jp/azure/key-vault/secrets/about-secrets)
+- [Key Vault でのシークレットの管理に関するベスト プラクティス](https://learn.microsoft.com/ja-jp/azure/key-vault/secrets/secrets-best-practices)
+- [ASP.NET Core アプリケーションで Azure Key Vault の使い方を改めて考えてみた](https://gooner.hateblo.jp/entry/2021/09/14/085641)
+- [Azure Key Vaultに格納されているシークレットをASP.NET Coreアプリの構成値に設定する](https://tech-lab.sios.jp/archives/33304)
+- [Web Apps開発にAzure Key Vaultを活用してみる](https://blog.jbs.co.jp/entry/2022/12/20/100025)
+- [.NET で秘密文字を安全に運用する（Azure Key Vault 編）](https://qiita.com/tnishiki/items/f51959c94412c43e7fa5)
+- [Key Vault アクセス ポリシーを割り当てる](https://learn.microsoft.com/ja-jp/azure/key-vault/general/assign-access-policy?tabs=azure-portal)
+- [クイック スタート:PowerShell を使用してキー コンテナーを作成する](https://learn.microsoft.com/ja-jp/azure/key-vault/general/quick-create-powershell)
+- [クイック スタート:PowerShell を使用して Azure Key Vault との間でシークレットの設定と取得を行う](https://learn.microsoft.com/ja-jp/azure/key-vault/secrets/quick-create-powershell)
+- [クイックスタート: .NET 用 Azure Key Vault シークレット クライアント ライブラリ](https://learn.microsoft.com/ja-jp/azure/key-vault/secrets/quick-create-net?tabs=azure-cli)
 
-## Microsoft Operations Management Suite
+### マネージド ID
 
-- [クラウド時代には、なぜ「ログ分析」が重要になるのか――高度なログ分析機能を、すぐに、簡単に使える Microsoft Operations Management Suite](https://atmarkit.itmedia.co.jp/ait/articles/1611/07/news010.html)
-- [安全で管理の行き届いたクラウド](https://azure.microsoft.com/ja-jp/services/virtual-machines/secure-well-managed-iaas/#overview)
-- [Azure Monitor](https://azure.microsoft.com/ja-jp/services/monitor/#overview)
-- [【Microsoft Azure】Azure Monitor でできることを理解する](https://www.simpletraveler.jp/2020/11/14/microsoftazure-understanding-azuremonitor/)
+- [マネージド ID を使用して他のサービスにアクセスできる Azure サービス](https://learn.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
+- [Azure リソースのマネージド ID を使ったセキュアなパスワード管理](https://www.softbanktech.co.jp/special/blog/cloud_blog/2019/0006/)
+- [Azure PowerShell を使用して資格情報でのサービス プリンシパルを作成する](https://learn.microsoft.com/ja-jp/azure/active-directory/develop/howto-authenticate-service-principal-powershell)
+
+``` powershell
+$cert = New-SelfSignedCertificate -CertStoreLocation "cert:\CurrentUser\My" `
+  -Subject "CN=exampleappScriptCert" `
+  -KeySpec KeyExchange
+$keyValue = [System.Convert]::ToBase64String($cert.GetRawCertData())
+
+$sp = New-AzADServicePrincipal -DisplayName exampleapp `
+  -CertValue $keyValue `
+  -EndDate $cert.NotAfter `
+  -StartDate $cert.NotBefore
+Sleep 20
+New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
+```
 
 ## Azure Load Test
 
@@ -274,9 +361,38 @@
 - [Azure Logic Apps (Preview) を Visual Studio Code で作成するための手順](https://mofumofupower.hatenablog.com/entry/2020/09/23/222908)
 - [メールで届く添付ファイルの暗号化を自動解除する Logic Apps を作ろう (1/3)](https://ascii.jp/elem/000/004/029/4029136/)
 
+## Azure Open AI
+
+- [Azure OpenAI Service を検証目的で使い始めるまでにやったことまとめ](https://dev.classmethod.jp/articles/usage-rules-for-azure-openai-service/)
+- [「プロンプトエンジニアリング」の“教科書”、日本語版が登場　無償でAIの上手な使い方を解説](https://www.itmedia.co.jp/news/articles/2304/05/news175.html)
+- [【ChatGPT脱獄編】ChatGPTを悪用できる！？ プロンプトインジェクションとは【悪用厳禁記事】](https://saasis.jp/2023/03/13/%E3%80%90chatgpt%E8%84%B1%E7%8D%84%E7%B7%A8%E3%80%91chatgpt%E3%82%92%E6%82%AA%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%81%EF%BC%9F-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A4%E3%83%B3/)
+- [約1時間でAzure FunctionsとChatGPT APIを使った簡易のBotを作成してみた](https://zenn.dev/jtechjapan/articles/5eb5d879088c23)
+- [ChatGPT使い方総まとめ](https://qiita.com/sakasegawa/items/82069c97a1ee011c2d1e)
+- [【緊急企画】話題の ChatGPT 。Microsoft の担当者が登場！まだ序章！今話せること全部お話します！ビジネスで使える IT ネタをお届けする「ネタバース」 | 日本マイクロソフト](https://www.youtube.com/watch?v=wsQruf1KEJE)
+- [ChatGPT](https://twitter.com/shodaiiiiii/status/1618436068831031297)
+
+## Azure PowerShell
+
+- [ゼロからはじめる Azure(36) 新しいターミナルアプリ「Windows Terminal」から Azure を操作しよう マイナビニュース](https://news.mynavi.jp/article/zeroazure-36/)
+
+- [Azure Key Vault のマネージド ストレージ アカウント - PowerShell バージョン Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/key-vault/secrets/overview-storage-keys-powershell)
+- [クイック スタート:Azure Resource Graph エクスプローラーを使用して初めての Resource Graph クエリを実行する](https://docs.microsoft.com/ja-jp/azure/governance/resource-graph/first-query-portal)
+- [PowerShell Script: 使用されていない不要な Azure リソースを自動検知して削除する](https://docs.microsoft.com/ja-jp/archive/blogs/jpaztech/cleanup-unused-storage)
+- [Schedule and Run PowerShell Scripts for Azure VMs using Azure Automation](https://www.thomasmaurer.ch/2022/08/schedule-and-run-powershell-scripts-for-azure-vms-using-azure-automation/)
+
 ## Azure Private Link
 
 - [Azure Private Link を構成するにあたって注意点は？](https://cloudsteady.jp/post/37510/)
+
+## Azure RBAC
+
+- [Azure RBACでAzureリソースへのアクセス権を管理する](https://licensecounter.jp/engineer-voice/blog/articles/20200918_azure_rbac.html)
+- [ロールベース アクセス制御(RBAC) で役割分担](https://www.cloudou.net/azure/azure004/)
+- [【AZ-900】ロールベースのアクセス制御（RBAC）とは？権限管理の重要な仕組みを解説！](https://az-start.com/role-based-access-control-overview/)
+- [RBAC のスコープについて](https://jpazureid.github.io/blog/azure-active-directory/about-rbac/)
+- [Azure 組み込みロール](https://learn.microsoft.com/ja-jp/azure/role-based-access-control/built-in-roles)
+- [Azure CLI を使って Azure RBAC のロール定義を一覧で出力する](https://zenn.dev/ymasaoka/articles/output-list-azure-rbac-definitions-azure-cli)
+- [Azure ロールの定義を一覧表示する](https://learn.microsoft.com/ja-jp/azure/role-based-access-control/role-definitions-list)
 
 ## Azure Sentinel
 
@@ -288,16 +404,6 @@
 - [Azure Sentinel でログ収集・分析基盤を構築してみた ① ~Windows セキュリティイベントの収集~](https://cloud.nissho-ele.co.jp/blog/azure-sentinel/)
 - [Azure 使いだすときに Sentinel でやっておくべきこと](https://zenn.dev/tomot/articles/79aeae00252ba6)
 
-## Azure Pipelines
-
-- [これからはじめる Azure Pipelines - Visual Studio Users Community Japan - kkamegawa's weblog](https://kkamegawa.hatenablog.jp/entry/2020/07/04/174915)
-- [Azure Pipelines を使った CI/CD 環境の構築～ Web Apps 編～](https://cloudsteady.jp/post/16551/)
-- [(前編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/future_stride/entry/techblog/202001127_1/)
-- [(前編)CI/CD サービス「Azure Pipelines」入門 ～ Microsoft Azure DevOps 入門～](https://www.softbank.jp/biz/blog/cloud-technology/articles/202012/azure-pipelines-1/)
-- [Azure Pipelines の使い方 (Hello World)](https://maku.blog/p/vxoctbs/)
-- [【丁寧解説】Azure DevOps Pipelines を使い、ASP.NET Core アプリを Azure WebApps にデプロイする](https://www.sigmact.com/updated/azure/devops/azuredevops/)
-- [【Maven】Azure DevOps の Pipelines を使ってみた](https://tech-lab.sios.jp/archives/26237)
-
 ## Azure Stack HCI
 
 - [Azure Arc と Azure Stack HCI を統合する](https://learn.microsoft.com/ja-jp/training/modules/stack-hci-arc-integration/)
@@ -308,10 +414,11 @@
 - [Azure Stack HCI に含まれないもの、それはゲスト OS のライセンス](https://atmarkit.itmedia.co.jp/ait/articles/2110/13/news006.html)
 - [Azure Stack Hub Development Kit とは](https://blog.aimless.jp/archives/2018-12-04-what-is-asdk/)
 - [Azure Stack HCI 単一ノードクラスターの評価環境を作成して ESU の検証環境を作成する](https://blog.engineer-memo.com/2022/07/05/azure-stack-hci-%E5%8D%98%E4%B8%80%E3%83%8E%E3%83%BC%E3%83%89%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE%E8%A9%95%E4%BE%A1%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6-esu/)
-- [ Azure Stack HCI 評価ガイド - Part 1 「Azure Stack HCI の基礎と展開」 編](https://info.microsoft.com/JA-HCS-CNTNT-FY23-10Oct-12-Azure-Stack-HCI-Assessment-Guide-Part-1-Azure-Stack-HCI-Fundamentals-and-Deployment-SRGCM7946_LP01-Registration---Form-in-Body.html)
+- [Azure Stack HCI 評価ガイド - Part 1 「Azure Stack HCI の基礎と展開」 編](https://info.microsoft.com/JA-HCS-CNTNT-FY23-10Oct-12-Azure-Stack-HCI-Assessment-Guide-Part-1-Azure-Stack-HCI-Fundamentals-and-Deployment-SRGCM7946_LP01-Registration---Form-in-Body.html)
 
 ## Azure Static Web Apps
 
+- [Azure Static Web Apps のアプリケーション設定を構成する](https://learn.microsoft.com/ja-jp/azure/static-web-apps/application-settings)
 - [Azure Static Web Apps の機能をいろいろさわってみる](https://qiita.com/ussvgr/items/b5c827f9dc7ec145895f)
 - [クイック スタート: 静的 Web アプリを初めてビルドする](https://learn.microsoft.com/ja-jp/azure/static-web-apps/get-started-portal?pivots=azure-devops&tabs=vanilla-javascript)
 - [Azure Static Web Apps×Azure DevOpsでお手軽にプレビュー環境を構築する](https://tech-lab.sios.jp/archives/31286)
@@ -327,111 +434,11 @@
 - [Azure SQL Database の便利機能!!使わないと損ですよ!!ネスケラボ](https://blog.nextscape.net/archives/Date/2017/11/azuresqldatabase01)
 - [Azure SQLDabase にプライベートなネットワークからアクセスしてみよう](https://blog.nextscape.net/archives/Date/2018/02/serviceendpointsqldb)
 
-## Azure REST API
-- [Azure REST API を使ってみよう](https://jpazasms.github.io/blog/AzureSubscriptionManagement/20181113a/)
-
-## Azure Redis Cache
-
-- [Azure のキャッシュサービス「Azure Redis Cache」を使ってみよう](https://news.mynavi.jp/techplus/article/zeroazure-17/)
-
-## Azure VM
-
-- [仮想マシンでサーバごと管理する](https://news.mynavi.jp/techplus/article/zeroazure-6/)
-- [Azure Monitor エージェントによる Windows 仮想マシンの監視](https://cloudsteady.jp/post/50812/)
-- [チュートリアル - Azure PowerShell を使用して Windows VM を作成および管理する](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/tutorial-manage-vm)
-- [複数の NIC を持つ Windows 仮想マシンの作成と管理](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/multiple-nics#configure-guest-os-for-multiple-nics)
-
-> route print
-> Interface List  
-> 3...00 0d 3a 10 92 ce ......Microsoft Hyper-V Network Adapter #3  
-> 7...00 0d 3a 10 9b 2a ......Microsoft Hyper-V Network Adapter #4
->
-> route add -p 0.0.0.0 MASK 0.0.0.0 デフォルトゲートウェイ IP METRIC 5015 IF インターフェース No.
-
-## Azure vNET
-
-- [Azure SQLDabase にプライベートなネットワークからアクセスしてみよう](https://blog.nextscape.net/archives/Date/2018/02/serviceendpointsqldb)
-- [仮想ネットワークを使用して App Service から Azure Sql Database へのアクセスを保護する方法](https://www.it-swarm.dev/ja/azure/%E4%BB%AE%E6%83%B3%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6app-service%E3%81%8B%E3%82%89azure-sql-database%E3%81%B8%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%92%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/838275760/)
-- [aaS にプライベート接続を提供する サービスエンドポイント とは？](https://www.cloudou.net/virtual-network/vnet017/)
-- [VNet Integration を利用して Web apps と Azure Database を接続してみる - ピロローグ](https://pir0.hatenablog.com/entry/2019/01/28/154423)
-
-## SendGrid
-
-- [ブラウザでWeb APIをテストする方法](https://sendgrid.kke.co.jp/blog/?p=15000)
-- [ベアメールブログ](https://baremail.jp/blog/)
-- [SendGrid Web API【入門】](https://sendgrid.kke.co.jp/blog/?p=1156&fbclid=IwAR3z3XRAh8Mn1szX9cLAZobBLr7O7MD9yW0jI3jDhuRVitLIpGHbWmd1VoI)
-- [口コミからわかる SendGrid のメリット・デメリット](https://sendgrid.kke.co.jp/blog/?p=14191)
-- [より良い HTML メールの作り方](https://sendgrid.kke.co.jp/blog/?p=15742)
-- [Azure でメールを受信するには  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/ainaba-csa/how-to-receive-email-by-azure)
-- [Domain Authentication(SPF/DKIM 設定)の設定方法](https://sendgrid.kke.co.jp/docs/User_Manual_JP/Settings/Sender_authentication/How_to_set_up_domain_authentication.html)
-- [SendGrid で Gmail へ送信したメールに「sendgrid.me 経由」という表示をさせない設定](https://blog.shibayan.jp/entry/20150118/1421582136)
-- [SendGrid 新人成長記　第九回　メールサーバを立ててメール送信してみた  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=12347)
-- [SendGrid 電子メール サービスの使用方法 (.NET)  Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/sendgrid-dotnet-how-to-send-email)
-- [SendGrid でメール配送を始めるためのまとめ - Qiita](https://qiita.com/shiru/items/0dbc48df217ffe51b1f3)
-- [Webhook のデバッグに便利なツール「Beeceptor」の紹介  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=11260)
-- [Webhook のデバッグに便利なツール「Webhook.site」の紹介  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=11340)
-- [まず最初にすることシリーズ：メール送信までにするべきこと](https://sendgrid.kke.co.jp/blog/?p=10372)
-- [メールのテストをする方法](https://sendgrid.kke.co.jp/blog/?p=10535)
-- [メール運用がロストテクノロジーになっていく話 - Qiita](https://qiita.com/koichiro/items/d65ac1af03b9063f0592)
-- [メール送信チュートリアル【まとめ】](https://sendgrid.kke.co.jp/blog/?p=10832)
-- [携帯キャリアにメールを届けるための設定　～なりすまし規制編～](https://sendgrid.kke.co.jp/blog/?p=10875)
-- [送信ドメインを認証するための SPF レコードに詳しくなろう  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=3509)
-
-## WindowsVirtualDesktop
-
-- [今話題の Windows Virtual Desktop が大型アップデート！](https://licensecounter.jp/azure/blog/trend/windows-virtual-desktop-update.html)
-- [【Windows Virtual Desktop のディープな技術情報を解説】 #1 新しい管理ポータル](https://zine.qiita.com/topics/202010-wvd-1/)
-- [【Windows Virtual Desktop のディープな技術情報を解説】WVD におけるネットワークセキュリティ - Qiita Zine](https://zine.qiita.com/topics/202010-wvd-2/)
-- [IT リソース キット Windows Virtual Desktop の使用を開始する](https://clouddamcdnprodep.azureedge.net/gdc/gdcamLwLh/original)
-- [Windows Virtual Desktop Event](https://info.microsoft.com/ww-landing-windows-virtual-desktop.html)
-- [Windows Virtual Desktop 最短構築方法解説](https://www.gmo.jp/report/single/?art_id=261)
-
-## Cost
-
-- [CSP の Azure 明細を PowerShell で整形する 日々徒然](https://blog.o365mvp.com/2020/04/07/format-csp-reconcile-with-powershell/)
-
-## Azure Red Hat OpenShift
-
-- [Microsoft Azure Red Hat OpenShift (ARO) その１ - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/2021/06/30/Microsoft_Azure_Red_Hat_OpenShift_%28ARO%29_%E3%81%9D%E3%81%AE%EF%BC%91)
-
-## Azure Database Migration Service
-
-- [チュートリアル: DMS を使用して SQL Server を Azure SQL Database に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-to-azure-sql)
-- [チュートリアル:DMS を使用してオフラインで SQL Server を Azure SQL Managed Instance に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-to-managed-instance)
-- [チュートリアル:DMS を使用してオンラインで SQL Server を Azure SQL Managed Instance に移行する](https://docs.microsoft.com/ja-jp/azure/dms/tutorial-sql-server-managed-instance-online)
-- [クイック スタート:Azure Portal を使用して Azure Database Migration Service のインスタンスを作成する](https://docs.microsoft.com/ja-jp/azure/dms/quickstart-create-data-migration-service-portal)
-- [リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルをポータルで作成する](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-create-service-principal-portal)
-- [SQL Server から Azure SQL Managed Instance へオンライン移行するためのカスタム ロール](https://docs.microsoft.com/ja-jp/azure/dms/resource-custom-roles-sql-db-managed-instance)
-- [Azure Database Migration Service を使用するための前提条件の概要](https://docs.microsoft.com/ja-jp/azure/dms/pre-reqs)
-
-  > 仮想ネットワークのネットワーク セキュリティ グループ (NSG) の規則によって、
-  > ServiceBus、Storage、AzureMonitor の ServiceTag の送信ポート 443 がブロックされていないことを確認します
-  > Storage Account のファイヤウォール設定、DMS と SQL MI のセグメントを追加する
-
-- [Azure Database Migration Service を使用して Azure SQL Managed Instance を移行するためのネットワーク トポロジ](https://docs.microsoft.com/ja-jp/azure/dms/resource-network-topologies)
-- [Azure Database Migration Service によってサポートされる移行シナリオの状態](https://docs.microsoft.com/ja-jp/azure/dms/resource-scenario-status)
-- [もう多分怖くないサービスプリンシパル](https://tech-lab.sios.jp/archives/23371)
-
-## Migration
-
-- [What is Azure Resource Mover?](https://docs.microsoft.com/en-us/azure/resource-mover/overview)
-- [徹底解説！できる Azure Migrate](https://info.microsoft.com/JA-AzureMig-CNTNT-FY20-03Mar-18-Thoroughcommentary-SRGCM3343_01Registration-ForminBody.html)
-
-## Azure PowerShell
-
-- [ゼロからはじめる Azure(36) 新しいターミナルアプリ「Windows Terminal」から Azure を操作しよう マイナビニュース](https://news.mynavi.jp/article/zeroazure-36/)
-
-- [Azure Key Vault のマネージド ストレージ アカウント - PowerShell バージョン Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/key-vault/secrets/overview-storage-keys-powershell)
-- [クイック スタート:Azure Resource Graph エクスプローラーを使用して初めての Resource Graph クエリを実行する](https://docs.microsoft.com/ja-jp/azure/governance/resource-graph/first-query-portal)
-- [PowerShell Script: 使用されていない不要な Azure リソースを自動検知して削除する](https://docs.microsoft.com/ja-jp/archive/blogs/jpaztech/cleanup-unused-storage)
-- [Schedule and Run PowerShell Scripts for Azure VMs using Azure Automation](https://www.thomasmaurer.ch/2022/08/schedule-and-run-powershell-scripts-for-azure-vms-using-azure-automation/)
-
 ## SQL Managed Instance
 
 - [Azure SQL Managed Instance の接続の種類](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connection-types-overview)
 
   > リダイレクト (推奨): クライアントは、データベースをホストしているノードへの直接接続を確立します。 リダイレクトを使用して接続を有効にするには、ファイアウォールとネットワーク セキュリティ グループ (NSG) を開き、ポート 1433 と 11000 から 11999 でのアクセスを許可する必要があります。
-
   > プロキシ (既定値): このモードでは、すべての接続でプロキシ ゲートウェイ コンポーネントが使用されます。 接続を有効にするには、プライベート ネットワーク用のポート 1433、およびパブリック接続用のポート 3342 のみを開く必要があります。
 
 - [メンテナンス期間に関する FAQ](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/maintenance-window-faq?view=azuresql)
@@ -439,7 +446,6 @@
 - [メンテナンス期間](https://docs.microsoft.com/ja-jp/azure/azure-sql/database/maintenance-window?view=azuresql)
 
   > メンテナンス期間の構成および変更を行うと、サブネットの IP アドレス範囲内で、インスタンスの IP アドレスが変更されます。
-
   > Azure Resource Graph Explorer を使用して、メンテナンス イベントのクエリを実行できます。 これらのクエリを実行する方法の概要については、「クイック スタート: Azure Resource Graph Explorer を使用して最初の Resource Graph クエリを実行する」を参照してください。
 
 - [Azure SQL Managed Instance の管理操作の概要](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/management-operations-overview?view=azuresql)
@@ -480,3 +486,81 @@
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［前編］](https://atmarkit.itmedia.co.jp/ait/articles/1904/01/news010.html)
 - [Azure で利用可能な PaaS の SQL Server の特徴を学ぼう［後編］――Azure SQL Database と Azure SQL Database Managed Instance の違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
 - [【失敗と対策】Azure SQL Managed Instance を ExpressRoute 経由で使用する際の注意](https://note.com/avakansai/n/nd4e6632710f6)
+
+## Azure REST API
+
+- [Azure REST API を使ってみよう](https://jpazasms.github.io/blog/AzureSubscriptionManagement/20181113a/)
+
+## Azure Redis Cache
+
+- [Azure のキャッシュサービス「Azure Redis Cache」を使ってみよう](https://news.mynavi.jp/techplus/article/zeroazure-17/)
+
+## Azure Red Hat OpenShift
+
+- [Microsoft Azure Red Hat OpenShift (ARO) その１ - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/2021/06/30/Microsoft_Azure_Red_Hat_OpenShift_%28ARO%29_%E3%81%9D%E3%81%AE%EF%BC%91)
+
+## Azure Virtual Desktop
+
+- [今話題の Windows Virtual Desktop が大型アップデート！](https://licensecounter.jp/azure/blog/trend/windows-virtual-desktop-update.html)
+- [【Windows Virtual Desktop のディープな技術情報を解説】 #1 新しい管理ポータル](https://zine.qiita.com/topics/202010-wvd-1/)
+- [【Windows Virtual Desktop のディープな技術情報を解説】WVD におけるネットワークセキュリティ - Qiita Zine](https://zine.qiita.com/topics/202010-wvd-2/)
+- [IT リソース キット Windows Virtual Desktop の使用を開始する](https://clouddamcdnprodep.azureedge.net/gdc/gdcamLwLh/original)
+- [Windows Virtual Desktop Event](https://info.microsoft.com/ww-landing-windows-virtual-desktop.html)
+- [Windows Virtual Desktop 最短構築方法解説](https://www.gmo.jp/report/single/?art_id=261)
+
+## Azure VM
+
+- [仮想マシンでサーバごと管理する](https://news.mynavi.jp/techplus/article/zeroazure-6/)
+- [Azure Monitor エージェントによる Windows 仮想マシンの監視](https://cloudsteady.jp/post/50812/)
+- [チュートリアル - Azure PowerShell を使用して Windows VM を作成および管理する](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/tutorial-manage-vm)
+- [複数の NIC を持つ Windows 仮想マシンの作成と管理](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/multiple-nics#configure-guest-os-for-multiple-nics)
+
+> route print
+> Interface List  
+> 3...00 0d 3a 10 92 ce ......Microsoft Hyper-V Network Adapter #3  
+> 7...00 0d 3a 10 9b 2a ......Microsoft Hyper-V Network Adapter #4
+>
+> route add -p 0.0.0.0 MASK 0.0.0.0 デフォルトゲートウェイ IP METRIC 5015 IF インターフェース No.
+
+## Azure vNET
+
+- [Azure SQLDabase にプライベートなネットワークからアクセスしてみよう](https://blog.nextscape.net/archives/Date/2018/02/serviceendpointsqldb)
+- [仮想ネットワークを使用して App Service から Azure Sql Database へのアクセスを保護する方法](https://www.it-swarm.dev/ja/azure/%E4%BB%AE%E6%83%B3%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6app-service%E3%81%8B%E3%82%89azure-sql-database%E3%81%B8%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%92%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/838275760/)
+- [aaS にプライベート接続を提供する サービスエンドポイント とは？](https://www.cloudou.net/virtual-network/vnet017/)
+- [VNet Integration を利用して Web apps と Azure Database を接続してみる - ピロローグ](https://pir0.hatenablog.com/entry/2019/01/28/154423)
+
+## SendGrid
+
+- [JavaScript/Node.jsからSendGridを使ってメールを送信する方法](https://sendgrid.kke.co.jp/blog/?p=12390)
+- [IPウォームアップのよくある質問集](https://sendgrid.kke.co.jp/blog/?p=15531)
+- [ブラウザでWeb APIをテストする方法](https://sendgrid.kke.co.jp/blog/?p=15000)
+- [ベアメールブログ](https://baremail.jp/blog/)
+- [SendGrid Web API【入門】](https://sendgrid.kke.co.jp/blog/?p=1156&fbclid=IwAR3z3XRAh8Mn1szX9cLAZobBLr7O7MD9yW0jI3jDhuRVitLIpGHbWmd1VoI)
+- [口コミからわかる SendGrid のメリット・デメリット](https://sendgrid.kke.co.jp/blog/?p=14191)
+- [より良い HTML メールの作り方](https://sendgrid.kke.co.jp/blog/?p=15742)
+- [Azure でメールを受信するには  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/ainaba-csa/how-to-receive-email-by-azure)
+- [Domain Authentication(SPF/DKIM 設定)の設定方法](https://sendgrid.kke.co.jp/docs/User_Manual_JP/Settings/Sender_authentication/How_to_set_up_domain_authentication.html)
+- [SendGrid で Gmail へ送信したメールに「sendgrid.me 経由」という表示をさせない設定](https://blog.shibayan.jp/entry/20150118/1421582136)
+- [SendGrid 新人成長記　第九回　メールサーバを立ててメール送信してみた  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=12347)
+- [SendGrid 電子メール サービスの使用方法 (.NET)  Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/sendgrid-dotnet-how-to-send-email)
+- [SendGrid でメール配送を始めるためのまとめ - Qiita](https://qiita.com/shiru/items/0dbc48df217ffe51b1f3)
+- [Webhook のデバッグに便利なツール「Beeceptor」の紹介  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=11260)
+- [Webhook のデバッグに便利なツール「Webhook.site」の紹介  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=11340)
+- [まず最初にすることシリーズ：メール送信までにするべきこと](https://sendgrid.kke.co.jp/blog/?p=10372)
+- [メールのテストをする方法](https://sendgrid.kke.co.jp/blog/?p=10535)
+- [メール運用がロストテクノロジーになっていく話 - Qiita](https://qiita.com/koichiro/items/d65ac1af03b9063f0592)
+- [メール送信チュートリアル【まとめ】](https://sendgrid.kke.co.jp/blog/?p=10832)
+- [携帯キャリアにメールを届けるための設定　～なりすまし規制編～](https://sendgrid.kke.co.jp/blog/?p=10875)
+- [送信ドメインを認証するための SPF レコードに詳しくなろう  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=3509)
+
+## Migration
+
+- [What is Azure Resource Mover?](https://docs.microsoft.com/en-us/azure/resource-mover/overview)
+- [徹底解説！できる Azure Migrate](https://info.microsoft.com/JA-AzureMig-CNTNT-FY20-03Mar-18-Thoroughcommentary-SRGCM3343_01Registration-ForminBody.html)
+
+## Microsoft Operations Management Suite
+
+- [クラウド時代には、なぜ「ログ分析」が重要になるのか――高度なログ分析機能を、すぐに、簡単に使える Microsoft Operations Management Suite](https://atmarkit.itmedia.co.jp/ait/articles/1611/07/news010.html)
+- [安全で管理の行き届いたクラウド](https://azure.microsoft.com/ja-jp/services/virtual-machines/secure-well-managed-iaas/#overview)
+- [Azure Monitor](https://azure.microsoft.com/ja-jp/services/monitor/#overview)
+- [【Microsoft Azure】Azure Monitor でできることを理解する](https://www.simpletraveler.jp/2020/11/14/microsoftazure-understanding-azuremonitor/)

@@ -10,6 +10,7 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
 - [web](https://keizom.github.io/web.html)
+- [mac](https://keizom.github.io/mac.html)
 
 # Develop
 
@@ -51,7 +52,7 @@
 - [.NET Core での自己完結型アプリのデプロイにおけるランタイムのロール フォワード - .NET Core Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/deploying/runtime-patch-selection)
 - [.NET Core で使用できない .NET Framework テクノロジ Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/porting/net-framework-tech-unavailable)
 - [C# で Single Page Web Application が書ける Blazor が凄かった件 - Qiita](https://qiita.com/jsakamoto/items/20d4893f6c8cdb0356f6)
-- [【連載】PowerShell Core 入門 - 基本コマンドの使い方 \* [2] PowerShell Core のインストールサーバ/ストレージ IT 製品の事例・解説記事](https://news.mynavi.jp/itsearch/article/hardware/3628)
+- [【連載】PowerShell Core 入門 - 基本コマンドの使い方 2 PowerShell Core のインストールサーバ/ストレージ IT 製品の事例・解説記事](https://news.mynavi.jp/itsearch/article/hardware/3628)
 - [PowerMap サンプル](https://onedrive.live.com/?id=A9FD866E9122F8EA%21107&cid=A9FD866E9122F8EA)
 - [C#で東京メトロオープンデータ API を使って遅延時間(遅延情報)を取得する](https://blog.ch3cooh.jp/entry/20140922/1411349400)
 - [【特集】LINE ログイン～読めばわかる！ 導入方法、活用事例からメリットまで](https://blog.feedmatic.net/linelogin/)
@@ -202,6 +203,7 @@
 
 ## VisualStudio
 
+- [Visual StudioのCode Analyzerを導入してコードをチェックしよう](https://tech-lab.sios.jp/archives/33704)
 - [Visual Studio 2019 の新機能 Microsoft Docs](https://docs.microsoft.com/ja-jp/visualstudio/ide/whats-new-visual-studio-2019?view=vs-2019)
 - [Microsoft、「Visual Studio Container Tools」拡張機能をプレビュー公開 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1185382.html)
 - [Visual Studio 2019 で使っている拡張機能 - tech.guitarrapc.com](https://tech.guitarrapc.com/entry/2019/03/18/010348)
@@ -213,6 +215,7 @@
 - [【Visual Studio】オススメの拡張機能 その 1（35 個）](https://baba-s.hatenablog.com/entry/2016/06/29/100000)
 - [【Visual Studio】オススメの拡張機能 その 2（16 個） - コガネブログ](https://baba-s.hatenablog.com/entry/2017/10/03/100000)
 - [GitHub - CenterCLR/ozcodejapantour: OzCode japan tour materials.](https://github.com/CenterCLR/ozcodejapantour)
+- [WSL2、Visual Studio Code、DockerでグッとよくなるWindows開発環境](https://www.youtube.com/watch?v=aL5MlZUvZ4g)
 
 ## GitHubCodespaces
 
@@ -223,6 +226,8 @@
 - [TypeScriptを効率的に独習しよう！ 無料で学べる「TypeScript Deep Dive」日本語版の翻訳者が学習法を解説](https://codezine.jp/article/detail/15148)
 
 ## git
+
+- [初学者の私がGitを理解するために、この順番で読めばよかったと思った記事の順番](https://qiita.com/muranakar/items/e3e8e8187d32120c7fdf)
 - [Git を使用したコード](https://learn.microsoft.com/ja-jp/azure/devops/user-guide/code-with-git?view=azure-devops)
 - [Git によるチーム開発のいろはを基礎から学ぼう！](https://codezine.jp/article/detail/16910)
 - [Developers Festa Sapporo 2020 Microsoft/GitHub が提供する Developer Cloud (Developer Cloud from Microsoft/GitHub)](https://satonaoki.wordpress.com/2020/12/05/devfesta-microsoft-github/)
