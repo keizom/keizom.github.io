@@ -19,6 +19,7 @@
 
 ## 認証関係
 
+- [一番分かりやすい OAuth の説明](https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be)
 - [Azure AD 認証を使って Azure REST API へアクセスする ~Service Bus 編~](https://tech-lab.sios.jp/archives/31473)
 - [Microsoft Graph PowerShell でユーザー作成（MSOnline との比較）](https://tech-lab.sios.jp/archives/29212)
 - [Azure AD アプリ専用を使用してアクセスを許可する](https://learn.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/security-apponly-azuread)
