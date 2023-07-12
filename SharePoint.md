@@ -139,6 +139,10 @@
 - [SharePoint Online の HTTP 調整 (応答コード 429, 503) に関して](https://social.msdn.microsoft.com/Forums/ja-JP/8e5a4116-c96a-4d3e-9bbf-6efb852b5d88/sharepoint-online-12398-http-3551925972-2454031572124671254012489-429-503?forum=sharepointsupportteamja)
 - [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
 - [SharePoint Online 管理シェルは SharePoint Online Client Components SDK がインストールされた端末で使用できません](https://jpspsupport.github.io/blog/sharepoint-online/managementshell-clientcomponentsSDK/)
+- [Connect-SPOService is not working!](https://learn.microsoft.com.mcas.ms/en-us/answers/questions/1121833/connect-sposervice-is-not-working)
+> 1. Navigate to “C:\Windows\Microsoft.NET\assembly\GAC_MSIL”
+> 2. Select all folders starting with the name “Microsoft.SharePoint.Client” and delete them all.
+> 3. Finally, Install the PowerShell Module for SharePoint Online: Install-Module Microsoft.Online.SharePoint.PowerShell -force
 - [SharePoint Online で調整またはブロックを回避する Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 - [Create Update Delete Or Retrieve SharePoint Site Collections Using CSOM PowerShell](https://www.c-sharpcorner.com/article/create-update-delete-or-retrieve-sharepoint-site-collectio/)
 - [SharePoint Online: Change List or Library URL using PowerShell](https://www.sharepointdiary.com/2017/09/sharepoint-online-change-list-document-library-url-using-powershell.html)
