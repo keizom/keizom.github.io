@@ -43,6 +43,10 @@
 >
 > $host.EnterNestedPrompt()
 
+## WSH
+
+- [第18回　FileSystemObjectオブジェクトを利用する](https://atmarkit.itmedia.co.jp/ait/articles/0906/03/news120_2.html)
+
 ## csharp
 
 - [コマンドラインでC#プログラミング](https://qiita.com/shuhey/items/b4211f196259156df8f4)
@@ -208,7 +212,7 @@
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
-## Visual Studio
+## VisualStudio
 
 - [Sticky Scroll: Stay in the Right Context](https://devblogs.microsoft.com/visualstudio/sticky-scroll-stay-in-the-right-context/)
 - [Visual StudioのCode Analyzerを導入してコードをチェックしよう](https://tech-lab.sios.jp/archives/33704)
