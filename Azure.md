@@ -25,6 +25,7 @@
 - [Azure の NoSQL データベース「Cosmos DB」を使ってみよう](https://news.mynavi.jp/techplus/article/zeroazure-15/)
 - [テーブルストレージを用いた Web アプリケーション](https://news.mynavi.jp/techplus/article/zeroazure-3/)
 - [AWS サービスと Azure サービスの比較](https://learn.microsoft.com/ja-jp/azure/architecture/aws-professional/services)
+- [Strava APIを活用したアプリ開発 ~お試し編~](https://tech-lab.sios.jp/archives/32788)
 
 ## メンテナンス
 
@@ -33,6 +34,7 @@
 
 ## Azure AD
 
+- [Arure AD管理者必見　悩みの種になりがちな「ゲストユーザー」を管理する4つの方法](https://kn.itmedia.co.jp/kn/articles/2307/12/news023.html)
 - [フェデレーション認証から Azure AD 認証への移行事例のご紹介](https://www.softbanktech.co.jp/special/blog/cloud_blog/2022/0087/)
 - [Azure Active Directory で証明書ベースの認証を行ってみた](https://www.cybertrust.co.jp/blog/certificate-authority/client-authentication/azure-ad-certificate.html)
 - [2022 年 6 月末から「セキュリティの既定値群」の有効化が促されます (対象 : 一部のテナント)](https://jpazureid.github.io/blog/azure-active-directory/security-default-2022/)
@@ -283,9 +285,6 @@
 - [Azure Functions から定期的に Microsoft Graph にアクセスする](https://docs.microsoft.com/ja-jp/archive/blogs/junichia/azure-functions-%E3%81%8B%E3%82%89%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AB-microsoft-graph-%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%99%E3%82%8B)
 - [Azure Functions における Azure Blob Storage の出力バインド](https://docs.microsoft.com/ja-jp/azure/azure-functions/functions-bindings-storage-blob-output?tabs=csharp)
 - [Azure Functions のお勉強メモ（7）Blob Storage 出力バインドを使って Blob にファイルを出力する その 2](https://miyohide.hatenablog.com/entry/2021/04/25/174107)
-
-## Azure Infomation Protection
-
 - [はじめての データの保護: Azure Information Protection 日本マイクロソフト](https://youtu.be/roQs7PBjXIk)
 - [AIP 試してみた](https://www.qes.co.jp/media/azure/a155)
 - [Final reminder to migrate from Azure Information Protection classic client to unified labeling](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/final-reminder-to-migrate-from-azure-information-protection/ba-p/2731734)
@@ -311,6 +310,8 @@
 
 ## Azure Key Vault
 
+- [クイックスタート: .NET 用 Azure Key Vault シークレット クライアント ライブラリ](https://learn.microsoft.com/ja-jp/azure/key-vault/secrets/quick-create-net?tabs=azure-powershell)
+- [2 セットの認証資格情報があるリソースを対象にシークレットのローテーションを自動化する](https://learn.microsoft.com/ja-jp/azure/key-vault/secrets/tutorial-rotation-dual?tabs=azure-cli)
 - [Azure Key Vault を作成する](https://qiita.com/kk-ishii/items/0176b1f02e77bd4fd948)
 - [Azure KeyVault Set and Retrieve Secrets using Powershell](https://dotnet-helpers.com/powershell/azure-keyvault-set-and-retrieve-secrets/?fbclid=IwAR2AAtvCSpJv3e2F8YsS9HWpC-OygYqo7oTp_YZP090iU5UJto5xRsKCDuk)
 - [「Azure Key Vault」を使ってセキュアなアプリを作ろう](https://news.mynavi.jp/techplus/article/zeroazure-23/)
@@ -363,6 +364,14 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [セキュリティが高いChatGPT?! Azure OpenAIを利用したチャット](https://tech-lab.sios.jp/archives/34045)
+- [独自ナレッジをノーコードでChatGPTに連携！Azure Open AI「Add your data」](https://zenn.dev/microsoft/articles/azure-openai-add-your-data)
+- [[ChatGPT Hack] 要件定義から設計・モデリング・プロトタイプ作成。そして Azure への Deploy までを。ChatGPT に作らせた](https://qiita.com/dahatake/items/54588139062b641cc96f)
+- [Azure OpenAI Samples Japan](https://github.com/Azure-Samples/jp-azureopenai-samples)
+- [クイック スタート: Azure OpenAI Service を使用してテキストの生成を開始する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quickstart?tabs=command-line&pivots=programming-language-csharp)
+- [Azure OpenAI GPT-4 利用開始までのお手続きについて](https://cptechweb.teldevice.co.jp/hc/ja/articles/17876365055257-Azure-OpenAI-GPT-4-%E5%88%A9%E7%94%A8%E9%96%8B%E5%A7%8B%E3%81%BE%E3%81%A7%E3%81%AE%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+- [Azure OpenAI サービスの事前申請について](https://cptechweb.teldevice.co.jp/hc/ja/articles/17880146288537-Azure-OpenAI-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BA%8B%E5%89%8D%E7%94%B3%E8%AB%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+- [Azure OpenAI Serviceを使ってみた〜申請・利用方法〜](https://www.softbank.jp/biz/blog/cloud-technology/articles/202305/azure-openai-setup/)
 - [Azure OpenAI Service を検証目的で使い始めるまでにやったことまとめ](https://dev.classmethod.jp/articles/usage-rules-for-azure-openai-service/)
 - [「プロンプトエンジニアリング」の“教科書”、日本語版が登場　無償でAIの上手な使い方を解説](https://www.itmedia.co.jp/news/articles/2304/05/news175.html)
 - [【ChatGPT脱獄編】ChatGPTを悪用できる！？ プロンプトインジェクションとは【悪用厳禁記事】](https://saasis.jp/2023/03/13/%E3%80%90chatgpt%E8%84%B1%E7%8D%84%E7%B7%A8%E3%80%91chatgpt%E3%82%92%E6%82%AA%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%81%EF%BC%9F-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A4%E3%83%B3/)
@@ -418,6 +427,11 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Static Web Apps
 
+- [無料でも使える新サービス「Azure Static Web Apps」はここまでできる](https://ascii.jp/elem/000/004/069/4069089/)
+- [Azure Static Web Apps のローカル実行方法まとめ ＃Azureリレー](https://tech-blog.cloud-config.jp/2021-11-23-azure-static-web-apps-local/)
+- [Vue.js で作るサイトを 無償の Azure Static Web Apps に CI/CD も含めて数分でホスティングする方法](https://qiita.com/miyake/items/de75b5034840e2687319)
+- [Azure Static Web Apps に API を発行する](https://learn.microsoft.com/ja-jp/training/modules/publish-static-web-app-api-preview-url/2-exercise-get-started?pivots=vue)
+- [VSCodeでのAzure Static Web Appsのプロジェクト作成手順とローカル開発手順](https://qiita.com/tsubakimoto_s/items/4939a6d6e647721309a3)
 - [Azure Static Web Apps のアプリケーション設定を構成する](https://learn.microsoft.com/ja-jp/azure/static-web-apps/application-settings)
 - [Azure Static Web Apps の機能をいろいろさわってみる](https://qiita.com/ussvgr/items/b5c827f9dc7ec145895f)
 - [クイック スタート: 静的 Web アプリを初めてビルドする](https://learn.microsoft.com/ja-jp/azure/static-web-apps/get-started-portal?pivots=azure-devops&tabs=vanilla-javascript)
@@ -510,6 +524,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure VM
 
+- [【Azure】Linux VMのSSHの公開鍵認証をデプロイ時に有効化する方法](https://atmarkit.itmedia.co.jp/ait/articles/2307/19/news022.html)
 - [仮想マシンでサーバごと管理する](https://news.mynavi.jp/techplus/article/zeroazure-6/)
 - [Azure Monitor エージェントによる Windows 仮想マシンの監視](https://cloudsteady.jp/post/50812/)
 - [チュートリアル - Azure PowerShell を使用して Windows VM を作成および管理する](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/tutorial-manage-vm)
@@ -564,3 +579,9 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [安全で管理の行き届いたクラウド](https://azure.microsoft.com/ja-jp/services/virtual-machines/secure-well-managed-iaas/#overview)
 - [Azure Monitor](https://azure.microsoft.com/ja-jp/services/monitor/#overview)
 - [【Microsoft Azure】Azure Monitor でできることを理解する](https://www.simpletraveler.jp/2020/11/14/microsoftazure-understanding-azuremonitor/)
+
+## Microsoft Fabric
+
+- [[速報] Microsoft Fabric の試用版を有効にする方法（2023/05/24 時点）](https://qiita.com/yugoes1021/items/9427f70fdab5a73e351a)
+- [Microsoftの新データ分析プラットフォーム「Fabric」　CopilotとOneLakeで直感的なUI](https://www.itmedia.co.jp/news/articles/2305/24/news086.html)
+- [OneLake File Explorer](https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer)

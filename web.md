@@ -41,6 +41,10 @@
 
 ## html
 
+- [デジタル庁のサイトやばすぎるwww](https://qiita.com/mu_tomoya/items/f78f1fad3a8b57ac7dc3)
+- [これはすごい！ HTMLの新機能、popover属性でポップオーバーがJavaScript無しで簡単に実装できるようになります](https://coliss.com/articles/build-websites/operation/css/about-popover-api.html)
+- [なぜエンジニアが作る画面はダサいのか…?「理由」と「対策」を徹底解説【エンジニア向け画面デザイン講座】](https://qiita.com/mskmiki/items/544149987475719e417b)
+- [便利なのが登場！ フロントエンドの開発に役立つ最新ツールがひとまとめに利用できる -HTML＆CSS Code Generator](https://coliss.com/articles/build-websites/operation/work/html-and-css-code-generator.html)
 - [便利なのが登場！ 最近見かけるさまざまなUI要素600種類以上をシンプルなHTMLとCSSで簡単に実装できる -UIverse](https://coliss.com/articles/build-websites/operation/work/open-source-ui-elements-uiverse.html)
 - [HTML5 UP](https://html5up.net/)
 - [2023年最新版: HTMLのheadの書き方、head内に記述する要素の総まとめ](https://coliss.com/articles/build-websites/operation/work/html-head-elements.html)
@@ -91,6 +95,7 @@
 
 ## css
 
+- [ここまでできる！CSS最新テクニックと書き方30選](https://photoshopvip.net/148200)
 - [最近のWeb制作に役立つ、CSSの便利ツール総まとめ](https://coliss.com/articles/build-websites/operation/work/useful-tools-for-web-developer.html)
 - [Web制作者がチェックしておきたい！ 2023年版、CSSフレームワークのまとめ](https://coliss.com/articles/build-websites/operation/css/awesome-css-frameworks.html)
 - [全部、完全に商用利用無料！ さまざまなデザインが揃ってる、ランディングページ用のHTMLテンプレート -HTMLrev](https://coliss.com/articles/build-websites/operation/work/free-landing-page-html-templates-by-htmlrev.html)
@@ -127,6 +132,7 @@
 
 ## JavaScript
 
+- [jQueryへの別れ：現代的な開発のための必須JavaScriptメソッド](https://qiita.com/figueiredoluiz/items/0e51c1aec790f053fd9c)
 - [【JavaScript】動画以外の要素でもピクチャーインピクチャーできるらしい！](https://qiita.com/degudegu2510/items/0406363d982fabf30c84)
 - [動かして学ぶ！ Rust の言語仕様](https://codezine.jp/article/detail/15083)
 - [個人で Web アプリを開発する時に便利な高機能 JavaScript ライブラリ 6 選！](https://paiza.hatenablog.com/entry/2018/12/26/%E5%80%8B%E4%BA%BA%E3%81%A7Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B%E6%99%82%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AA%E9%AB%98%E6%A9%9F%E8%83%BDJavaScript%E3%83%A9%E3%82%A4)

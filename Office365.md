@@ -39,6 +39,7 @@
 
 - [Microsoft Loop アプリ (public preview) - 勉強会の録画公開](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/04/microsoft-loop--6f48.html)
 - [AI搭載の多機能メモアプリ｢Microsoft Loop｣、Notionとはここがちがいます](https://www.gizmodo.jp/2023/04/loop-notion-comparison.html)
+- [Microsoft Loop ：パブリックプレビューを利用する設定方法](https://art-break.net/tech/?p=17773)
 
 ## Office 365 PowerShell
 
@@ -159,6 +160,8 @@
 
 ## Microsoft Graph
 
+- [ゲストユーザーの最終サインイン日時取得 – Graph PowerShell SDK 利用](https://www.illuminate-j.jp/blog/m365_27_msgraph_signinactivity)
+- [Graph PowerShell SDK を利用して Teams のチーム作成を制限する](https://www.illuminate-j.jp/blog/m365_26_msgraph_teamsmanage)
 - [Microsoft Graph を使ってみよう : サイト、リスト、リストアイテムリソース (SharePoint)](https://qiita.com/kenakamu/items/61ff83a2b381bc3e9cdb)
 - [Graph API で Azure AD B2C のコンシューマーユーザーを作成する (C#)](https://blog.beachside.dev/entry/2022/09/02/224500)
 - [Announcing “A Lap Around Microsoft Graph Toolkit” Blog Series - Microsoft 365 Developer Blog](https://developer.microsoft.com/en-us/graph/blogs/announcing-a-lap-around-microsoft-graph-toolkit-blog-series/)

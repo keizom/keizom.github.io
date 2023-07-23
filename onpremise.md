@@ -212,6 +212,17 @@
 - [DO’s&DONT’s #17: やっておいた方がいいこと - tempdb データファイル数を CPU 数に一致させる](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-17-tempdb-259)
 - [SQL Troubleshooting SQL Server トラブルシューティング 6 回シリーズのご案内](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/sql-troubleshooting-sql-server-6)
 
-## VMware
+# VMware
 
 - [おうちクラウド 第 3 回 "仮想化基盤を作ってみよう" サンプルコード・参考情報集](https://github.com/tuna-jp/ouchi-cloud/blob/main/vol3/README.md)
+- [ESXi on Intel NUC 13 Pro (Arena Canyon)](https://williamlam.com/2023/03/esxi-on-intel-nuc-13-pro-arena-canyon.html)
+- [ESXiをIntel NUC上に構築する](https://qiita.com/h_tyokinuhata/items/d9544bdd5f7223e60ac1)
+- [おうちクラウド2022](https://qiita.com/hirosat/items/e121ffd7d385e30ecc2d)
+- [vmware ESXi 8.0インストール時に、[CPU_SUPPORT ERROR]が発生して進めない](https://qiita.com/Higemal/items/94f4e2d62a4a45fdd082)
+> cpuUniformityHardCheckPanic=FALSE
+- [ESXi のハードウェア要件](https://docs.vmware.com/jp/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-DEB8086A-306B-4239-BF76-E354679202FC.html)
+- [ESXi on AMD版NUC 導入レポ](https://qiita.com/hirosat/items/c6e330212f01f766cc42)
+
+# MAC
+
+- [Mac を買ったら必ずやっておきたい初期設定](https://qiita.com/ucan-lab/items/c1a12c20c878d6fb1e21)

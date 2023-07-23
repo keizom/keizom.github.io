@@ -45,6 +45,7 @@
 
 ## csharp
 
+- [コマンドラインでC#プログラミング](https://qiita.com/shuhey/items/b4211f196259156df8f4)
 - [GitHub - microsoft/TailwindTraders](https://github.com/microsoft/TailwindTraders)
 - [Home - Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
 - [The .NET Portability Analyzer - .NET Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/portability-analyzer)
@@ -106,6 +107,8 @@
 
 ## Docker
 
+- [ローカルコンテナ開発を容易にするOSS「Podman Desktop 1.0」が公開](https://atmarkit.itmedia.co.jp/ait/articles/2306/01/news044.html)
+- [【図解】Dockerの全体像を理解する -後編-](https://qiita.com/etaroid/items/40106f13d47bfcbc2572)
 - [Windows 内の Docker 環境を入れ替えてみた（Docker Desktop → Rancher Desktop](https://dev.classmethod.jp/articles/migration-from-docker-desktop-to-rancher-desktop/)
 - [Windows マシンで Docker Desktop を使用せずに Docker CLI 実行環境を整備する方法](https://dev.classmethod.jp/articles/docker-cli-without-dockerdesktop-on-windows/)
 - [Docker Desktop を使わずに Docker を利用する](https://www.d3654.be/create-hyperv-machine-for-docker04)
@@ -133,8 +136,12 @@
 - [WSL2 をインストールして Windows で Ubuntu を使う方法](https://tombomemo.com/wsl2-install-settings/)
 - [Windows WSL2 WSL2 で Docker 開発環境を構築してみる - NicoNico Pun](https://blog.nicopun.com/post/2019-07-02-windows-wsl2/)
 
-## VisualStudioCode
+## VisualStudio Code
 
+- [【早い！安い！うまい！】VSCode+WSL+Dockerで簡単に開発環境構築](https://qiita.com/takoraisutaro/items/da90d5e4b6027e36bcbd)
+- [チーム開発でVSCodeの拡張機能やフォーマット設定などを統一したい時に便利な設定ファイルについて](https://dev.classmethod.jp/articles/vscode_settings_file_for_team_dev/)
+- [「Visual Studio Code」の状態をMarkdown/JSON形式でまとめてくれる拡張機能](https://forest.watch.impress.co.jp/docs/review/1517819.html)
+- [地味に便利 ～「Visual Studio Code」から「GitHub Desktop」を開ける拡張機能](https://forest.watch.impress.co.jp/docs/review/1193268.html)
 - [【Visual Studio Code 入門】インストールしたらまずはコレ！オススメのテーマ/フォントと拡張機能](https://tech-lab.sios.jp/archives/30760)
 - [VS Code エディタ入門](https://zenn.dev/karaage0703/books/80b6999d429abc8051bb)
 - [「Edge」の開発ツールを統合し「Visual Studio Code」で Web アプリの開発を完結 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1280989.html)
@@ -201,8 +208,9 @@
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
-## VisualStudio
+## Visual Studio
 
+- [Sticky Scroll: Stay in the Right Context](https://devblogs.microsoft.com/visualstudio/sticky-scroll-stay-in-the-right-context/)
 - [Visual StudioのCode Analyzerを導入してコードをチェックしよう](https://tech-lab.sios.jp/archives/33704)
 - [Visual Studio 2019 の新機能 Microsoft Docs](https://docs.microsoft.com/ja-jp/visualstudio/ide/whats-new-visual-studio-2019?view=vs-2019)
 - [Microsoft、「Visual Studio Container Tools」拡張機能をプレビュー公開 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1185382.html)
@@ -217,8 +225,9 @@
 - [GitHub - CenterCLR/ozcodejapantour: OzCode japan tour materials.](https://github.com/CenterCLR/ozcodejapantour)
 - [WSL2、Visual Studio Code、DockerでグッとよくなるWindows開発環境](https://www.youtube.com/watch?v=aL5MlZUvZ4g)
 
-## GitHubCodespaces
+## GitHub
 
+- [GitHub Copilot Chatを触ることでWindows Copilotの後の世界を体感できる](https://logmi.jp/tech/articles/328912)
 - [GitHub - Codespaces](https://github.co.jp/features/codespaces)
 
 ## TypeScript
@@ -247,6 +256,7 @@
 
 ## Python
 
+- [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
 - [Python 学習 (パイソン) 企業 IT](https://news.mynavi.jp/top/business/enterprise/python_engineer/)
 - [無料で読める、東大／京大の「Python 教科書」電子書籍：AI・機械学習の無料電子書籍 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2105/26/news025.html)
 - [オライリー「Think Python」第 2 版 ダウンロード](https://cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython2.pdf)

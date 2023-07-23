@@ -156,16 +156,14 @@
 
 ## PnP SharePoint
 
-- [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)
 - [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
 - [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)
 - [【SharePoint Online】モダン認証で指定のサイトに対してアクセス許可を設定する](https://www.hogehoge-note.com/2022/02/19/post-937/)
 - [Azure AD アプリ専用を使用してアクセスを許可する](https://learn.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/security-apponly-azuread)
 - [Tree view navigation using PnP Treeview control in the SharePoint Framework (SPFx) web part – RAVICHANDRAN BLOG](https://ravichandran.blog/2020/05/14/tree-view-navigation-using-pnp-treeview-control-in-the-sharepoint-framework-spfx-web-part/)
 - [コンソール アプリケーションのプロビジョニング サンプル](https://docs.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/provisioning-console-application-sample)
-- [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
 - [Updating a Script Editor web part's snippet contents via PowerShell & CSOM is failing](https://sharepoint.stackexchange.com/questions/298000/updating-a-script-editor-web-parts-snippet-contents-via-powershell-csom-is-fa/)
-- [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
+294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
 - [Updating a Script Editor web part's snippet contents via PowerShell & CSOM is failing](https://sharepoint.stackexchange.com/questions/298000/updating-a-script-editor-web-parts-snippet-contents-via-powershell-csom-is-fa/)
 
 ## SharePoint Tools
@@ -237,6 +235,7 @@
 
 ## SharePoint FrameWork
 
+- [SharePoint Framework 1 つの PC で複数バージョンの開発環境を利用する](https://www.illuminate-j.jp/blog/spfx04_devenv)
 - [MsGraphSpFxThangu](https://www.youtube.com/watch?v=AKftsTLQBGo)
 - [SharePoint Framework (SPFx) 開発で分かった私的ベストプラクティスまとめ](https://www.micknabewata.com/entry/spfx-best-practice)
 - [拡張機能を SharePoint に展開する (Hello world パート 3)](https://learn.microsoft.com/ja-jp/sharepoint/dev/spfx/extensions/get-started/serving-your-extension-from-sharepoint)
@@ -267,6 +266,7 @@
 
 ## Graph
 
+- [Graph API では SharePoint リストのハイパーリンク列が操作できない件](https://zenn.dev/ymasaoka/articles/graphapi-connot-manipulate-splist-hyperlink-col)
 - [Streamline your SharePoint experience with the new Microsoft Graph SharePoint Admin API](https://devblogs.microsoft.com/microsoft365dev/streamline-your-sharepoint-experience-with-the-new-microsoft-graph-sharepoint-admin-api/)
 
 ## Fiddler

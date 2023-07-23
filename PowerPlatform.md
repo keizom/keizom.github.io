@@ -38,6 +38,7 @@
 
 ## Dynamics 365
 
+- [Dynamics 365 and Microsoft Power Platform Release planner](https://releaseplans.microsoft.com/en-us/?app=Customer+Service)
 - [【Dynamics 365】【8.2 新機能】サーバ間（S2S）認証を試してみた](https://kageura.hatenadiary.jp/entry/2017/04/06/%E3%80%90Dynamics_365%E3%80%91%E3%80%908_2%E6%96%B0%E6%A9%9F%E8%83%BD%E3%80%91%E3%82%B5%E3%83%BC%E3%83%90%E9%96%93%EF%BC%88S2S%EF%BC%89%E8%AA%8D%E8%A8%BC%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF)
 - [dynamics 365: 無料試用版刷新、セットアップ手順解説](https://shenghaohuang.com/2021/07/29/dynamics-365-trial/)
 - [Dynamics 365 トライアル版(試用版)の取得方法(2021 年 8 月版)](https://www.arcuss-japan.com/crmblogs/5077)
@@ -51,8 +52,17 @@
 - [モデル駆動型アプリのクライアント API リファレンス](https://docs.microsoft.com/ja-jp/power-apps/developer/model-driven-apps/clientapi/reference)
 - [クライアント アプリケーションで、XRM ツール共通ログイン コントロールを使用する](https://docs.microsoft.com/ja-jp/power-apps/developer/data-platform/xrm-tooling/use-xrm-tooling-common-login-control-client-applications)
 
-## PowerApps
+## Power Platform
 
+0
+- [【Microsoft Build 2023】Power Platform 関連の発表まとめ【速報】](https://qiita.com/kumukai/items/3d4ff6a00aa05c3a7e71)
+- [更に強化された次世代のAI/GPT機能により Power Apps はより多くのプログラマーに力を](https://memo.tyoshida.me/power-platform/powerapps/next-gen-ai-capabilities-empower-developers/)
+- [Microsoft Build 2023 キーノートまとめ – Windows Copilot、Microsoft Fabric、Azure AI Studioなどを発表](https://memo.tyoshida.me/others/microsoft-build-2023-keynote-summary/)
+
+## Power Apps
+
+- [Power Apps のキャンバスアプリから直接 Teams にメッセージを投稿しよう](https://qiita.com/nayoshik/items/d40710c4be57440f9cb5)
+- [Power Apps の Copilot を試す環境を作ってみよう（※2023年6月5日時点）](https://qiita.com/yamad365/items/041359ebcc646fc40f55)
 - [Microsoft Power Apps × Outlook「会議室予約状況可視化アプリ」のご紹介動画が再生回数 4,000 回を達成しました。](https://dx.si-jirei.jp/cloud-news-microsoft_power_apps-outlook-youtube-meeting-room-reservation-appli-video-play-4000times/)
 - [Webinar オンデマンド一覧](https://www.microsoft.com/ja-jp/biz/dynamics/power-platform-webinar.aspx)
 - [【PowerApps Tip's】開発言語経験者の多くが陥る最初の罠と回避方法 - Qiita](https://qiita.com/yamad365/items/feed918f9934ee6a2f07)
@@ -78,7 +88,7 @@
 - [働き方改革に効く！ゼロからはじめる PowerApps(5) Office 365 の Excel とバーコード機能で固定資産の棚卸をしよう   マイナビニュース](https://news.mynavi.jp/article/powerapps-5/)
 - [働き方改革に効く！ゼロからはじめる PowerApps(11) スキルや資格を Microsoft 365 ユーザーにひもづけて管理するアプリを作る   マイナビニュース](https://news.mynavi.jp/article/powerapps-11/)
 
-## PowerAppsModelDriven
+## Power Apps ModelDriven
 
 - [Power Apps で モデル駆動型アプリを作る（１）  IT 長のネタ帳](https://www.d3654.be/getting-started-model-driven-powerapps01/)
 - [Power Platform の Common Data Service を利用する 10 の理由 - 吉田の備忘録](https://memo.tyoshida.me/power-platform/powerapps/ten-reasons-to-use-the-common-data-service/)
@@ -125,6 +135,8 @@
 
 ## Power BI
 
+- [Power BIでSharePointのデータを利用する](https://qiita.com/Yellow11/items/39336e331c397bd94d2a)
+- [Filter for multiple values in one cell](https://community.fabric.microsoft.com/t5/DAX-Commands-and-Tips/Filter-for-multiple-values-in-one-cell/m-p/2608847)
 - [列のピボットを解除する](https://learn.microsoft.com/ja-jp/power-query/unpivot-column)
 - [【Forms × Power BI 活用】Forms の複数回答データを Power BI で解析する方法](https://www.powerplatformknowledge.com/powerbi-forms-multi-answer/)
 - [Power BI Tips Power BI でリアルタイムアンケート ～ アンケートを即可視化 2020 年版 ～](https://qiita.com/yugoes1021/items/ea4c96cec9f1c7e47347)
