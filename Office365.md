@@ -41,8 +41,21 @@
 - [AI搭載の多機能メモアプリ｢Microsoft Loop｣、Notionとはここがちがいます](https://www.gizmodo.jp/2023/04/loop-notion-comparison.html)
 - [Microsoft Loop ：パブリックプレビューを利用する設定方法](https://art-break.net/tech/?p=17773)
 
+## Office 365 Management API
+
+- [Office 365 管理 API へようこそ](https://learn.microsoft.com/ja-jp/office/office-365-management-api/)
+- - [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
+- [Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
+- [Microsoft Graph reports API の試し方](https://blog.rykoma.net/2021/01/13/1610/)
+- [Office 365 Management API の使い方 (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/16866f40c29618f05f39)
+- [Office 365 の監査ログを Microsoft Sentinel に格納する - Office 365 Management API と Data Collector API (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/8fde7595042f0f281de8)
+- [Office 365 管理 API を使って SharePoint Online の監査ログを取得する](https://zenn.dev/karamem0/articles/2020_09_02_150000)
+- [Microsoft365 Microsoft Exchange Onlineの監査ログ（後編）](https://engineers.ntt.com/entry/2021/10/06/103025)
+- [Office 365 の監査ログを全部取得したい？](https://blog.rykoma.net/2019/07/28/1394/)
+
 ## Office 365 PowerShell
 
+- [Microsoft 365 Scripts](https://m365scripts.com/)
 - [MSOnline / AzureAD PowerShell から Graph PowerShell SDK への移行について 1\_概要](https://jpazureid.github.io/blog/azure-active-directory/azuread-module-retirement1/)
 - [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
 
@@ -160,6 +173,7 @@
 
 ## Microsoft Graph
 
+- [Microsoft Graph PowerShell SDK を使用した Microsoft 365 のライセンス管理の方法](https://blog.rykoma.net/2021/08/30/1682/)
 - [ゲストユーザーの最終サインイン日時取得 – Graph PowerShell SDK 利用](https://www.illuminate-j.jp/blog/m365_27_msgraph_signinactivity)
 - [Graph PowerShell SDK を利用して Teams のチーム作成を制限する](https://www.illuminate-j.jp/blog/m365_26_msgraph_teamsmanage)
 - [Microsoft Graph を使ってみよう : サイト、リスト、リストアイテムリソース (SharePoint)](https://qiita.com/kenakamu/items/61ff83a2b381bc3e9cdb)

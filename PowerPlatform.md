@@ -16,6 +16,8 @@
 
 ## PowerPlatform
 
+- [Power Platform プレミアムサンプル](https://microsoft.github.io/PowerApps-Sample-Apps-Japan/)
+- [Compare Power Automate plans](https://learn.microsoft.com/en-us/power-platform/admin/power-automate-licensing/types#compare-power-automate-plans)
 - [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
 - [Power Platform用GitHub Actionsでアプリ管理・デプロイの自動化をする【前編】](https://tech-blog.cloud-config.jp/2022-06-20-power-platform-github-deploy/)
 - [Japan Power Platform Conference 2022](https://app.powerbi.com/view?r=eyJrIjoiZmQ3YzcwYmUtNDc1OS00YWNiLTk2YzAtMzZhYjA4ZTNmZTAxIiwidCI6ImEyYjExZTNlLWY3MjItNDQ0OS1iMTY3LWFhMDA2NzIyN2I0MiJ9)
@@ -34,7 +36,7 @@
 
 - [Automate Document Processing end-to-end with AI Builder](https://powerautomate.microsoft.com/en-us/blog/automate-document-processing-end-to-end-with-ai-builder/)
 - [Microsoft が誰でも簡単に機械学習モデルが作れるツール「Lobe」を公開！ Techable(テッカブル)](https://techable.jp/archives/140757)
-- - [Microsoft Lobe × Power App で画像分析アプリをカンタン作成 [BUILD2022 Update]](https://qiita.com/annie/items/2531eb6f9dc2231b8ef6)
+- [Microsoft Lobe × Power App で画像分析アプリをカンタン作成 [BUILD2022 Update]](https://qiita.com/annie/items/2531eb6f9dc2231b8ef6)
 
 ## Dynamics 365
 
@@ -54,8 +56,7 @@
 
 ## Power Platform
 
-0
-- [【Microsoft Build 2023】Power Platform 関連の発表まとめ【速報】](https://qiita.com/kumukai/items/3d4ff6a00aa05c3a7e71)
+- [Microsoft Build 2023】Power Platform 関連の発表まとめ【速報】](https://qiita.com/kumukai/items/3d4ff6a00aa05c3a7e71)
 - [更に強化された次世代のAI/GPT機能により Power Apps はより多くのプログラマーに力を](https://memo.tyoshida.me/power-platform/powerapps/next-gen-ai-capabilities-empower-developers/)
 - [Microsoft Build 2023 キーノートまとめ – Windows Copilot、Microsoft Fabric、Azure AI Studioなどを発表](https://memo.tyoshida.me/others/microsoft-build-2023-keynote-summary/)
 

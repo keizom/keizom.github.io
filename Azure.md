@@ -34,12 +34,15 @@
 
 ## Azure AD
 
+- [Azure AD参加端末におけるPRT (Primary Refresh Token)悪用のリスクと対策について](https://gmo-cybersecurity.com/blog/azuread-prt/)
 - [Arure AD管理者必見　悩みの種になりがちな「ゲストユーザー」を管理する4つの方法](https://kn.itmedia.co.jp/kn/articles/2307/12/news023.html)
 - [フェデレーション認証から Azure AD 認証への移行事例のご紹介](https://www.softbanktech.co.jp/special/blog/cloud_blog/2022/0087/)
 - [Azure Active Directory で証明書ベースの認証を行ってみた](https://www.cybertrust.co.jp/blog/certificate-authority/client-authentication/azure-ad-certificate.html)
 - [2022 年 6 月末から「セキュリティの既定値群」の有効化が促されます (対象 : 一部のテナント)](https://jpazureid.github.io/blog/azure-active-directory/security-default-2022/)
 - [Conditional Access Workflow - v1.4.pdf](https://github.com/kennethvs/cabaseline202212/blob/main/Conditional%20Access%20Workflow%20-%20v1.4.pdf)
 - [Microsoft Graph PowerShellを利用してユーザーの最終サインイン日時を取得する](https://blog.jbs.co.jp/entry/2023/03/15/124720)
+- [全ての“入り口”はIDから~Microsoft Entraで学ぶ、やさしいID基礎知識 ~：第1回 新しいID管理ソリューションEntraのご紹介と今から始めよう「Azure ADによる脱VPN化」](https://info.microsoft.com/JA-ZTF-VDEO-FY23-09Sep-13-MKTO-FY23-Entra-Webinar-Gated-content-0823-SRGCM7732_LP01-Registration---Form-in-Body.html)
+- [Microsoft Entra が Security Service Edge に拡張、Azure AD が Microsoft Entra ID に名称変更](https://news.microsoft.com/ja-jp/2023/07/12/230712-microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id/)
 
 ### 条件付きアクセス
 
@@ -82,6 +85,7 @@
 - [Application Gateway リスナーの構成](https://docs.microsoft.com/ja-jp/azure/application-gateway/configuration-listeners)
 - [Setting up Application Gateway with an App Service that uses Azure Active Directory Authentication](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/setting-up-application-gateway-with-an-app-service-that-uses/ba-p/392490)
 - [Enable remote access to SharePoint with Azure Active Directory Application Proxy](https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy-integrate-with-sharepoint-server)
+- [世界一わかりみの深いAzure Application Gateway](https://tech-lab.sios.jp/archives/30628)
 
 > Application Gateway v2 では、NTLM 認証を使用したプロキシ要求をサポートしていません。
 
@@ -128,6 +132,12 @@
 - [Azure Automation と Microsoft Graph を介して Microsoft Entra Identity Governance のタスクを自動化する](https://learn.microsoft.com/ja-jp/azure/active-directory/governance/identity-governance-automation)
 - [Power Automate から Azure Automation を呼び出してクラウド上で PowerShell を実行してみる](https://idea.tostring.jp/?p=5899)
 - [Power Automate から PowerShell を実行する方法](https://jpdynamicscrm.github.io/blog/powerautomate/Execute-PowerShell/)
+- [AzureAutomation を利用した SharePoint{}() Online のサイト作成方法](https://qiita.com/daichan3/items/f963a7d7c3dd9501fce8)
+- [Office 365 の PowerShell 運用を PaaS 化してみる](https://sprestaurant.hatenablog.com/entry/2019/07/07/011839)
+- [Power Automate から Azure Automation を呼び出してクラウド上で PowerShell を実行してみる](https://idea.tostring.jp/?p=5899)
+- [Creating Files in SharePoint Online Using Azure Automation and PowerShell](https://practical365.com/azure-automation-spo-create-files/)
+- [Power Platform + Microsoft Azure で SharePoint のサイト作成フォームを作ってみる](https://zenn.dev/karamem0/articles/2020_02_03_120000)
+- [Using PnP PowerShell in Azure Automation Runbooks](https://pnp.github.io/powershell/articles/azureautomationrunbook.html)
 
 ## Azure Application Insights
 
@@ -357,6 +367,11 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Azure Load Testing に JMeter スクリプトの事前準備が不要なクイックテスト機能が追加されたので使ってみた](https://dev.classmethod.jp/articles/azure-load-testing-quick-test/)
 - [Azure 仮想ネットワークに Azure Load Testing をデプロイしてプライベート エンドポイントをテストする](https://docs.microsoft.com/ja-jp/azure/load-testing/how-to-test-private-endpoint)
 
+## Azure Log Analytics
+
+- [初めてのAzure Log AnalyticsとKQL クエリ](https://www.tama-negi.com/2021/08/04/azure-loganalytics-begin/)
+- [Azure MonitorとLogAnalyticsについて](https://www.guri2o1667.work/entry/2020/03/21/Azure_Monitor%E3%81%A8LogAnalytics%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+
 ## Azure Logic Apps
 
 - [Azure Logic Apps (Preview) を Visual Studio Code で作成するための手順](https://mofumofupower.hatenablog.com/entry/2020/09/23/222908)
@@ -364,6 +379,12 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [Microsoft謹製エンタープライズ向けPrivate ChatGPT(Azure ChatGPT)が公開されたのでローカル環境で動かしてみた](https://blog.cloudnative.co.jp/19068/)
+- [azurechatgpt](https://github.com/microsoft/azurechatgpt)
+- [企業専用 ChatGPT を Azure OpenAI & Web App で爆速構築する](https://blog.cloudnative.co.jp/17675/)
+- [Azure OpenAI Service のはじめ方](https://acro-engineer.hatenablog.com/entry/2023/08/04/120000)
+- [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji?slide=66)
+- [「自社製品にチャットAIを組み込みたい」　企業が取るべきセキュリティ対策とは？　“プロンプトインジェクション”の基本手口](https://www.itmedia.co.jp/news/articles/2308/10/news101.html)
 - [セキュリティが高いChatGPT?! Azure OpenAIを利用したチャット](https://tech-lab.sios.jp/archives/34045)
 - [独自ナレッジをノーコードでChatGPTに連携！Azure Open AI「Add your data」](https://zenn.dev/microsoft/articles/azure-openai-add-your-data)
 - [[ChatGPT Hack] 要件定義から設計・モデリング・プロトタイプ作成。そして Azure への Deploy までを。ChatGPT に作らせた](https://qiita.com/dahatake/items/54588139062b641cc96f)
@@ -405,6 +426,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Sentinel
 
+- [Azure Microsoft Azure Sentinel データ コネクタを見つける](https://learn.microsoft.com/ja-jp/azure/sentinel/data-connectors-reference#microsoft-office-365)
 - [Azure Sentinel](https://azure.microsoft.com/ja-jp/products/microsoft-sentinel/#overview)
 - [Microsoft Sentinel とは](https://learn.microsoft.com/ja-jp/azure/sentinel/overview)
 - [【Azure】Azure Sentinel 　第一回　概要編](https://www.qes.co.jp/media/azure/a81)
@@ -412,6 +434,8 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Azure Sentinel の環境構築](https://tarenagashi.hatenablog.jp/entry/2021/09/25/150651)
 - [Azure Sentinel でログ収集・分析基盤を構築してみた ① ~Windows セキュリティイベントの収集~](https://cloud.nissho-ele.co.jp/blog/azure-sentinel/)
 - [Azure 使いだすときに Sentinel でやっておくべきこと](https://zenn.dev/tomot/articles/79aeae00252ba6)
+- [Office 365 の監査ログを Microsoft Sentinel に格納する - Office 365 Management API と Data Collector API (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/8fde7595042f0f281de8)
+- [Azure使いだすときにSentinelでやっておくべきこと](https://zenn.dev/tomot/articles/79aeae00252ba6)
 
 ## Azure Stack HCI
 

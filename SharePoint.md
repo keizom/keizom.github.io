@@ -16,10 +16,14 @@
 
 ## SharePoint Online
 
+- [Microsoft リストの新しいUX](https://shanqiai.lekumo.biz/sharepoint_technical_note/2023/07/microsoft-ux-431c.html)
+- [検索バーティカルを管理する](https://learn.microsoft.com/ja-jp/microsoftsearch/manage-verticals)
 - [リスト ビューのしきい値に関する FAQ](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/faq)
+
   > Q1 : リスト ビューのしきい値とは何なのか？  
   > リスト ビューのしきい値とは、ユーザー観点でいうと、同一階層で表示 (ビュー) できるアイテムの数です。  
   > リストビューのしきい値の 5000 件を、ドキュメントライブラリやリストに登録できるアイテムの件数と混同されている場合があります。
+
 - [大規模なリストとライブラリを管理する](https://support.microsoft.com/ja-jp/office/%e5%a4%a7%e8%a6%8f%e6%a8%a1%e3%81%aa%e3%83%aa%e3%82%b9%e3%83%88%e3%81%a8%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%82%92%e7%ae%a1%e7%90%86%e3%81%99%e3%82%8b-b8588dae-9387-48c2-9248-c24122f07c59?ui=ja-jp&rs=ja-jp&ad=jp)
   > モダン環境で並べ替えを実行する際のインデックスの自動作成は、アイテム数が 20,000 未満のリストおよびライブラリに限定されています。
 
@@ -97,12 +101,12 @@
 - [SharePoint のテンプレート化方法まとめ - 鍋綿ブログ](https://www.micknabewata.com/entry/sharepoint/template)
 - [SharePoint モダン サイト ～ サイト デザインとサイト スクリプト～](https://www.slideshare.net/aiyamasaki528/sharepoint-91933139)
 - [SharePoint のサイト デザインとサイト スクリプトの作成を開始する Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/get-started-create-site-design)
-- [Microsoft 365 Virtual Marathon 2021 – SharePoint サイトの自動作成あれこれ ](https://sharepoint.orivers.jp/article/10450)
-
+- [Microsoft 365 Virtual Marathon 2021 – SharePoint サイトの自動作成あれこれ](https://sharepoint.orivers.jp/article/10450)
 
 ## Stream on SharePoint
 
 - [Stream (on SharePoint) への移行: Stream (クラシック) Webパーツを見つけるスクリプト](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/01/stream-on-share-d043.html)
+
 ## SharePoint REST API
 
 - [Sharepoint の REST API のリファレンスが不親切だったので簡潔に(?)書いてみる。](https://blog.freedom-man.com/sharepoint_restapi)
@@ -140,9 +144,11 @@
 - [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
 - [SharePoint Online 管理シェルは SharePoint Online Client Components SDK がインストールされた端末で使用できません](https://jpspsupport.github.io/blog/sharepoint-online/managementshell-clientcomponentsSDK/)
 - [Connect-SPOService is not working!](https://learn.microsoft.com.mcas.ms/en-us/answers/questions/1121833/connect-sposervice-is-not-working)
+
 > 1. Navigate to “C:\Windows\Microsoft.NET\assembly\GAC_MSIL”
 > 2. Select all folders starting with the name “Microsoft.SharePoint.Client” and delete them all.
 > 3. Finally, Install the PowerShell Module for SharePoint Online: Install-Module Microsoft.Online.SharePoint.PowerShell -force
+
 - [SharePoint Online で調整またはブロックを回避する Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 - [Create Update Delete Or Retrieve SharePoint Site Collections Using CSOM PowerShell](https://www.c-sharpcorner.com/article/create-update-delete-or-retrieve-sharepoint-site-collectio/)
 - [SharePoint Online: Change List or Library URL using PowerShell](https://www.sharepointdiary.com/2017/09/sharepoint-online-change-list-document-library-url-using-powershell.html)
@@ -300,4 +306,5 @@
 > Invoke-PnPQuery
 
 ## Microsoft Syntex
+
 - [Microsoft Ignite 2022 Recap: 凄い! Microsoft Syntex による最新のMicrosoft 365 コンテンツ管理を学ぼう](https://shanqiai.lekumo.biz/sharepoint_technical_note/2022/10/microsoft-ignite-2022-recap-microsoft-syntex.html)

@@ -142,6 +142,7 @@
 
 ## VisualStudio Code
 
+- [VSCodeをWebサイト開発用ツールに ―HTML／CSS／JavaScriptエディタとして強化しよう！](https://codezine.jp/article/detail/18066)
 - [【早い！安い！うまい！】VSCode+WSL+Dockerで簡単に開発環境構築](https://qiita.com/takoraisutaro/items/da90d5e4b6027e36bcbd)
 - [チーム開発でVSCodeの拡張機能やフォーマット設定などを統一したい時に便利な設定ファイルについて](https://dev.classmethod.jp/articles/vscode_settings_file_for_team_dev/)
 - [「Visual Studio Code」の状態をMarkdown/JSON形式でまとめてくれる拡張機能](https://forest.watch.impress.co.jp/docs/review/1517819.html)
