@@ -44,7 +44,7 @@
 ## Office 365 Management API
 
 - [Office 365 管理 API へようこそ](https://learn.microsoft.com/ja-jp/office/office-365-management-api/)
-- - [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
+- [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
 - [Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
 - [Microsoft Graph reports API の試し方](https://blog.rykoma.net/2021/01/13/1610/)
 - [Office 365 Management API の使い方 (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/16866f40c29618f05f39)
