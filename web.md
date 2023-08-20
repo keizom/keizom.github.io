@@ -16,7 +16,7 @@
 
 ## VScode
 
-- [コードを書くのが楽になる！知っておくと便利な VS Code の機能・設定のまとめ   コリス](https://coliss.com/articles/build-websites/operation/work/vs-code-dont-need-extensions.html)
+- [コードを書くのが楽になる！知っておくと便利な VS Code の機能・設定のまとめ コリス](https://coliss.com/articles/build-websites/operation/work/vs-code-dont-need-extensions.html)
 - [VS Code で HTML を楽々コーディング！ (1/2)](https://www.atmarkit.co.jp/ait/articles/1806/26/news032.html)
 - [Web コーダーが VSCode で使いたいショートカットと設定、拡張機能](https://haniwaman.com/web-vscode/)
 - [VS Code の見やすいテーマが登場！GitHub のデザインでコードも快適に -GitHub VS Code theme   コリス](https://coliss.com/articles/build-websites/operation/work/github-vscode-theme.html)

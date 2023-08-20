@@ -381,18 +381,12 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ## Azure Open AI
 
 - [ChatGPTをMicrosoft Teamsのチャットで使う―Azure Open AIを使った設定の手順](https://internet.watch.impress.co.jp/docs/column/shimizu/1513908.html)
-- []()
-- []()
-- []()
 - [Microsoft謹製エンタープライズ向けPrivate ChatGPT(Azure ChatGPT)が公開されたのでローカル環境で動かしてみた](https://blog.cloudnative.co.jp/19068/)
 - [azurechatgpt](https://github.com/microsoft/azurechatgpt)
 - [企業専用 ChatGPT を Azure OpenAI & Web App で爆速構築する](https://blog.cloudnative.co.jp/17675/)
 - [Azure OpenAI Service のはじめ方](https://acro-engineer.hatenablog.com/entry/2023/08/04/120000)
-- [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji?slide=66)
-- [「自社製品にチャットAIを組み込みたい」　企業が取るべきセキュリティ対策とは？　“プロンプトインジェクション”の基本手口](https://www.itmedia.co.jp/news/articles/2308/10/news101.html)
 - [セキュリティが高いChatGPT?! Azure OpenAIを利用したチャット](https://tech-lab.sios.jp/archives/34045)
 - [独自ナレッジをノーコードでChatGPTに連携！Azure Open AI「Add your data」](https://zenn.dev/microsoft/articles/azure-openai-add-your-data)
-- [[ChatGPT Hack] 要件定義から設計・モデリング・プロトタイプ作成。そして Azure への Deploy までを。ChatGPT に作らせた](https://qiita.com/dahatake/items/54588139062b641cc96f)
 - [Azure OpenAI Samples Japan](https://github.com/Azure-Samples/jp-azureopenai-samples)
 - [クイック スタート: Azure OpenAI Service を使用してテキストの生成を開始する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quickstart?tabs=command-line&pivots=programming-language-csharp)
 - [Azure OpenAI GPT-4 利用開始までのお手続きについて](https://cptechweb.teldevice.co.jp/hc/ja/articles/17876365055257-Azure-OpenAI-GPT-4-%E5%88%A9%E7%94%A8%E9%96%8B%E5%A7%8B%E3%81%BE%E3%81%A7%E3%81%AE%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
@@ -400,11 +394,25 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Azure OpenAI Serviceを使ってみた〜申請・利用方法〜](https://www.softbank.jp/biz/blog/cloud-technology/articles/202305/azure-openai-setup/)
 - [Azure OpenAI Service を検証目的で使い始めるまでにやったことまとめ](https://dev.classmethod.jp/articles/usage-rules-for-azure-openai-service/)
 - [「プロンプトエンジニアリング」の“教科書”、日本語版が登場　無償でAIの上手な使い方を解説](https://www.itmedia.co.jp/news/articles/2304/05/news175.html)
-- [【ChatGPT脱獄編】ChatGPTを悪用できる！？ プロンプトインジェクションとは【悪用厳禁記事】](https://saasis.jp/2023/03/13/%E3%80%90chatgpt%E8%84%B1%E7%8D%84%E7%B7%A8%E3%80%91chatgpt%E3%82%92%E6%82%AA%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%81%EF%BC%9F-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A4%E3%83%B3/)
 - [約1時間でAzure FunctionsとChatGPT APIを使った簡易のBotを作成してみた](https://zenn.dev/jtechjapan/articles/5eb5d879088c23)
-- [ChatGPT使い方総まとめ](https://qiita.com/sakasegawa/items/82069c97a1ee011c2d1e)
 - [【緊急企画】話題の ChatGPT 。Microsoft の担当者が登場！まだ序章！今話せること全部お話します！ビジネスで使える IT ネタをお届けする「ネタバース」 | 日本マイクロソフト](https://www.youtube.com/watch?v=wsQruf1KEJE)
-- [ChatGPT](https://twitter.com/shodaiiiiii/status/1618436068831031297)
+
+### Chat GPT
+
+- [ChatGPT使い方総まとめ](https://qiita.com/sakasegawa/items/82069c97a1ee011c2d1e)
+- [ChatGPTに関するチートシート](https://zenn.dev/nameless_sn/articles/chatgpt_cheat_sheet)
+- [ChatGPT にコードをレビューして貰う](https://zenn.dev/vim_jp/articles/26eb77fea1e9a4)
+- [話題爆発中のAI「ChatGPT」の仕組みにせまる](https://qiita.com/omiita/items/c355bc4c26eca2817324)
+- [VSCodeにChatGPTの拡張機能を入れてコードレビューやバグを発見してもらう](https://qiita.com/tak001/items/c3000b3ce9b6e72b2ae5)
+- [ChatGPTをコマンドラインから使うためのCLIツールを作る](https://zenn.dev/ryo_kawamata/articles/2269fc3ad0d375)
+- [ChatGPT相当モデルを使ったチャットボットを簡単に作れるツールを開発した話](https://zenn.dev/makunugi/articles/001ac46ff35718)
+- [Google SheetでchatGPTを使って一度に質問を沢山しようぜ](https://qiita.com/styu214/items/2aac57b3c8aaf7d335cd)
+- [ChatGPTによるプログラム生成の可能性と限界（前編）](https://qiita.com/autotaker1984/items/5b5ac8c01d11fbbbc4a7)
+- [ChatGPTによるプログラム生成の可能性と限界（後編）](https://qiita.com/autotaker1984/items/c6769f9ea7f2df1fdeb5)
+- [【ChatGPT脱獄編】ChatGPTを悪用できる！？ プロンプトインジェクションとは【悪用厳禁記事】](https://saasis.jp/2023/03/13/%E3%80%90chatgpt%E8%84%B1%E7%8D%84%E7%B7%A8%E3%80%91chatgpt%E3%82%92%E6%82%AA%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%81%EF%BC%9F-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A4%E3%83%B3/)
+- [ChatGPT Hack 要件定義から設計・モデリング・プロトタイプ作成。そして Azure への Deploy までを。ChatGPT に作らせた](https://qiita.com/dahatake/items/54588139062b641cc96f)
+- [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji?slide=66)
+- [「自社製品にチャットAIを組み込みたい」　企業が取るべきセキュリティ対策とは？　“プロンプトインジェクション”の基本手口](https://www.itmedia.co.jp/news/articles/2308/10/news101.html)
 
 ## Azure PowerShell
 
