@@ -20,3 +20,4 @@
 - [【M1 Pro/Max対応】M1 Mac環境構築ベストプラクティス](https://qiita.com/c60evaporator/items/aef6cc1581d2c4676504)
 - [macOSの可能性を引き出す！ 知らないと損する生産性アプリ11選【今日のワークハック】](https://www.lifehacker.jp/article/230611-lesser-known-apps-everyone-should-install-on-their/)
 - [Appleシリコン搭載Macで「Windows 11」を無料で動かす方法](https://www.lifehacker.jp/article/2306-you-can-run-windows-11-on-your-apple-silicon-mac-for-fr/)
+- [MacBookの生産性を向上させる、超強力なおすすめMacアプリ15選（有料＆無料）](https://gadget-shot.com/66146)

@@ -41,6 +41,9 @@
 
 ## html
 
+- [フロントエンドエンジニアにおすすめchrome拡張機能](https://qiita.com/YSasago/items/e29803ff460f3a5a6da4)
+- [デザインの参考になる！ 最近のWebサイトやスマホアプリで見かけるUI、インタラクションがまとめられたギャラリーのまとめ](https://coliss.com/articles/build-websites/operation/work/ui-interaction-gallery.html)
+- [JavaScriptでWebアプリにリッチテキストエディタを組み込む](https://devlog.grapecity.co.jp/inputmanjs-gcrichtexteditor-basic-usage/)
 - [デジタル庁のサイトやばすぎるwww](https://qiita.com/mu_tomoya/items/f78f1fad3a8b57ac7dc3)
 - [これはすごい！ HTMLの新機能、popover属性でポップオーバーがJavaScript無しで簡単に実装できるようになります](https://coliss.com/articles/build-websites/operation/css/about-popover-api.html)
 - [なぜエンジニアが作る画面はダサいのか…?「理由」と「対策」を徹底解説【エンジニア向け画面デザイン講座】](https://qiita.com/mskmiki/items/544149987475719e417b)
@@ -95,7 +98,8 @@
 
 ## css
 
-- [ここまでできる！CSS最新テクニックと書き方30選](https://photoshopvip.net/148200)
+- [アプリケーション カスタマイザーでカスタム CSS をロードする](https://www.illuminate-j.jp/blog/spfx06_cssload)
+- - [ここまでできる！CSS最新テクニックと書き方30選](https://photoshopvip.net/148200)
 - [最近のWeb制作に役立つ、CSSの便利ツール総まとめ](https://coliss.com/articles/build-websites/operation/work/useful-tools-for-web-developer.html)
 - [Web制作者がチェックしておきたい！ 2023年版、CSSフレームワークのまとめ](https://coliss.com/articles/build-websites/operation/css/awesome-css-frameworks.html)
 - [全部、完全に商用利用無料！ さまざまなデザインが揃ってる、ランディングページ用のHTMLテンプレート -HTMLrev](https://coliss.com/articles/build-websites/operation/work/free-landing-page-html-templates-by-htmlrev.html)

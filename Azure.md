@@ -128,6 +128,7 @@
 
 ## Azure Automation
 
+- [Automation における Runbook の入力パラメーターを構成する](https://learn.microsoft.com/ja-jp/azure/automation/runbook-input-parameters)
 - [PowerShellの操作を自動化！ Azure Automation の Power Shell Runbook を使いこなそう！！](https://tech-blog.cloud-config.jp/2023-01-11-azure-automation-runbook)
 - [Azure Automation と Microsoft Graph を介して Microsoft Entra Identity Governance のタスクを自動化する](https://learn.microsoft.com/ja-jp/azure/active-directory/governance/identity-governance-automation)
 - [Power Automate から Azure Automation を呼び出してクラウド上で PowerShell を実行してみる](https://idea.tostring.jp/?p=5899)
@@ -379,6 +380,10 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [ChatGPTをMicrosoft Teamsのチャットで使う―Azure Open AIを使った設定の手順](https://internet.watch.impress.co.jp/docs/column/shimizu/1513908.html)
+- []()
+- []()
+- []()
 - [Microsoft謹製エンタープライズ向けPrivate ChatGPT(Azure ChatGPT)が公開されたのでローカル環境で動かしてみた](https://blog.cloudnative.co.jp/19068/)
 - [azurechatgpt](https://github.com/microsoft/azurechatgpt)
 - [企業専用 ChatGPT を Azure OpenAI & Web App で爆速構築する](https://blog.cloudnative.co.jp/17675/)
@@ -451,6 +456,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Static Web Apps
 
+- [独自の関数を Azure Static Web Apps で使用する](https://learn.microsoft.com/ja-jp/azure/static-web-apps/functions-bring-your-own)
 - [無料でも使える新サービス「Azure Static Web Apps」はここまでできる](https://ascii.jp/elem/000/004/069/4069089/)
 - [Azure Static Web Apps のローカル実行方法まとめ ＃Azureリレー](https://tech-blog.cloud-config.jp/2021-11-23-azure-static-web-apps-local/)
 - [Vue.js で作るサイトを 無償の Azure Static Web Apps に CI/CD も含めて数分でホスティングする方法](https://qiita.com/miyake/items/de75b5034840e2687319)
@@ -570,6 +576,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## SendGrid
 
+- [Postmanを使ってWeb APIにアクセスする その1](https://sendgrid.kke.co.jp/blog/?p=8673)
 - [JavaScript/Node.jsからSendGridを使ってメールを送信する方法](https://sendgrid.kke.co.jp/blog/?p=12390)
 - [IPウォームアップのよくある質問集](https://sendgrid.kke.co.jp/blog/?p=15531)
 - [ブラウザでWeb APIをテストする方法](https://sendgrid.kke.co.jp/blog/?p=15000)

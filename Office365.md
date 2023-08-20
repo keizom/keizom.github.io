@@ -43,6 +43,8 @@
 
 ## Office 365 Management API
 
+- [Azure AD に連携している各種証明書、クライアント シークレットの有効期限の抽出方法（Graph Exploler編）](https://blog.cloudnative.co.jp/18273/)
+- [Office 365 メッセージ追跡 REST API プロトコルの構成オプション](https://www.ibm.com/docs/ja/qradar-on-cloud?topic=pco-office-365-message-trace-rest-api-protocol-configuration-options)
 - [Office 365 管理 API へようこそ](https://learn.microsoft.com/ja-jp/office/office-365-management-api/)
 - [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
 - [Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
@@ -139,6 +141,7 @@
 
 ## Teams
 
+- [ChatGPTをMicrosoft Teamsから使う仕組みをノーコードで作ろう](https://ascii.jp/elem/000/004/146/4146380/)
 - [「Microsoft Teams」の「Project」「Roadmap」アプリ発表 - CNET Japan](https://japan.cnet.com/article/35161885/)
 - [【Teams】すべての Teams から情報を取得する【PowerShell】   ほげふがな日常](https://www.hogehoge-note.com/2019/08/16/post-300/)
 - [【オンライン セミナー】 Microsoft Teams を使いこなす! 活用事例の紹介](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-02Feb-23-Online-Seminar-Master-the-Microsoft-Teams-MCW0004285.html)
