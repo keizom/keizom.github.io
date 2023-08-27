@@ -43,6 +43,7 @@
 
 ## Office 365 Management API
 
+- [Microsoft365管理センターのメッセージセンターにある情報をPowerShellを使って取得する](https://wataruf.hatenablog.com/entry/2022/03/10/000000)
 - [Azure AD に連携している各種証明書、クライアント シークレットの有効期限の抽出方法（Graph Exploler編）](https://blog.cloudnative.co.jp/18273/)
 - [Office 365 メッセージ追跡 REST API プロトコルの構成オプション](https://www.ibm.com/docs/ja/qradar-on-cloud?topic=pco-office-365-message-trace-rest-api-protocol-configuration-options)
 - [Office 365 管理 API へようこそ](https://learn.microsoft.com/ja-jp/office/office-365-management-api/)

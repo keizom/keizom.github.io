@@ -219,11 +219,15 @@
 - [ESXi on Intel NUC 13 Pro (Arena Canyon)](https://williamlam.com/2023/03/esxi-on-intel-nuc-13-pro-arena-canyon.html)
 - [ESXiをIntel NUC上に構築する](https://qiita.com/h_tyokinuhata/items/d9544bdd5f7223e60ac1)
 - [おうちクラウド2022](https://qiita.com/hirosat/items/e121ffd7d385e30ecc2d)
-- [vmware ESXi 8.0インストール時に、[CPU_SUPPORT ERROR]が発生して進めない](https://qiita.com/Higemal/items/94f4e2d62a4a45fdd082)
+- [vmware ESXi 8.0インストール時に、CPU_SUPPORT ERRORが発生して進めない](https://qiita.com/Higemal/items/94f4e2d62a4a45fdd082)
 > cpuUniformityHardCheckPanic=FALSE
 - [ESXi のハードウェア要件](https://docs.vmware.com/jp/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-DEB8086A-306B-4239-BF76-E354679202FC.html)
 - [ESXi on AMD版NUC 導入レポ](https://qiita.com/hirosat/items/c6e330212f01f766cc42)
 
-# MAC
+# Ansible
 
-- [Mac を買ったら必ずやっておきたい初期設定](https://qiita.com/ucan-lab/items/c1a12c20c878d6fb1e21)
+- [AnsibleでWindowsサーバーを設定してみた-環境準備編-](https://blog.jbs.co.jp/entry/2023/05/30/135558)
+
+# qita
+
+- [qiita-cli](https://github.com/increments/qiita-cli)

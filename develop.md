@@ -123,6 +123,7 @@
 
 ## GitHub
 
+- [GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
 - [GitHub Copilot Chatを触ることでWindows Copilotの後の世界を体感できる](https://logmi.jp/tech/articles/328912)
 - [GitHub - Codespaces](https://github.co.jp/features/codespaces)
 

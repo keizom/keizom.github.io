@@ -464,6 +464,12 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Static Web Apps
 
+- [Static React Web App + Functions with C# API and SQL Database on Azure](https://learn.microsoft.com/ja-jp/samples/azure-samples/todo-csharp-sql-swa-func/todo-csharp-sql-swa-func/)
+- [Azure Static Web Apps を構成する](https://learn.microsoft.com/ja-jp/azure/static-web-apps/configuration)
+- [サーバーレス API を使用して静的 Web アプリを作成する](https://learn.microsoft.com/ja-jp/azure/developer/javascript/how-to/with-web-app/static-web-app-with-swa-cli)
+- [SPAをStatic Web Appsにデプロイ、本番環境で使ってみた](https://qiita.com/keiotoi/items/d019303d10b11ccf568e)
+- [たぶん10分で試せる。Azure Static Web AppsにWebサイトをデプロイして独自ドメイン設定とFunctionsでAPI公開まで](https://qiita.com/n0bisuke/items/1e12d8abb76d40a83fea)
+- [Azure Static Web Apps のドキュメント](https://learn.microsoft.com/ja-jp/azure/static-web-apps/)
 - [独自の関数を Azure Static Web Apps で使用する](https://learn.microsoft.com/ja-jp/azure/static-web-apps/functions-bring-your-own)
 - [無料でも使える新サービス「Azure Static Web Apps」はここまでできる](https://ascii.jp/elem/000/004/069/4069089/)
 - [Azure Static Web Apps のローカル実行方法まとめ ＃Azureリレー](https://tech-blog.cloud-config.jp/2021-11-23-azure-static-web-apps-local/)
@@ -584,6 +590,9 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## SendGrid
 
+- [Azure FunctionsでEvent Webhookデータを受信する](https://sendgrid.kke.co.jp/blog/?p=9403)
+- [メールを受信する](https://sendgrid.kke.co.jp/docs/Tutorials/E_Receive_Mail/receive_mail.html)
+- [SMTPサーバとは？](https://sendgrid.kke.co.jp/blog/?p=11638)
 - [Postmanを使ってWeb APIにアクセスする その1](https://sendgrid.kke.co.jp/blog/?p=8673)
 - [JavaScript/Node.jsからSendGridを使ってメールを送信する方法](https://sendgrid.kke.co.jp/blog/?p=12390)
 - [IPウォームアップのよくある質問集](https://sendgrid.kke.co.jp/blog/?p=15531)
