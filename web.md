@@ -41,6 +41,7 @@
 
 ## html
 
+- [CSSで角丸を美しく実装するテクニック、ネストされた外側と内側を相対角丸の美しいバランスで実装](https://coliss.com/articles/build-websites/operation/css/inner-radius-design-tip-with-css.html)
 - [フロントエンドエンジニアにおすすめchrome拡張機能](https://qiita.com/YSasago/items/e29803ff460f3a5a6da4)
 - [デザインの参考になる！ 最近のWebサイトやスマホアプリで見かけるUI、インタラクションがまとめられたギャラリーのまとめ](https://coliss.com/articles/build-websites/operation/work/ui-interaction-gallery.html)
 - [JavaScriptでWebアプリにリッチテキストエディタを組み込む](https://devlog.grapecity.co.jp/inputmanjs-gcrichtexteditor-basic-usage/)

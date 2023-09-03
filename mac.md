@@ -23,3 +23,4 @@
 - [MacBookの生産性を向上させる、超強力なおすすめMacアプリ15選（有料＆無料）](https://gadget-shot.com/66146)
 - [Mac を買ったら必ずやっておきたい初期設定](https://qiita.com/ucan-lab/items/c1a12c20c878d6fb1e21)
 - [元Appleエンジニア作！注目のGmail専用メールアプリ「Mimestream」がすごい](https://pc.watch.impress.co.jp/docs/column/macinfo/1525500.html)
+- [【TIPS】MacBookのCommandとControlを入れ替える方法(Windowsユーザーおすすめ)](https://engineer-lifestyle-blog.com/lifestyle/mac/control-command-key-bind-swap/)

@@ -399,6 +399,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ### Chat GPT
 
+- [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 - [ChatGPT使い方総まとめ](https://qiita.com/sakasegawa/items/82069c97a1ee011c2d1e)
 - [ChatGPTに関するチートシート](https://zenn.dev/nameless_sn/articles/chatgpt_cheat_sheet)
 - [ChatGPT にコードをレビューして貰う](https://zenn.dev/vim_jp/articles/26eb77fea1e9a4)
@@ -590,6 +591,9 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## SendGrid
 
+- [専門家が語る！メール到達性について知っておくべきこと](https://sendgrid.kke.co.jp/blog/?p=15751)
+- [SPF, DKIMの特徴と違い](https://sendgrid.kke.co.jp/blog/?p=10121)
+- [まず最初にすることシリーズ：アカウントをセキュアに利用するためにするべきこと](https://sendgrid.kke.co.jp/blog/?p=10516)
 - [Azure FunctionsでEvent Webhookデータを受信する](https://sendgrid.kke.co.jp/blog/?p=9403)
 - [メールを受信する](https://sendgrid.kke.co.jp/docs/Tutorials/E_Receive_Mail/receive_mail.html)
 - [SMTPサーバとは？](https://sendgrid.kke.co.jp/blog/?p=11638)
