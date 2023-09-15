@@ -177,6 +177,7 @@
 
 ## Microsoft Graph
 
+- [Microsoft Graph API を利用して Azure AD のサインイン アクティビティ レポートを CSV ファイルで取得する PowerShell スクリプト](https://learn.microsoft.com/ja-jp/archive/blogs/jpazureid/microsoft-graph-api-signin-activity-reports)
 - [Microsoft Graph PowerShell SDK を使用した Microsoft 365 のライセンス管理の方法](https://blog.rykoma.net/2021/08/30/1682/)
 - [ゲストユーザーの最終サインイン日時取得 – Graph PowerShell SDK 利用](https://www.illuminate-j.jp/blog/m365_27_msgraph_signinactivity)
 - [Graph PowerShell SDK を利用して Teams のチーム作成を制限する](https://www.illuminate-j.jp/blog/m365_26_msgraph_teamsmanage)

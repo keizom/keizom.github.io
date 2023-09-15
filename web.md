@@ -14,14 +14,6 @@
 
 # Web
 
-## VScode
-
-- [コードを書くのが楽になる！知っておくと便利な VS Code の機能・設定のまとめ コリス](https://coliss.com/articles/build-websites/operation/work/vs-code-dont-need-extensions.html)
-- [VS Code で HTML を楽々コーディング！ (1/2)](https://www.atmarkit.co.jp/ait/articles/1806/26/news032.html)
-- [Web コーダーが VSCode で使いたいショートカットと設定、拡張機能](https://haniwaman.com/web-vscode/)
-- [VS Code の見やすいテーマが登場！GitHub のデザインでコードも快適に -GitHub VS Code theme   コリス](https://coliss.com/articles/build-websites/operation/work/github-vscode-theme.html)
-- [爆速コーディングを実現！Emmet の使い方と VSCode のおすすめ設定まとめ](https://webdesign-trends.net/entry/13588)
-
 ## Carousel
 
 - [Bootstrap で画像をアルバムみたいにカッコよく表示しよう](https://codezine.jp/article/detail/8350)
@@ -41,6 +33,8 @@
 
 ## html
 
+- [朗報！ リニューアルされたGoogle Fontsがかなり使いやすくなってる、フリーフォントとアイコンを探すときに便利](https://coliss.com/articles/build-websites/operation/work/google-fonts-redesign-2023.html)
+- [これはすごい便利！ HTMLはdiv一つ、あとはCSSをコピペするだけで500種類以上のローダーが簡単に実装できる -CSS Loaders](https://coliss.com/articles/build-websites/operation/css/collection-of-css-loading-animations.html)
 - [CSSで角丸を美しく実装するテクニック、ネストされた外側と内側を相対角丸の美しいバランスで実装](https://coliss.com/articles/build-websites/operation/css/inner-radius-design-tip-with-css.html)
 - [フロントエンドエンジニアにおすすめchrome拡張機能](https://qiita.com/YSasago/items/e29803ff460f3a5a6da4)
 - [デザインの参考になる！ 最近のWebサイトやスマホアプリで見かけるUI、インタラクションがまとめられたギャラリーのまとめ](https://coliss.com/articles/build-websites/operation/work/ui-interaction-gallery.html)
@@ -99,8 +93,9 @@
 
 ## css
 
+- [【第5弾】少しのコードで実装可能な10のCSS小技集](https://www.webcreatorbox.com/tech/css-tips-5)
 - [アプリケーション カスタマイザーでカスタム CSS をロードする](https://www.illuminate-j.jp/blog/spfx06_cssload)
-- - [ここまでできる！CSS最新テクニックと書き方30選](https://photoshopvip.net/148200)
+- [ここまでできる！CSS最新テクニックと書き方30選](https://photoshopvip.net/148200)
 - [最近のWeb制作に役立つ、CSSの便利ツール総まとめ](https://coliss.com/articles/build-websites/operation/work/useful-tools-for-web-developer.html)
 - [Web制作者がチェックしておきたい！ 2023年版、CSSフレームワークのまとめ](https://coliss.com/articles/build-websites/operation/css/awesome-css-frameworks.html)
 - [全部、完全に商用利用無料！ さまざまなデザインが揃ってる、ランディングページ用のHTMLテンプレート -HTMLrev](https://coliss.com/articles/build-websites/operation/work/free-landing-page-html-templates-by-htmlrev.html)

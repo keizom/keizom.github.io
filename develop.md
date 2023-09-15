@@ -52,9 +52,13 @@
 - [ASP.NET MVC 4 で理想的なスマートフォン対応サイトを作成する方法](https://blog.shibayan.jp/entry/20130624/1372085770)
 - [ASP.NET MVC で 1 画面にボタンが 2 つあるときの処理](https://blogonos.wordpress.com/2011/07/06/asp-net-mvc-%E3%81%A71%E7%94%BB%E9%9D%A2%E3%81%AB%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%8C2%E3%81%A4%E3%81%82%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%87%A6%E7%90%86/)
 
+## bash
+
+- [Bashを学べる全20回の入門動画　MicrosoftがYouTubeで無料公開](https://atmarkit.itmedia.co.jp/ait/articles/2303/11/news027.html)
+- 
 ## csharp
 
-- [コマンドラインでC#プログラミング](https://qiita.com/shuhey/items/b4211f196259156df8f4)
+- [Microsoft、「基礎C#認定資格」を公開　無料でC#が学べる35時間分のトレーニングコースも](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news026.html)
 - [GitHub - microsoft/TailwindTraders](https://github.com/microsoft/TailwindTraders)
 - [Home - Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
 - [The .NET Portability Analyzer - .NET Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/portability-analyzer)
@@ -123,6 +127,8 @@
 
 ## GitHub
 
+- [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
+- [gitのブランチの命名規則](https://qiita.com/luccafort/items/c91e817e78f1167221cc)
 - [GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
 - [GitHub Copilot Chatを触ることでWindows Copilotの後の世界を体感できる](https://logmi.jp/tech/articles/328912)
 - [GitHub - Codespaces](https://github.co.jp/features/codespaces)
@@ -153,6 +159,7 @@
 
 ## Python
 
+- [【2023年】プログラミング・Pythonの無料おすすめ学習教材13選](https://qiita.com/skillup_ai/items/75e892e166f41ca85bf8)
 - [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
 - [Python 学習 (パイソン) 企業 IT](https://news.mynavi.jp/top/business/enterprise/python_engineer/)
 - [無料で読める、東大／京大の「Python 教科書」電子書籍：AI・機械学習の無料電子書籍 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2105/26/news025.html)
@@ -170,6 +177,19 @@
 
 ## VisualStudio Code
 
+- [How GitHub Copilot Transforms Development Productivity](https://speakerdeck.com/kurotaky/how-github-copilot-transforms-development-productivity?slide=2)
+- [Figma for VS Codeを使ってCSS実装する時のおすすめポイント](https://goodpatch-tech.hatenablog.com/entry/figma-for-vscode)
+- [チュートリアル: Visual Studio Code を使用して .NET コンソール アプリケーションを作成する](https://learn.microsoft.com/ja-jp/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-7-0)
+
+> dotnet new console --framework net7.0
+
+- [dotnet new <テンプレート>](https://learn.microsoft.com/ja-jp/dotnet/core/tools/dotnet-new)
+- [VSCodeをプログラミングエディタとして強化しよう！ 便利な設定や拡張機能を紹介](https://codezine.jp/article/detail/18224)
+- [コードを書くのが楽になる！知っておくと便利な VS Code の機能・設定のまとめ コリス](https://coliss.com/articles/build-websites/operation/work/vs-code-dont-need-extensions.html)
+- [VS Code で HTML を楽々コーディング！ (1/2)](https://www.atmarkit.co.jp/ait/articles/1806/26/news032.html)
+- [Web コーダーが VSCode で使いたいショートカットと設定、拡張機能](https://haniwaman.com/web-vscode/)
+- [VS Code の見やすいテーマが登場！GitHub のデザインでコードも快適に -GitHub VS Code theme   コリス](https://coliss.com/articles/build-websites/operation/work/github-vscode-theme.html)
+- [爆速コーディングを実現！Emmet の使い方と VSCode のおすすめ設定まとめ](https://webdesign-trends.net/entry/13588)
 - [VSCodeをWebサイト開発用ツールに ―HTML／CSS／JavaScriptエディタとして強化しよう！](https://codezine.jp/article/detail/18066)
 - [【早い！安い！うまい！】VSCode+WSL+Dockerで簡単に開発環境構築](https://qiita.com/takoraisutaro/items/da90d5e4b6027e36bcbd)
 - [チーム開発でVSCodeの拡張機能やフォーマット設定などを統一したい時に便利な設定ファイルについて](https://dev.classmethod.jp/articles/vscode_settings_file_for_team_dev/)
@@ -243,6 +263,7 @@
 
 ## VisualStudio
 
+- [Visual Studio の GitHub Copilot 拡張機能とは](https://learn.microsoft.com/ja-jp/visualstudio/ide/visual-studio-github-copilot-extension)
 - [Visual StudioでGitHub Copilotが利用できるようになりました](https://aadojo.alterbooth.com/entry/2023/03/05/100000)
 - [Visual Studio 2022の機能でWeb API開発を効率化しよう](https://aadojo.alterbooth.com/entry/2023/06/04/162052)
 - [GitHub Copilotに頼り切ってPowerShellスクリプトを作ってみた](https://aadojo.alterbooth.com/entry/2023/08/08/190822)
@@ -260,6 +281,10 @@
 - [【Visual Studio】オススメの拡張機能 その 2（16 個） - コガネブログ](https://baba-s.hatenablog.com/entry/2017/10/03/100000)
 - [GitHub - CenterCLR/ozcodejapantour: OzCode japan tour materials.](https://github.com/CenterCLR/ozcodejapantour)
 - [WSL2、Visual Studio Code、DockerでグッとよくなるWindows開発環境](https://www.youtube.com/watch?v=aL5MlZUvZ4g)
+
+## web API
+
+- [今すぐ使える無料WebAPIまとめ【2023年最新版】](https://qiita.com/kazuki_tachikawa/items/7b2fead2a9698d1c15e8)
 
 ## Widnows 11 VHD
 

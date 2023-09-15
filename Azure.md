@@ -128,6 +128,7 @@
 
 ## Azure Automation
 
+- [Creating Files in SharePoint Online Using Azure Automation and PowerShell](https://practical365.com/azure-automation-spo-create-files/)
 - [Automation における Runbook の入力パラメーターを構成する](https://learn.microsoft.com/ja-jp/azure/automation/runbook-input-parameters)
 - [PowerShellの操作を自動化！ Azure Automation の Power Shell Runbook を使いこなそう！！](https://tech-blog.cloud-config.jp/2023-01-11-azure-automation-runbook)
 - [Azure Automation と Microsoft Graph を介して Microsoft Entra Identity Governance のタスクを自動化する](https://learn.microsoft.com/ja-jp/azure/active-directory/governance/identity-governance-automation)
@@ -221,6 +222,7 @@
 
 ## Azure DevOps
 
+- [【Azure Pipelines】WebAppsへDeployするためのyamlファイルを徹底解説【初心者向け】](https://tech-lab.sios.jp/archives/35848)
 - [ASP.NET Web アプリを作って Azure DevOps から Azure App Service に CI/CD してみた](https://www.softbanktech.co.jp/special/blog/cloud_blog/2023/0018/)
 - [Azure DevOpsを触ってみた](https://www.qes.co.jp/media/Microservices/a104)
 - [Git を使用したコード](https://learn.microsoft.com/ja-jp/azure/devops/user-guide/code-with-git?view=azure-devops)
@@ -362,6 +364,13 @@ Sleep 20
 New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ```
 
+## Azure Kubernetes
+
+- [Kubernetesとは何かを図でわかりやすく解説！Pod、Namespaceも](https://udemy.benesse.co.jp/development/system/kubernetes.html)
+- [今さら人に聞けない Kubernetes とは？](https://qiita.com/MahoTakara/items/85096f8b2632c802ab22)
+- [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
+- [3分で分かった気になる、Kubernetes とは？](https://qiita.com/r548/items/e6d1e4dcfdd9f8a7874d)
+
 ## Azure Load Test
 
 - [Cloud-based load testing features will be retired on March 31 2020](https://azure.microsoft.com/en-us/updates/cloud-based-load-testing-features-will-be-retired-on-march-31-2020/)
@@ -370,6 +379,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Log Analytics
 
+- [【Azure】大量のメトリックアラートを一発で作る方法（リソーステンプレート編）](https://atmarkit.itmedia.co.jp/ait/articles/2309/13/news034.html)
 - [初めてのAzure Log AnalyticsとKQL クエリ](https://www.tama-negi.com/2021/08/04/azure-loganalytics-begin/)
 - [Azure MonitorとLogAnalyticsについて](https://www.guri2o1667.work/entry/2020/03/21/Azure_Monitor%E3%81%A8LogAnalytics%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 
@@ -380,6 +390,9 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [Azure OpenAI Serviceの世界へようこそ](https://note.com/fushiroyama/n/n584473dd57b2)
+- [.NET (C#) SDK for Azure OpenAI 開発入門 (GPT-3.5 Turbo を使いコンソールで動く chatbot)](https://qiita.com/chomado/items/23947eaf48a75ae130ea)
+- [Power Platform × Azure OpenAI の価値](https://qiita.com/Takashi_Masumori/items/bef0a07a521cae238064)
 - [ChatGPTをMicrosoft Teamsのチャットで使う―Azure Open AIを使った設定の手順](https://internet.watch.impress.co.jp/docs/column/shimizu/1513908.html)
 - [Microsoft謹製エンタープライズ向けPrivate ChatGPT(Azure ChatGPT)が公開されたのでローカル環境で動かしてみた](https://blog.cloudnative.co.jp/19068/)
 - [azurechatgpt](https://github.com/microsoft/azurechatgpt)
@@ -399,6 +412,9 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ### Chat GPT
 
+- [ChatGPTでは的確な“指示出し”が大切！ セントラルオフィスが「プロンプト」のコツをまとめた資料を公開](https://www.mdn.co.jp/news/6580)
+- [ChatGPT/Co-Pilotで改めてわかる「プログラミング」とはどんな作業だったのか｜shi3z (note.com)](https://note.com/shi3zblog/n/ndc6834fefb75)
+- [今さら聞けないChatGPT「Code Interpreter」、データ分析能力が飛躍的向上のワケ](https://www.sbbit.jp/article/cont1/120122)
 - [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 - [ChatGPT使い方総まとめ](https://qiita.com/sakasegawa/items/82069c97a1ee011c2d1e)
 - [ChatGPTに関するチートシート](https://zenn.dev/nameless_sn/articles/chatgpt_cheat_sheet)
@@ -465,6 +481,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Static Web Apps
 
+- [SPAをStatic Web Appsにデプロイ、本番環境で使ってみた](https://qiita.com/keiotoi/items/d019303d10b11ccf568e)
 - [Static React Web App + Functions with C# API and SQL Database on Azure](https://learn.microsoft.com/ja-jp/samples/azure-samples/todo-csharp-sql-swa-func/todo-csharp-sql-swa-func/)
 - [Azure Static Web Apps を構成する](https://learn.microsoft.com/ja-jp/azure/static-web-apps/configuration)
 - [サーバーレス API を使用して静的 Web アプリを作成する](https://learn.microsoft.com/ja-jp/azure/developer/javascript/how-to/with-web-app/static-web-app-with-swa-cli)
@@ -569,6 +586,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure VM
 
+- [「トラステッド起動」が既定になり、Azure VMはデプロイ時点で“安全”に](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news003.html)
 - [【Azure】Linux VMのSSHの公開鍵認証をデプロイ時に有効化する方法](https://atmarkit.itmedia.co.jp/ait/articles/2307/19/news022.html)
 - [仮想マシンでサーバごと管理する](https://news.mynavi.jp/techplus/article/zeroazure-6/)
 - [Azure Monitor エージェントによる Windows 仮想マシンの監視](https://cloudsteady.jp/post/50812/)
@@ -591,6 +609,10 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## SendGrid
 
+- [なぜ迷惑メール扱いされてしまうのか？](https://sendgrid.kke.co.jp/blog/?p=13312)
+- [DMARCとは？](https://sendgrid.kke.co.jp/blog/?p=3137)
+- [おさえておきたいメールの基礎用語](https://sendgrid.kke.co.jp/blog/?p=658)
+- [専門家が解説！DMARCの重要性](https://sendgrid.kke.co.jp/blog/?p=16911)
 - [専門家が語る！メール到達性について知っておくべきこと](https://sendgrid.kke.co.jp/blog/?p=15751)
 - [SPF, DKIMの特徴と違い](https://sendgrid.kke.co.jp/blog/?p=10121)
 - [まず最初にすることシリーズ：アカウントをセキュアに利用するためにするべきこと](https://sendgrid.kke.co.jp/blog/?p=10516)

@@ -56,6 +56,7 @@
 
 ## Power Platform
 
+- [Power Platform × Azure OpenAI の価値](https://qiita.com/Takashi_Masumori/items/bef0a07a521cae238064)
 - [Microsoft Build 2023】Power Platform 関連の発表まとめ【速報】](https://qiita.com/kumukai/items/3d4ff6a00aa05c3a7e71)
 - [更に強化された次世代のAI/GPT機能により Power Apps はより多くのプログラマーに力を](https://memo.tyoshida.me/power-platform/powerapps/next-gen-ai-capabilities-empower-developers/)
 - [Microsoft Build 2023 キーノートまとめ – Windows Copilot、Microsoft Fabric、Azure AI Studioなどを発表](https://memo.tyoshida.me/others/microsoft-build-2023-keynote-summary/)
@@ -136,6 +137,13 @@
 
 ## Power BI
 
+- [2023年版データ分析の100冊](https://qiita.com/aokikenichi/items/29165f719d6e5631d7d0)
+- [複数のマトリックス表をPower Queryでピボットテーブルに変換](https://hamachan.info/excel2019-powerquery-pivot/)
+- [Excel Power Queryの13個の重要な機能](https://www.ceodata.com/excel-power-query/)
+- [Power BI道場 Excelのテーブル設定をしないといけない理由](https://www.katalog.tokyo/?p=5209)
+- [[その3] Power BI で社内のリース車の利用状況を可視化してみた](https://qiita.com/KodamaJn/items/b938f8935e0447130870)
+- [Power BIでSharePointのデータを利用する](https://qiita.com/Yellow11/items/39336e331c397bd94d2a)
+- [Power BI道場 日付表示や年度設定をマスターする](https://www.katalog.tokyo/?p=2982)
 - [Power BIでSharePointのデータを利用する](https://qiita.com/Yellow11/items/39336e331c397bd94d2a)
 - [Filter for multiple values in one cell](https://community.fabric.microsoft.com/t5/DAX-Commands-and-Tips/Filter-for-multiple-values-in-one-cell/m-p/2608847)
 - [列のピボットを解除する](https://learn.microsoft.com/ja-jp/power-query/unpivot-column)

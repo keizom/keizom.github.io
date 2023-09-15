@@ -136,6 +136,14 @@
 - [GitHub - pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)
 - [GitHub - sp-dev-fx-webparts/samples/react-script-editor at master ? pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-script-editor)
 
+
+## SharePoint Modernization Scanner
+
+- [SharePoint モダン化スキャナーを使い始める](https://learn.microsoft.com/ja-jp/sharepoint/dev/transform/modernize-scanner)
+- [SharePoint Modernization Scanner を使用して、移行対象のワークフローを抽出する](https://jpspsupport.github.io/blog/sharepoint-online/use-sp-modernization-scanner/)
+- [SPO のモダン対応を促進する「SharePoint Modernization Scanner」](https://sharepoint.orivers.jp/article/10008)
+- [The sp-dev-modernization repository](https://github.com/pnp/modernization?)
+
 ## CSOM
 
 - [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
@@ -241,6 +249,7 @@
 
 ## SharePoint FrameWork
 
+- [Announcing SharePoint Framework 1.18 with updates for Microsoft Teams, Microsoft Viva and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-18-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/)
 - [SharePoint Framework 1 つの PC で複数バージョンの開発環境を利用する](https://www.illuminate-j.jp/blog/spfx04_devenv)
 - [MsGraphSpFxThangu](https://www.youtube.com/watch?v=AKftsTLQBGo)
 - [SharePoint Framework (SPFx) 開発で分かった私的ベストプラクティスまとめ](https://www.micknabewata.com/entry/spfx-best-practice)
