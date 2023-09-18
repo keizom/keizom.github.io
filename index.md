@@ -16,7 +16,6 @@
 
 ## Microsoft
 
-- [有名企業のエンジニア向け研修資料まとめ](https://qiita.com/KNR109/items/f3268b311e11d5b821c0)
 - [マイクロソフトイグナイト BOOK OF NEWS](https://news.microsoft.com/ignite-2022-book-of-news/ja/)
 - [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
 - [Microsoft Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
@@ -37,6 +36,7 @@
 
 ## ウェビナーやワークショップ
 
+- [有名企業のエンジニア向け研修資料まとめ](https://qiita.com/KNR109/items/f3268b311e11d5b821c0)
 - [ウェビナーやワークショップ](https://www.microsoft.com/ja-jp/biz/cloud-platform)
 - [Azure Advisor を読み解いて Azure のコストを最適化- Azure ベストプラクティス 第 6 回](https://mktoevents.com/Microsoft+Event/335135/157-GQE-382?aaid=azureinfrajp)
 - [EoS を契機にしたクラウドシフトと Azure VMwareSolution の利用シナリオと最新動向ご紹介](https://mktoevents.com/Microsoft+Event/333494/157-GQE-382?aaid=azureinfrajp)

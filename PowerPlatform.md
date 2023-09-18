@@ -137,6 +137,7 @@
 
 ## Power BI
 
+- [Power BIにおけるデータソースのパラメーター化](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_datasoource_parameter/)
 - [2023年版データ分析の100冊](https://qiita.com/aokikenichi/items/29165f719d6e5631d7d0)
 - [複数のマトリックス表をPower Queryでピボットテーブルに変換](https://hamachan.info/excel2019-powerquery-pivot/)
 - [Excel Power Queryの13個の重要な機能](https://www.ceodata.com/excel-power-query/)

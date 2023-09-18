@@ -412,6 +412,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ### Chat GPT
 
+- [話題のOpen Interpreterを使ってみた、そして、驚いた](https://qiita.com/yanagih/items/466a5560bd771e2b9030)
 - [ChatGPTでは的確な“指示出し”が大切！ セントラルオフィスが「プロンプト」のコツをまとめた資料を公開](https://www.mdn.co.jp/news/6580)
 - [ChatGPT/Co-Pilotで改めてわかる「プログラミング」とはどんな作業だったのか｜shi3z (note.com)](https://note.com/shi3zblog/n/ndc6834fefb75)
 - [今さら聞けないChatGPT「Code Interpreter」、データ分析能力が飛躍的向上のワケ](https://www.sbbit.jp/article/cont1/120122)
@@ -453,6 +454,18 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Azure 組み込みロール](https://learn.microsoft.com/ja-jp/azure/role-based-access-control/built-in-roles)
 - [Azure CLI を使って Azure RBAC のロール定義を一覧で出力する](https://zenn.dev/ymasaoka/articles/output-list-azure-rbac-definitions-azure-cli)
 - [Azure ロールの定義を一覧表示する](https://learn.microsoft.com/ja-jp/azure/role-based-access-control/role-definitions-list)
+
+## Azure Resource Manager
+
+- [Azure portal を使用してテンプレートをエクスポートする](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/templates/export-template-portal)
+- [Azure Design Studio](https://github.com/chunliu/AzureDesignStudio)
+- [【Azure】ARMテンプレートを使おう！](https://qiita.com/kanazawa1226/items/708c176cee313c77bb00)
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
+- [azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas)
+- [第16回　Azureのリソース管理（2）テンプレートからのデプロイ (小澤昌樹)](https://www.school.ctc-g.co.jp/columns/ozawa4/ozawa416.html)
+- [Resource Explorer (azure.com)](https://resources.azure.com/)
+- [Azure のリソース定義を JSON で取得したい](https://www.syuheiuda.com/?p=4381)
+- [Azure portal を使用してテンプレートをエクスポートする](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/templates/export-template-portal)
 
 ## Azure Sentinel
 

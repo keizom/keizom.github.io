@@ -93,6 +93,7 @@
 
 ## css
 
+- [【CSS】CSS Maskingを使って、フェードアウトするUIを実現する。](https://qiita.com/degudegu2510/items/55b63df4f80e7b95ece6)
 - [【第5弾】少しのコードで実装可能な10のCSS小技集](https://www.webcreatorbox.com/tech/css-tips-5)
 - [アプリケーション カスタマイザーでカスタム CSS をロードする](https://www.illuminate-j.jp/blog/spfx06_cssload)
 - [ここまでできる！CSS最新テクニックと書き方30選](https://photoshopvip.net/148200)

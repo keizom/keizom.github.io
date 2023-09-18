@@ -175,6 +175,10 @@
 
 - [【オンライン セミナー】 OneDrive for Business を便利に使うための設定大解説!](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-07-OneDrive-for-Business-Great-commentary-MCW0004581.html)
 
+## Microsoft Graph Tools
+
+- [GitHub - Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
+
 ## Microsoft Graph
 
 - [Microsoft Graph API を利用して Azure AD のサインイン アクティビティ レポートを CSV ファイルで取得する PowerShell スクリプト](https://learn.microsoft.com/ja-jp/archive/blogs/jpazureid/microsoft-graph-api-signin-activity-reports)
@@ -184,7 +188,6 @@
 - [Microsoft Graph を使ってみよう : サイト、リスト、リストアイテムリソース (SharePoint)](https://qiita.com/kenakamu/items/61ff83a2b381bc3e9cdb)
 - [Graph API で Azure AD B2C のコンシューマーユーザーを作成する (C#)](https://blog.beachside.dev/entry/2022/09/02/224500)
 - [Announcing “A Lap Around Microsoft Graph Toolkit” Blog Series - Microsoft 365 Developer Blog](https://developer.microsoft.com/en-us/graph/blogs/announcing-a-lap-around-microsoft-graph-toolkit-blog-series/)
-- [GitHub - Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
 - [GitHub - Global Microsoft 365 Developer Bootcamp 2019 Tokyo：Microsoft Graph API](https://gist.github.com/rnakamuramartiny/13ae56ec3d97a468354c044bfdeea6df)
 - [Microsoft Graph - OneDrive API (C#) を使ったサンプル コード](https://docs.microsoft.com/ja-jp/archive/blogs/office_client_development_support_blog/microsoft-graph-onedrive-api-c-sample-code)
 - [Microsoft Graph (Unified API) のメリットとその使い方](https://tsmatz.wordpress.com/2015/06/22/office-365-unified-api/)
