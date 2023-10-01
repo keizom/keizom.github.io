@@ -25,3 +25,5 @@
 - [元Appleエンジニア作！注目のGmail専用メールアプリ「Mimestream」がすごい](https://pc.watch.impress.co.jp/docs/column/macinfo/1525500.html)
 - [【TIPS】MacBookのCommandとControlを入れ替える方法(Windowsユーザーおすすめ)](https://engineer-lifestyle-blog.com/lifestyle/mac/control-command-key-bind-swap/)
 - [MacBook｜ControlとCommandキーの変更方法【Mac初心者におすすめ】](https://smartchannel.jp/macbook-hhkb-keyboard-settei/)
+- [【macOS Sonoma】Macにウィジェットを置いてみた。新機能の手順と感想をお伝えします](https://www.gizmodo.jp/2023/09/how-to-use-macos-sonoma-new-feature.html)
+- [Macのゴチャゴチャした「メニューバー」をすっきりさせよう！](https://pc.watch.impress.co.jp/docs/column/macinfo/1533360.html)

@@ -127,11 +127,17 @@
 
 ## GitHub
 
+- [ちょっとした気配りで皆を幸せにする GitHub の使い方](https://qiita.com/squid-cat/items/7166317e60d3ff96ccb7)
 - [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
 - [gitのブランチの命名規則](https://qiita.com/luccafort/items/c91e817e78f1167221cc)
 - [GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
 - [GitHub Copilot Chatを触ることでWindows Copilotの後の世界を体感できる](https://logmi.jp/tech/articles/328912)
 - [GitHub - Codespaces](https://github.co.jp/features/codespaces)
+
+## GitHub Copilot
+
+- [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
+- [「GitHub Copilot Chat」ベータ版が個人でも利用可能に ～AIがプログラミングに助言](https://forest.watch.impress.co.jp/docs/news/1532976.html)
 
 ## GoogleApps
 
@@ -159,12 +165,18 @@
 
 ## Python
 
+- [PythonでWeb開発を学ぶ上で確認するべきGitHubリポジトリ 18選 2023年版](https://zenn.dev/nameless_sn/articles/18_awesome_python_repos_2023)
 - [【2023年】プログラミング・Pythonの無料おすすめ学習教材13選](https://qiita.com/skillup_ai/items/75e892e166f41ca85bf8)
 - [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
 - [Python 学習 (パイソン) 企業 IT](https://news.mynavi.jp/top/business/enterprise/python_engineer/)
 - [無料で読める、東大／京大の「Python 教科書」電子書籍：AI・機械学習の無料電子書籍 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2105/26/news025.html)
 - [オライリー「Think Python」第 2 版 ダウンロード](https://cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython2.pdf)
 - [Python 早見表](https://chokkan.github.io/python/index.html)
+
+## swagger
+
+- [今日から始めるswagger入門（最低限書けるようになる）](https://qiita.com/yuya_sega/items/0b87e8e7d494f6fa3d69)
+
 
 ## Tool
 

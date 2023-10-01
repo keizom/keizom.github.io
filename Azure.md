@@ -155,6 +155,32 @@
 
 - [Azure Bastion 試したよ](https://sshzk.blogspot.com/2019/07/azure-bastion.html)
 
+## Azure Bicep
+
+- [Bicep ツールのインストール](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/install)
+- [Bicep に関するベスト プラクティス](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/best-practices)
+- [Bicep のパラメーター](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/parameters)
+- [Bicep の変数](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/variables)
+- [ARM テンプレートのベスト プラクティス](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/templates/best-practices#template-limits)
+- [Bicep への ARM テンプレート JSON の逆コンパイル](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/decompile?tabs=azure-cli)
+- [Bicep を使用するために Azure リソースと JSON ARM テンプレートを移行する](https://learn.microsoft.com/ja-jp/training/modules/migrate-azure-resources-bicep/)
+- [Bicep とは](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/overview?tabs=bicep)
+- [Bicep へ移行する](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/migrate)
+- [クイックスタート: Visual Studio Code を使用して Bicep ファイルを作成する](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code?tabs=CLI)
+- [bicep](https://github.com/Azure/bicep)
+- [Azure Resource Manager QuickStart Templates](https://github.com/Azure/azure-quickstart-templates)
+- [Azure Bicep について簡単にまとめ](https://zenn.dev/kentaro36/articles/a465f641e3c7c8)
+- [Azureの既存リソースをBicep（IaC）化するガイダンス](https://zenn.dev/microsoft/articles/guidance-for-migrate-to-bicep)
+- [Azure Bicep について](https://zenn.dev/kentaro36/articles/a465f641e3c7c8)
+- [Azure Bicep を使ってみる (1)](https://qiita.com/tetsuya-ooooo/items/9812d30d55b72044fd4d)
+- [Azure Logic AppsのIaC化にはBicepがおススメです](https://qiita.com/t_ymgt/items/4652323dd9cd2a2ad84b)
+- [Bicep と Azure PowerShell を使用してリソースをデプロイする](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/deploy-powershell)
+- [ポータルで作成したAzure Logic Appsをインフラのコード化（IaC）で再現（ARMテンプレートからBicepに変換する裏技付き）](https://qiita.com/fsdg-takada/items/5c2c104afa04110f22c7)
+- [既存のApp ServiceをBicepでテンプレート化してみたメモ](https://zenn.dev/reifujimura/articles/appservice-to-bicep)
+- [AzureのBicepが便利な件について](https://qiita.com/ShogoMatsumoto/items/a66234b27ee29a2f4c08)
+- [ARM テンプレートと Azure PowerShell を使用したリソースのデプロイ](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/templates/deploy-powershell)
+- [Bicep と Azure CLI を使用してリソースをデプロイする方法](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/deploy-cli)
+
 ## Azure Bot Service
 
 - [ノンコーディングで簡易 FAQ Slack Bot を作ってみた話（QnA Maker ＋ Azure Bot Service）](https://zuvuyalink.net/nrjlog/archives/4368)
@@ -390,6 +416,9 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [「ChatGPT」でグラフや表を作成--エディションごとの機能と作成手順](https://japan.zdnet.com/article/35209088/)
+- [凄すぎると話題の「Open Interpreter」の始め方・使い方まとめ](https://qiita.com/ot12/items/d2672144b914cb6f252f)
+- [Azure で ChatGPT × Cognitive Search を使ったエンタープライズサーチを実現](https://qiita.com/nohanaga/items/803c09b5a3a4e2d1776f)
 - [Azure OpenAI Serviceの世界へようこそ](https://note.com/fushiroyama/n/n584473dd57b2)
 - [.NET (C#) SDK for Azure OpenAI 開発入門 (GPT-3.5 Turbo を使いコンソールで動く chatbot)](https://qiita.com/chomado/items/23947eaf48a75ae130ea)
 - [Power Platform × Azure OpenAI の価値](https://qiita.com/Takashi_Masumori/items/bef0a07a521cae238064)
@@ -494,6 +523,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Static Web Apps
 
+- [Azure Static Web Apps のローカル実行方法まとめ ＃Azureリレー](https://tech-blog.cloud-config.jp/2021-11-23-azure-static-web-apps-local/)
 - [SPAをStatic Web Appsにデプロイ、本番環境で使ってみた](https://qiita.com/keiotoi/items/d019303d10b11ccf568e)
 - [Static React Web App + Functions with C# API and SQL Database on Azure](https://learn.microsoft.com/ja-jp/samples/azure-samples/todo-csharp-sql-swa-func/todo-csharp-sql-swa-func/)
 - [Azure Static Web Apps を構成する](https://learn.microsoft.com/ja-jp/azure/static-web-apps/configuration)
@@ -597,6 +627,10 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Windows Virtual Desktop Event](https://info.microsoft.com/ww-landing-windows-virtual-desktop.html)
 - [Windows Virtual Desktop 最短構築方法解説](https://www.gmo.jp/report/single/?art_id=261)
 
+## Azure Monitor
+
+- [Azure Monitor エージェントの概要](https://learn.microsoft.com/ja-jp/azure/azure-monitor/agents/agents-overview)
+- [Microsoft Sentinel とは](https://learn.microsoft.com/ja-jp/azure/sentinel/overview)
 ## Azure VM
 
 - [「トラステッド起動」が既定になり、Azure VMはデプロイ時点で“安全”に](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news003.html)
@@ -672,3 +706,5 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [[速報] Microsoft Fabric の試用版を有効にする方法（2023/05/24 時点）](https://qiita.com/yugoes1021/items/9427f70fdab5a73e351a)
 - [Microsoftの新データ分析プラットフォーム「Fabric」　CopilotとOneLakeで直感的なUI](https://www.itmedia.co.jp/news/articles/2305/24/news086.html)
 - [OneLake File Explorer](https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer)
+- [セルフサービスBIユーザーのためのMicrosoft Fabric1](https://marshal115.hatenablog.com/entry/2023/06/19/230347)
+- [セルフサービスBIユーザーのためのMicrosoft Fabric3](https://marshal115.hatenablog.com/entry/2023/07/16/233247)

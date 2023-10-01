@@ -108,6 +108,8 @@
 
 ## Power Automate
 
+- [Power Automate から Azure Automation を呼び出してクラウド上で PowerShell を実行してみる](https://idea.tostring.jp/?p=5899)
+- [Power Automate から PowerShell を実行する方法](https://jpdynamicscrm.github.io/blog/powerautomate/Execute-PowerShell/)
 - [202009_PowerAutomate_Handson](https://github.com/rnakamuramartiny/Share_RPACommunity/tree/master/202009_PowerAutomate_Handson)
 - [Azure 活用！Power Automate ならノーコードで顔写真から年齢や性別が判断できる！ハンズオンイベント！](https://rpa-bank.com/column/40730)
 - [Microsoft Flow から SharePoint REST サービス呼び出し](https://docs.microsoft.com/ja-jp/archive/blogs/office365-tech-japan/invoke-sporestservice-by-using-flow)
@@ -137,6 +139,10 @@
 
 ## Power BI
 
+- [Power BIで日付テーブルを作成する方法 – 日付の英語表記を日本語に変換](https://blogmikazuki.com/power-bi-calendar-table/)
+- [日付型フォーマット](https://lounge.unifinity.co.jp/hc/ja/articles/360010503191-%E6%97%A5%E4%BB%98%E5%9E%8B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88)
+- [Power BI 勉強帳：日付（カレンダー）テーブル](https://qiita.com/y-komuro/items/de3e2cb3dea129260079)
+- [SharePointのフォルダ構造（親子階層）を可視化する](https://marshal115.hatenablog.com/entry/2023/07/27/182154)
 - [Power BIにおけるデータソースのパラメーター化](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_datasoource_parameter/)
 - [2023年版データ分析の100冊](https://qiita.com/aokikenichi/items/29165f719d6e5631d7d0)
 - [複数のマトリックス表をPower Queryでピボットテーブルに変換](https://hamachan.info/excel2019-powerquery-pivot/)

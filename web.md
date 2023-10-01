@@ -33,6 +33,8 @@
 
 ## html
 
+- [40行で完成！ハンバーガーメニューを作るCSSチュートリアル【HTML/CSS/Sass/JS】](https://www.youtube.com/watch?app=desktop&v=9sDuEL2dPe4)
+- [Appleデバイスの歴代モデルすべてを比較できて便利！ iPhone, iPadなどの画面サイズや機能のまとめ](https://coliss.com/articles/build-websites/operation/work/complete-guide-for-ios-displays.html)
 - [朗報！ リニューアルされたGoogle Fontsがかなり使いやすくなってる、フリーフォントとアイコンを探すときに便利](https://coliss.com/articles/build-websites/operation/work/google-fonts-redesign-2023.html)
 - [これはすごい便利！ HTMLはdiv一つ、あとはCSSをコピペするだけで500種類以上のローダーが簡単に実装できる -CSS Loaders](https://coliss.com/articles/build-websites/operation/css/collection-of-css-loading-animations.html)
 - [CSSで角丸を美しく実装するテクニック、ネストされた外側と内側を相対角丸の美しいバランスで実装](https://coliss.com/articles/build-websites/operation/css/inner-radius-design-tip-with-css.html)
@@ -93,6 +95,9 @@
 
 ## css
 
+- [CSSで実装できる、最新HTMLテクニック・スニペットまとめ 2023年9月版](https://photoshopvip.net/151016)
+- [CSSはこんなにも進化していたのか！ CSSのかなり高度なテクニック -Expert CSS: The CPU Hack](https://coliss.com/articles/build-websites/operation/css/expert-css-the-cpu-hack.html)
+- [Webデザインの配色に悩んだときの参考になる！ UI要素のさまざまなカラースキームをまとめた配色サイト -Spectrum.Art](https://coliss.com/articles/build-websites/operation/work/color-scheme-for-web-ui.html)
 - [【CSS】CSS Maskingを使って、フェードアウトするUIを実現する。](https://qiita.com/degudegu2510/items/55b63df4f80e7b95ece6)
 - [【第5弾】少しのコードで実装可能な10のCSS小技集](https://www.webcreatorbox.com/tech/css-tips-5)
 - [アプリケーション カスタマイザーでカスタム CSS をロードする](https://www.illuminate-j.jp/blog/spfx06_cssload)
@@ -133,6 +138,8 @@
 
 ## JavaScript
 
+- [npm コマンド一覧 チートシート](https://commte.net/nextjs-npmCommands)
+- [JavaScript入力コントロール「InputManJS」に待望のリッチテキストエディタが登場！ Webフォームで差を付けよう](https://codezine.jp/article/detail/18233)
 - [jQueryへの別れ：現代的な開発のための必須JavaScriptメソッド](https://qiita.com/figueiredoluiz/items/0e51c1aec790f053fd9c)
 - [【JavaScript】動画以外の要素でもピクチャーインピクチャーできるらしい！](https://qiita.com/degudegu2510/items/0406363d982fabf30c84)
 - [動かして学ぶ！ Rust の言語仕様](https://codezine.jp/article/detail/15083)
