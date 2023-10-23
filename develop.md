@@ -136,6 +136,8 @@
 
 ## GitHub Copilot
 
+- [【GitHub Copilot】5分で始める！GitHub EnterpriseでGitHub Copilotを使ってみよう](https://aadojo.alterbooth.com/entry/2023/04/02/230938)
+- [How GitHub Copilot Transforms Development Productivity](https://speakerdeck.com/kurotaky/how-github-copilot-transforms-development-productivity?slide=2)
 - [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 - [「GitHub Copilot Chat」ベータ版が個人でも利用可能に ～AIがプログラミングに助言](https://forest.watch.impress.co.jp/docs/news/1532976.html)
 
@@ -189,7 +191,7 @@
 
 ## VisualStudio Code
 
-- [How GitHub Copilot Transforms Development Productivity](https://speakerdeck.com/kurotaky/how-github-copilot-transforms-development-productivity?slide=2)
+- [君はVS Codeのデバッグの知られざる機能について知っているか](https://qiita.com/_ken_/items/c5aa4841be74b06530b4)
 - [Figma for VS Codeを使ってCSS実装する時のおすすめポイント](https://goodpatch-tech.hatenablog.com/entry/figma-for-vscode)
 - [チュートリアル: Visual Studio Code を使用して .NET コンソール アプリケーションを作成する](https://learn.microsoft.com/ja-jp/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-7-0)
 
@@ -309,6 +311,7 @@
 
 ## WSL
 
+- [WSL2 ミラーモードでDocker使えないのは困る](https://qiita.com/shigeokamoto/items/fc9fa1a395f3fd72fafa)
 - [【WSL 入門】第 1 回　 Windows 10 標準 Linux 環境 WSL を始めよう：IT の教室 - ＠IT](https://www.atmarkit.co.jp/ait/articles/1903/18/news031.html)
 - [「Windows×OpenSSH×WSL 2 ＝ほぼほぼネイティブな Linux」に見えてしまう、の作り方](https://www.atmarkit.co.jp/ait/articles/2007/15/news005.html)
 - [WSL2 をインストールして Windows で Ubuntu を使う方法](https://tombomemo.com/wsl2-install-settings/)

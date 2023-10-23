@@ -218,6 +218,10 @@
 
 - [CSP の Azure 明細を PowerShell で整形する 日々徒然](https://blog.o365mvp.com/2020/04/07/format-csp-reconcile-with-powershell/)
 
+## Azure Databricks 
+
+- [はじめに: アカウントとワークスペースのセットアップ](https://learn.microsoft.com/ja-jp/azure/databricks/getting-started/)
+
 ## Azure Data Factory
 
 - [Azure Data Factory を触ってみる #Azure リレー](https://tech-blog.cloud-config.jp/2022-06-13-adf-hands-on/)
@@ -295,6 +299,7 @@
 ## Azure Front Door
 
 - [2021年は Azure Front Door を使いたおしたい人のために、おさえておきたい4つの機能](https://qiita.com/hoisjp/items/29b6c9ed7528ab09fb2f)
+- [【Azure】WebサーバをいじらずにHTTPレスポンスヘッダを追加／変更する（Front Door編）](https://atmarkit.itmedia.co.jp/ait/articles/2310/18/news029.html)
 
 ## Azure Functions
 
@@ -441,6 +446,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ### Chat GPT
 
+- [ついに日本で利用可能になったChatGPTの強力ライバル「Claude」使用レビュー、テキストファイルやPDFファイルの認識も可能でランチの相談からコーディング補助までサクサク応答](https://gigazine.net/news/20231019-claude-chatgpt-rival-chat-ai/)
 - [話題のOpen Interpreterを使ってみた、そして、驚いた](https://qiita.com/yanagih/items/466a5560bd771e2b9030)
 - [ChatGPTでは的確な“指示出し”が大切！ セントラルオフィスが「プロンプト」のコツをまとめた資料を公開](https://www.mdn.co.jp/news/6580)
 - [ChatGPT/Co-Pilotで改めてわかる「プログラミング」とはどんな作業だったのか｜shi3z (note.com)](https://note.com/shi3zblog/n/ndc6834fefb75)

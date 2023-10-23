@@ -15,6 +15,33 @@
 # SharePoint Server
 
 - [SharePoint Server の認証の概要](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/authentication-overview)
+- [SharePoint Server でセキュリティ強化を計画する](https://learn.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/security-hardening)
+- [SharePoint Server の技術ダイアグラム](https://learn.microsoft.com/ja-jp/sharepoint/technical-reference/technical-diagrams)
+- [SharePoint Server 2016、2019、およびサブスクリプション エディションの MinRole および関連サービスの説明](https://learn.microsoft.com/ja-jp/SharePoint/administration/description-of-minrole-and-associated-services-in-sharepoint-server-2016)
+- [SharePoint 2016 – TCP/IP Ports](https://blogit.create.pt/fabiocarvalho/2017/02/14/sharepoint-2016-tcpip-ports/)
+- [チュートリアル:Windows VM のシステム割り当てマネージド ID を使用して Azure SQL にアクセスする](https://learn.microsoft.com/ja-jp/azure/active-directory/managed-identities-azure-resources/tutorial-windows-vm-access-sql)
+- [移行の概要: SQL Server から Azure SQL Managed Instance](https://learn.microsoft.com/ja-jp/azure/azure-sql/migration-guides/managed-instance/sql-server-to-managed-instance-overview?view=azuresql)
+- [移行ガイド: SQL Server から Azure SQL Managed Instance へ](https://learn.microsoft.com/ja-jp/azure/azure-sql/migration-guides/managed-instance/sql-server-to-managed-instance-guide?view=azuresql)
+- [Azure SQL Managed Instance とは](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview?view=azuresql)
+- [Azure SQL での Azure AD 認証を構成して管理する](https://learn.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-configure?view=azuresql&tabs=azure-powershell)
+- [Microsoft Entra ハイブリッド ID ソリューションの適切な認証方法を選択する](https://learn.microsoft.com/ja-jp/azure/active-directory/hybrid/connect/choose-ad-authn)
+- [Azure Active Directory 認証を使用する](https://learn.microsoft.com/ja-jp/azure/azure-sql/database/authentication-aad-overview?view=azuresql)
+- [Azure SQL Database と SQL Managed Instance のセキュリティ機能の概要](https://learn.microsoft.com/ja-jp/azure/azure-sql/database/security-overview?view=azuresql)
+- [Azureで利用可能なPaaSのSQL Serverの特徴を学ぼう［後編］――Azure SQL DatabaseとAzure SQL Database Managed Instanceの違い](https://atmarkit.itmedia.co.jp/ait/articles/1904/12/news010_2.html)
+- [Azure SQL Managed Instanceを使用して SharePoint Server を展開する](https://learn.microsoft.com/ja-jp/SharePoint/administration/deploy-azure-sql-managed-instance-with-sharepoint-servers)
+- [SharePoint Server 2016、2019、およびサブスクリプション エディションでの MinRole サーバーの展開の計画](https://learn.microsoft.com/ja-jp/sharepoint/install/planning-for-a-minrole-server-deployment-in-sharepoint-server)
+- [クイック スタート:Azure SQL マネージド インスタンスの作成](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql)
+- [クイック スタート:ARM テンプレートを使用して Azure SQL Managed Instance を作成する](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/create-template-quickstart?view=azuresql&tabs=azure-powershell)
+- [Azure SQL Database と Azure SQL Managed Instance の接続とクエリに関する記事](https://learn.microsoft.com/ja-jp/azure/azure-sql/database/connect-query-content-reference-guide?view=azuresql)
+- [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure?view=azuresql)
+- [Azure での高可用性 SharePoint Server 2016 ファームの実行](https://learn.microsoft.com/ja-jp/azure/architecture/reference-architectures/sharepoint/)
+- [Windows 認証を使用してSQL サーバーに接続するときに "SSPI コンテキストを生成できません" エラー](https://learn.microsoft.com/ja-JP/troubleshoot/sql/database-engine/connect/cannot-generate-sspi-context-error)
+- [Analysis Services と Kerberos の制約付き委任 (KCD) の構成](https://learn.microsoft.com/ja-jp/analysis-services/instances/install-windows/configure-analysis-services-and-kerberos-constrained-delegation-kcd?view=asallproducts-allversions)
+- [認証方法を計画する (SharePoint Foundation 2010)](https://learn.microsoft.com/ja-jp/previous-versions/office/sharepoint-foundation-2010/cc288475(v=office.14)?redirectedfrom=MSDN)
+- [Kerberos 認証を構成する (Office SharePoint Server)](https://learn.microsoft.com/ja-jp/previous-versions/office/sharepoint-2007-products-and-technologies/cc263449(v=office.12)?redirectedfrom=MSDN)
+- [SharePoint と　Kerberos認証](https://mossmomo.exblog.jp/13137689/)
+- [Office Online Server 概要](https://learn.microsoft.com/ja-jp/officeonlineserver/office-online-server-overview)
+- [Azure SQL Managed Instance の接続アーキテクチャ](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connectivity-architecture-overview?view=azuresql&tabs=current)
 
 ## install
 
@@ -168,8 +195,11 @@
 
 ## Office Online Server
 
+- [Install & Configure Office Online Server](https://social.technet.microsoft.com/wiki/contents/articles/34289.install-configure-office-online-server.aspx)
+- [SharePoint 2016: Installation Of Office Online Server (Part 1)](https://social.technet.microsoft.com/wiki/contents/articles/37303.sharepoint-2016-installation-of-office-online-server-part-1.aspx)
+- [Office Online Server を展開する](https://learn.microsoft.com/ja-jp/officeonlineserver/deploy-office-online-server)
+- [Plan Office Online Server](https://learn.microsoft.com/en-us/officeonlineserver/plan-office-online-server)
 - [Office Online Server を計画する](https://docs.microsoft.com/ja-jp/officeonlineserver/plan-office-online-server)
-- [Office Online Server を展開する](https://docs.microsoft.com/ja-jp/officeonlineserver/deploy-office-online-server)
 - [Office Online Server (OOS) のインストールと構成](https://shanqiai.weblogs.jp/sharepoint_technical_note/2016/02/office-online-server-preview-install-configuration.html)
 - [Exchange 組織に Office Online Server をインストールする](https://docs.microsoft.com/ja-jp/Exchange/plan-and-deploy/install-office-online-server?redirectedfrom=MSDN&view=exchserver-2019)
 - [Office Online Server を使ってみる](http://sptakesato.blog.fc2.com/blog-entry-20.html)

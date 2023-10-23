@@ -55,6 +55,8 @@
 - [Office 365 管理 API を使って SharePoint Online の監査ログを取得する](https://zenn.dev/karamem0/articles/2020_09_02_150000)
 - [Microsoft365 Microsoft Exchange Onlineの監査ログ（後編）](https://engineers.ntt.com/entry/2021/10/06/103025)
 - [Office 365 の監査ログを全部取得したい？](https://blog.rykoma.net/2019/07/28/1394/)
+- [Office 365 管理アクティビティ API で監査ログを取得する](https://zenn.dev/masakikato/articles/o365-managementapi-quickstart)
+- [Office 365 テナント管理者の同意を得る](https://learn.microsoft.com/ja-jp/office/office-365-management-api/get-started-with-office-365-management-apis)
 
 ## Office 365 PowerShell
 
@@ -77,8 +79,14 @@
 
 > 2022 年 12 月以降に 2 つの PowerShell モジュール (MSOL & AAD) が廃止となる予定
 
+## Microsoft 365 Copilot
+
+- [Announcing Microsoft 365 Copilot general availability and Microsoft 365 Chat](https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availability-and-microsoft-365-chat/)
+- [The AI-Powered Future of Work](https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot)
+
 ## Developer Subscription
 
+― [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
 - [Microsoft 365 開発者サンドボックス サブスクリプションの設定](https://docs.microsoft.com/ja-jp/office/developer-program/microsoft-365-developer-program-get-started)
 - [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
 - [Office 365 評価版サイト申し込み](https://www.microsoft.com/ja-jp/microsoft-365/enterprise/compare-office-365-plans)
@@ -170,6 +178,21 @@
 - [Teams のチームとチャネルの構成はこうせい！](https://blog.trainocate.co.jp/blog/teams01_020)
 - [Teams の会話を PST ファイルとしてエクスポートが可能！ExchangeOnline ライセンスが必要](https://1manit.work/windows/office365/teams/exportdata-pst/)
 - [ノンコーディングで Microsoft Teams のチームをすべて取得する](https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
+
+## ライセンス
+
+- [PowerShell を使用して Microsoft 365 ライセンスをユーザー アカウントに割り当てる](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/assign-licenses-to-user-accounts-with-microsoft-365-powershell?view=o365-worldwide)
+- [Microsoft Graph PowerShell SDK を使用したライセンス管理操作の紹介](https://jpazureid.github.io/blog/azure-active-directory/operating-license-with-microsoft-graph/)
+- [Microsoft Graph PowerShell SDK を使用したライセンス管理操作の紹介 (一括設定編)](https://jpazureid.github.io/blog/azure-active-directory/operating-license-with-microsoft-graph2/)
+
+## セルフサービスサインアップ
+
+- [セルフサービス サインアップで登録されたドメインの対処方法](https://jpmessaging.github.io/blog/%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
+― [セルフサービス サインアップで登録されたドメインの対処方法](https://jpmessaging.github.io/blog/%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
+― [organizationでのセルフサービス サインアップの使用](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide#available-self-service-program)
+― []()
+― []()
+
 
 ## OneDrive
 

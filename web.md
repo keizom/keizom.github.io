@@ -33,6 +33,7 @@
 
 ## html
 
+- [パスキーに入門してみた話](https://qiita.com/Kodak_tmo/items/9fb6f1d65621cb5e1f90)
 - [40行で完成！ハンバーガーメニューを作るCSSチュートリアル【HTML/CSS/Sass/JS】](https://www.youtube.com/watch?app=desktop&v=9sDuEL2dPe4)
 - [Appleデバイスの歴代モデルすべてを比較できて便利！ iPhone, iPadなどの画面サイズや機能のまとめ](https://coliss.com/articles/build-websites/operation/work/complete-guide-for-ios-displays.html)
 - [朗報！ リニューアルされたGoogle Fontsがかなり使いやすくなってる、フリーフォントとアイコンを探すときに便利](https://coliss.com/articles/build-websites/operation/work/google-fonts-redesign-2023.html)
@@ -95,6 +96,7 @@
 
 ## css
 
+- [CSSをコピペするだけで簡単に実装できる！ ディズニーからインスピレーションを得た、美しいローディング](https://coliss.com/articles/build-websites/operation/css/disney-inspired-loading-animation.html)
 - [CSSで実装できる、最新HTMLテクニック・スニペットまとめ 2023年9月版](https://photoshopvip.net/151016)
 - [CSSはこんなにも進化していたのか！ CSSのかなり高度なテクニック -Expert CSS: The CPU Hack](https://coliss.com/articles/build-websites/operation/css/expert-css-the-cpu-hack.html)
 - [Webデザインの配色に悩んだときの参考になる！ UI要素のさまざまなカラースキームをまとめた配色サイト -Spectrum.Art](https://coliss.com/articles/build-websites/operation/work/color-scheme-for-web-ui.html)
