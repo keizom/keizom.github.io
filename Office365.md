@@ -204,6 +204,8 @@
 
 ## Microsoft Graph
 
+- [Microsoft Graph PowerShell SDK を使用して Exchange Online からメールを送信する](https://blog.rykoma.net/2022/05/14/1751/)
+- [microsoft-graph-powershell-microsoft-entra-id](https://charbelnemnom.com/microsoft-graph-powershell-microsoft-entra-id)
 - [Microsoft Graph API を利用して Azure AD のサインイン アクティビティ レポートを CSV ファイルで取得する PowerShell スクリプト](https://learn.microsoft.com/ja-jp/archive/blogs/jpazureid/microsoft-graph-api-signin-activity-reports)
 - [Microsoft Graph PowerShell SDK を使用した Microsoft 365 のライセンス管理の方法](https://blog.rykoma.net/2021/08/30/1682/)
 - [ゲストユーザーの最終サインイン日時取得 – Graph PowerShell SDK 利用](https://www.illuminate-j.jp/blog/m365_27_msgraph_signinactivity)
@@ -242,3 +244,4 @@
 ## Microsoft Viva
 
 - [できるMicrosoft Viva【改訂版】](https://info.microsoft.com/JA-EMPEX-CNTNT-FY23-02Feb-27-Microsoft-Viva-Revised-Edition-SRGCM9341_LP01-Registration---Form-in-Body.html)
+- [Viva の機能へのアクセスを制御する](https://learn.microsoft.com/ja-jp/viva/feature-access-management)

@@ -29,7 +29,11 @@
 - [Ignite UI for jQuery](https://jp.infragistics.com/support/product-help-downloads/ignite-ui-help)
 - [.NET Core に対応した InputMan で次世代のアプリ配布方法を試す（自己完結型編）](https://devlog.grapecity.co.jp/inputman-dotnetcore-self-contained-publishsinglefile/)
 - [.NET 開発コンポーネントセット](https://www.grapecity.co.jp/developer/componentone)
--
+
+## STUDIO
+
+- [導入前に知っておこう！STUDIOの特徴とよくある質問](https://blog.studio.design/ja/posts/studio-overview)
+- [FigmaからコピペでWebサイトが完成！ HTMLもCSSも書かないノーコードツール「STUDIO」がスゴすぎる](https://webtan.impress.co.jp/e/2023/10/03/45597)
 
 ## html
 
@@ -93,9 +97,14 @@
 - [Tailwind CSS の実装やデバッグに便利！ 各セレクタに対応したプロパティや値を表示するデベロッパーツールの機能拡張 -Tailwind DX](https://coliss.com/articles/build-websites/operation/css/devtools-extension-for-tailwind-css.html)
 - [UI デザインに特化された配色ツール！ Web サイトやスマホアプリで使用する色に悩んだときに便利 -Goodpalette](https://coliss.com/articles/build-websites/operation/design/color-palette-for-ui-design.html)
 - [毎日ちょっとずつ、デザインを学ぼう](https://chot.design/)
+- [ユーザー目線に配慮した入力フォームのデザインを考える〜より良いフォームにするために](https://note.com/chot_designer/n/nd064bced65c8)
+- [Webサイトやスマホアプリで注目されているUXデザインの知識やテクニックが網羅された解説書 -UXデザイン100の原則](https://coliss.com/articles/book-review/isbn-9784802512763.html)
+- [もうWeb制作初心者はHTML/CSS/JavaScript以外やるな](https://itokoba.com/archives/7598#toc3)
 
 ## css
 
+- [知っておくと便利！ CSSだけで要素がスクロールできるかどうかを検出する方法](https://coliss.com/articles/build-websites/operation/css/solved-by-css-scroll-driven-animations-detect-if-can-scroll-or-not.html)
+- [古いリセットCSSからはもう卒業！ モダンブラウザに最適化された新しいリセットCSS -A (more) Modern CSS Reset](https://coliss.com/articles/build-websites/operation/css/a-more-modern-css-reset.html)
 - [CSSをコピペするだけで簡単に実装できる！ ディズニーからインスピレーションを得た、美しいローディング](https://coliss.com/articles/build-websites/operation/css/disney-inspired-loading-animation.html)
 - [CSSで実装できる、最新HTMLテクニック・スニペットまとめ 2023年9月版](https://photoshopvip.net/151016)
 - [CSSはこんなにも進化していたのか！ CSSのかなり高度なテクニック -Expert CSS: The CPU Hack](https://coliss.com/articles/build-websites/operation/css/expert-css-the-cpu-hack.html)
@@ -128,6 +137,7 @@
 - [これなら簡単で便利！最近見かける CSS のさまざまなコンポーネントをコピペで利用できる -CodyHouse Framework コリス](https://coliss.com/articles/build-websites/operation/css/codyhouse-framework-2-0.html)
 - [CSS Grid を Chrome デベロッパーツールで検証、デバッグする方法を解説](https://coliss.com/articles/build-websites/operation/css/inspect-css-grid-by-chrome-devtools.html)
 - [2020 年の CSS のまとめ、Flexbox や CSS Grid の使用状況、よく使用するプロパティや単位、人気のフレームワークやツールなど](https://coliss.com/articles/build-websites/operation/css/the-state-of-css-2020.html)
+- [CSSのsubgridがすべてのブラウザにサポートされたので、カード内の見出しやテキストを簡単に揃えることができます](https://coliss.com/articles/build-websites/operation/css/use-subgrid-give-child-elements-access-to-a-parents-grid.html)
 
 ## Bootstrap
 
@@ -140,6 +150,8 @@
 
 ## JavaScript
 
+- [JavaScript - デジタル時計の作り方](https://www.pyxofy.com/how-to-make-a-digital-clock-using-javascript/)
+- ["レガシー"と言われないためのJavaScript再入門](https://zenn.dev/dotdotdot/articles/ade7d28ce06876)
 - [npm コマンド一覧 チートシート](https://commte.net/nextjs-npmCommands)
 - [JavaScript入力コントロール「InputManJS」に待望のリッチテキストエディタが登場！ Webフォームで差を付けよう](https://codezine.jp/article/detail/18233)
 - [jQueryへの別れ：現代的な開発のための必須JavaScriptメソッド](https://qiita.com/figueiredoluiz/items/0e51c1aec790f053fd9c)

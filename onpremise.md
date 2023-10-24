@@ -14,6 +14,9 @@
 
 # SharePoint Server
 
+- [Azure の SharePoint Server ファームを設計する](https://learn.microsoft.com/ja-jp/sharepoint/administration/designing-a-sharepoint-server-farm-in-azure)
+- [Azure での SharePoint イントラネット ファームのフェーズ 4:SharePoint Server を構成する](https://learn.microsoft.com/ja-jp/sharepoint/administration/sharepoint-intranet-farm-in-azure-phase-4-configure-sharepoint-servers)
+- [SharePoint Server での高可用性および障害回復の概念](https://learn.microsoft.com/ja-jp/sharepoint/administration/high-availability-and-disaster-recovery-concepts)
 - [SharePoint Server の認証の概要](https://docs.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/authentication-overview)
 - [SharePoint Server でセキュリティ強化を計画する](https://learn.microsoft.com/ja-jp/sharepoint/security-for-sharepoint-server/security-hardening)
 - [SharePoint Server の技術ダイアグラム](https://learn.microsoft.com/ja-jp/sharepoint/technical-reference/technical-diagrams)
@@ -34,7 +37,6 @@
 - [クイック スタート:ARM テンプレートを使用して Azure SQL Managed Instance を作成する](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/create-template-quickstart?view=azuresql&tabs=azure-powershell)
 - [Azure SQL Database と Azure SQL Managed Instance の接続とクエリに関する記事](https://learn.microsoft.com/ja-jp/azure/azure-sql/database/connect-query-content-reference-guide?view=azuresql)
 - [クイックスタート: Azure SQL Managed Instance に接続するように Azure VM を構成する](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connect-vm-instance-configure?view=azuresql)
-- [Azure での高可用性 SharePoint Server 2016 ファームの実行](https://learn.microsoft.com/ja-jp/azure/architecture/reference-architectures/sharepoint/)
 - [Windows 認証を使用してSQL サーバーに接続するときに "SSPI コンテキストを生成できません" エラー](https://learn.microsoft.com/ja-JP/troubleshoot/sql/database-engine/connect/cannot-generate-sspi-context-error)
 - [Analysis Services と Kerberos の制約付き委任 (KCD) の構成](https://learn.microsoft.com/ja-jp/analysis-services/instances/install-windows/configure-analysis-services-and-kerberos-constrained-delegation-kcd?view=asallproducts-allversions)
 - [認証方法を計画する (SharePoint Foundation 2010)](https://learn.microsoft.com/ja-jp/previous-versions/office/sharepoint-foundation-2010/cc288475(v=office.14)?redirectedfrom=MSDN)
@@ -42,11 +44,17 @@
 - [SharePoint と　Kerberos認証](https://mossmomo.exblog.jp/13137689/)
 - [Office Online Server 概要](https://learn.microsoft.com/ja-jp/officeonlineserver/office-online-server-overview)
 - [Azure SQL Managed Instance の接続アーキテクチャ](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connectivity-architecture-overview?view=azuresql&tabs=current)
+- [Azure 開発/テスト環境でのイントラネット SharePoint Server](https://learn.microsoft.com/ja-jp/sharepoint/administration/intranet-sharepoint-server-in-azure-dev-test-environment)
+- [SharePoint Server の障害復旧のための SQL Server Always On および Microsoft Azure の計画](https://learn.microsoft.com/ja-jp/sharepoint/administration/plan-for-sql-server-always-on-and-microsoft-azure-disaster-recovery)
+- [Azure で SharePoint Server と SQL Server の Always On 可用性グループを展開する](https://learn.microsoft.com/ja-jp/sharepoint/administration/deploying-sharepoint-server-with-sql-server-alwayson-availability-groups-in)
+- [SharePoint Server 2013 の言語パック - [日本語]](https://www.microsoft.com/ja-jp/download/details.aspx?id=37140)
 
 ## install
 
+- [Azure での高可用性 SharePoint Server 2016 ファームの実行](https://learn.microsoft.com/ja-jp/azure/architecture/reference-architectures/sharepoint/)
 - [SPFarmInfo.ps1](https://github.com/acasilla/SPFarmInfo/)
 - [SharePoint 更新プログラム](https://docs.microsoft.com/ja-jp/officeupdates/sharepoint-updates)
+- [SharePoint Server 2013 の言語パック - [日本語]](https://www.microsoft.com/ja-jp/download/details.aspx?id=37140)
 - [SharePoint Server 2016 MinRole 構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-minrole)
 - [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
 - [SharePoint 2016: Step By Step Installation of Workflow Manager](https://social.technet.microsoft.com/wiki/contents/articles/34407.sharepoint-2016-step-by-step-installation-of-workflow-manager.aspx)
@@ -188,6 +196,20 @@
 - [cacheHostInfo is null when adding a 2nd Distributed Cache](https://social.technet.microsoft.com/Forums/windows/en-US/1a875aa8-b26d-43bd-af67-87d6b24d7ed7/cachehostinfo-is-null-when-adding-a-2nd-distributed-cache?forum=SP2016)
 - [Convert a SharePoint 2016 front-end to a front-end with Distributed Cache](https://blog.kuppens-switsers.net/sharepoint/convert-sharepoint-2016-front-end-to-front-end-with-distributed-cache/)
 - [この環境では分散キャッシュ サービスが有効になっていません (SharePoint Server)](https://docs.microsoft.com/ja-jp/sharepoint/technical-reference/distributed-cache-service-is-not-enabled-in-this-deployment)
+- [分散キャッシュ サービスを管理する (SharePoint Server)](https://learn.microsoft.com/ja-jp/SharePoint/administration/manage-the-distributed-cache-service?redirectedfrom=MSDN&tabs=ACS1%2CACS2%2CSCS3%2CSCS%2CACS4)
+- [SharePoint 2013 Distributed Cache: Boon or Bane.](https://sharepointjournaldotcom.wordpress.com/tag/sharepoint-distributed-cache/)
+
+``` PowerShell
+$SPFarm = Get-SPFarm
+$cacheClusterName = "SPDistributedCacheCluster_" + $SPFarm.Id.ToString()
+$cacheClusterManager = [Microsoft.SharePoint.DistributedCaching.Utilities.SPDistributedCacheClusterInfoManager]::Local $cacheClusterInfo = $cacheClusterManager.GetSPDistributedCacheClusterInfo($cacheClusterName);
+$instanceName ="SPDistributedCacheService Name=AppFabricCachingService" $serviceInstance = Get-SPServiceInstance | ? {($_.Service.Tostring()) -eq $instanceName -and ($_.Server.Name) -eq $env:computername}
+$serviceInstance.Delete()
+Remove-SPDistributedCacheServiceInstance
+Add-SPDistributedCacheServiceInstance
+ 
+(run this command after 1 or 2 minutes).
+```
 
 ## WorkFlow
 
@@ -211,6 +233,8 @@
 
 # Windows OS
 
+- [パスワードより安全？ Windows 11に追加されたパスキー・マネージャーとは](https://www.lifehacker.jp/article/2310microsoft-is-adding-a-passkey-manager-to-windows-11/)
+- [IISでhttpsのサイトを作成する - SSLサイトの構成 (IIS - Internet Information Service Tips)](https://www.ipentec.com/document/windows-windows-server-iis-setup-https-site)
 - [「Windows Server コンテナ」「Hyper-V コンテナ」「Linux コンテナ」「Docker」の違いとは？](https://atmarkit.itmedia.co.jp/ait/articles/1611/04/news028.html)
 - [Windows Server 2016 に Windows コンテナ機能をインストールする](https://atmarkit.itmedia.co.jp/ait/articles/1610/26/news042.html)
 - [SharePoint 2013: Disable Loopback Check](https://social.technet.microsoft.com/wiki/contents/articles/37664.sharepoint-2013-disable-loopback-check.aspx)
@@ -236,6 +260,14 @@
 - [iSCSI ターゲット サーバーの概要](https://docs.microsoft.com/ja-jp/windows-server/storage/iscsi/iscsi-target-server)
 - [winget を使おう 前編：winget のインストールと基本操作](https://astherier.com/blog/2021/08/winget-usage-1/)
 
+# Copilot
+
+- [WindowsにCopilotが登場したので使ってみよう（1）](https://swri.jp/article/1334)
+- [Copilot in Windows － Windows OSの操作もできる「AI副操縦士」。もう試しました？](https://win-tab.net/opinion/copilot_in_windows_2310022/)
+- []()
+- []()
+- []()
+
 # SQL Server
 
 - [SQL Serverのインデックスの理解を深める](https://qiita.com/fuk101/items/2e6a225a97a14f0f2850)
@@ -253,6 +285,11 @@
 > cpuUniformityHardCheckPanic=FALSE
 - [ESXi のハードウェア要件](https://docs.vmware.com/jp/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-DEB8086A-306B-4239-BF76-E354679202FC.html)
 - [ESXi on AMD版NUC 導入レポ](https://qiita.com/hirosat/items/c6e330212f01f766cc42)
+
+# AWS
+
+- [【永久保存版】0からAWSを勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/6238413b66e274bccd7b)
+- [遊びながらAWSを学べる“AWSクエスト”日本語対応　クラウドで街を救うRPG　プレイ無料](https://www.itmedia.co.jp/news/articles/2310/05/news183.html)
 
 # Ansible
 

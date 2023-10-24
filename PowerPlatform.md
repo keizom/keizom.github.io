@@ -40,6 +40,7 @@
 
 ## Dynamics 365
 
+- [Microsoft Sales Copilot へようこそ](https://learn.microsoft.com/ja-jp/microsoft-sales-copilot/introduction)
 - [Dynamics 365 and Microsoft Power Platform Release planner](https://releaseplans.microsoft.com/en-us/?app=Customer+Service)
 - [【Dynamics 365】【8.2 新機能】サーバ間（S2S）認証を試してみた](https://kageura.hatenadiary.jp/entry/2017/04/06/%E3%80%90Dynamics_365%E3%80%91%E3%80%908_2%E6%96%B0%E6%A9%9F%E8%83%BD%E3%80%91%E3%82%B5%E3%83%BC%E3%83%90%E9%96%93%EF%BC%88S2S%EF%BC%89%E8%AA%8D%E8%A8%BC%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF)
 - [dynamics 365: 無料試用版刷新、セットアップ手順解説](https://shenghaohuang.com/2021/07/29/dynamics-365-trial/)
@@ -139,10 +140,13 @@
 
 ## Power BI
 
+- [Power Queryで全クエリのメタデータ情報を簡単集計](https://marshal115.hatenablog.com/entry/2023/08/13/231742)
+- [SharePointのフォルダ構造（親子階層）を可視化する](https://marshal115.hatenablog.com/entry/2023/07/27/182154)
+- [セルフサービスBIユーザーのためのMicrosoft Fabric③](https://marshal115.hatenablog.com/entry/2023/07/16/233247)
+- [ChatGPTによるPower BI関連Q&A②](https://marshal115.hatenablog.com/entry/2023/08/21/115545)
 - [Power BIで日付テーブルを作成する方法 – 日付の英語表記を日本語に変換](https://blogmikazuki.com/power-bi-calendar-table/)
 - [日付型フォーマット](https://lounge.unifinity.co.jp/hc/ja/articles/360010503191-%E6%97%A5%E4%BB%98%E5%9E%8B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88)
 - [Power BI 勉強帳：日付（カレンダー）テーブル](https://qiita.com/y-komuro/items/de3e2cb3dea129260079)
-- [SharePointのフォルダ構造（親子階層）を可視化する](https://marshal115.hatenablog.com/entry/2023/07/27/182154)
 - [Power BIにおけるデータソースのパラメーター化](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_datasoource_parameter/)
 - [2023年版データ分析の100冊](https://qiita.com/aokikenichi/items/29165f719d6e5631d7d0)
 - [複数のマトリックス表をPower Queryでピボットテーブルに変換](https://hamachan.info/excel2019-powerquery-pivot/)
@@ -175,6 +179,8 @@
 - [ウェビナー Power BI を使う時の基本～最初に考えること～](https://info.microsoft.com/JA-SQLDB-WBNR-FY18-06Jun-21-PowerBI-MCW0006279_02OnDemandRegistration-ForminBody.html)
 - [組織内の Office 365 の利用状況を可視化する Power BI Office 365 Adoption Content Pack パブリック プレビュー開始  idea.toString();](https://idea.tostring.jp/?p=2873)
 - [Heads up: The Power BI app is coming to Microsoft Outlook and Microsoft Office (Preview)](https://powerbi.microsoft.com/ja-jp/blog/heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview/?cdn=disable)
+- [OneDrive と SharePoint で Power BI ファイルを表示する](https://learn.microsoft.com/ja-jp/power-bi/collaborate-share/service-sharepoint-viewer)
+- [Power Apps と AI Builder で日報、週報作成業務を効率化するアプリを爆速で開発する](https://qiita.com/Takashi_Masumori/items/5356622854d113ac4e70)
 
 ## Power Pages
 

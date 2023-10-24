@@ -16,6 +16,7 @@
 
 ## SharePoint Online
 
+- [SharePoint のニュースを丸ごとメール配信しよう!](https://shanqiai.lekumo.biz/sharepoint_technical_note/2023/09/sharepoint-34b1.html)
 - [Microsoft リストの新しいUX](https://shanqiai.lekumo.biz/sharepoint_technical_note/2023/07/microsoft-ux-431c.html)
 - [検索バーティカルを管理する](https://learn.microsoft.com/ja-jp/microsoftsearch/manage-verticals)
 - [リスト ビューのしきい値に関する FAQ](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/faq)
@@ -170,6 +171,11 @@
 
 ## PnP SharePoint
 
+- [Working with modern client-side pages using PnP PowerShell](https://learn.microsoft.com/en-us/microsoft-365/community/working-with-modern-clientside-pages-using-pnp-powershell)
+- [【SharePoint】サイト内のすべてのページのすべての Web パーツを CSV 出力する（PnP PowerShell）](https://mynote365.hatenadiary.com/entry/2023/01/14/125427)
+- [How do you add a Hero web part to a FullWidth Section using PS PnP?](https://sharepoint.stackexchange.com/questions/281986/how-do-you-add-a-hero-web-part-to-a-fullwidth-section-using-ps-pnp)
+- [SharePoint Online: Add Web Part to a Modern Page using PowerShell](https://www.sharepointdiary.com/2021/03/add-web-part-to-modern-page-in-sharepoint-online-using-powershell.html)
+- [Getting started with the PnP Core SDK](https://pnp.github.io/pnpcore/using-the-sdk/readme.html)
 - [SharePoint サイトへのアクセスを制限する](https://learn.microsoft.com/ja-jp/SharePoint/restricted-access-control)
 - [SharePoint アプリ専用のアクセスを許可する](https://learn.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/security-apponly-azureacs)
   > https://contoso-admin.sharepoint.com/_layouts/15/appinv.aspx
@@ -250,6 +256,7 @@
 
 ## SharePoint FrameWork
 
+- [【SPFx】PnP Controlsを利用する SharePoint Framework](https://mynote365.hatenadiary.com/entry/2019/08/16/190000)
 - [Announcing SharePoint Framework 1.18 with updates for Microsoft Teams, Microsoft Viva and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-18-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/)
 - [SharePoint Framework 1 つの PC で複数バージョンの開発環境を利用する](https://www.illuminate-j.jp/blog/spfx04_devenv)
 - [MsGraphSpFxThangu](https://www.youtube.com/watch?v=AKftsTLQBGo)

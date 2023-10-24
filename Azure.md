@@ -125,6 +125,11 @@
 - [Azure Application Gateway を使用したインバウンドトラフィックの検査](https://cloudone.trendmicro.com/docs/jp/network-security/Azure_Deployment5_VMSS_AGW/)
 - [Web サーバー向けロードバランサー「Azure Application Gateway」とは？](https://www.cloudou.net/application-gateway/appg001/)
 - [Application Gateway - App Service 間のリダイレクトの問題](https://jpaztech.github.io/blog/network/appgw-appservice-redirectissue/)
+- [Troubleshooting bad gateway errors in Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-troubleshooting-502)
+- [Azure Application Gatewayとは？負荷分散の考え方とWebアプリケーションの負荷分散について解説](https://www.rworks.jp/cloud/azure/azure-column/azure-entry/24604/)
+- [Azure Application Gatewayとは？その概要と機能、メリットについて](https://www.cloud-for-all.com/azure/blog/azure-application-gateway.html)
+- []()
+- []()
 
 ## Azure Automation
 
@@ -351,6 +356,8 @@
 - [Azure Information Protection でファイルのアクセス権はく奪（プレビュー）](https://live-style.jp/aip-deprivation/)
 - [Windows Information Protection を正しく知る：Microsoft 365 で実現するクラウド時代のセキュリティ（4） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1906/28/news022.html)
 - [Windows Information Protection を正しく知る　～設定編～：Microsoft 365 で実現するクラウド時代のセキュリティ（5） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1907/24/news011.html#cxrecs_s)
+- [Azure Functions から Azure Database for MySQL フレキシブル サーバー へ接続](https://tech-lab.sios.jp/archives/36642)
+- [Dev Container / GitHub Codespaces を利用した Azure Functions 開発環境のベストプラクティス](https://blog.shibayan.jp/entry/20231003/1696320617)
 
 ## Azure Key Vault
 
@@ -443,9 +450,12 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [「プロンプトエンジニアリング」の“教科書”、日本語版が登場　無償でAIの上手な使い方を解説](https://www.itmedia.co.jp/news/articles/2304/05/news175.html)
 - [約1時間でAzure FunctionsとChatGPT APIを使った簡易のBotを作成してみた](https://zenn.dev/jtechjapan/articles/5eb5d879088c23)
 - [【緊急企画】話題の ChatGPT 。Microsoft の担当者が登場！まだ序章！今話せること全部お話します！ビジネスで使える IT ネタをお届けする「ネタバース」 | 日本マイクロソフト](https://www.youtube.com/watch?v=wsQruf1KEJE)
+- [削除された Azure AI サービス リソースの復旧または消去](https://learn.microsoft.com/ja-jp/azure/ai-services/recover-purge-resources)
 
 ### Chat GPT
 
+- [【ChatGPTのおすすめプラグイン一覧】猛者達が選んだ最強プラグインの使い方39選](https://weel.co.jp/media/plugin-list)
+- [【実例】ChatGPTでコード生成～Code interpreterも解説](https://book.st-hakky.com/business/chatgpt-code-generation/)
 - [ついに日本で利用可能になったChatGPTの強力ライバル「Claude」使用レビュー、テキストファイルやPDFファイルの認識も可能でランチの相談からコーディング補助までサクサク応答](https://gigazine.net/news/20231019-claude-chatgpt-rival-chat-ai/)
 - [話題のOpen Interpreterを使ってみた、そして、驚いた](https://qiita.com/yanagih/items/466a5560bd771e2b9030)
 - [ChatGPTでは的確な“指示出し”が大切！ セントラルオフィスが「プロンプト」のコツをまとめた資料を公開](https://www.mdn.co.jp/news/6580)
@@ -469,6 +479,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure PowerShell
 
+- [Extract Azure Datacenter IP ranges to CSV](https://arnav.au/2023/10/14/extract-azure-datacenter-ip-ranges-to-csv/)
 - [ゼロからはじめる Azure(36) 新しいターミナルアプリ「Windows Terminal」から Azure を操作しよう マイナビニュース](https://news.mynavi.jp/article/zeroazure-36/)
 
 - [Azure Key Vault のマネージド ストレージ アカウント - PowerShell バージョン Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/key-vault/secrets/overview-storage-keys-powershell)
@@ -637,8 +648,12 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 - [Azure Monitor エージェントの概要](https://learn.microsoft.com/ja-jp/azure/azure-monitor/agents/agents-overview)
 - [Microsoft Sentinel とは](https://learn.microsoft.com/ja-jp/azure/sentinel/overview)
+
 ## Azure VM
 
+- [Azure VM の送信接続 (SNAT) オプション まとめ](https://jpaztech.github.io/blog/network/snat-options-for-azure-vm/)
+- [Azureのデフォルトoutbound廃止に伴うSelf-hosted Agentへの影響]([)](https://kkamegawa.hatenablog.jp/entry/2023/10/07/185453)
+- [Azure: VMのカスタムのスクリプト拡張機能をARMテンプレートで使用する際の設定方法について](https://tech-lab.sios.jp/archives/36757)
 - [「トラステッド起動」が既定になり、Azure VMはデプロイ時点で“安全”に](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news003.html)
 - [【Azure】Linux VMのSSHの公開鍵認証をデプロイ時に有効化する方法](https://atmarkit.itmedia.co.jp/ait/articles/2307/19/news022.html)
 - [仮想マシンでサーバごと管理する](https://news.mynavi.jp/techplus/article/zeroazure-6/)
@@ -662,6 +677,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## SendGrid
 
+- [SMTPのはじめかた（自作 VS. サービス利用）](https://sendgrid.kke.co.jp/blog/?p=14512)
 - [なぜ迷惑メール扱いされてしまうのか？](https://sendgrid.kke.co.jp/blog/?p=13312)
 - [DMARCとは？](https://sendgrid.kke.co.jp/blog/?p=3137)
 - [おさえておきたいメールの基礎用語](https://sendgrid.kke.co.jp/blog/?p=658)
@@ -714,3 +730,8 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [OneLake File Explorer](https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric1](https://marshal115.hatenablog.com/entry/2023/06/19/230347)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric3](https://marshal115.hatenablog.com/entry/2023/07/16/233247)
+
+## Windows 365
+
+- [Windows 365 ウェビナー 第1弾　新登場！Windows 365 Frontline](https://info.microsoft.com/JA-MODEND-VDEO-FY24-09Sep-05-Windows-365-Webinar-Vol-1-New-Windows-365-Frontline-SRGCM10973_LP01-Registration---Form-in-Body.html)
+- 

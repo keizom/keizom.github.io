@@ -23,6 +23,8 @@
 - [Visual Studio Code で始める ASP.Net Core](https://github.com/ichiohta/vschw)
 - [.NET 6 で ASP.NET Core の Razor Pages アプリケーションを理解しよう](https://codezine.jp/article/detail/15824)
 - [https://tech-lab.sios.jp/archives/30760](https://tech-lab.sios.jp/archives/30858)
+- [ASP.NET CoreによるgRPCクライアントの開発を理解しよう](https://codezine.jp/article/detail/18363)
+- [WebSocket 入門](https://zenn.dev/nameless_sn/articles/websocket_tutorial)
 
 ## .NET MAUI
 
@@ -78,6 +80,7 @@
 
 ## Docker
 
+- [WebのフロントエンドでもDockerで開発環境を構築する理由。（余談としての脱node依存開発）](https://qiita.com/SFITB/items/27cb917945fa9e721f34)
 - [Dockerの"分からない"を簡単にメモ](https://qiita.com/fsd-fukufuku/items/f8539e562352c046f39c)
 - [【初心者向け】手を動かして覚えるDocker入門](https://qiita.com/takusan64/items/4d622ce1858c426719c7)
 - [【図解】Dockerの全体像を理解する -前編-](https://qiita.com/etaroid/items/b1024c7d200a75b992fc)
@@ -102,6 +105,7 @@
 - [Docker for Windows & Web Apps for Containers 実践活用技法](https://docs.microsoft.com/ja-jp/archive/blogs/nakama/dockerandazure)
 - [Docker 入門（第一回）～ Docker とは何か、何が良いのか～](https://knowledge.sakura.ad.jp/13265/)
 - [イラストではじめる「Kubernetes」](https://codezine.jp/article/corner/917)
+- [Dockerのボリューム](https://zenn.dev/fdnsy/articles/e2024d73ec2bda)
 
 ## git
 
@@ -127,6 +131,8 @@
 
 ## GitHub
 
+- [GitHubコマテク集](https://techblog.openwork.co.jp/entry/github-tips)
+- [【初学者向け】GitHub Projectsでのタスク管理のススメ](https://qiita.com/haganenoubik/items/55700919e2e5b127e166)
 - [ちょっとした気配りで皆を幸せにする GitHub の使い方](https://qiita.com/squid-cat/items/7166317e60d3ff96ccb7)
 - [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
 - [gitのブランチの命名規則](https://qiita.com/luccafort/items/c91e817e78f1167221cc)
@@ -140,10 +146,16 @@
 - [How GitHub Copilot Transforms Development Productivity](https://speakerdeck.com/kurotaky/how-github-copilot-transforms-development-productivity?slide=2)
 - [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 - [「GitHub Copilot Chat」ベータ版が個人でも利用可能に ～AIがプログラミングに助言](https://forest.watch.impress.co.jp/docs/news/1532976.html)
+- [【ハイブリッド開催】GitHub Copilotで拓く開発生産性](https://logmi.jp/tech/articles/329426)
+- [コードの解説、ブログの要約、自然言語の翻訳、機能仕様の修正コーディングだけじゃない「Github Copilot」の活用事例](https://logmi.jp/tech/articles/329436)
 
 ## GoogleApps
 
--[Google Apps Script スプレッドシート編　初心者向け](https://tech-lab.sios.jp/archives/32066)
+- [Google Apps Script スプレッドシート編　初心者向け](https://tech-lab.sios.jp/archives/32066)
+
+## Markdown
+
+- [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
 ## PowerShell
 
@@ -174,10 +186,12 @@
 - [無料で読める、東大／京大の「Python 教科書」電子書籍：AI・機械学習の無料電子書籍 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2105/26/news025.html)
 - [オライリー「Think Python」第 2 版 ダウンロード](https://cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython2.pdf)
 - [Python 早見表](https://chokkan.github.io/python/index.html)
+- [主にVSCodeではじめるPython開発環境構築ガイド](https://dev.classmethod.jp/articles/python-vscode-plugin/)
 
 ## swagger
 
 - [今日から始めるswagger入門（最低限書けるようになる）](https://qiita.com/yuya_sega/items/0b87e8e7d494f6fa3d69)
+- [Swaggerの概要をまとめてみた](https://qiita.com/karasu_maru/items/342073fa7607fd4082bd)
 
 
 ## Tool
@@ -233,6 +247,10 @@
 - [2020 年最新版 VSCode のおすすめ拡張機能まとめ](https://homupedia.com/editor-vscode-extentions.html)
 - [VS Code の見やすいテーマが登場！GitHub のデザインでコードも快適に -GitHub VS Code theme   コリス](https://coliss.com/articles/build-websites/operation/work/github-vscode-theme.html)
 - [VSCode のオススメ拡張機能 24 選 (と Tips をいくつか) - Qiita](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
+- [Visual Studio Code の拡張機能である「C# Dev Kit」が GA となったので使ってみた](https://dev.classmethod.jp/articles/vscode-csharp-dev-kit/)
+- [VSCode(VisualStudioCode)の定番機能を一挙解説](https://qiita.com/midiambear/items/bc0e137ed77153cb421c)
+- [VSCodeでC#開発環境を充実させる「C# Dev Kit」正式リリース、ソリューションエクスプローラーやIntelliCodeなど提供](https://www.publickey1.jp/blog/23/vscodecc_dev_kitintellicode.html)
+
 
 ## Visual Studio Extention
 
@@ -299,6 +317,7 @@
 ## web API
 
 - [今すぐ使える無料WebAPIまとめ【2023年最新版】](https://qiita.com/kazuki_tachikawa/items/7b2fead2a9698d1c15e8)
+- [API初心者が紹介するOpenWeatherMapAPI](https://tech-lab.sios.jp/archives/36777?f)
 
 ## Widnows 11 VHD
 
@@ -316,6 +335,14 @@
 - [「Windows×OpenSSH×WSL 2 ＝ほぼほぼネイティブな Linux」に見えてしまう、の作り方](https://www.atmarkit.co.jp/ait/articles/2007/15/news005.html)
 - [WSL2 をインストールして Windows で Ubuntu を使う方法](https://tombomemo.com/wsl2-install-settings/)
 - [Windows WSL2 WSL2 で Docker 開発環境を構築してみる - NicoNico Pun](https://blog.nicopun.com/post/2019-07-02-windows-wsl2/)
+
+## YAML
+
+- [「YAMLの本来の使い方」を仕様から読み取ってみる](https://www.wantedly.com/companies/wantedly/post_articles/540711)
+
+## Log
+
+- [今さら聞けないログの基本と設計指針](https://qiita.com/tadashiro_ninomiya/items/19c774898c68add6185e)
 
 ## WSH
 
