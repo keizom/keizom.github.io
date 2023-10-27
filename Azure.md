@@ -428,6 +428,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [世界一わかりみの深いAzure OpenAI Service](https://tech-lab.sios.jp/archives/36497)
 - [「ChatGPT」でグラフや表を作成--エディションごとの機能と作成手順](https://japan.zdnet.com/article/35209088/)
 - [凄すぎると話題の「Open Interpreter」の始め方・使い方まとめ](https://qiita.com/ot12/items/d2672144b914cb6f252f)
 - [Azure で ChatGPT × Cognitive Search を使ったエンタープライズサーチを実現](https://qiita.com/nohanaga/items/803c09b5a3a4e2d1776f)

@@ -295,6 +295,8 @@ Add-SPDistributedCacheServiceInstance
 
 - [AnsibleでWindowsサーバーを設定してみた-環境準備編-](https://blog.jbs.co.jp/entry/2023/05/30/135558)
 
-# qita
+# qiita
 
 - [qiita-cli](https://github.com/increments/qiita-cli)
+- [Qiitaの記事をGitHubリポジトリで管理する方法](https://qiita.com/Qiita/items/32c79014509987541130)
+- [Qiitaで埋め込み可能なコンテンツ一覧](https://qiita.com/Qiita/items/612e2e149b9f9451c144)

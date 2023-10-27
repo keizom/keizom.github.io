@@ -16,6 +16,7 @@
 
 ## SharePoint Online
 
+- [What’s Next for SharePoint](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-next-for-sharepoint/ba-p/3776866)
 - [SharePoint のニュースを丸ごとメール配信しよう!](https://shanqiai.lekumo.biz/sharepoint_technical_note/2023/09/sharepoint-34b1.html)
 - [Microsoft リストの新しいUX](https://shanqiai.lekumo.biz/sharepoint_technical_note/2023/07/microsoft-ux-431c.html)
 - [検索バーティカルを管理する](https://learn.microsoft.com/ja-jp/microsoftsearch/manage-verticals)
