@@ -37,6 +37,9 @@
 
 ## html
 
+- [MUI の Figma UI kit が良いぞ](https://zenn.dev/tasugi/articles/ac8f7a4c8379cc)
+- [フロントエンドエンジニアにおすすめchrome拡張機能](https://qiita.com/YSasago/items/e29803ff460f3a5a6da4)
+- [CSSでライトモードとダークモードのスタイルを簡単に定義できる、新しい関数「light-dark()」が便利すぎる！](https://coliss.com/articles/build-websites/operation/css/light-and-dark-mode-switching-with-css-light-dark.html)
 - [パスキーに入門してみた話](https://qiita.com/Kodak_tmo/items/9fb6f1d65621cb5e1f90)
 - [40行で完成！ハンバーガーメニューを作るCSSチュートリアル【HTML/CSS/Sass/JS】](https://www.youtube.com/watch?app=desktop&v=9sDuEL2dPe4)
 - [Appleデバイスの歴代モデルすべてを比較できて便利！ iPhone, iPadなどの画面サイズや機能のまとめ](https://coliss.com/articles/build-websites/operation/work/complete-guide-for-ios-displays.html)
@@ -150,6 +153,8 @@
 
 ## JavaScript
 
+- [改訂新版JavaScript本格入門 ～モダンスタイルによる基礎から現場での応用まで](https://zenn.dev/torachi0401/articles/recommend_books3)
+- [JavaScriptビルドツールの整理 各ツールの機能と依存関係](https://zenn.dev/nakaakist/articles/86457bf2908379)
 - [JavaScript - デジタル時計の作り方](https://www.pyxofy.com/how-to-make-a-digital-clock-using-javascript/)
 - ["レガシー"と言われないためのJavaScript再入門](https://zenn.dev/dotdotdot/articles/ade7d28ce06876)
 - [npm コマンド一覧 チートシート](https://commte.net/nextjs-npmCommands)

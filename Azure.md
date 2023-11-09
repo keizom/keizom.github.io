@@ -128,8 +128,6 @@
 - [Troubleshooting bad gateway errors in Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-troubleshooting-502)
 - [Azure Application Gatewayとは？負荷分散の考え方とWebアプリケーションの負荷分散について解説](https://www.rworks.jp/cloud/azure/azure-column/azure-entry/24604/)
 - [Azure Application Gatewayとは？その概要と機能、メリットについて](https://www.cloud-for-all.com/azure/blog/azure-application-gateway.html)
-- []()
-- []()
 
 ## Azure Automation
 
@@ -162,6 +160,7 @@
 
 ## Azure Bicep
 
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
 - [Bicep ツールのインストール](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/install)
 - [Bicep に関するベスト プラクティス](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/best-practices)
 - [Bicep のパラメーター](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/parameters)
@@ -429,6 +428,13 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ## Azure Open AI
 
 - [世界一わかりみの深いAzure OpenAI Service](https://tech-lab.sios.jp/archives/36497)
+- [Microsoft、生成AIの可能性を引き出す25種類の効果的なプロンプトの作成方法を紹介](https://atmarkit.itmedia.co.jp/ait/articles/2310/27/news053.html)
+- [【ChatGPTのおすすめプラグイン一覧】猛者達が選んだ最強プラグインの使い方44選](https://weel.co.jp/media/plugin-list)
+- [【決定版】DALL·E 3完全攻略ガイド](https://chatgpt-lab.com/n/n52b6cea5f655)
+- [LLMのプロンプト技術まとめ](https://qiita.com/fuyu_quant/items/157086987bd1b4e52e80)
+- [Sample_Prompt_for_Education](https://github.com/hisahonakata/Sample_Prompt_for_Education/tree/main)
+- [OpenAI がまたやった！OpenAI DevDay 総まとめ](https://chatgpt-lab.com/n/n0554df7f1b80)
+- [世界一わかりみの深いAzure OpenAI Service](https://tech-lab.sios.jp/archives/36497)
 - [「ChatGPT」でグラフや表を作成--エディションごとの機能と作成手順](https://japan.zdnet.com/article/35209088/)
 - [凄すぎると話題の「Open Interpreter」の始め方・使い方まとめ](https://qiita.com/ot12/items/d2672144b914cb6f252f)
 - [Azure で ChatGPT × Cognitive Search を使ったエンタープライズサーチを実現](https://qiita.com/nohanaga/items/803c09b5a3a4e2d1776f)
@@ -678,6 +684,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## SendGrid
 
+- [GmailとYahoo!がメール送信者に義務づける新しい要件](https://sendgrid.kke.co.jp/blog/?p=17005)
 - [SMTPのはじめかた（自作 VS. サービス利用）](https://sendgrid.kke.co.jp/blog/?p=14512)
 - [なぜ迷惑メール扱いされてしまうのか？](https://sendgrid.kke.co.jp/blog/?p=13312)
 - [DMARCとは？](https://sendgrid.kke.co.jp/blog/?p=3137)

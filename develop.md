@@ -16,6 +16,7 @@
 
 ## .NET Core
 
+- [ASP.NET Coreでリアルタイム通信を実現！ SignalRの使い方](https://codezine.jp/article/detail/18494)
 - [C#で SPA を実現！ .NET 6 で ASP.NET Core の Blazor アプリケーションの基本「Blazor Server」を理解しよう](https://codezine.jp/article/detail/16848)
 - [ASP.NET Core、最小限の API、.NET 6 を使用して Web アプリとサービスを作成する - Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/aspnet-core-minimal-api/)
 - [.NET Core での自己完結型アプリのデプロイにおけるランタイムのロール フォワード - .NET Core Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/deploying/runtime-patch-selection)
@@ -131,6 +132,8 @@
 
 ## GitHub
 
+- [【入門】Github Gistとは？概要や基本的な使い方をわかりやすく解説](https://www.kagoya.jp/howto/it-glossary/develop/githubgist/)
+- [【入門】Gitとは？できることや使い方、GitHubとの違いをわかりやすく解説](https://www.kagoya.jp/howto/it-glossary/develop/git/)
 - [GitHubコマテク集](https://techblog.openwork.co.jp/entry/github-tips)
 - [【初学者向け】GitHub Projectsでのタスク管理のススメ](https://qiita.com/haganenoubik/items/55700919e2e5b127e166)
 - [ちょっとした気配りで皆を幸せにする GitHub の使い方](https://qiita.com/squid-cat/items/7166317e60d3ff96ccb7)
@@ -142,6 +145,8 @@
 
 ## GitHub Copilot
 
+- [ブログ執筆時に GitHub Copilot を使って効率化していること3選](https://dev.classmethod.jp/articles/how-github-copilot-is-helping-me-write-blog-posts-more-efficiently-3-examples/)
+- [github copilot事始め](https://qiita.com/GETB/items/0f880b7fb14c6204cad4)
 - [【GitHub Copilot】5分で始める！GitHub EnterpriseでGitHub Copilotを使ってみよう](https://aadojo.alterbooth.com/entry/2023/04/02/230938)
 - [How GitHub Copilot Transforms Development Productivity](https://speakerdeck.com/kurotaky/how-github-copilot-transforms-development-productivity?slide=2)
 - [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
@@ -205,6 +210,9 @@
 
 ## VisualStudio Code
 
+- [【初学者】個人的に導入して良かったVSCodeの拡張機能をChatGPTに紹介してもらってみた！](https://qiita.com/kumaryoya/items/4d4be5183fa6f50074eb)
+- [【分野別】VSCodeのおすすめ拡張機能まとめ](https://qiita.com/KNR109/items/5f933df1292564e6dc70)
+- [Visual Studio Code の拡張機能である「C# Dev Kit」が GA となったので使ってみた](https://dev.classmethod.jp/articles/vscode-csharp-dev-kit/)
 - [君はVS Codeのデバッグの知られざる機能について知っているか](https://qiita.com/_ken_/items/c5aa4841be74b06530b4)
 - [Figma for VS Codeを使ってCSS実装する時のおすすめポイント](https://goodpatch-tech.hatenablog.com/entry/figma-for-vscode)
 - [チュートリアル: Visual Studio Code を使用して .NET コンソール アプリケーションを作成する](https://learn.microsoft.com/ja-jp/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-7-0)

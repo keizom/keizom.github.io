@@ -81,6 +81,8 @@
 
 ## Microsoft 365 Copilot
 
+- [最新のWindows 11 23H2は何が変わった？AIアシスタントのCopilotなど、新機能・更新内容を一挙紹介](https://pc.watch.impress.co.jp/docs/topic/feature/1544477.html)
+- [Microsoft 365 Copilot カタログ 2023年9月更新](https://info.microsoft.com/JA-T2C-CNTNT-FY24-08Aug-18-Microsoft-365-Copilot-Catalog-SRGCM10917_LP01-Registration---Form-in-Body.html)
 - [Announcing Microsoft 365 Copilot general availability and Microsoft 365 Chat](https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availability-and-microsoft-365-chat/)
 - [The AI-Powered Future of Work](https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot)
 

@@ -264,9 +264,6 @@ Add-SPDistributedCacheServiceInstance
 
 - [WindowsにCopilotが登場したので使ってみよう（1）](https://swri.jp/article/1334)
 - [Copilot in Windows － Windows OSの操作もできる「AI副操縦士」。もう試しました？](https://win-tab.net/opinion/copilot_in_windows_2310022/)
-- []()
-- []()
-- []()
 
 # SQL Server
 

@@ -40,6 +40,7 @@
 
 ## Dynamics 365
 
+- [Dynamics 365 Customer Service の Copilot によるカスタマーサポートのモダナイゼーション](https://community.dynamics.com/blogs/post/?postid=74b44429-f072-ee11-a81c-000d3a7db624)
 - [Microsoft Sales Copilot へようこそ](https://learn.microsoft.com/ja-jp/microsoft-sales-copilot/introduction)
 - [Dynamics 365 and Microsoft Power Platform Release planner](https://releaseplans.microsoft.com/en-us/?app=Customer+Service)
 - [【Dynamics 365】【8.2 新機能】サーバ間（S2S）認証を試してみた](https://kageura.hatenadiary.jp/entry/2017/04/06/%E3%80%90Dynamics_365%E3%80%91%E3%80%908_2%E6%96%B0%E6%A9%9F%E8%83%BD%E3%80%91%E3%82%B5%E3%83%BC%E3%83%90%E9%96%93%EF%BC%88S2S%EF%BC%89%E8%AA%8D%E8%A8%BC%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF)
@@ -57,6 +58,8 @@
 
 ## Power Platform
 
+- [Power Virtual AgentsのCopilot　次世代AIが自然言語によるボット構築を支援](https://community.dynamics.com/blogs/post/?postid=42bca5ec-1a39-43ab-9b4a-59e1b1037fa5)
+- [Power Platformで実現するアプリ開発の未来](https://community.dynamics.com/blogs/post/?postid=73f1783c-8d1e-4439-97e0-17739a54e487)
 - [Power Platform × Azure OpenAI の価値](https://qiita.com/Takashi_Masumori/items/bef0a07a521cae238064)
 - [Microsoft Build 2023】Power Platform 関連の発表まとめ【速報】](https://qiita.com/kumukai/items/3d4ff6a00aa05c3a7e71)
 - [更に強化された次世代のAI/GPT機能により Power Apps はより多くのプログラマーに力を](https://memo.tyoshida.me/power-platform/powerapps/next-gen-ai-capabilities-empower-developers/)
@@ -109,6 +112,7 @@
 
 ## Power Automate
 
+- [Power Automate で Excel にデータを出力する](https://qiita.com/Takashi_Masumori/items/c50396c152f2f71e4e1b)
 - [Power Automate から Azure Automation を呼び出してクラウド上で PowerShell を実行してみる](https://idea.tostring.jp/?p=5899)
 - [Power Automate から PowerShell を実行する方法](https://jpdynamicscrm.github.io/blog/powerautomate/Execute-PowerShell/)
 - [202009_PowerAutomate_Handson](https://github.com/rnakamuramartiny/Share_RPACommunity/tree/master/202009_PowerAutomate_Handson)
@@ -140,6 +144,7 @@
 
 ## Power BI
 
+- [スター スキーマと Power BI での重要性を理解する](https://learn.microsoft.com/ja-jp/power-bi/guidance/star-schema)
 - [Power Queryで全クエリのメタデータ情報を簡単集計](https://marshal115.hatenablog.com/entry/2023/08/13/231742)
 - [SharePointのフォルダ構造（親子階層）を可視化する](https://marshal115.hatenablog.com/entry/2023/07/27/182154)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric③](https://marshal115.hatenablog.com/entry/2023/07/16/233247)
