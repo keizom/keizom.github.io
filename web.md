@@ -37,6 +37,7 @@
 
 ## html
 
+- [いざという時に使える7つのHTML&CSS Tips集vol.2](https://buildstd.com/html-css-tips02/)
 - [MUI の Figma UI kit が良いぞ](https://zenn.dev/tasugi/articles/ac8f7a4c8379cc)
 - [フロントエンドエンジニアにおすすめchrome拡張機能](https://qiita.com/YSasago/items/e29803ff460f3a5a6da4)
 - [CSSでライトモードとダークモードのスタイルを簡単に定義できる、新しい関数「light-dark()」が便利すぎる！](https://coliss.com/articles/build-websites/operation/css/light-and-dark-mode-switching-with-css-light-dark.html)

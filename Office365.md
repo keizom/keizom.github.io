@@ -129,6 +129,12 @@
 
 ## Exchagne Online
 
+- [Exchange Online に DKIM と DMARC を追加する方法](https://www.prins.co.jp/knowledge/column/20230707-4459/)
+- [SPFとDKIMをおさらい、IPアドレスとデジタル署名で身元証明](https://xtech.nikkei.com/atcl/nxt/column/18/02631/110600006/)
+- [なりすまし対策の欠点を補うDMARCと、現時点で攻撃者お手上げのBIMI](https://xtech.nikkei.com/atcl/nxt/column/18/02631/110700007/)
+- [Gmailのメール認証規制強化への対応って終わってますか？](https://www.m3tech.blog/entry/2023/10/24/110000)
+- [DMARCとは？](https://sendgrid.kke.co.jp/blog/?p=3137)
+- [詐欺メールを減らす「送信ドメイン認証」、運用時の3大つまずきポイントと対策](https://xtech.nikkei.com/atcl/nxt/column/18/02631/110300005/)
 - [Connect to Exchange Online PowerShell with MFA](https://o365reports.com/2022/08/09/connect-to-exchange-online-powershell-with-mfa/)
 - [Office 365 の多要素認証環境で Outlook を接続する方法](https://blog.kazuakix.jp/entry/2018/04/15/223003)
 - [Office 365 でも拡張アドレスを使いたい](https://blog.kazuakix.jp/entry/2018/04/09/213959)

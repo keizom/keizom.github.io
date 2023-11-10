@@ -81,6 +81,7 @@
 
 ## Docker
 
+- [今日から始めるDocker入門（必要性を理解してから動かす）](https://qiita.com/yuya_sega/items/0fb78b064a6d64fe0979)
 - [WebのフロントエンドでもDockerで開発環境を構築する理由。（余談としての脱node依存開発）](https://qiita.com/SFITB/items/27cb917945fa9e721f34)
 - [Dockerの"分からない"を簡単にメモ](https://qiita.com/fsd-fukufuku/items/f8539e562352c046f39c)
 - [【初心者向け】手を動かして覚えるDocker入門](https://qiita.com/takusan64/items/4d622ce1858c426719c7)
@@ -132,6 +133,7 @@
 
 ## GitHub
 
+- [GitHub Projects を利用したタスク管理](https://user-first.ikyu.co.jp/entry/2023/11/09/175121)
 - [【入門】Github Gistとは？概要や基本的な使い方をわかりやすく解説](https://www.kagoya.jp/howto/it-glossary/develop/githubgist/)
 - [【入門】Gitとは？できることや使い方、GitHubとの違いをわかりやすく解説](https://www.kagoya.jp/howto/it-glossary/develop/git/)
 - [GitHubコマテク集](https://techblog.openwork.co.jp/entry/github-tips)

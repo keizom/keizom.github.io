@@ -160,6 +160,7 @@
 
 ## Azure Bicep
 
+- [エンジニア全員が Terraform を安心・安全に触れるような仕組みを整えています](https://tech.visasq.com/terraform-automation)
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
 - [Bicep ツールのインストール](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/install)
 - [Bicep に関するベスト プラクティス](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/best-practices)
@@ -427,6 +428,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [【超入門】GPT Builderの使い方！【GPTs / ChatGPT】](https://zenn.dev/umi_mori/articles/gpt-builder-how-to-start)
 - [世界一わかりみの深いAzure OpenAI Service](https://tech-lab.sios.jp/archives/36497)
 - [Microsoft、生成AIの可能性を引き出す25種類の効果的なプロンプトの作成方法を紹介](https://atmarkit.itmedia.co.jp/ait/articles/2310/27/news053.html)
 - [【ChatGPTのおすすめプラグイン一覧】猛者達が選んだ最強プラグインの使い方44選](https://weel.co.jp/media/plugin-list)
