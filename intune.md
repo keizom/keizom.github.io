@@ -16,4 +16,11 @@
 
 - [Export HW/SW Inventory Data from Intune Devices using PowerShell Skatterbrainz Blog](https://skatterbrainz.wordpress.com/2020/01/18/export-hw-sw-inventory-data-from-intune-devices-using-powershell/)
 - [Intune にて PowerShell スクリプトを配布する方法について](https://www.softbanktech.co.jp/special/blog/cloud_blog/2023/0069/)
-
+- [Microsoft Intuneの設定をPowerShellから行う](https://azuread.net/archives/8680)
+- [powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples)
+- [Azure AD を使用して Microsoft Graph の Intune API にアクセスする方法](https://learn.microsoft.com/ja-jp/mem/intune/developer/intune-graph-apis)
+- [IntuneをPowerShellで操作する](https://tech-blog.cloud-config.jp/2020-08-12-intune-control-with-powershell/)
+- [PowerShellでIntuneの情報を取得する(Microsoft Graph)](https://zenn.dev/santafs/articles/949a6a613db6e5)
+- [PowerAutomateでAzureADの従業員IDを取得する](https://qiita.com/fukasuke/items/9fc3dd6b4594bce89393)
+- [Windows 10/11 デバイスを Intune に登録する](https://learn.microsoft.com/ja-jp/mem/intune/user-help/enroll-windows-10-device)
+- [【Azure】IntuneへのWindows10デバイスの登録方法](https://yatalog.org/intune-registration-windows)

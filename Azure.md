@@ -185,6 +185,10 @@
 - [AzureのBicepが便利な件について](https://qiita.com/ShogoMatsumoto/items/a66234b27ee29a2f4c08)
 - [ARM テンプレートと Azure PowerShell を使用したリソースのデプロイ](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/templates/deploy-powershell)
 - [Bicep と Azure CLI を使用してリソースをデプロイする方法](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/deploy-cli)
+- [Azure Pipelines を使用して最初の Bicep デプロイ パイプラインを作成する](https://learn.microsoft.com/ja-jp/training/modules/build-first-bicep-deployment-pipeline-using-azure-pipelines/)
+- [Bicep と Azure Pipelines を使用して Azure リソースをデプロイ](https://learn.microsoft.com/ja-jp/training/paths/bicep-azure-pipelines/)
+- [Azure Bicep を GitHub Actions で CI/CD する](https://qiita.com/hoisjp/items/9376fcf9831fe542ee20)
+- [クイックスタート: Bicep を Azure Pipelines に統合する](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/add-template-to-azure-pipelines?tabs=CLI)
 
 ## Azure Bot Service
 
@@ -282,6 +286,7 @@
 - [Excel マクロの VBA ソースコードを Azure DevOps でバージョン管理する方法  by Takeru Saso  Medium](https://medium.com/@saso_33429/excel%E3%83%9E%E3%82%AF%E3%83%AD%E3%81%AEvba%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92azure-devops%E3%81%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-d20b751ddc30)
 - [ゼロからはじめる Azure(26) 「Azure DevOps」でチーム開発を行おう（2）Azure Boards の概要と使い方   マイナビニュース](https://news.mynavi.jp/article/zeroazure-26/)
 - [タスク管理をスプレッドシートから Azure Boards にしたい人向けの話](https://kkamegawa.hatenablog.jp/entry/2020/10/03/133802)
+- [Azure DevOps を完全理解する 目次](https://qiita.com/ymasaoka/items/c43ac02e0bc9cbdadd65)
 
 ### Azure Pipelines
 
