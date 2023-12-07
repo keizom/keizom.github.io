@@ -34,3 +34,7 @@
 - [Adobe XD の基本的な使い方を解説！専門知識不要で UI・UX デザインが簡単に！ferret](https://ferret-plus.com/13236)
 - [VS Code の Adobe XD 用拡張機能が登場！デザインシステムにもとづきコード出力と補完が可能に](https://ics.media/entry/210107/)
 - [Adobe XD のデザインを「Flutter」のコードに変換するプラグインが一般公開 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1279609.html)
+
+## Figma
+
+- [Figmaの魅力がすぐわかる、仕事で即使える！おすすめテンプレ、プラグイン、ウィジェット【Figmaワークハック #4】](https://www.lifehacker.jp/article/2312-figma-4/)

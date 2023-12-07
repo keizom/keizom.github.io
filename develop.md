@@ -79,6 +79,14 @@
 - [多分わかりやすい C#の Delegate とラムダ式入門 SIOS Tech. Lab](https://tech-lab.sios.jp/archives/15318)
 - [多分わかりやすい C#の非同期処理その 1 ? Thread と Task ? SIOS Tech. Lab](https://tech-lab.sios.jp/archives/15637)
 
+## Cursor
+
+- [Cursorエディタをインストールしよう！](https://zenn.dev/collabostyle/articles/1fed55eb0ab3cd)
+- [話題のAIエディタ「Cursor」のインストール・AIコード生成まで！](https://qiita.com/kat_log/items/4e41b9ac7d9cb21923c7)
+- [次世代のコードエディターCursorのメリデメ](https://qiita.com/taka-sigure/items/1d0c7d3cd51524d7d1d3)
+- [新時代のコードエディタ、Cursorのメリット・できることを網羅的に解説した](https://zenn.dev/gamuprog/articles/53e7adee04b337)
+- [[Cursor] AIで変わる新しいエディタ](https://qiita.com/omo_taku/items/f9364fb23c0929b5308f)
+
 ## Docker
 
 - [今日から始めるDocker入門（必要性を理解してから動かす）](https://qiita.com/yuya_sega/items/0fb78b064a6d64fe0979)
@@ -212,6 +220,8 @@
 
 ## VisualStudio Code
 
+- [Visual Studio Codeに入れるべき拡張機能【2023年最新版】](https://qiita.com/midiambear/items/f38686bd4d139e0cd46c)
+- [VSCode 中級者になるための Tips 集](https://blog.engineer.adways.net/entry/2023/12/01/170000)
 - [【初学者】個人的に導入して良かったVSCodeの拡張機能をChatGPTに紹介してもらってみた！](https://qiita.com/kumaryoya/items/4d4be5183fa6f50074eb)
 - [【分野別】VSCodeのおすすめ拡張機能まとめ](https://qiita.com/KNR109/items/5f933df1292564e6dc70)
 - [Visual Studio Code の拡張機能である「C# Dev Kit」が GA となったので使ってみた](https://dev.classmethod.jp/articles/vscode-csharp-dev-kit/)

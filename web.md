@@ -14,6 +14,10 @@
 
 # Web
 
+## フロントエンド
+
+-[2023年度版フロントエンド開発環境構築徹底解説](https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf)
+
 ## Carousel
 
 - [Bootstrap で画像をアルバムみたいにカッコよく表示しよう](https://codezine.jp/article/detail/8350)
@@ -154,6 +158,7 @@
 
 ## JavaScript
 
+- [JavaScriptを学べるWebサイト・アプリまとめ](https://www.hexabase.com/column/javascript_lerning/)
 - [改訂新版JavaScript本格入門 ～モダンスタイルによる基礎から現場での応用まで](https://zenn.dev/torachi0401/articles/recommend_books3)
 - [JavaScriptビルドツールの整理 各ツールの機能と依存関係](https://zenn.dev/nakaakist/articles/86457bf2908379)
 - [JavaScript - デジタル時計の作り方](https://www.pyxofy.com/how-to-make-a-digital-clock-using-javascript/)
@@ -172,3 +177,12 @@
 - [JavaScript でのメディアクエリ、matchMedia()の使い方を解説 コリス](https://coliss.com/articles/build-websites/operation/javascript/javascript-media-queries.html)
 - [便利なのが登場！フォームのバリデーションをシンプルな記述で実装できる超軽量 JavaScript ライブラリ -v8n](https://coliss.com/articles/build-websites/operation/javascript/js-validation-library-v8n.html)
 - [知っておくと実装に役立つ！JavaScript のテクニックのまとめ](https://coliss.com/articles/build-websites/operation/javascript/javascript-tips-by-garvitmotwani.html)
+
+## vue.js
+
+
+-[「Vueって何？」から始めるVue.js入門](https://qiita.com/MIDO-ruby7/items/6ab4bac960c3520a55d5)
+-[]()
+-[]()
+-[]()
+-[]()

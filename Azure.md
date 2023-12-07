@@ -234,6 +234,7 @@
 ## Azure Data Factory
 
 - [Azure Data Factory を触ってみる #Azure リレー](https://tech-blog.cloud-config.jp/2022-06-13-adf-hands-on/)
+- [Azure Data FactoryのCI/CDをAzure DevOpsで実装する](https://qiita.com/whata/items/7cad0c01e76d2f22e257)
 
 ## Azure Database Migration Service
 
@@ -261,6 +262,7 @@
 
 ## Azure DevOps
 
+- [リモートスクラムでも使えるAzure DevOps(Boards)の活用事例](https://qiita.com/motuo/items/029a9f14f5c256bbc258)
 - [【Azure Pipelines】WebAppsへDeployするためのyamlファイルを徹底解説【初心者向け】](https://tech-lab.sios.jp/archives/35848)
 - [ASP.NET Web アプリを作って Azure DevOps から Azure App Service に CI/CD してみた](https://www.softbanktech.co.jp/special/blog/cloud_blog/2023/0018/)
 - [Azure DevOpsを触ってみた](https://www.qes.co.jp/media/Microservices/a104)
@@ -433,6 +435,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [OpenAIとMicrosoft Graph Search APIでM365の組織内データを検索するRAGアプリを作る](https://zenn.dev/microsoft/articles/azure-openai-graph-rag-pattern)
 - [【超入門】GPT Builderの使い方！【GPTs / ChatGPT】](https://zenn.dev/umi_mori/articles/gpt-builder-how-to-start)
 - [世界一わかりみの深いAzure OpenAI Service](https://tech-lab.sios.jp/archives/36497)
 - [Microsoft、生成AIの可能性を引き出す25種類の効果的なプロンプトの作成方法を紹介](https://atmarkit.itmedia.co.jp/ait/articles/2310/27/news053.html)
@@ -468,6 +471,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ### Chat GPT
 
+- [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集 -2023年12月バージョン-](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji-2023nian-12yue-baziyon)
 - [【ChatGPTのおすすめプラグイン一覧】猛者達が選んだ最強プラグインの使い方39選](https://weel.co.jp/media/plugin-list)
 - [【実例】ChatGPTでコード生成～Code interpreterも解説](https://book.st-hakky.com/business/chatgpt-code-generation/)
 - [ついに日本で利用可能になったChatGPTの強力ライバル「Claude」使用レビュー、テキストファイルやPDFファイルの認識も可能でランチの相談からコーディング補助までサクサク応答](https://gigazine.net/news/20231019-claude-chatgpt-rival-chat-ai/)
