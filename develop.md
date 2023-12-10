@@ -16,6 +16,9 @@
 
 ## .NET Core
 
+- [.NET 8 の ASP.NET Core Blazor 新機能オーバービュー](https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet8-overview)
+- [AzRefArc.AspNetBlazorUnited](https://github.com/nakamacchi/AzRefArc.AspNetBlazorUnited)
+- [.NET 8 対応 Blazor Web App 概要](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtw6G7iQYzLWpOMJ73X83AsFe8xQ9m___p6KsoaTXzCvWmUKhaaBLjx7tbCEaYkaErl2eu3UYSU5cPepZ3Sn6lg9TJ)
 - [ASP.NET Coreでリアルタイム通信を実現！ SignalRの使い方](https://codezine.jp/article/detail/18494)
 - [C#で SPA を実現！ .NET 6 で ASP.NET Core の Blazor アプリケーションの基本「Blazor Server」を理解しよう](https://codezine.jp/article/detail/16848)
 - [ASP.NET Core、最小限の API、.NET 6 を使用して Web アプリとサービスを作成する - Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/aspnet-core-minimal-api/)
@@ -85,10 +88,12 @@
 - [話題のAIエディタ「Cursor」のインストール・AIコード生成まで！](https://qiita.com/kat_log/items/4e41b9ac7d9cb21923c7)
 - [次世代のコードエディターCursorのメリデメ](https://qiita.com/taka-sigure/items/1d0c7d3cd51524d7d1d3)
 - [新時代のコードエディタ、Cursorのメリット・できることを網羅的に解説した](https://zenn.dev/gamuprog/articles/53e7adee04b337)
-- [[Cursor] AIで変わる新しいエディタ](https://qiita.com/omo_taku/items/f9364fb23c0929b5308f)
+- [Cursor AIで変わる新しいエディタ](https://qiita.com/omo_taku/items/f9364fb23c0929b5308f)
+- [【Cursor】今話題のAI搭載最強コードエディタ！使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
 
 ## Docker
 
+- [「Ansible」と「Docker」の違いは？　両ツール連携の仕組みは？](https://atmarkit.itmedia.co.jp/ait/articles/2312/01/news054.html)
 - [今日から始めるDocker入門（必要性を理解してから動かす）](https://qiita.com/yuya_sega/items/0fb78b064a6d64fe0979)
 - [WebのフロントエンドでもDockerで開発環境を構築する理由。（余談としての脱node依存開発）](https://qiita.com/SFITB/items/27cb917945fa9e721f34)
 - [Dockerの"分からない"を簡単にメモ](https://qiita.com/fsd-fukufuku/items/f8539e562352c046f39c)
@@ -119,6 +124,10 @@
 
 ## git
 
+- [混乱を引き起こしがちなGitの用語まとめ](https://gigazine.net/news/20231111-confusing-git-terminology/)
+- [Git 時空操作のススメ](https://qiita.com/ko-sato-primebrains/items/76e26c01665289c01a17)
+- [GitHub Codespacesをハッカソンで使ったらとても快適に開発できた話](https://aadojo.alterbooth.com/entry/2023/12/02/090000)
+- [初心者向けgitのあれこれ](https://qiita.com/Fkinds/items/6ac5603fda195dd77c5c)
 - [Gitを使った開発に慣れるまでの学習方法](https://qiita.com/amymd/items/056864438b839855b6d7)
 - [入門書を終えた人に捧げる、社会人のためのGit中級編](https://qiita.com/yamamoto7/items/fe15a1e7e360b4015fae)
 - [初学者の私がGitを理解するために、この順番で読めばよかったと思った記事の順番](https://qiita.com/muranakar/items/e3e8e8187d32120c7fdf)
@@ -155,6 +164,7 @@
 
 ## GitHub Copilot
 
+- [CLI 上の操作だけでコマンドの説明や提案をしてもらえる「GitHub Copilot in the CLI」の Public Beta が提供開始されました](https://dev.classmethod.jp/articles/github-copilot-cli-public-beta-launch/)
 - [ブログ執筆時に GitHub Copilot を使って効率化していること3選](https://dev.classmethod.jp/articles/how-github-copilot-is-helping-me-write-blog-posts-more-efficiently-3-examples/)
 - [github copilot事始め](https://qiita.com/GETB/items/0f880b7fb14c6204cad4)
 - [【GitHub Copilot】5分で始める！GitHub EnterpriseでGitHub Copilotを使ってみよう](https://aadojo.alterbooth.com/entry/2023/04/02/230938)
@@ -220,6 +230,9 @@
 
 ## VisualStudio Code
 
+- [VSCodeのGit連携をさらに便利に！ 拡張機能Git History、Git Graph、GitLensを解説](https://codezine.jp/article/detail/18695)
+- [VSCodeのソース管理をはじめよう！ Gitの連携機能について解説](https://codezine.jp/article/detail/18617)
+- [Visual Studio CodeでGitHubの複数アカウントを使い分ける](https://qiita.com/ykoizumi0903/items/44e24d4180ae931552ce)
 - [Visual Studio Codeに入れるべき拡張機能【2023年最新版】](https://qiita.com/midiambear/items/f38686bd4d139e0cd46c)
 - [VSCode 中級者になるための Tips 集](https://blog.engineer.adways.net/entry/2023/12/01/170000)
 - [【初学者】個人的に導入して良かったVSCodeの拡張機能をChatGPTに紹介してもらってみた！](https://qiita.com/kumaryoya/items/4d4be5183fa6f50074eb)

@@ -16,6 +16,7 @@
 
 - [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
 - [ライセンス](https://m365maps.com/matrix.htm)
+- [Test Base for Microsoft 365とは何か、使ってみてわかった｢完全自動化｣の利点と課題](https://www.sbbit.jp/article/cont1/127133)
 
 ## 認証関係
 
@@ -35,11 +36,13 @@
 - [Power Apps と AI Builder を使って最速で OCR アプリを作る！！#Power Platform リレー](https://tech-blog.cloud-config.jp/2021-12-23-power-apps-ai-builder-ocr/)
 - [AI Builder による画像認識モデルの構築](https://rpa.bigtreetc.com/column/aibuilder-builing-customai/)
 
-## loops
+## loop
 
+- [Microsoft LoopがGAされたので管理面を整理してみる](https://zenn.dev/santafs/articles/8b9701feb63bf1)
 - [Microsoft Loop アプリ (public preview) - 勉強会の録画公開](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/04/microsoft-loop--6f48.html)
 - [AI搭載の多機能メモアプリ｢Microsoft Loop｣、Notionとはここがちがいます](https://www.gizmodo.jp/2023/04/loop-notion-comparison.html)
 - [Microsoft Loop ：パブリックプレビューを利用する設定方法](https://art-break.net/tech/?p=17773)
+- [Microsoft Loop がGA (一般提供開始)](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/11/microsoft-loop--bec5.html)
 
 ## Office 365 Management API
 
@@ -81,6 +84,8 @@
 
 ## Microsoft 365 Copilot
 
+- [GPU非搭載ノートPCでもコマンド不要で各種言語モデルの性能を試せる実行環境「LM Studio」レビュー](https://gigazine.net/news/20231202-lm-studio-llm/)
+- [Microsoft 365 Copilotを利用する前に必ず知っておくべき注意点](https://kn.itmedia.co.jp/kn/articles/2312/01/news076.html)
 - [最新のWindows 11 23H2は何が変わった？AIアシスタントのCopilotなど、新機能・更新内容を一挙紹介](https://pc.watch.impress.co.jp/docs/topic/feature/1544477.html)
 - [Microsoft 365 Copilot カタログ 2023年9月更新](https://info.microsoft.com/JA-T2C-CNTNT-FY24-08Aug-18-Microsoft-365-Copilot-Catalog-SRGCM10917_LP01-Registration---Form-in-Body.html)
 - [Announcing Microsoft 365 Copilot general availability and Microsoft 365 Chat](https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availability-and-microsoft-365-chat/)
@@ -93,6 +98,7 @@
 - [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
 - [Office 365 評価版サイト申し込み](https://www.microsoft.com/ja-jp/microsoft-365/enterprise/compare-office-365-plans)
 - [Microsoft 365 Enterprise のテスト ラボ ガイド - Microsoft 365 Enterprise Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/m365-enterprise-test-lab-guides?view=o365-worldwide)
+- [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
 
 ## BandWidth
 

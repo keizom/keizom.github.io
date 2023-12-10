@@ -271,6 +271,8 @@ Add-SPDistributedCacheServiceInstance
 - [DO’s&DONT’s #12: やった方がいいこと - max server memory を設定する](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-12-max-server-memory)
 - [DO’s&DONT’s #17: やっておいた方がいいこと - tempdb データファイル数を CPU 数に一致させる](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-17-tempdb-259)
 - [SQL Troubleshooting SQL Server トラブルシューティング 6 回シリーズのご案内](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/sql-troubleshooting-sql-server-6)
+- [クイック スタート:Red Hat に SQL Server をインストールし、データベースを作成する](https://learn.microsoft.com/ja-jp/sql/linux/quickstart-install-connect-red-hat?view=sql-server-ver16&tabs=rhel9)
+- [クイック スタート:Ubuntu に SQL Server をインストールし、データベースを作成する](https://learn.microsoft.com/ja-jp/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16&tabs=ubuntu2204)
 
 # VMware
 
@@ -282,6 +284,7 @@ Add-SPDistributedCacheServiceInstance
 > cpuUniformityHardCheckPanic=FALSE
 - [ESXi のハードウェア要件](https://docs.vmware.com/jp/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-DEB8086A-306B-4239-BF76-E354679202FC.html)
 - [ESXi on AMD版NUC 導入レポ](https://qiita.com/hirosat/items/c6e330212f01f766cc42)
+- [Minisforum EliteMini HX90 を使って、自宅に VMware な仮想環境を作った](https://blog.aimless.jp/archives/2022/07/create-vmware-virtual-platform-with-minisforum-elitemini-hx90/)
 
 # AWS
 

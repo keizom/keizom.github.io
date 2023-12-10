@@ -41,6 +41,10 @@
 
 ## html
 
+- [これはブックマークしておくと便利！ HTMLはdiv要素一つだけ、あとはCSSをコピペするだけで100種類以上のリボンを簡単に実装できる -CSS Ribbon Shapes](https://coliss.com/articles/build-websites/operation/css/css-ribbon-shapes.html)
+- [【入門】フロントエンドのテスト手法まとめ](https://qiita.com/KNR109/items/7cf6b24bed318dab5715)
+- [フロント学習の最高の教材集](https://qiita.com/KNR109/items/201c133d6eeaabf675a7)
+- [成功法則が詰まったBtoBサイトの標準ワイヤーフレームを無料配布します](https://baigie.me/officialblog/2020/12/17/btob_wireframe/)
 - [いざという時に使える7つのHTML&CSS Tips集vol.2](https://buildstd.com/html-css-tips02/)
 - [MUI の Figma UI kit が良いぞ](https://zenn.dev/tasugi/articles/ac8f7a4c8379cc)
 - [フロントエンドエンジニアにおすすめchrome拡張機能](https://qiita.com/YSasago/items/e29803ff460f3a5a6da4)
@@ -146,6 +150,7 @@
 - [CSS Grid を Chrome デベロッパーツールで検証、デバッグする方法を解説](https://coliss.com/articles/build-websites/operation/css/inspect-css-grid-by-chrome-devtools.html)
 - [2020 年の CSS のまとめ、Flexbox や CSS Grid の使用状況、よく使用するプロパティや単位、人気のフレームワークやツールなど](https://coliss.com/articles/build-websites/operation/css/the-state-of-css-2020.html)
 - [CSSのsubgridがすべてのブラウザにサポートされたので、カード内の見出しやテキストを簡単に揃えることができます](https://coliss.com/articles/build-websites/operation/css/use-subgrid-give-child-elements-access-to-a-parents-grid.html)
+- [ターミナルのシンプルなUIが好きな人に！ モダンでミニマルなCSSの超軽量フレームワーク -Terminal CSS](https://coliss.com/articles/build-websites/operation/css/terminal-css.html)
 
 ## Bootstrap
 
@@ -180,9 +185,5 @@
 
 ## vue.js
 
-
 -[「Vueって何？」から始めるVue.js入門](https://qiita.com/MIDO-ruby7/items/6ab4bac960c3520a55d5)
--[]()
--[]()
--[]()
--[]()
+-[Vue.jsとjQueryの違いは メリット・デメリットを歴史的に比較](https://runteq.jp/blog/programming-school/other/2774/)

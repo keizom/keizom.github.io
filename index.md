@@ -115,6 +115,11 @@
 # 資料
 
 - [Microsoft 365 Virtual Marathon 2022 Japanese Track](https://connpass.com/event/243871/presentation/)
+- [【まとめ】大学が公開している有益な資料](https://qiita.com/KNR109/items/02e08d17dba01d9c2fd6)
+
+# Gmail
+
+- [Gmailが2024年2月から(大量)送信者に求めてることが分からない闇への防衛術(前編)](https://qiita.com/nfujita55a/items/37b05801209f6058808e)
 
 # MISC
 

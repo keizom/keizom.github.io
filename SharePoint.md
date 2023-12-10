@@ -14,16 +14,21 @@
 
 # SharePoint
 
+## SSIS 2 SharePoint
+
+- [Moving SharePoint Documents to the File System](https://dataqueen.curiousmind.ca/2013/02/moving-sharepoint-documents-to-the-file-system/)
+
 ## SharePoint Online
 
 - [What’s Next for SharePoint](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-next-for-sharepoint/ba-p/3776866)
+- [Microsoft SharePoint Premium の発表](https://shanqiai.lekumo.biz/sharepoint_technical_note/2023/11/microsoft-ignit-0923.html)
 - [SharePoint のニュースを丸ごとメール配信しよう!](https://shanqiai.lekumo.biz/sharepoint_technical_note/2023/09/sharepoint-34b1.html)
 - [Microsoft リストの新しいUX](https://shanqiai.lekumo.biz/sharepoint_technical_note/2023/07/microsoft-ux-431c.html)
 - [検索バーティカルを管理する](https://learn.microsoft.com/ja-jp/microsoftsearch/manage-verticals)
 - [リスト ビューのしきい値に関する FAQ](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/faq)
 
-  > Q1 : リスト ビューのしきい値とは何なのか？  
-  > リスト ビューのしきい値とは、ユーザー観点でいうと、同一階層で表示 (ビュー) できるアイテムの数です。  
+  > Q1 : リスト ビューのしきい値とは何なのか？
+  > リスト ビューのしきい値とは、ユーザー観点でいうと、同一階層で表示 (ビュー) できるアイテムの数です。
   > リストビューのしきい値の 5000 件を、ドキュメントライブラリやリストに登録できるアイテムの件数と混同されている場合があります。
 
 - [大規模なリストとライブラリを管理する](https://support.microsoft.com/ja-jp/office/%e5%a4%a7%e8%a6%8f%e6%a8%a1%e3%81%aa%e3%83%aa%e3%82%b9%e3%83%88%e3%81%a8%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%82%92%e7%ae%a1%e7%90%86%e3%81%99%e3%82%8b-b8588dae-9387-48c2-9248-c24122f07c59?ui=ja-jp&rs=ja-jp&ad=jp)

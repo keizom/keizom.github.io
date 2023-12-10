@@ -50,6 +50,7 @@
 
 ## Azure AD B2C
 
+- [Azure AD B2C の行方と新たに登場した Microsoft Entra ID for customers のどっちがいいの？](https://qiita.com/daimat/items/bc58bc986e9b52c3fa79)
 - [基礎から分かる Azure AD B2C](https://qiita.com/Shinya-Yamaguchi/items/03321728b373a27be009)
 - [Azure AD B2C を利用した認証付き Web アプリケーションを構築するハンズオンを公開しました](https://zenarchitects.co.jp/posts/aadb2c-swa-handson)
 
@@ -160,6 +161,9 @@
 
 ## Azure Bicep
 
+- [AzureにおけるIaC　Bicepに入門してみた](https://engineers.fenrir-inc.com/entry/2022/06/30/131400)
+- [VSCodeのTerraform拡張機能にTerraform Cloudビューが追加されました](https://dev.classmethod.jp/articles/vscode-extenstions-tfc-view/)
+- [TerraformとBicep両方さわってみて思ったこと](https://dev.thanaism.com/2021/08/terraform/)
 - [エンジニア全員が Terraform を安心・安全に触れるような仕組みを整えています](https://tech.visasq.com/terraform-automation)
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
 - [Bicep ツールのインストール](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/install)
@@ -368,6 +372,7 @@
 
 ## Azure Key Vault
 
+- [【Azure】Key Vault（キーコンテナ）にSSLサーバ証明書をインポートして利用する（App Service編）](https://atmarkit.itmedia.co.jp/ait/articles/2311/15/news029.html)
 - [クイックスタート: .NET 用 Azure Key Vault シークレット クライアント ライブラリ](https://learn.microsoft.com/ja-jp/azure/key-vault/secrets/quick-create-net?tabs=azure-powershell)
 - [2 セットの認証資格情報があるリソースを対象にシークレットのローテーションを自動化する](https://learn.microsoft.com/ja-jp/azure/key-vault/secrets/tutorial-rotation-dual?tabs=azure-cli)
 - [Azure Key Vault を作成する](https://qiita.com/kk-ishii/items/0176b1f02e77bd4fd948)
@@ -408,6 +413,8 @@ $sp = New-AzADServicePrincipal -DisplayName exampleapp `
 Sleep 20
 New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ```
+- [Azure：Microsoft Entra IDの「エンタープライズアプリケーション」と「アプリの登録」の違いでハマった話](https://tech-lab.sios.jp/archives/37743)
+
 
 ## Azure Kubernetes
 
@@ -415,6 +422,8 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [今さら人に聞けない Kubernetes とは？](https://qiita.com/MahoTakara/items/85096f8b2632c802ab22)
 - [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 - [3分で分かった気になる、Kubernetes とは？](https://qiita.com/r548/items/e6d1e4dcfdd9f8a7874d)
+- [ローカルマシンにコンテナとKubernetes環境などを構築する「Podman Desktop 1.5」リリース。導入設定が容易に、コマンドパレットも使いやすく](https://www.publickey1.jp/blog/23/kubernetespodman_desktop_15.html)
+- [エンジニアは全員おうちKubernetesをやるべし【Part 2：どうやるのか】](https://qiita.com/takumi3488/items/8cf6e52408fcec5631ec)
 
 ## Azure Load Test
 
@@ -446,7 +455,6 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [OpenAI がまたやった！OpenAI DevDay 総まとめ](https://chatgpt-lab.com/n/n0554df7f1b80)
 - [世界一わかりみの深いAzure OpenAI Service](https://tech-lab.sios.jp/archives/36497)
 - [「ChatGPT」でグラフや表を作成--エディションごとの機能と作成手順](https://japan.zdnet.com/article/35209088/)
-- [凄すぎると話題の「Open Interpreter」の始め方・使い方まとめ](https://qiita.com/ot12/items/d2672144b914cb6f252f)
 - [Azure で ChatGPT × Cognitive Search を使ったエンタープライズサーチを実現](https://qiita.com/nohanaga/items/803c09b5a3a4e2d1776f)
 - [Azure OpenAI Serviceの世界へようこそ](https://note.com/fushiroyama/n/n584473dd57b2)
 - [.NET (C#) SDK for Azure OpenAI 開発入門 (GPT-3.5 Turbo を使いコンソールで動く chatbot)](https://qiita.com/chomado/items/23947eaf48a75ae130ea)
@@ -469,16 +477,29 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [【緊急企画】話題の ChatGPT 。Microsoft の担当者が登場！まだ序章！今話せること全部お話します！ビジネスで使える IT ネタをお届けする「ネタバース」 | 日本マイクロソフト](https://www.youtube.com/watch?v=wsQruf1KEJE)
 - [削除された Azure AI サービス リソースの復旧または消去](https://learn.microsoft.com/ja-jp/azure/ai-services/recover-purge-resources)
 
+### Open Interpreter
+
+- [話題のOpen Interpreterを使ってみた、そして、驚いた](https://qiita.com/yanagih/items/466a5560bd771e2b9030)
+- [【実例】ChatGPTでコード生成～Code interpreterも解説](https://book.st-hakky.com/business/chatgpt-code-generation/)
+- [凄すぎると話題の「Open Interpreter」の始め方・使い方まとめ](https://qiita.com/ot12/items/d2672144b914cb6f252f)
+- [今さら聞けないChatGPT「Code Interpreter」、データ分析能力が飛躍的向上のワケ](https://www.sbbit.jp/article/cont1/120122)
+- [チャット形式でプログラミングが可能なローカルで動作するオープンソースなAIツール「Open Interpreter」を使ってみた](https://gigazine.net/news/20231119-open-interpreter/)
+
 ### Chat GPT
 
+- [OpenAI「GPTs」がもたらす革命　誰でも「自分のコパイロット」時代へ](https://www.watch.impress.co.jp/docs/series/nishida/1546335.html)
+- [「ねこGPT」GPTsのActionsを理解して、外部APIをコールする](https://qiita.com/kuromiya123/items/fd1db6bfc55c68add0c8)
+- [My GPTsを使ってドキュメント読まれない問題を解決する](https://zenn.dev/aics/articles/0a21cee7940e5f)
+- [あなたの開発生産性を爆上げする、エンジニア向けAIツール22個](https://note.com/shiba_program/n/n78601735db9a)
+- [【ChatGPT「GPTs（GPT Builder）」のおすすめ活用事例一覧】猛者達が開発した最強GPTsの使い方25選](https://weel.co.jp/media/gpts-case)
+- [いまさらだけどChatGPT 契約！](https://tech-lab-engineer.sios.jp/archives/log/20231120_ryu/)
+- [生成AI（ジェネレーティブAI）とは？ChatGPTとの違いや仕組み・種類・活用事例](https://www.brainpad.co.jp/doors/news_trend/about_generative_ai/)
+- [【OpenGPT】GPTsのリスクを全て克服した無料オープンソース版GPTsを実際に使ってみた](https://weel.co.jp/media/opengpt)
 - [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集 -2023年12月バージョン-](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji-2023nian-12yue-baziyon)
 - [【ChatGPTのおすすめプラグイン一覧】猛者達が選んだ最強プラグインの使い方39選](https://weel.co.jp/media/plugin-list)
-- [【実例】ChatGPTでコード生成～Code interpreterも解説](https://book.st-hakky.com/business/chatgpt-code-generation/)
 - [ついに日本で利用可能になったChatGPTの強力ライバル「Claude」使用レビュー、テキストファイルやPDFファイルの認識も可能でランチの相談からコーディング補助までサクサク応答](https://gigazine.net/news/20231019-claude-chatgpt-rival-chat-ai/)
-- [話題のOpen Interpreterを使ってみた、そして、驚いた](https://qiita.com/yanagih/items/466a5560bd771e2b9030)
 - [ChatGPTでは的確な“指示出し”が大切！ セントラルオフィスが「プロンプト」のコツをまとめた資料を公開](https://www.mdn.co.jp/news/6580)
 - [ChatGPT/Co-Pilotで改めてわかる「プログラミング」とはどんな作業だったのか｜shi3z (note.com)](https://note.com/shi3zblog/n/ndc6834fefb75)
-- [今さら聞けないChatGPT「Code Interpreter」、データ分析能力が飛躍的向上のワケ](https://www.sbbit.jp/article/cont1/120122)
 - [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 - [ChatGPT使い方総まとめ](https://qiita.com/sakasegawa/items/82069c97a1ee011c2d1e)
 - [ChatGPTに関するチートシート](https://zenn.dev/nameless_sn/articles/chatgpt_cheat_sheet)
@@ -695,6 +716,8 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## SendGrid
 
+- [まず最初にすることシリーズ：アカウントをセキュアに利用するためにするべきこと](https://sendgrid.kke.co.jp/blog/?p=10516)
+- [Twilio SendGridでできること・できないこと](https://sendgrid.kke.co.jp/blog/?p=14634)
 - [GmailとYahoo!がメール送信者に義務づける新しい要件](https://sendgrid.kke.co.jp/blog/?p=17005)
 - [SMTPのはじめかた（自作 VS. サービス利用）](https://sendgrid.kke.co.jp/blog/?p=14512)
 - [なぜ迷惑メール扱いされてしまうのか？](https://sendgrid.kke.co.jp/blog/?p=13312)
@@ -729,6 +752,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [メール送信チュートリアル【まとめ】](https://sendgrid.kke.co.jp/blog/?p=10832)
 - [携帯キャリアにメールを届けるための設定　～なりすまし規制編～](https://sendgrid.kke.co.jp/blog/?p=10875)
 - [送信ドメインを認証するための SPF レコードに詳しくなろう  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=3509)
+- [口コミからわかるSendGridのメリット・デメリット](https://sendgrid.kke.co.jp/blog/?p=14191)
 
 ## Migration
 

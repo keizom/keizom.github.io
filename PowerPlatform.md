@@ -67,6 +67,7 @@
 
 ## Power Apps
 
+- [AI (Copilot) の力で実現 ! 点検業務を 1 時間でアプリ化 & 承認ワークフローで完全デジタル化しよう](https://qiita.com/nayoshik/items/abfeb39f93442441e848)
 - [Power Apps のキャンバスアプリから直接 Teams にメッセージを投稿しよう](https://qiita.com/nayoshik/items/d40710c4be57440f9cb5)
 - [Power Apps の Copilot を試す環境を作ってみよう（※2023年6月5日時点）](https://qiita.com/yamad365/items/041359ebcc646fc40f55)
 - [Microsoft Power Apps × Outlook「会議室予約状況可視化アプリ」のご紹介動画が再生回数 4,000 回を達成しました。](https://dx.si-jirei.jp/cloud-news-microsoft_power_apps-outlook-youtube-meeting-room-reservation-appli-video-play-4000times/)
@@ -142,8 +143,16 @@
 
 - [Power Virtual Agents](https://powerva.microsoft.com/#/dialog/4c6f7ea5-a79a-48c5-ade0-7553c95a880d)
 
+## Microsoft Copilot Studio
+
+- [Microsoft Copilot Studio による カスタムCopilot の作成](https://note.com/npaka/n/n3fcc8060955b)
+- [Microsoft Copilot Studio の概要と、Power Virtual Agents の Ignite2023 での発表まとめ](https://qiita.com/MiyakeMito/items/ec88d2da96dcfc1c11ca)
+- [Microsoft Copilot Studio と Copilot の概要](https://note.com/npaka/n/n765b90a8cd47)
+
 ## Power BI
 
+- [PowerPlatform の各 Blog の RSS を定期的に取得](https://app.powerbi.com/view?r=eyJrIjoiNGIwZjQ1YzYtNTI2My00ZjA3LTkyMmUtYjZjOTMyOTZiYzQ3IiwidCI6IjgzZmQ0NjViLTczNGUtNDA1Ny1hZTM3LWU3N2FhN2QzNDcyOSJ9)
+- [Power BI Weekly News 100 - データセット が セマンティックモデル に名称変更したぞぉー](https://www.youtube.com/watch?v=YhPBmH_jNz0)
 - [スター スキーマと Power BI での重要性を理解する](https://learn.microsoft.com/ja-jp/power-bi/guidance/star-schema)
 - [Power Queryで全クエリのメタデータ情報を簡単集計](https://marshal115.hatenablog.com/entry/2023/08/13/231742)
 - [SharePointのフォルダ構造（親子階層）を可視化する](https://marshal115.hatenablog.com/entry/2023/07/27/182154)
