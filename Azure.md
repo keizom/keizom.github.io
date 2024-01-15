@@ -32,6 +32,11 @@
 - [Azure での仮想マシンのメンテナンス](https://docs.microsoft.com/ja-jp/azure/virtual-machines/maintenance-and-updates)
   > Azure により、都合の良いときに自分でメンテナンスを開始できる時間枠も与えられます。 セルフ メンテナンス期間は、そのメンテナンスが緊急でない限り、通常は 35 日間です (ホスト マシンの場合)。
 
+- [Azure検証利用における基本的なセキュリティ対策](https://qiita.com/biri/items/5bd3d497ee6cf002392e)
+- [Azure の ハンズオン・ワークショップ・ハッカソン 運営者のための環境の作り方](https://qiita.com/dahatake/items/5dd419e11884dd7c54c8)
+- [Azureの「Private Link」「サービスエンドポイント」　どちらを選べばいい？](https://techtarget.itmedia.co.jp/tt/news/2312/20/news06.html)
+
+
 ## Azure AD
 
 - [Azure AD参加端末におけるPRT (Primary Refresh Token)悪用のリスクと対策について](https://gmo-cybersecurity.com/blog/azuread-prt/)
@@ -61,6 +66,19 @@
 - [サイトのユーザー情報を強制的に AD と同期させる方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/ad)
 - [Azure AD Connect を使ってアカウントを同期する方法](https://www.gmo.jp/report/single/?art_id=244)
 - [Azure AD Connect導入がオンプレAD廃止の足掛かりになるって、どういうこと？](https://blog.cloudnative.co.jp/15912/)
+
+## Azure AI Studio
+
+- [Azure AI Studio とは?](https://learn.microsoft.com/ja-jp/azure/ai-studio/what-is-ai-studio)
+- [Azure AI Studio](https://azure.microsoft.com/ja-jp/products/ai-studio/)
+
+## Azure AI Search
+
+- [Next.js アプリを OpenAI × Vercel から Azure OpenAI × App Service × Azure DevOps へ移行する](https://qiita.com/s_w_high/items/7bf78bae49705690ab12)
+- [生成AIを作れる「Azure AI Studio」とは？　OpenAIの相棒Microsoftの新サービス](https://techtarget.itmedia.co.jp/tt/news/2312/22/news07.html)
+- [チャットで楽々検索！ Azure AI Search と OpenAI を組み合わせた独自ドキュメント検索サンプルのご紹介](https://zenn.dev/microsoft/articles/jp-openai-5v1)
+- [Azure AI Search の概要 - Azure AI Search | Microsoft Learn. ](https://learn.microsoft.com/ja-jp/azure/search/search-what-is-azure-search)
+- [Azure Cognitive Searchが改称 「Azure AI Search」に - ITmedia. ](https://www.itmedia.co.jp/news/articles/2311/16/news175.html)
 
 ## Azure API Management
 
@@ -198,6 +216,12 @@
 
 - [ノンコーディングで簡易 FAQ Slack Bot を作ってみた話（QnA Maker ＋ Azure Bot Service）](https://zuvuyalink.net/nrjlog/archives/4368)
 - [次世代コミュニケーションツール「チャットボット」の活用 ?Azure Bot Service で Azure のことに何でも答えてくれる LINE ボットを作る ?【概要編】 SIOS Tech. Lab](https://tech-lab.sios.jp/archives/17023)
+
+## Azure Copilot
+
+- [Microsoft Copilot for Azure (プレビュー) 機能](https://learn.microsoft.com/ja-jp/azure/copilot/capabilities)
+- [Azure PortalもAIにお任せ！Microsoft Copilot for Azureを試してみた](https://aadojo.alterbooth.com/entry/2023/12/15/235629)
+- [Microsoft Copilot for Azureを試してみた（後編）](https://zenn.dev/tomot/articles/992d5925d17301)
 
 ## Azure Cosmos DB
 
@@ -444,6 +468,13 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開](https://www.publickey1.jp/blog/24/aiai12.html)
+- [プログラミング支援AIサービスが主要各社から出そろう　各サービスのまとめ　GitHub／AWS／Google／GitLab／JetBrains](https://www.itmedia.co.jp/news/articles/2312/18/news093.html)
+- [microsoft/generative-ai-for-beginners:](https://github.com/microsoft/generative-ai-for-beginners)
+- [プログラミング支援AIサービスが主要各社から出揃う、各サービスのまとめ。GitHub／AWS／Google／GitLab／JetBrains](https://www.publickey1.jp/blog/23/aigithubawsgooglegitlabjetbrains.html)
+- [「ChatGPT」わからん勢に朗報！ OpenAIの「Prompt examples」ページが有用](https://forest.watch.impress.co.jp/docs/serial/yajiuma/1556698.html)
+- [Microsoft、生成AIを活用したい起業家向けトレーニングをMicrosoft Learnで公開](https://atmarkit.itmedia.co.jp/ait/articles/2312/26/news079.html)
+- [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners/?s=09#/)
 - [OpenAIとMicrosoft Graph Search APIでM365の組織内データを検索するRAGアプリを作る](https://zenn.dev/microsoft/articles/azure-openai-graph-rag-pattern)
 - [【超入門】GPT Builderの使い方！【GPTs / ChatGPT】](https://zenn.dev/umi_mori/articles/gpt-builder-how-to-start)
 - [世界一わかりみの深いAzure OpenAI Service](https://tech-lab.sios.jp/archives/36497)
@@ -487,6 +518,11 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ### Chat GPT
 
+- [ChatGPT-Prompt-Sample-Japanese/Workshop at main ? dahatake/ChatGPT-Prompt-Sample-Japanese ? GitHub](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/tree/main/Workshop)
+- [【決定版】GPTs開発の教科書](https://chatgpt-lab.com/n/n43cc9a028aac)
+- [データ分析もChatGPTの機能（旧Code Interpreter）でできるか、やったみた【番外編】](https://atmarkit.itmedia.co.jp/ait/articles/2312/14/news013.html)
+- [冊子「ChatGPT for Excel活用術」を無料提供! ExcelとChatGPTで何ができるのか](https://news.mynavi.jp/techplus/kikaku/20230929-2769187/)
+- [ChatGPTを使いこなすにはたった４つのことを覚えるだけでいい？　「プロンプト思考」を身につけよう。](https://iam-iam.jp/31919/)
 - [OpenAI「GPTs」がもたらす革命　誰でも「自分のコパイロット」時代へ](https://www.watch.impress.co.jp/docs/series/nishida/1546335.html)
 - [「ねこGPT」GPTsのActionsを理解して、外部APIをコールする](https://qiita.com/kuromiya123/items/fd1db6bfc55c68add0c8)
 - [My GPTsを使ってドキュメント読まれない問題を解決する](https://zenn.dev/aics/articles/0a21cee7940e5f)
@@ -515,6 +551,22 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [ChatGPT Hack 要件定義から設計・モデリング・プロトタイプ作成。そして Azure への Deploy までを。ChatGPT に作らせた](https://qiita.com/dahatake/items/54588139062b641cc96f)
 - [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji?slide=66)
 - [「自社製品にチャットAIを組み込みたい」　企業が取るべきセキュリティ対策とは？　“プロンプトインジェクション”の基本手口](https://www.itmedia.co.jp/news/articles/2308/10/news101.html)
+
+## プロンプトエンジニアリング
+
+- [プロンプトエンジニアリングの基本と応用](https://blog.brainpad.co.jp/entry/2023/12/19/153000)
+- [生成 AI アプリケーションの開発を始めるために必要な全知識を学べる 12 講座](https://microsoft.github.io/generative-ai-for-beginners/#/translations/ja-jp/)
+
+- [Build better apps, faster: Copilot in Power Apps is now generally available](https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/)
+- [Windowsで使える生成AI活用のアシスタント機能「Copilot in Windows」を解説Tips連載をスタート](https://www.itmedia.co.jp/pcuser/articles/2312/29/news068.html)
+- [AI コパイロットの概要](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/ai-overview?s=09#prerequisites-for-the-ai-features-in-power-apps)
+- [コパイロット プラグインの作成 - 概要 (プレビュー) - Microsoft Copilot Studio | Microsoft Learn<](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/copilot-plugins-overview)
+- [Microsoft Copilot Studio を触ってみました！](https://aadojo.alterbooth.com/entry/2023/12/09/113106)
+
+- [「Copilot、Copilot...」と連呼する前に、Power BIでは...](https://qiita.com/ishiayaya/items/15b6f28e3245137b5d6f)
+- [Microsoft Copilot Studio を触ってみました！ - Alternative Architecture DOJO](https://aadojo.alterbooth.com/entry/2023/12/09/113106)
+JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0602-SRGCM10625_LP01-Registration---Form-in-Body.html)
+- [Celebrating the first year of Copilot with significant new innovations - The Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/12/05/celebrating-the-first-year-of-copilot-with-significant-new-innovations/)
 
 ## Azure PowerShell
 
@@ -716,6 +768,11 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## SendGrid
 
+- [『List-Unsubscribe』ヘッダとは？ | SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=1822)
+- [GASを利用してEvent WebhookのデータをGoogle スプレッドシートに出力する](https://sendgrid.kke.co.jp/blog/?p=17140)
+- [専門家が解説！DMARCの重要性 | SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=16911)
+- [メール到達性入門 〜メールマーケター向け〜](https://sendgrid.kke.co.jp/blog/?p=16157)
+- [セミナー「Gmail新ガイドラインのポイントを解説！メール送信者が今やるべきこと」を開催しました！（前編） | SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=17213)
 - [まず最初にすることシリーズ：アカウントをセキュアに利用するためにするべきこと](https://sendgrid.kke.co.jp/blog/?p=10516)
 - [Twilio SendGridでできること・できないこと](https://sendgrid.kke.co.jp/blog/?p=14634)
 - [GmailとYahoo!がメール送信者に義務づける新しい要件](https://sendgrid.kke.co.jp/blog/?p=17005)

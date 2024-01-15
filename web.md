@@ -41,6 +41,9 @@
 
 ## html
 
+- [【2024年】業務効率を上げるChromeの拡張機能](https://qiita.com/KNR109/items/82ff7dca662bd5be2050)
+- [2023年、Web制作・デザインに役立つ記事の総まとめ](https://coliss.com/articles/digress/coliss-best-in-2023.html)
+- [【デザインシステム】エンジニアが知っておきたいデザインシステム #フロントエンド - Qiita](https://qiita.com/degudegu2510/items/45d7eb209f7440ee3bf6)
 - [これはブックマークしておくと便利！ HTMLはdiv要素一つだけ、あとはCSSをコピペするだけで100種類以上のリボンを簡単に実装できる -CSS Ribbon Shapes](https://coliss.com/articles/build-websites/operation/css/css-ribbon-shapes.html)
 - [【入門】フロントエンドのテスト手法まとめ](https://qiita.com/KNR109/items/7cf6b24bed318dab5715)
 - [フロント学習の最高の教材集](https://qiita.com/KNR109/items/201c133d6eeaabf675a7)
@@ -115,6 +118,10 @@
 
 ## css
 
+- [これは知っておくとかなり便利！ details要素にname属性を与えると、連動して開閉するアコーディオンを実装できます](https://coliss.com/articles/build-websites/operation/css/exclusive-accordion.html)
+- [CSSのデフォルトとして記述しておくと便利、img要素に設定するスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/sensible-defaults-for-img-elements.html)
+- [現代開発者のためのCSS基礎技術](https://qiita.com/arowM/items/4f06ca5506c522ea3dfe)
+- [CSSのデフォルトとして記述しておくと便利、img要素に設定するスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/sensible-defaults-for-img-elements.html)
 - [知っておくと便利！ CSSだけで要素がスクロールできるかどうかを検出する方法](https://coliss.com/articles/build-websites/operation/css/solved-by-css-scroll-driven-animations-detect-if-can-scroll-or-not.html)
 - [古いリセットCSSからはもう卒業！ モダンブラウザに最適化された新しいリセットCSS -A (more) Modern CSS Reset](https://coliss.com/articles/build-websites/operation/css/a-more-modern-css-reset.html)
 - [CSSをコピペするだけで簡単に実装できる！ ディズニーからインスピレーションを得た、美しいローディング](https://coliss.com/articles/build-websites/operation/css/disney-inspired-loading-animation.html)
@@ -163,6 +170,8 @@
 
 ## JavaScript
 
+- [検索: getElement* と querySelector*](https://ja.javascript.info/searching-elements-dom)
+- [SNSで話題のWeb関連情報 2023年 12/2?12/15](https://www.webcreatorbox.com/webnews/2023-1202-1215)
 - [JavaScriptを学べるWebサイト・アプリまとめ](https://www.hexabase.com/column/javascript_lerning/)
 - [改訂新版JavaScript本格入門 ～モダンスタイルによる基礎から現場での応用まで](https://zenn.dev/torachi0401/articles/recommend_books3)
 - [JavaScriptビルドツールの整理 各ツールの機能と依存関係](https://zenn.dev/nakaakist/articles/86457bf2908379)
@@ -187,3 +196,7 @@
 
 -[「Vueって何？」から始めるVue.js入門](https://qiita.com/MIDO-ruby7/items/6ab4bac960c3520a55d5)
 -[Vue.jsとjQueryの違いは メリット・デメリットを歴史的に比較](https://runteq.jp/blog/programming-school/other/2774/)
+- [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
+- [TypeScript未経験でもスムーズに業務に取り組める、最強の学習用コンテンツを作った話](https://engineers.ntt.com/entry/2023/12/19/090007)
+- [TypeScriptとも相性抜群なライブラリ──Vue.jsで状態管理を行う新定番「Pinia」を解説！ (2/3)|CodeZine（コードジン）](https://codezine.jp/article/detail/18727?p=2)
+- [【他のSPAでも】Vue3でアプリ作るならこれを入れろ！2023 ver【使えるよ】](https://qiita.com/k2-kanda/items/42e7df9a578495a5a215)

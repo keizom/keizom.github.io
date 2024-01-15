@@ -175,8 +175,15 @@
 - [PnP/Samples/Core.LargeFileUpload/](https://github.com/pnp/PnP/tree/master/Samples/Core.LargeFileUpload)
 - [How to use PowerShell in SharePoint Online/2016/2013 - SPGuides](https://www.spguides.com/powershell-sharepoint/)
 
+## PnP Core
+
+- [【SPO】PnP ライブラリを使用して SharePoint Online のスクリプトをモダン認証 (先進認証) に対応させる方法](https://mountfuji.hatenablog.com/entry/2019/06/28/145135)
+- [SharePoint クライアント側オブジェクト モデル (CSOM) から PnP ライブラリへのコードのアップグレード](https://learn.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins-modernize/from-csom-to-pnp-libraries)
+- [SharePoint Online の所定のサイトのリストにあるファイルを列挙したい](https://zenn.dev/microsoft/articles/pnp-core-sdk-get-files)
+
 ## PnP SharePoint
 
+- [Send-PnPMail で no-reply@sharepointonline.com からメールを送付する](https://mountfuji.hatenablog.com/entry/2021/04/18/113700)
 - [Working with modern client-side pages using PnP PowerShell](https://learn.microsoft.com/en-us/microsoft-365/community/working-with-modern-clientside-pages-using-pnp-powershell)
 - [【SharePoint】サイト内のすべてのページのすべての Web パーツを CSV 出力する（PnP PowerShell）](https://mynote365.hatenadiary.com/entry/2023/01/14/125427)
 - [How do you add a Hero web part to a FullWidth Section using PS PnP?](https://sharepoint.stackexchange.com/questions/281986/how-do-you-add-a-hero-web-part-to-a-fullwidth-section-using-ps-pnp)

@@ -16,6 +16,7 @@
 
 ## .NET Core
 
+- [ASP.NET Core MVCを新人に説明してみよう](https://qiita.com/saxxos/items/f8bdf3a0a9d6b8e3cfef)
 - [.NET 8 の ASP.NET Core Blazor 新機能オーバービュー](https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet8-overview)
 - [AzRefArc.AspNetBlazorUnited](https://github.com/nakamacchi/AzRefArc.AspNetBlazorUnited)
 - [.NET 8 対応 Blazor Web App 概要](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtw6G7iQYzLWpOMJ73X83AsFe8xQ9m___p6KsoaTXzCvWmUKhaaBLjx7tbCEaYkaErl2eu3UYSU5cPepZ3Sn6lg9TJ)
@@ -61,7 +62,12 @@
 ## bash
 
 - [Bashを学べる全20回の入門動画　MicrosoftがYouTubeで無料公開](https://atmarkit.itmedia.co.jp/ait/articles/2303/11/news027.html)
-- 
+
+## CeatSheet
+
+- [エンジニア向けチートシート集](https://qiita.com/KNR109/items/a6b3216552bee53b1724)
+- [2023年版！エンジニア必見のチートシート集](https://qiita.com/hryk_nu/items/d2bd69201778abecedd4)
+
 ## csharp
 
 - [Microsoft、「基礎C#認定資格」を公開　無料でC#が学べる35時間分のトレーニングコースも](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news026.html)
@@ -84,12 +90,16 @@
 
 ## Cursor
 
+- [Cursor Editorというこれまた便利そうなエディタを見つけた](https://qiita.com/ussy_k/items/cfee1b94a10830d7ad86)
+- [【Cursor】AI搭載の最強コードエディタ！日本語の使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
+- [【Cursorのおすすめ活用事例一覧】AI搭載コードエディタのヤバい使い方10選](https://weel.co.jp/media/cursor-case)
 - [Cursorエディタをインストールしよう！](https://zenn.dev/collabostyle/articles/1fed55eb0ab3cd)
 - [話題のAIエディタ「Cursor」のインストール・AIコード生成まで！](https://qiita.com/kat_log/items/4e41b9ac7d9cb21923c7)
 - [次世代のコードエディターCursorのメリデメ](https://qiita.com/taka-sigure/items/1d0c7d3cd51524d7d1d3)
 - [新時代のコードエディタ、Cursorのメリット・できることを網羅的に解説した](https://zenn.dev/gamuprog/articles/53e7adee04b337)
 - [Cursor AIで変わる新しいエディタ](https://qiita.com/omo_taku/items/f9364fb23c0929b5308f)
 - [【Cursor】今話題のAI搭載最強コードエディタ！使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
+- [Cursorエディタで開発を爆速化しよう！](https://qiita.com/railgun-0402/items/717f44df9d68d77309f1)
 
 ## Docker
 
@@ -124,6 +134,7 @@
 
 ## git
 
+- [Gitまわり](https://note.com/alchan/n/n872f825f34a7)
 - [混乱を引き起こしがちなGitの用語まとめ](https://gigazine.net/news/20231111-confusing-git-terminology/)
 - [Git 時空操作のススメ](https://qiita.com/ko-sato-primebrains/items/76e26c01665289c01a17)
 - [GitHub Codespacesをハッカソンで使ったらとても快適に開発できた話](https://aadojo.alterbooth.com/entry/2023/12/02/090000)
@@ -164,6 +175,11 @@
 
 ## GitHub Copilot
 
+- [GitHub Copilot Chat の一般提供が開始されました](https://dev.classmethod.jp/articles/github-copilot-chat-generally-available/)
+- [GitHub Copilot in VS Code で、作業内容からコミットメッセージを生成可能になりました](https://dev.classmethod.jp/articles/https-code-visualstudio-com-docs-editor-github-copilot/)
+- [【GitHub Copilot Chat】いまさら聞けない？GitHub Copilot Chatの使い方について詳しくご紹介します！](https://aadojo.alterbooth.com/entry/2023/12/13/000000)
+- [GitHub Copilotが便利になったのでターミナルもVSCodeで良いのでは？という話](https://qiita.com/EichiSanden/items/0e4f14c1e4c6e4c61982)
+- [GitHub Copilot開発者が語る最新アップデート ～ コード生成の裏側を知って、より効率的に開発しよう！ (microsoft.com)](https://info.microsoft.com/
 - [CLI 上の操作だけでコマンドの説明や提案をしてもらえる「GitHub Copilot in the CLI」の Public Beta が提供開始されました](https://dev.classmethod.jp/articles/github-copilot-cli-public-beta-launch/)
 - [ブログ執筆時に GitHub Copilot を使って効率化していること3選](https://dev.classmethod.jp/articles/how-github-copilot-is-helping-me-write-blog-posts-more-efficiently-3-examples/)
 - [github copilot事始め](https://qiita.com/GETB/items/0f880b7fb14c6204cad4)
@@ -204,6 +220,8 @@
 
 ## Python
 
+- [2023年最新版の有名企業のエンジニア向け研修資料をまとめてみた #Python - Qiita](https://qiita.com/eri_issue/items/576acaea7e8235f82d89)
+- [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには | TECH+（テックプラス）](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
 - [PythonでWeb開発を学ぶ上で確認するべきGitHubリポジトリ 18選 2023年版](https://zenn.dev/nameless_sn/articles/18_awesome_python_repos_2023)
 - [【2023年】プログラミング・Pythonの無料おすすめ学習教材13選](https://qiita.com/skillup_ai/items/75e892e166f41ca85bf8)
 - [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
@@ -230,6 +248,16 @@
 
 ## VisualStudio Code
 
+- [【GitHub Copoilot】特定のファイルでCopilotを無効にする（VSCode編）](https://techblog.ap-com.co.jp/entry/2023/07/15/110118)
+- [AIが識別子の名前を考えてくれる機能、「Visual Studio 2022」にテスト導入](https://forest.watch.impress.co.jp/docs/news/1556899.html)
+- [VScodeだけでGit操作を完結させるのだ～～ッ!!](https://zenn.dev/praha/articles/db1c4bcc4ef48c)
+- [Visual Studio Codeに入れるべき拡張機能【2023年最新版】 #VSCode - Qiita](https://qiita.com/midiambear/items/f38686bd4d139e0cd46c)
+- [VSCodeでプロジェクトを開くとき、ついでにいろいろやる方法](https://techblog.gmo-ap.jp/2023/12/16/vscode-tasks-json/)
+- [VSCode の新機能「built-in port forwarding」を使いローカルサーバーにインターネット側からアクセス](https://qiita.com/youtoy/items/56e48c84d6a2f0549155)
+- [VSCode(VisualStudioCode)の定番機能を一挙解説 ](https://qiita.com/midiambear/items/bc0e137ed77153cb421c)
+- [VSCodeの設定の切り替えや共有に便利なプロファイル機能を活用しよう](https://qiita.com/loftkun/items/cf44155510e4a2e18637)
+- [VSCode の左側のアレを出したり消したり出来るようにする方法VSCode](https://qiita.com/tomoasleep/items/fcab2110b6fe03c809e4)
+- [Visual Studio Code - マルチカーソルで連番を簡単に入力できる拡張機能](https://untype.jp/blog/202312081719)
 - [VSCodeのGit連携をさらに便利に！ 拡張機能Git History、Git Graph、GitLensを解説](https://codezine.jp/article/detail/18695)
 - [VSCodeのソース管理をはじめよう！ Gitの連携機能について解説](https://codezine.jp/article/detail/18617)
 - [Visual Studio CodeでGitHubの複数アカウントを使い分ける](https://qiita.com/ykoizumi0903/items/44e24d4180ae931552ce)

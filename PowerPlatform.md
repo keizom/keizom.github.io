@@ -14,6 +14,14 @@
 
 # Microsoft 365
 
+## Dataverse
+
+- [Power Platformのセキュリティロールについて](https://qiita.com/skuramoto/items/fe305aac24273c7cccbf)
+- [カスタム API の作成と使用](https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/custom-api)
+- [データ操作とアクセス権](https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/security-access-rights)
+- [Power Apps のライセンス割り当ての簡素化](https://community.dynamics.com/blogs/post/?postid=743cb5eb-588c-ee11-a81c-6045bd81d1b1)
+
+
 ## PowerPlatform
 
 - [Power Platform プレミアムサンプル](https://microsoft.github.io/PowerApps-Sample-Apps-Japan/)
@@ -113,6 +121,7 @@
 
 ## Power Automate
 
+- [Power Automate の数式って難しい？だったら生成 AI に聞いちゃえ！](https://qiita.com/Takashi_Masumori/items/c462f1570a2eca5254af)
 - [Power Automate で Excel にデータを出力する](https://qiita.com/Takashi_Masumori/items/c50396c152f2f71e4e1b)
 - [Power Automate から Azure Automation を呼び出してクラウド上で PowerShell を実行してみる](https://idea.tostring.jp/?p=5899)
 - [Power Automate から PowerShell を実行する方法](https://jpdynamicscrm.github.io/blog/powerautomate/Execute-PowerShell/)
@@ -151,6 +160,8 @@
 
 ## Power BI
 
+- [Power BI の今年、2024年に向けてちょっと未来のお話](https://qiita.com/yugoes1021/items/0a53809a819551932bbf)
+- [Artificial Intelligence sample for Power BI: Take a tour - Power BI | Microsoft Learn](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-artificial-intelligence)
 - [PowerPlatform の各 Blog の RSS を定期的に取得](https://app.powerbi.com/view?r=eyJrIjoiNGIwZjQ1YzYtNTI2My00ZjA3LTkyMmUtYjZjOTMyOTZiYzQ3IiwidCI6IjgzZmQ0NjViLTczNGUtNDA1Ny1hZTM3LWU3N2FhN2QzNDcyOSJ9)
 - [Power BI Weekly News 100 - データセット が セマンティックモデル に名称変更したぞぉー](https://www.youtube.com/watch?v=YhPBmH_jNz0)
 - [スター スキーマと Power BI での重要性を理解する](https://learn.microsoft.com/ja-jp/power-bi/guidance/star-schema)

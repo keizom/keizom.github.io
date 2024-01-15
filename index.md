@@ -16,6 +16,7 @@
 
 ## Microsoft
 
+- [Microsoft (有志)](https://zenn.dev/p/microsoft)
 - [マイクロソフトイグナイト BOOK OF NEWS](https://news.microsoft.com/ignite-2022-book-of-news/ja/)
 - [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
 - [Microsoft Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)

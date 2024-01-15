@@ -135,6 +135,13 @@
 
 ## Exchagne Online
 
+- [「Gmail」にメールを送れなくなる恐れ、グーグルによる迷惑メール対策強化の衝撃 | 日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00989/120500134/)
+- [DMARC を使用してメールを検証する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-dmarc-configure)
+- [SPF を設定して、スプーフィングを防止する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-spf-configure?view=o365-worldwide)
+- [DKIM を使用して、カスタム ドメインから送信される送信電子メールを検証する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-dkim-configure)
+- [Microsoft365にDKIMを設定してみた【Exchange Online】](https://papamamameyou.com/microsoft365%e3%81%abdkim%e3%82%92%e8%a8%ad%e5%ae%9a%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%80%90exchange-online%e3%80%91/)
+- [DKIMとDMARCは既定でどうなっている？（Microsoft 365）](https://office365labo.com/2023/09/29/dkim%e3%81%a8dmarc%e3%81%af%e6%97%a2%e5%ae%9a%e3%81%a7%e3%81%a9%e3%81%86%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%ef%bc%9f%ef%bc%88microsoft-365%ef%bc%89/)
+- [お名前ドットコムのMicrosoft365プランで独自ドメインのメールを送受信する。（その４：DKIM、DMARC設定）](https://qiita.com/sakai00kou/items/252dd97f81706cd1d176)
 - [Exchange Online に DKIM と DMARC を追加する方法](https://www.prins.co.jp/knowledge/column/20230707-4459/)
 - [SPFとDKIMをおさらい、IPアドレスとデジタル署名で身元証明](https://xtech.nikkei.com/atcl/nxt/column/18/02631/110600006/)
 - [なりすまし対策の欠点を補うDMARCと、現時点で攻撃者お手上げのBIMI](https://xtech.nikkei.com/atcl/nxt/column/18/02631/110700007/)
@@ -204,9 +211,6 @@
 - [セルフサービス サインアップで登録されたドメインの対処方法](https://jpmessaging.github.io/blog/%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
 ― [セルフサービス サインアップで登録されたドメインの対処方法](https://jpmessaging.github.io/blog/%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
 ― [organizationでのセルフサービス サインアップの使用](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide#available-self-service-program)
-― []()
-― []()
-
 
 ## OneDrive
 
@@ -218,6 +222,10 @@
 
 ## Microsoft Graph
 
+- [Microsoft、Microsoft 365 API活用を支援する「Microsoft Graph CLI」を提供開始](https://atmarkit.itmedia.co.jp/ait/articles/2312/12/news062.html)
+- [訳あってMicrosoft Graph API調べてみた](https://qiita.com/massie_g/items/fe7540161aa4a5f86bf5)
+- [Microsoft Graph API利用手順忘備録](https://zenn.dev/santafs/articles/ee6f7b4d8ea1fd)
+- [リクルートが実践するMicrosoft Graph APIを安心して使うためのポイント５選](https://blog.recruit.co.jp/rtc/2023/12/22/microsoftgraphapi/)
 - [Microsoft Graph PowerShell SDK を使用して Exchange Online からメールを送信する](https://blog.rykoma.net/2022/05/14/1751/)
 - [microsoft-graph-powershell-microsoft-entra-id](https://charbelnemnom.com/microsoft-graph-powershell-microsoft-entra-id)
 - [Microsoft Graph API を利用して Azure AD のサインイン アクティビティ レポートを CSV ファイルで取得する PowerShell スクリプト](https://learn.microsoft.com/ja-jp/archive/blogs/jpazureid/microsoft-graph-api-signin-activity-reports)
