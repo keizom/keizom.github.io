@@ -12,7 +12,7 @@
 - [web](https://keizom.github.io/web.html)
 - [mac](https://keizom.github.io/mac.html)
 
-# mac
+## mac
 
 - [知ったら使わずにはいられない。Macの生産性を底上げする小技5選](https://www.lifehacker.jp/article/2211-matome-mac-productivity-up-5/)
 - [MacのFinderが自分好みに！ 簡単にできるカスタマイズ方法 【今日のワークハック】](https://www.lifehacker.jp/article/2212-easily-quick-free-finder-makeover-mac/)
@@ -28,3 +28,4 @@
 - [【macOS Sonoma】Macにウィジェットを置いてみた。新機能の手順と感想をお伝えします](https://www.gizmodo.jp/2023/09/how-to-use-macos-sonoma-new-feature.html)
 - [Macのゴチャゴチャした「メニューバー」をすっきりさせよう！](https://pc.watch.impress.co.jp/docs/column/macinfo/1533360.html)
 - [M1 MacへのNode.jsインストール手順](https://qiita.com/naoto24kawa/items/6c1be2296bb762ff283f)
+- [MacのDockに現在のCPU使用率をリアルタイムで表示してくれるCPUメーター「CPU mini」がリリース](https://applech2.com/archives/20240206-cpu-mini-for-mac-dock.html)

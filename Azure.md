@@ -291,6 +291,7 @@
 ## Azure DevOps
 
 - [リモートスクラムでも使えるAzure DevOps(Boards)の活用事例](https://qiita.com/motuo/items/029a9f14f5c256bbc258)
+- [Azure DevOpsのGitのマージ方法を強制する](https://kkamegawa.hatenablog.jp/entry/2024/02/10/232313)
 - [【Azure Pipelines】WebAppsへDeployするためのyamlファイルを徹底解説【初心者向け】](https://tech-lab.sios.jp/archives/35848)
 - [ASP.NET Web アプリを作って Azure DevOps から Azure App Service に CI/CD してみた](https://www.softbanktech.co.jp/special/blog/cloud_blog/2023/0018/)
 - [Azure DevOpsを触ってみた](https://www.qes.co.jp/media/Microservices/a104)
@@ -344,6 +345,7 @@
 ## Azure Functions
 
 - [How can I use NuGet packages in my Azure Functions?](https://stackoverflow.com/questions/36411536/how-can-i-use-nuget-packages-in-my-azure-functions)
+- [Azure Functions(v4) で.NETの関数を分離ワーカーモデルで動かす時のログレベルの設定について](https://aadojo.alterbooth.com/entry/2024/01/25/110038)
 - [Azure Functions バインド拡張機能を登録する](https://github.com/MicrosoftDocs/azure-docs.ja-jp/blob/master/articles/azure-functions/functions-bindings-register.md)
 - [Azure Functions - C# で Nuget パッケージを利用してみた](https://tech.guitarrapc.com/entry/2016/04/05/043723)
 - [Azure Functions (Node.JS) からの http リクエスト (GET|POST) で async/await を適用する](https://qiita.com/annie/items/538e4410ac16fe75e745)
@@ -519,6 +521,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ### Chat GPT
 
 - [ChatGPT-Prompt-Sample-Japanese/Workshop at main ? dahatake/ChatGPT-Prompt-Sample-Japanese ? GitHub](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/tree/main/Workshop)
+- [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese)
 - [【決定版】GPTs開発の教科書](https://chatgpt-lab.com/n/n43cc9a028aac)
 - [データ分析もChatGPTの機能（旧Code Interpreter）でできるか、やったみた【番外編】](https://atmarkit.itmedia.co.jp/ait/articles/2312/14/news013.html)
 - [冊子「ChatGPT for Excel活用術」を無料提供! ExcelとChatGPTで何ができるのか](https://news.mynavi.jp/techplus/kikaku/20230929-2769187/)

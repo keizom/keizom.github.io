@@ -175,6 +175,17 @@
 - [PnP/Samples/Core.LargeFileUpload/](https://github.com/pnp/PnP/tree/master/Samples/Core.LargeFileUpload)
 - [How to use PowerShell in SharePoint Online/2016/2013 - SPGuides](https://www.spguides.com/powershell-sharepoint/)
 
+## Azure Automation
+
+- [How to use Azure Automation with SharePoint Online – Part One](https://practical365.com/how-to-use-azure-automation-with-sharepoint-online-part-one/)
+- [Using PnP PowerShell in Azure Automation Runbooks](https://pnp.github.io/powershell/articles/azureautomationrunbook.html)
+- [#AzureAutomation を利用した #SharePointo Online のサイト作成方法](https://qiita.com/daichan3/items/f963a7d7c3dd9501fce8)
+- [マネージド ID を 使って Azure VM から CLI で Azure を操作する。](https://qiita.com/aktsmm/items/1a1d8b79f18f0c7a5331)
+- [Azure Automation と SharePoint PnP を利用したナビゲーションメニューの追加方法について](https://qiita.com/daichan3/items/ad8c4444fa86b2baaea9)
+- [Office 365 の PowerShell 運用を PaaS 化してみる](https://sprestaurant.hatenablog.com/entry/2019/07/07/011839)
+- [Add-PnPListItem - failing in RunBook on Azure Automation #1541](https://github.com/pnp/PnP-PowerShell/issues/1541)
+- [Runbook の問題のトラブルシューティング](https://learn.microsoft.com/ja-jp/azure/automation/troubleshoot/runbooks)
+
 ## PnP Core
 
 - [【SPO】PnP ライブラリを使用して SharePoint Online のスクリプトをモダン認証 (先進認証) に対応させる方法](https://mountfuji.hatenablog.com/entry/2019/06/28/145135)
