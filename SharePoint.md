@@ -153,6 +153,7 @@
 
 ## CSOM
 
+- [[SharePoint]CSOMでログインにパスワード以外を使う](https://qiita.com/RYO-4947123/items/db4dfdba0ea888c893cc)
 - [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
 - [SharePointCSOM でログインにパスワード以外を使う](https://qiita.com/RYO-4947123/items/db4dfdba0ea888c893cc)
 - [SharePoint Online の HTTP 調整 (応答コード 429, 503) に関して](https://social.msdn.microsoft.com/Forums/ja-JP/8e5a4116-c96a-4d3e-9bbf-6efb852b5d88/sharepoint-online-12398-http-3551925972-2454031572124671254012489-429-503?forum=sharepointsupportteamja)
@@ -315,6 +316,7 @@
 
 - [Graph API では SharePoint リストのハイパーリンク列が操作できない件](https://zenn.dev/ymasaoka/articles/graphapi-connot-manipulate-splist-hyperlink-col)
 - [Streamline your SharePoint experience with the new Microsoft Graph SharePoint Admin API](https://devblogs.microsoft.com/microsoft365dev/streamline-your-sharepoint-experience-with-the-new-microsoft-graph-sharepoint-admin-api/)
+- [Microsoft Graph API PowerShell で SPO からファイルをダウンロード](https://zenn.dev/microsoft/articles/3a99b025a0005e)
 
 ## Fiddler
 

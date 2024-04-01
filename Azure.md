@@ -14,6 +14,7 @@
 
 # Azure
 
+- [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
 - [Azureを勉強したいけど何したらいいかわからない人へ ~ 勉強資料インデックスの紹介 ~](https://qiita.com/aktsmm/items/d0da6b7b245b6a88ef95)
 - [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
 - [Microsoft Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
@@ -61,6 +62,8 @@
 
 ## Azure AD Connect
 
+- [ソフトマッチによる Azure AD (Office 365) 上のユーザーをオンプレミス Active Directory ユーザーと紐付ける方法](https://jpazureid.github.io/blog/azure-active-directory-connect/aboutSoftMatching/)
+- [ハードマッチによる Azure AD (Office 365) 上のユーザーをオンプレミス Active Directory ユーザーと紐付ける方法](https://jpazureid.github.io/blog/azure-active-directory-connect/upn-hard-match/)
 - [デバイス ベースのアクセス制御 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/device_access)
 - [登録されたデバイスの管理方法 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/registerd_device_managemant)
 - [サイトのユーザー情報を強制的に AD と同期させる方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/ad)
@@ -255,7 +258,11 @@
 
 - [CSP の Azure 明細を PowerShell で整形する 日々徒然](https://blog.o365mvp.com/2020/04/07/format-csp-reconcile-with-powershell/)
 
-## Azure Databricks 
+## Azure Data Explorer
+
+- [ビッグデータを視覚化し、さらに共有もできる「Azure Data Explorerダッシュボード」とは](https://atmarkit.itmedia.co.jp/ait/articles/2303/03/news011.html)
+- 
+## Azure Databricks
 
 - [はじめに: アカウントとワークスペースのセットアップ](https://learn.microsoft.com/ja-jp/azure/databricks/getting-started/)
 
@@ -462,14 +469,21 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [【Azure】大量のメトリックアラートを一発で作る方法（リソーステンプレート編）](https://atmarkit.itmedia.co.jp/ait/articles/2309/13/news034.html)
 - [初めてのAzure Log AnalyticsとKQL クエリ](https://www.tama-negi.com/2021/08/04/azure-loganalytics-begin/)
 - [Azure MonitorとLogAnalyticsについて](https://www.guri2o1667.work/entry/2020/03/21/Azure_Monitor%E3%81%A8LogAnalytics%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+- [【Azure】Log Analytics単体では不可能なクエリをPowerShellで補完する](https://atmarkit.itmedia.co.jp/ait/articles/2401/31/news038.html)
 
 ## Azure Logic Apps
 
 - [Azure Logic Apps (Preview) を Visual Studio Code で作成するための手順](https://mofumofupower.hatenablog.com/entry/2020/09/23/222908)
 - [メールで届く添付ファイルの暗号化を自動解除する Logic Apps を作ろう (1/3)](https://ascii.jp/elem/000/004/029/4029136/)
 
+## Azure Managed ID
+
+- [マネージド ID を 使って Azure VM から CLI で Azure を操作する。](https://qiita.com/aktsmm/items/1a1d8b79f18f0c7a5331)
+
+
 ## Azure Open AI
 
+- [Azure OpenAI Service 入門ハンズオンラボ](https://dev-lab-io.github.io/aoai/scenario1/home)
 - [マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開](https://www.publickey1.jp/blog/24/aiai12.html)
 - [プログラミング支援AIサービスが主要各社から出そろう　各サービスのまとめ　GitHub／AWS／Google／GitLab／JetBrains](https://www.itmedia.co.jp/news/articles/2312/18/news093.html)
 - [microsoft/generative-ai-for-beginners:](https://github.com/microsoft/generative-ai-for-beginners)
@@ -606,6 +620,10 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 - [Resource Explorer (azure.com)](https://resources.azure.com/)
 - [Azure のリソース定義を JSON で取得したい](https://www.syuheiuda.com/?p=4381)
 - [Azure portal を使用してテンプレートをエクスポートする](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/templates/export-template-portal)
+
+## Azure Security
+
+- [Azure検証利用における基本的なセキュリティ対策](https://qiita.com/biri/items/5bd3d497ee6cf002392e)
 
 ## Azure Sentinel
 
@@ -813,6 +831,10 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 - [携帯キャリアにメールを届けるための設定　～なりすまし規制編～](https://sendgrid.kke.co.jp/blog/?p=10875)
 - [送信ドメインを認証するための SPF レコードに詳しくなろう  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=3509)
 - [口コミからわかるSendGridのメリット・デメリット](https://sendgrid.kke.co.jp/blog/?p=14191)
+
+## Terraform
+
+- [GitHub Copilot ChatでAzureのインフラを爆速実装しよう](https://techblog.ap-com.co.jp/entry/2024/01/26/184440)
 
 ## Migration
 

@@ -105,6 +105,7 @@
 - [Microsoft Azure 最新機能フォローアップ](https://atmarkit.itmedia.co.jp/ait/series/1845/)
 - [Azure AD webinar にご参加ください](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)
 - [AzureAD Japan](https://www.youtube.com/channel/UCVrKqrCLcB0eJu8heNB2ZKg/videos)
+- [全エンジニア必見！情報収集のためのリンク集](https://qiita.com/kazuki_tachikawa/items/773b4a07ae3f73f22a48)
 
 # Security
 

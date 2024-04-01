@@ -38,6 +38,7 @@
 
 ## loop
 
+- [Microsoft Loopとは何かを使い方から解説、Notionとの違いは？ 3つの機能や始め方も](https://www.sbbit.jp/article/cont1/131393)
 - [Microsoft LoopがGAされたので管理面を整理してみる](https://zenn.dev/santafs/articles/8b9701feb63bf1)
 - [Microsoft Loop アプリ (public preview) - 勉強会の録画公開](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/04/microsoft-loop--6f48.html)
 - [AI搭載の多機能メモアプリ｢Microsoft Loop｣、Notionとはここがちがいます](https://www.gizmodo.jp/2023/04/loop-notion-comparison.html)
@@ -84,6 +85,12 @@
 
 ## Microsoft 365 Copilot
 
+- [「Copilot for Microsoft 365 ユーザー向け研修資料」を公開しました！](https://blog.cloudnative.co.jp/22909/)
+- [マイクロソフトの「Copilot」、有料版と無料版はどう違う？お金を払う価値はあるか](https://japan.zdnet.com/article/35214694/)
+- [Microsoft Copilotの基本的な設定と使い方](https://atmarkit.itmedia.co.jp/ait/articles/2402/09/news036.html)
+- [Copilotとは何が違う？Copilot for Microsoft 365を使ってわかったOfficeアプリ効率化](https://www.sbbit.jp/article/cont1/132047)
+- [ついに来た！Copilot for Microsoft 365](https://note.com/tknetsn/n/ne391eb45d16b)
+- [3か月試してわかった、Copilot for Microsoft 365の実力とユースケース](https://note.com/fujitsu_pr/n/nd96c22dcd15f)
 - [GPU非搭載ノートPCでもコマンド不要で各種言語モデルの性能を試せる実行環境「LM Studio」レビュー](https://gigazine.net/news/20231202-lm-studio-llm/)
 - [Microsoft 365 Copilotを利用する前に必ず知っておくべき注意点](https://kn.itmedia.co.jp/kn/articles/2312/01/news076.html)
 - [最新のWindows 11 23H2は何が変わった？AIアシスタントのCopilotなど、新機能・更新内容を一挙紹介](https://pc.watch.impress.co.jp/docs/topic/feature/1544477.html)
@@ -132,6 +139,15 @@
 - [Retrieve Office 365 Audit logs using PowerShell and store in Azure table for quick retrieval](https://blog.kloud.com.au/2018/12/21/retrieve-office-365-audit-logs-using-powershell-and-store-in-azure-table-for-quick-retrieval/)
 - [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
 - [Send system disk space utilization HTML report Email using PowerShell](http://vcloud-lab.com/entries/powershell/send-system-disk-space-utilization-html-report-email-using-powershell)
+
+## Google
+
+- [DMARC レコードを定義する](https://support.google.com/a/answer/10032169?hl=ja)
+- [DMARC レコードの追加](https://support.google.com/a/answer/2466563?hl=ja)
+- [ドメインで DKIM を有効にする](https://support.google.com/a/answer/180504?hl=ja)
+- [SPF レコードを定義する: 基本設定](https://support.google.com/a/answer/10685031?hl=ja)
+- [迷惑メール、なりすまし、フィッシングを Gmail 認証で防止する](https://support.google.com/a/answer/10583557?hl=ja)
+- [メール送信者のガイドライン](https://support.google.com/a/answer/81126?hl=ja)
 
 ## Exchagne Online
 

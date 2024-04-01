@@ -59,6 +59,10 @@
 - [ASP.NET MVC 4 で理想的なスマートフォン対応サイトを作成する方法](https://blog.shibayan.jp/entry/20130624/1372085770)
 - [ASP.NET MVC で 1 画面にボタンが 2 つあるときの処理](https://blogonos.wordpress.com/2011/07/06/asp-net-mvc-%E3%81%A71%E7%94%BB%E9%9D%A2%E3%81%AB%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%8C2%E3%81%A4%E3%81%82%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%87%A6%E7%90%86/)
 
+## Blazor
+
+- [Let's Learn .NET - Blazor](https://www.youtube.com/watch?v=RBW0_Ouq2Oc)
+
 ## bash
 
 - [Bashを学べる全20回の入門動画　MicrosoftがYouTubeで無料公開](https://atmarkit.itmedia.co.jp/ait/articles/2303/11/news027.html)
@@ -70,6 +74,8 @@
 
 ## csharp
 
+- [.NET 8 と GitHub、そして Azure による開発者エクスペリエンスの向上 ～ 最新開発プラッ](https://speakerdeck.com/chack411/dot-net-8-to-github-sosite-azure-niyorukai-fa-zhe-ekusuperiensunoxiang-shang-zui-xin-kai-fa-puratutohuomu-demonsutoresiyon)
+- [【Ｃ＃】完璧で幸福にアプリケーションの二重起動を防止してすでに起動しているアプリを前面に表示する](https://qiita.com/Subara3/items/50da6ee5885d576b429b)
 - [Microsoft、「基礎C#認定資格」を公開　無料でC#が学べる35時間分のトレーニングコースも](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news026.html)
 - [GitHub - microsoft/TailwindTraders](https://github.com/microsoft/TailwindTraders)
 - [Home - Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
@@ -90,6 +96,7 @@
 
 ## Cursor
 
+- [AIエディターCursorを使い始める手順と基本的な使い方を、丁寧にまとめただけの記事。](https://qiita.com/ryamate/items/94a6170c4661242b4c1c)
 - [Cursor Editorというこれまた便利そうなエディタを見つけた](https://qiita.com/ussy_k/items/cfee1b94a10830d7ad86)
 - [【Cursor】AI搭載の最強コードエディタ！日本語の使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
 - [【Cursorのおすすめ活用事例一覧】AI搭載コードエディタのヤバい使い方10選](https://weel.co.jp/media/cursor-case)
@@ -103,6 +110,8 @@
 
 ## Docker
 
+- [Docker学習　1日目](https://qiita.com/ki_takada/items/679bb0c8f04857c46380)
+- [【永久保存版】0からDockerを勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/a4ba0592142b76223aa0)
 - [「Ansible」と「Docker」の違いは？　両ツール連携の仕組みは？](https://atmarkit.itmedia.co.jp/ait/articles/2312/01/news054.html)
 - [今日から始めるDocker入門（必要性を理解してから動かす）](https://qiita.com/yuya_sega/items/0fb78b064a6d64fe0979)
 - [WebのフロントエンドでもDockerで開発環境を構築する理由。（余談としての脱node依存開発）](https://qiita.com/SFITB/items/27cb917945fa9e721f34)
@@ -248,6 +257,7 @@
 
 ## VisualStudio Code
 
+- [Visual Studio Code （VSCode）の導入と、おすすめの初期設定をまとめました](https://biz.hpg.co.jp/biz2020/column/755/#render_line)
 - [【GitHub Copoilot】特定のファイルでCopilotを無効にする（VSCode編）](https://techblog.ap-com.co.jp/entry/2023/07/15/110118)
 - [AIが識別子の名前を考えてくれる機能、「Visual Studio 2022」にテスト導入](https://forest.watch.impress.co.jp/docs/news/1556899.html)
 - [VScodeだけでGit操作を完結させるのだ～～ッ!!](https://zenn.dev/praha/articles/db1c4bcc4ef48c)
@@ -356,6 +366,7 @@
 
 ## VisualStudio
 
+- [Microsoft、「Visual Studio」でNuGetの依存関係の問題解決を支援するツールを公開](https://atmarkit.itmedia.co.jp/ait/articles/2401/25/news047.html)
 - [Visual Studio の GitHub Copilot 拡張機能とは](https://learn.microsoft.com/ja-jp/visualstudio/ide/visual-studio-github-copilot-extension)
 - [Visual StudioでGitHub Copilotが利用できるようになりました](https://aadojo.alterbooth.com/entry/2023/03/05/100000)
 - [Visual Studio 2022の機能でWeb API開発を効率化しよう](https://aadojo.alterbooth.com/entry/2023/06/04/162052)
@@ -413,3 +424,7 @@
 ## 学習サイト
 
 ― [どっとインストール](https://microsoft-search.github.io/pnp-modern-search/)
+
+## リファクタリング
+
+- [どうやってコード品質を上げるのか？ 実例で学ぶリファクタリング](https://codezine.jp/article/detail/18854)

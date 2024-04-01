@@ -103,6 +103,10 @@
 - [働き方改革に効く！ゼロからはじめる PowerApps(5) Office 365 の Excel とバーコード機能で固定資産の棚卸をしよう   マイナビニュース](https://news.mynavi.jp/article/powerapps-5/)
 - [働き方改革に効く！ゼロからはじめる PowerApps(11) スキルや資格を Microsoft 365 ユーザーにひもづけて管理するアプリを作る   マイナビニュース](https://news.mynavi.jp/article/powerapps-11/)
 
+## Power Apps PowerShell
+
+- [PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples/blob/master/powershell/UserManagement/Microsoft.PowerPlatform.Administration.UserManagement/README.md)
+
 ## Power Apps ModelDriven
 
 - [Power Apps で モデル駆動型アプリを作る（１）  IT 長のネタ帳](https://www.d3654.be/getting-started-model-driven-powerapps01/)
@@ -160,6 +164,7 @@
 
 ## Power BI
 
+- [Copilot in Power BI (preview) is available worldwide](https://powerbi.microsoft.com/ja-jp/blog/copilot-in-power-bi-preview-is-available-worldwide/)
 - [Power BI の今年、2024年に向けてちょっと未来のお話](https://qiita.com/yugoes1021/items/0a53809a819551932bbf)
 - [Artificial Intelligence sample for Power BI: Take a tour - Power BI | Microsoft Learn](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-artificial-intelligence)
 - [PowerPlatform の各 Blog の RSS を定期的に取得](https://app.powerbi.com/view?r=eyJrIjoiNGIwZjQ1YzYtNTI2My00ZjA3LTkyMmUtYjZjOTMyOTZiYzQ3IiwidCI6IjgzZmQ0NjViLTczNGUtNDA1Ny1hZTM3LWU3N2FhN2QzNDcyOSJ9)
@@ -216,3 +221,7 @@
 
 - [Access データ型と Dataverse データ型の比較](https://support.microsoft.com/ja-jp/office/access-%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B%E3%81%A8-dataverse-%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B%E3%81%AE%E6%AF%94%E8%BC%83-4beacea3-fdbb-46cf-b1c2-c14a3cff7d20?wt.mc_id=m365-mvp-4029057)
 - [概要: Access データを Dataverse に移行する](https://support.microsoft.com/ja-jp/office/%E6%A6%82%E8%A6%81-access-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92-dataverse-%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B-013c8bab-7737-46ca-ad2e-892bbf26287d?wt.mc_id=m365-mvp-4029057)
+
+## Datavrerse
+
+- [Microsoft DataverseのテーブルをPowerShellからCRUD操作してみた](https://qiita.com/sys_zero/items/e2b3381eac50705bc488)

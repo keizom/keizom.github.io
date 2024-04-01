@@ -41,6 +41,8 @@
 
 ## html
 
+- [Emmetで素早くHTML/CSSコーディング！書き方と対応ツールの紹介](https://tracpath.com/works/development/emmet-for-web-developers/)
+- [2023年、Web制作・デザインに役立つ記事の総まとめ](https://coliss.com/articles/digress/coliss-best-in-2023.html)
 - [【2024年】業務効率を上げるChromeの拡張機能](https://qiita.com/KNR109/items/82ff7dca662bd5be2050)
 - [2023年、Web制作・デザインに役立つ記事の総まとめ](https://coliss.com/articles/digress/coliss-best-in-2023.html)
 - [【デザインシステム】エンジニアが知っておきたいデザインシステム #フロントエンド - Qiita](https://qiita.com/degudegu2510/items/45d7eb209f7440ee3bf6)
@@ -119,6 +121,7 @@
 ## css
 
 - [モダンCSSで実装する、テーブル（<table>）のさまざまなスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/a-guide-to-styling-tables.html)
+- [2024年の実装に役立つCSSの新機能と使い方のまとめ](https://coliss.com/articles/build-websites/operation/css/css-snippets-in-2024.html)
 - [これは知っておくとかなり便利！ details要素にname属性を与えると、連動して開閉するアコーディオンを実装できます](https://coliss.com/articles/build-websites/operation/css/exclusive-accordion.html)
 - [CSSのデフォルトとして記述しておくと便利、img要素に設定するスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/sensible-defaults-for-img-elements.html)
 - [現代開発者のためのCSS基礎技術](https://qiita.com/arowM/items/4f06ca5506c522ea3dfe)
