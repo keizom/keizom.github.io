@@ -114,6 +114,7 @@
 
 - [Stream (on SharePoint) への移行: Stream (クラシック) Webパーツを見つけるスクリプト](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/01/stream-on-share-d043.html)
 
+
 ## SharePoint REST API
 
 - [Sharepoint の REST API のリファレンスが不親切だったので簡潔に(?)書いてみる。](https://blog.freedom-man.com/sharepoint_restapi)

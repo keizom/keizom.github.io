@@ -14,6 +14,10 @@
 
 # Develop
 
+## リーダブルコード
+
+- [リーダブルコードの要点整理と活用法をまとめた](https://qiita.com/KNR109/items/3b14e2e8f89a33c0f959)
+
 ## .NET Core
 
 - [ASP.NET Core MVCを新人に説明してみよう](https://qiita.com/saxxos/items/f8bdf3a0a9d6b8e3cfef)
@@ -143,6 +147,8 @@
 
 ## git
 
+- [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
+- [Gitに不慣れな人はとりあえずgit statusを打ちまくっておけば大体なんとかなる説](https://qiita.com/na0y/items/c5554057d8efbf2e0967)
 - [Gitまわり](https://note.com/alchan/n/n872f825f34a7)
 - [混乱を引き起こしがちなGitの用語まとめ](https://gigazine.net/news/20231111-confusing-git-terminology/)
 - [Git 時空操作のススメ](https://qiita.com/ko-sato-primebrains/items/76e26c01665289c01a17)
@@ -176,7 +182,6 @@
 - [GitHubコマテク集](https://techblog.openwork.co.jp/entry/github-tips)
 - [【初学者向け】GitHub Projectsでのタスク管理のススメ](https://qiita.com/haganenoubik/items/55700919e2e5b127e166)
 - [ちょっとした気配りで皆を幸せにする GitHub の使い方](https://qiita.com/squid-cat/items/7166317e60d3ff96ccb7)
-- [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
 - [gitのブランチの命名規則](https://qiita.com/luccafort/items/c91e817e78f1167221cc)
 - [GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
 - [GitHub Copilot Chatを触ることでWindows Copilotの後の世界を体感できる](https://logmi.jp/tech/articles/328912)
@@ -257,6 +262,8 @@
 
 ## VisualStudio Code
 
+- [VSCodeMeetup20240130](https://www.docswell.com/s/shosuz/58G39X-2024-01-30-203540)
+- [VS Code Meetup #27](https://vscode.connpass.com/event/303633/presentation/)
 - [Visual Studio Code （VSCode）の導入と、おすすめの初期設定をまとめました](https://biz.hpg.co.jp/biz2020/column/755/#render_line)
 - [【GitHub Copoilot】特定のファイルでCopilotを無効にする（VSCode編）](https://techblog.ap-com.co.jp/entry/2023/07/15/110118)
 - [AIが識別子の名前を考えてくれる機能、「Visual Studio 2022」にテスト導入](https://forest.watch.impress.co.jp/docs/news/1556899.html)
@@ -319,7 +326,6 @@
 - [VS Code の見やすいテーマが登場！GitHub のデザインでコードも快適に -GitHub VS Code theme   コリス](https://coliss.com/articles/build-websites/operation/work/github-vscode-theme.html)
 - [VSCode のオススメ拡張機能 24 選 (と Tips をいくつか) - Qiita](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
 - [Visual Studio Code の拡張機能である「C# Dev Kit」が GA となったので使ってみた](https://dev.classmethod.jp/articles/vscode-csharp-dev-kit/)
-- [VSCode(VisualStudioCode)の定番機能を一挙解説](https://qiita.com/midiambear/items/bc0e137ed77153cb421c)
 - [VSCodeでC#開発環境を充実させる「C# Dev Kit」正式リリース、ソリューションエクスプローラーやIntelliCodeなど提供](https://www.publickey1.jp/blog/23/vscodecc_dev_kitintellicode.html)
 
 
@@ -428,3 +434,7 @@
 ## リファクタリング
 
 - [どうやってコード品質を上げるのか？ 実例で学ぶリファクタリング](https://codezine.jp/article/detail/18854)
+
+## Meta Quest 3
+- [「Meta Quest 3」をしばらく使ってみて分かったこと 長所と短所を紹介](https://www.moguravr.com/meta-quest-3-review-2/)
+

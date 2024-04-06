@@ -39,8 +39,17 @@
 - [導入前に知っておこう！STUDIOの特徴とよくある質問](https://blog.studio.design/ja/posts/studio-overview)
 - [FigmaからコピペでWebサイトが完成！ HTMLもCSSも書かないノーコードツール「STUDIO」がスゴすぎる](https://webtan.impress.co.jp/e/2023/10/03/45597)
 
+## htmx
+
+- [HTMXの正体が分からないので、オレオレHTMXを作ってみた](https://qiita.com/YmBIgo/items/4df3eb97d1ecfd3c66ed)
+
 ## html
 
+- [HTMLを書いたり、修正する時に役立つVS Codeの機能拡張のまとめ](https://coliss.com/articles/build-websites/operation/work/vs-code-extensions-for-html.html)
+- [HTTPを手で書いて学ぶ ファイルアップロードの仕組み](https://speakerdeck.com/ikumatadokoro/httpwoshou-deshu-itexue-bu-huairuatupurodonoshi-zu-mi)
+- [CodeGrid](https://www.codegrid.net/about/)
+- [想定外の新機能！ HTMLの<input type="checkbox" switch>だけで、スイッチUIが実装できるようになるぞ](https://coliss.com/articles/build-websites/operation/work/safari-support-for-input-type-checkbox-switch.html)
+- [【2024年】Webデザインのトレンド・参考サイトまとめ](https://qiita.com/kazuki_tachikawa/items/5a04de1174d30e7b5c0e)
 - [Emmetで素早くHTML/CSSコーディング！書き方と対応ツールの紹介](https://tracpath.com/works/development/emmet-for-web-developers/)
 - [2023年、Web制作・デザインに役立つ記事の総まとめ](https://coliss.com/articles/digress/coliss-best-in-2023.html)
 - [【2024年】業務効率を上げるChromeの拡張機能](https://qiita.com/KNR109/items/82ff7dca662bd5be2050)
@@ -174,6 +183,7 @@
 
 ## JavaScript
 
+- [そのfor文ちょっと待った！！ ループ処理の代替表現ガイド](https://zenn.dev/lclco/articles/77587be8ccb1a7)
 - [検索: getElement* と querySelector*](https://ja.javascript.info/searching-elements-dom)
 - [SNSで話題のWeb関連情報 2023年 12/2?12/15](https://www.webcreatorbox.com/webnews/2023-1202-1215)
 - [JavaScriptを学べるWebサイト・アプリまとめ](https://www.hexabase.com/column/javascript_lerning/)
@@ -198,9 +208,11 @@
 
 ## vue.js
 
+- [「あなたのVueファイルは読みづらい」と文句を言われたくない① -- 記述方法編 --](https://qiita.com/IJproject/items/46342f529320652a8fad)
 -[「Vueって何？」から始めるVue.js入門](https://qiita.com/MIDO-ruby7/items/6ab4bac960c3520a55d5)
 -[Vue.jsとjQueryの違いは メリット・デメリットを歴史的に比較](https://runteq.jp/blog/programming-school/other/2774/)
 - [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
 - [TypeScript未経験でもスムーズに業務に取り組める、最強の学習用コンテンツを作った話](https://engineers.ntt.com/entry/2023/12/19/090007)
 - [TypeScriptとも相性抜群なライブラリ──Vue.jsで状態管理を行う新定番「Pinia」を解説！ (2/3)|CodeZine（コードジン）](https://codezine.jp/article/detail/18727?p=2)
 - [【他のSPAでも】Vue3でアプリ作るならこれを入れろ！2023 ver【使えるよ】](https://qiita.com/k2-kanda/items/42e7df9a578495a5a215)
+- [【Vue.js】今、ゼロから Vue を学び始めるならこうやるといいんじゃないか (2024) 【初学者向け】](https://zenn.dev/comm_vue_nuxt/articles/start-to-learn-vue-2024)

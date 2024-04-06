@@ -75,6 +75,7 @@
 
 ## Power Apps
 
+- [【デザイン】私がしているPower Appsのアプリを作るときのデザインをよくする工夫](https://qiita.com/skuramoto/items/717cf173dd55cfb9adc6)
 - [AI (Copilot) の力で実現 ! 点検業務を 1 時間でアプリ化 & 承認ワークフローで完全デジタル化しよう](https://qiita.com/nayoshik/items/abfeb39f93442441e848)
 - [Power Apps のキャンバスアプリから直接 Teams にメッセージを投稿しよう](https://qiita.com/nayoshik/items/d40710c4be57440f9cb5)
 - [Power Apps の Copilot を試す環境を作ってみよう（※2023年6月5日時点）](https://qiita.com/yamad365/items/041359ebcc646fc40f55)
@@ -125,6 +126,13 @@
 
 ## Power Automate
 
+- [Outlook予定表を大人数に共有する操作をPower Automate Desktopで実行する](https://aliss.jp/?p=2354)
+- [Power AutomateでOutlook予定表のイベント情報を取得する方法](https://www.teijitaisya.com/pa-outlookevents/)
+- [PowerAutomateで実行者の予定表を操作する](https://qiita.com/Rambosan/items/62797dc3676422025a5e)
+- [Power Automateで他人のOutlook予定表にイベントを設定する方法](https://eniel.blog.fc2.com/blog-entry-624.html)
+- [他の人の予定を確認するアプリを作りたい（残課題あり）](https://ika88.hateblo.jp/entry/2023/03/20/000430)
+- [Power Platform で他人の予定表を操作する](https://qiita.com/Takashi_Masumori/items/d88ba534da9bed3eb8d0)
+- [Power AutomateでTeamsのチーム全員にメンションを送る方法](https://ascii.jp/elem/000/004/182/4182721/)
 - [Power Automate の数式って難しい？だったら生成 AI に聞いちゃえ！](https://qiita.com/Takashi_Masumori/items/c462f1570a2eca5254af)
 - [Power Automate で Excel にデータを出力する](https://qiita.com/Takashi_Masumori/items/c50396c152f2f71e4e1b)
 - [Power Automate から Azure Automation を呼び出してクラウド上で PowerShell を実行してみる](https://idea.tostring.jp/?p=5899)

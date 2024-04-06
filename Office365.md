@@ -61,6 +61,8 @@
 - [Office 365 の監査ログを全部取得したい？](https://blog.rykoma.net/2019/07/28/1394/)
 - [Office 365 管理アクティビティ API で監査ログを取得する](https://zenn.dev/masakikato/articles/o365-managementapi-quickstart)
 - [Office 365 テナント管理者の同意を得る](https://learn.microsoft.com/ja-jp/office/office-365-management-api/get-started-with-office-365-management-apis)
+- [【Microsoft 365】取得できる監査ログと管理方法を解説](https://symphonict.nesic.co.jp/workingstyle/microsoft365/checking_log/)
+- [Office 365 マネージメント アクティビティ API のリファレンス](https://learn.microsoft.com/ja-jp/office/office-365-management-api/office-365-management-activity-api-reference?toc=%2Fmicrosoft-365%2Fcompliance%2Ftoc.json&bc=%2Fmicrosoft-365%2Fbreadcrumb%2Ftoc.json)
 
 ## Office 365 PowerShell
 
@@ -132,6 +134,22 @@
 
 ## Audit Log
 
+- [監査ログ アクティビティ](https://learn.microsoft.com/ja-jp/purview/audit-log-activities)
+
+    ファイル アクティビティとページ アクティビティ
+
+    | フレンドリ名                 | 操作         |
+    | ---------------------------- | ------------ |
+    | ファイルがアクセスされました | FileAccessed |
+
+- [Audit logs](https://help.vimeo.com/hc/en-us/articles/18586614655377-Audit-logs)
+- [Microsoft 365 の Auditlog（監査ログ）を取得して中身を読んでみよう](https://note.com/mochicco_kinako/n/nee8b0be49e04)
+- [(SharePoint 上の) ストリーム ログ](https://learn.microsoft.com/ja-jp/stream/streamnew/stream-purview#audit-logs)
+- [監査ログの詳細なアクティビティ プロパティ](https://learn.microsoft.com/ja-jp/purview/audit-log-detailed-properties?view=o365-worldwide)
+- [Office 365 の監査ログを Microsoft Sentinel に格納する - Office 365 Management API と Data Collector API (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/8fde7595042f0f281de8)
+- [Microsoft Stream (クラシック)の監査ログ](https://learn.microsoft.com/ja-jp/stream/audit-logs#actions-logged-in-stream)
+- [PowerShell スクリプトを使用して監査ログを検索する](https://learn.microsoft.com/ja-jp/purview/audit-log-search-script)
+- [Stream Classicの権限一覧をAPIで取得する方法](https://zenn.dev/ymasaoka/scraps/140aa0fc5ba8c6)
 - [セキュリティ運用ソフトウェア「LogStare Collector 2.2」の提供を開始](https://prtimes.jp/main/html/rd/p/000000070.000038758.html)
 - [M365 監査ログ(旧 O365 監査ログ)収集の設定](https://www.secuavail.com/kb/references/ref-220203-01/)
 - [PowerBI と Flow で、監査ログ分析](https://techcommunity.microsoft.com/t5/Microsoft-Stream-Blog/Global-Admin-Pro-Tip-Learn-how-to-build-video-analytics/ba-p/365267)
@@ -184,6 +202,11 @@
 - [タスク管理の新提案！ Office 365 Planner とは？ (1/4)：CodeZine（コードジン）](https://codezine.jp/article/detail/9467)
 - [Teams アプリ「タスク」 入門: Planner・To Do 統合 AvePoint Blog](https://www.avepoint.com/blog/ja/microsoft-teams-ja/teams-todo-planner/)
 - [Microsoft Planner にて一般ユーザーによるプラン作成を制限する方法について](https://social.msdn.microsoft.com/Forums/ja-JP/92e21369-0f36-40df-8b56-712bc1402c9f/microsoft-planner?forum=sharepointsupportteamja)
+
+## Microsoft Mesh
+
+- [Microsoft Mesh](https://www.microsoft.com/en-us/microsoft-teams/microsoft-mesh)
+- [Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/)
 
 ## Teams
 
@@ -238,6 +261,7 @@
 
 ## Microsoft Graph
 
+- [Microsoft Graphを使ったプログラミングにまつわる苦労](https://blog.hokkai7go.jp/entry/2022/11/22/111327)
 - [Microsoft、Microsoft 365 API活用を支援する「Microsoft Graph CLI」を提供開始](https://atmarkit.itmedia.co.jp/ait/articles/2312/12/news062.html)
 - [訳あってMicrosoft Graph API調べてみた](https://qiita.com/massie_g/items/fe7540161aa4a5f86bf5)
 - [Microsoft Graph API利用手順忘備録](https://zenn.dev/santafs/articles/ee6f7b4d8ea1fd)

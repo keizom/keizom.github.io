@@ -233,6 +233,7 @@ Add-SPDistributedCacheServiceInstance
 
 # Windows OS
 
+- [【Qiita最速】Windows Server 2025を試してみる](https://qiita.com/hidekko/items/a701c55824634d2aac54)
 - [Windowsをクリーンインストールしたら、すぐに済ませておきたい7つのこと：山市良のうぃんどうず日記（272） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2312/20/news008.html)
 - [パスワードより安全？ Windows 11に追加されたパスキー・マネージャーとは](https://www.lifehacker.jp/article/2310microsoft-is-adding-a-passkey-manager-to-windows-11/)
 - [IISでhttpsのサイトを作成する - SSLサイトの構成 (IIS - Internet Information Service Tips)](https://www.ipentec.com/document/windows-windows-server-iis-setup-https-site)

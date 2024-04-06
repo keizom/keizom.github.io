@@ -158,6 +158,7 @@
 - [PowerShellの操作を自動化！ Azure Automation の Power Shell Runbook を使いこなそう！！](https://tech-blog.cloud-config.jp/2023-01-11-azure-automation-runbook)
 - [Azure Automation と Microsoft Graph を介して Microsoft Entra Identity Governance のタスクを自動化する](https://learn.microsoft.com/ja-jp/azure/active-directory/governance/identity-governance-automation)
 - [Power Automate から Azure Automation を呼び出してクラウド上で PowerShell を実行してみる](https://idea.tostring.jp/?p=5899)
+- [Azure Automation と SharePoint PnP を利用したナビゲーションメニューの追加方法について](https://qiita.com/daichan3/items/ad8c4444fa86b2baaea9)
 - [Power Automate から PowerShell を実行する方法](https://jpdynamicscrm.github.io/blog/powerautomate/Execute-PowerShell/)
 - [AzureAutomation を利用した SharePoint{}() Online のサイト作成方法](https://qiita.com/daichan3/items/f963a7d7c3dd9501fce8)
 - [Office 365 の PowerShell 運用を PaaS 化してみる](https://sprestaurant.hatenablog.com/entry/2019/07/07/011839)
@@ -182,6 +183,7 @@
 
 ## Azure Bicep
 
+- [GPT4-Vで構成図からIaCコードを生成させる](https://qiita.com/shyamagu/items/556f08282a91000c6b14)
 - [AzureにおけるIaC　Bicepに入門してみた](https://engineers.fenrir-inc.com/entry/2022/06/30/131400)
 - [VSCodeのTerraform拡張機能にTerraform Cloudビューが追加されました](https://dev.classmethod.jp/articles/vscode-extenstions-tfc-view/)
 - [TerraformとBicep両方さわってみて思ったこと](https://dev.thanaism.com/2021/08/terraform/)
@@ -297,6 +299,7 @@
 
 ## Azure DevOps
 
+- [Azure DevOps Online Vol.10とCopilotでのサマリー](https://kkamegawa.hatenablog.jp/entry/2024/01/30/204350)
 - [リモートスクラムでも使えるAzure DevOps(Boards)の活用事例](https://qiita.com/motuo/items/029a9f14f5c256bbc258)
 - [Azure DevOpsのGitのマージ方法を強制する](https://kkamegawa.hatenablog.jp/entry/2024/02/10/232313)
 - [【Azure Pipelines】WebAppsへDeployするためのyamlファイルを徹底解説【初心者向け】](https://tech-lab.sios.jp/archives/35848)

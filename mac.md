@@ -29,3 +29,5 @@
 - [Macのゴチャゴチャした「メニューバー」をすっきりさせよう！](https://pc.watch.impress.co.jp/docs/column/macinfo/1533360.html)
 - [M1 MacへのNode.jsインストール手順](https://qiita.com/naoto24kawa/items/6c1be2296bb762ff283f)
 - [MacのDockに現在のCPU使用率をリアルタイムで表示してくれるCPUメーター「CPU mini」がリリース](https://applech2.com/archives/20240206-cpu-mini-for-mac-dock.html)
+- [【DX向上】VSCodeの設定のススメ【Mac】](https://qiita.com/genimura/items/059c4f338f81e976117f)
+- [Macの効率化に役立つユーティリティ系のアプリ7選](https://note.com/dtp_tranist/n/nd0f21ccd0755)
