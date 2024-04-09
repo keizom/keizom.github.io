@@ -194,6 +194,10 @@
 - [SharePoint クライアント側オブジェクト モデル (CSOM) から PnP ライブラリへのコードのアップグレード](https://learn.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins-modernize/from-csom-to-pnp-libraries)
 - [SharePoint Online の所定のサイトのリストにあるファイルを列挙したい](https://zenn.dev/microsoft/articles/pnp-core-sdk-get-files)
 
+## pnp on Azure Automation
+
+- [Using PnP PowerShell in Azure Automation Runbooks](https://pnp.github.io/powershell/articles/azureautomationrunbook.html)
+
 ## PnP SharePoint
 
 - [Send-PnPMail で no-reply@sharepointonline.com からメールを送付する](https://mountfuji.hatenablog.com/entry/2021/04/18/113700)
@@ -282,6 +286,7 @@
 
 ## SharePoint FrameWork
 
+- [Yeoman v5.0.0 リリースによる SPFx への影響](https://www.illuminate-j.jp/blog/010_spfx_yeoman)
 - [【SPFx】PnP Controlsを利用する SharePoint Framework](https://mynote365.hatenadiary.com/entry/2019/08/16/190000)
 - [Announcing SharePoint Framework 1.18 with updates for Microsoft Teams, Microsoft Viva and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-18-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/)
 - [SharePoint Framework 1 つの PC で複数バージョンの開発環境を利用する](https://www.illuminate-j.jp/blog/spfx04_devenv)

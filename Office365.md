@@ -36,6 +36,10 @@
 - [Power Apps と AI Builder を使って最速で OCR アプリを作る！！#Power Platform リレー](https://tech-blog.cloud-config.jp/2021-12-23-power-apps-ai-builder-ocr/)
 - [AI Builder による画像認識モデルの構築](https://rpa.bigtreetc.com/column/aibuilder-builing-customai/)
 
+## Clipchamp
+
+- [Microsoftのビデオ・エディター「Clipchamp」がかなり便利だった【入門＆基礎活用術】](https://www.lifehacker.jp/article/2403-how-to-use-clipchamp-in-windows-11/)
+
 ## loop
 
 - [Microsoft Loopとは何かを使い方から解説、Notionとの違いは？ 3つの機能や始め方も](https://www.sbbit.jp/article/cont1/131393)
@@ -87,6 +91,8 @@
 
 ## Microsoft 365 Copilot
 
+- [OfficeのCopilotを利用する「Excel編」](https://swri.jp/article/1423)
+- [Microsoft 365 Copilotを上手に使うためのTips・できることまとめ](https://qiita.com/ssc-yshikeda/items/ec2cfe07d2bbcd989be9)
 - [「Copilot for Microsoft 365 ユーザー向け研修資料」を公開しました！](https://blog.cloudnative.co.jp/22909/)
 - [マイクロソフトの「Copilot」、有料版と無料版はどう違う？お金を払う価値はあるか](https://japan.zdnet.com/article/35214694/)
 - [Microsoft Copilotの基本的な設定と使い方](https://atmarkit.itmedia.co.jp/ait/articles/2402/09/news036.html)
@@ -160,6 +166,7 @@
 
 ## Google
 
+- [Gmailへのメールが届かなくなる？ 2024年6月までにやるべき3つの対応](https://webtan.impress.co.jp/e/2024/04/03/46724)
 - [DMARC レコードを定義する](https://support.google.com/a/answer/10032169?hl=ja)
 - [DMARC レコードの追加](https://support.google.com/a/answer/2466563?hl=ja)
 - [ドメインで DKIM を有効にする](https://support.google.com/a/answer/180504?hl=ja)
@@ -258,9 +265,13 @@
 ## Microsoft Graph Tools
 
 - [GitHub - Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
+- [Microsoft Graph Toolkit の概要](https://learn.microsoft.com/ja-jp/graph/toolkit/overview?tabs=html)
 
 ## Microsoft Graph
 
+- [Microsoft Graph で SharePoint Onlineのリストアイテムを取得する（ユーザー列・選択肢列・参照列）](https://qiita.com/miesque/items/e66d991291f47ece032f)
+- [GraphAPIを使ってSharePointリストに大量のデータを投入する](https://qiita.com/Rambosan/items/2eefca18f1760bb784c6)
+- [イベントを取得する](https://learn.microsoft.com/ja-jp/graph/api/event-get?view=graph-rest-1.0&tabs=http)
 - [Microsoft Graphを使ったプログラミングにまつわる苦労](https://blog.hokkai7go.jp/entry/2022/11/22/111327)
 - [Microsoft、Microsoft 365 API活用を支援する「Microsoft Graph CLI」を提供開始](https://atmarkit.itmedia.co.jp/ait/articles/2312/12/news062.html)
 - [訳あってMicrosoft Graph API調べてみた](https://qiita.com/massie_g/items/fe7540161aa4a5f86bf5)
@@ -300,7 +311,6 @@
 - [group リソースの種類](https://docs.microsoft.com/ja-jp/graph/api/resources/group?view=graph-rest-1.0)
 - [Microsoft Graph の認証と承認の基本方法](https://docs.microsoft.com/ja-jp/graph/auth/auth-concepts)
 - [Microsoft Graph を使ってみよう : サイト、リスト、リストアイテムリソース (SharePoint)](https://qiita.com/kenakamu/items/61ff83a2b381bc3e9cdb)
-- [GraphAPI を使って SharePoint リストに大量のデータを投入する](https://qiita.com/Rambosan/items/2eefca18f1760bb784c6)
 - [Connect to Microsoft Graph PowerShell using Certificate](https://blog.admindroid.com/connect-to-microsoft-graph-powershell-using-certificate/)
 
 ## Microsoft Viva

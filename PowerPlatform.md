@@ -40,6 +40,10 @@
 - [Microsoft 365 Copilotでできること──プロンプト例で紹介](https://www.itmedia.co.jp/news/articles/2303/17/news102.html)
 - [Microsoft、企業向けにも生成系AI　「Dynamics 365 Copilot」提供開始](https://www.itmedia.co.jp/news/articles/2303/07/news076.html)
 
+## Microsoft Copilot Studio
+
+- [Microsoft Copilot Studio をユーザー部門向けに開放する際、考慮、検討、実施すること](https://qiita.com/Takashi_Masumori/items/fce74bc38ce0451a629e)
+
 ## AI Builder Lobe
 
 - [Automate Document Processing end-to-end with AI Builder](https://powerautomate.microsoft.com/en-us/blog/automate-document-processing-end-to-end-with-ai-builder/)
@@ -75,6 +79,8 @@
 
 ## Power Apps
 
+- [部署異動の際の Power Apps や Power Automate の引継ぎについて](https://qiita.com/Takashi_Masumori/items/34fbad7d5b9d42e00b92)
+- [(Power Platfom 市民開発者向け) SharePoint リストについて](https://qiita.com/Takashi_Masumori/items/2c1cb62496171cf23cf6)
 - [【デザイン】私がしているPower Appsのアプリを作るときのデザインをよくする工夫](https://qiita.com/skuramoto/items/717cf173dd55cfb9adc6)
 - [AI (Copilot) の力で実現 ! 点検業務を 1 時間でアプリ化 & 承認ワークフローで完全デジタル化しよう](https://qiita.com/nayoshik/items/abfeb39f93442441e848)
 - [Power Apps のキャンバスアプリから直接 Teams にメッセージを投稿しよう](https://qiita.com/nayoshik/items/d40710c4be57440f9cb5)
@@ -118,6 +124,7 @@
 
 ## Power Automate Desktop
 
+= [ローカルPCのテキストファイルをPower Automateに読み込ませて活用しよう](https://ascii.jp/elem/000/004/191/4191996/)
 - [Windows10 の無償デスクトップ自動化ツール「Power Automate Desktop」で Web ブラウザーでの作業を自動化する](https://codezine.jp/article/detail/15410)
 - [Windows：PowerAutomate Desktop をインストールして使ってみる](https://zenn.dev/barusu/articles/b702ef21c713ba)
 - [Power Automate の RPA 機能「UI flows」の始め方](https://rpahack.com/uiflows)
@@ -126,6 +133,7 @@
 
 ## Power Automate
 
+- [Copilot in Power Automate でフローを作成してみた](https://www.illuminate-j.jp/blog/automate-copilot)
 - [Outlook予定表を大人数に共有する操作をPower Automate Desktopで実行する](https://aliss.jp/?p=2354)
 - [Power AutomateでOutlook予定表のイベント情報を取得する方法](https://www.teijitaisya.com/pa-outlookevents/)
 - [PowerAutomateで実行者の予定表を操作する](https://qiita.com/Rambosan/items/62797dc3676422025a5e)
@@ -172,6 +180,11 @@
 
 ## Power BI
 
+- [国土交通省が新サイト「不動産情報ライブラリ」を無料公開、早くも神サイトと評判](https://internet.watch.impress.co.jp/docs/yajiuma/1581368.html)
+- [人工衛星からみた地球のデータ、なんと無料。使わないともったいない](https://www.gizmodo.jp/2024/02/jss-hyper-spectral-sensor-hisui-video2.html)
+- [クラウド フローとオンプレミス環境間でデータ連携する方法](https://jpdynamicscrm.github.io/blog/powerautomate/gateway-install/)
+- [PowerBIRESTAPIを使う②](https://marshal115.hatenablog.com/entry/2022/08/09/095241)
+- [Power BI Service でサービス プリンシパルを利用する](https://jpbap-sqlbi.github.io/blog/powerbi/ServicePrincipal/)
 - [Copilot in Power BI (preview) is available worldwide](https://powerbi.microsoft.com/ja-jp/blog/copilot-in-power-bi-preview-is-available-worldwide/)
 - [Power BI の今年、2024年に向けてちょっと未来のお話](https://qiita.com/yugoes1021/items/0a53809a819551932bbf)
 - [Artificial Intelligence sample for Power BI: Take a tour - Power BI | Microsoft Learn](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-artificial-intelligence)

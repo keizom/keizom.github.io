@@ -233,6 +233,7 @@ Add-SPDistributedCacheServiceInstance
 
 # Windows OS
 
+- [Windows Server Summit 2024で発表されたWindows Server 2025注目の新機能](https://kkamegawa.hatenablog.jp/entry/2024/04/04/081951)
 - [【Qiita最速】Windows Server 2025を試してみる](https://qiita.com/hidekko/items/a701c55824634d2aac54)
 - [Windowsをクリーンインストールしたら、すぐに済ませておきたい7つのこと：山市良のうぃんどうず日記（272） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2312/20/news008.html)
 - [パスワードより安全？ Windows 11に追加されたパスキー・マネージャーとは](https://www.lifehacker.jp/article/2310microsoft-is-adding-a-passkey-manager-to-windows-11/)
@@ -292,6 +293,9 @@ Add-SPDistributedCacheServiceInstance
 
 - [【永久保存版】0からAWSを勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/6238413b66e274bccd7b)
 - [遊びながらAWSを学べる“AWSクエスト”日本語対応　クラウドで街を救うRPG　プレイ無料](https://www.itmedia.co.jp/news/articles/2310/05/news183.html)
+- [基本的なシステム構成図を理解するためのAWS基礎をまとめてみた](https://qiita.com/g_ayushi/items/0e0f34d19813b8fdc2b8)
+- [PowerShellからAWSを操作するための設定](https://qiita.com/kkksssyyy/items/3e137e89b0fb22aecba5)
+- [【AWS初心者向け】AWS学習方法まとめ【15時間で達成できる】](https://qiita.com/toma_shohei/items/b7a001d26bd988d52021)
 
 # Ansible
 
@@ -311,3 +315,5 @@ Add-SPDistributedCacheServiceInstance
 - [Linuxでの調査時に高頻度で使用してきたコマンドまとめ](https://qiita.com/hirssk/items/aed3fd28462f5ac245cf)
 - [【永久保存版】シェルスクリプト完全攻略ガイド #初心者 - Qiita](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
 - [Surface Go 3: Windows 11とUbuntu 22.04 LTSのデュアルブート環境を構築する](https://remoteroom.jp/diary/2023-09-03/)
+- [厳選Linuxフリーソフト100](https://xtech.nikkei.com/atcl/nxt/column/18/02713/)
+- [シェルスクリプトとjqコマンドでJSONをループして中身を取り出す](https://pakapaka.jp/shell-json-loop/)

@@ -16,6 +16,21 @@
 
 ## Microsoft
 
+- [Microsoft 製品とサービスの URL](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/cloud-microsoft-domain?view=o365-worldwide&s=09#microsoft-product-and-service-urls)
+- [Microsoft 365 サービス正常性の状態ページ](https://status.cloud.microsoft)
+- [Microsoft Admin Center](https://admin.cloud.microsoft)
+- [Microsoft Loop](https://loop.cloud.microsoft)
+- [Microsoft Mesh](https://mesh.cloud.microsoft)
+- [Microsoft セットアップ](https://setup.cloud.microsoft)
+- [Microsoft Sway](https://sway.cloud.microsoft)
+- [Microsoft Viva Engage](https://engage.cloud.microsoft)
+- [Microsoft Viva Goals](https://goals.cloud.microsoft)
+- [Microsoft Viva ホーム](https://viva.cloud.microsoft)
+- [Microsoft Viva Insights](https://insights.cloud.microsoft)
+- [Microsoft Viva Learning](https://learning.cloud.microsoft)
+- [Microsoft Viva Pulse](https://pulse.cloud.microsoft)
+- [Microsoft Vivaスキル](https://skills.cloud.microsoft)
+
 - [Microsoft (有志)](https://zenn.dev/p/microsoft)
 - [マイクロソフトイグナイト BOOK OF NEWS](https://news.microsoft.com/ignite-2022-book-of-news/ja/)
 - [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)

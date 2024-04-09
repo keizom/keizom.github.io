@@ -20,6 +20,8 @@
 
 ## .NET Core
 
+- [.NET 8 の Blazor にオレオレ ログイン機能を付けよう](https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet8-tryaddauth)
+- [.NET 8 の ASP.NET Core Blazor で二度押しを抑止したい](https://zenn.dev/microsoft/articles/blazor-dotnet8-do-not-double-click)
 - [ASP.NET Core MVCを新人に説明してみよう](https://qiita.com/saxxos/items/f8bdf3a0a9d6b8e3cfef)
 - [.NET 8 の ASP.NET Core Blazor 新機能オーバービュー](https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet8-overview)
 - [AzRefArc.AspNetBlazorUnited](https://github.com/nakamacchi/AzRefArc.AspNetBlazorUnited)
@@ -78,6 +80,7 @@
 
 ## csharp
 
+- [Windows App SDKでデスクトップアプリを作る](https://qiita.com/hayashida-katsutoshi/items/ccd91e69543e6da188c3)
 - [.NET 8 と GitHub、そして Azure による開発者エクスペリエンスの向上 ～ 最新開発プラッ](https://speakerdeck.com/chack411/dot-net-8-to-github-sosite-azure-niyorukai-fa-zhe-ekusuperiensunoxiang-shang-zui-xin-kai-fa-puratutohuomu-demonsutoresiyon)
 - [【Ｃ＃】完璧で幸福にアプリケーションの二重起動を防止してすでに起動しているアプリを前面に表示する](https://qiita.com/Subara3/items/50da6ee5885d576b429b)
 - [Microsoft、「基礎C#認定資格」を公開　無料でC#が学べる35時間分のトレーニングコースも](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news026.html)
@@ -114,6 +117,8 @@
 
 ## Docker
 
+= [Dockerで構築する機械学習環境【2024年版】](https://zenn.dev/mkj/articles/33befbaf38c693)
+- [Dockerを少しずつ理解しようっていうお話](https://qiita.com/mr_noppo/items/d921886c5f4d868374ba)
 - [Docker学習　1日目](https://qiita.com/ki_takada/items/679bb0c8f04857c46380)
 - [【永久保存版】0からDockerを勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/a4ba0592142b76223aa0)
 - [「Ansible」と「Docker」の違いは？　両ツール連携の仕組みは？](https://atmarkit.itmedia.co.jp/ait/articles/2312/01/news054.html)
@@ -147,6 +152,8 @@
 
 ## git
 
+- [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
+- [Gitの内部構造をよく理解して、うまく使おう【基本の仕組みを解説】](https://codezine.jp/article/detail/17328)
 - [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
 - [Gitに不慣れな人はとりあえずgit statusを打ちまくっておけば大体なんとかなる説](https://qiita.com/na0y/items/c5554057d8efbf2e0967)
 - [Gitまわり](https://note.com/alchan/n/n872f825f34a7)
@@ -262,6 +269,10 @@
 
 ## VisualStudio Code
 
+- [VSCodeでC#開発をする方法](https://zenn.dev/midoliy/articles/9e3cff958ff89ba151de)
+- [チーム開発でVSCodeの拡張機能やフォーマット設定などを統一したい時に便利な設定ファイルについて](https://dev.classmethod.jp/articles/vscode_settings_file_for_team_dev/)
+- [VSCode ではじめる GitHub Copilot 活用術](https://qiita.com/RyoWakabayashi/items/1207128e88669c76bf5f)
+- [HTMLを書いたり、修正する時に役立つVS Codeの機能拡張のまとめ](https://coliss.com/articles/build-websites/operation/work/vs-code-extensions-for-html.html)
 - [VSCodeMeetup20240130](https://www.docswell.com/s/shosuz/58G39X-2024-01-30-203540)
 - [VS Code Meetup #27](https://vscode.connpass.com/event/303633/presentation/)
 - [Visual Studio Code （VSCode）の導入と、おすすめの初期設定をまとめました](https://biz.hpg.co.jp/biz2020/column/755/#render_line)
@@ -409,6 +420,9 @@
 
 ## WSL
 
+- [WSL2 による Python3 の環境構築](https://qiita.com/zakoken/items/8ddfda7267e7d95b3c46)
+- [なんかWSL2がインターネットにつながらなくなったときの解決方法](https://qiita.com/kotauchisunsun/items/71fae973afa00ebb871a)
+- [WSLで外のネットワークにアクセスできないときの解決策](https://zenn.dev/rayfiyo/articles/20231205-wsl_cannot_ping_outside)
 - [WSL2 ミラーモードでDocker使えないのは困る](https://qiita.com/shigeokamoto/items/fc9fa1a395f3fd72fafa)
 - [【WSL 入門】第 1 回　 Windows 10 標準 Linux 環境 WSL を始めよう：IT の教室 - ＠IT](https://www.atmarkit.co.jp/ait/articles/1903/18/news031.html)
 - [「Windows×OpenSSH×WSL 2 ＝ほぼほぼネイティブな Linux」に見えてしまう、の作り方](https://www.atmarkit.co.jp/ait/articles/2007/15/news005.html)

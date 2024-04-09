@@ -45,6 +45,8 @@
 
 ## html
 
+- [あのサイトで使われている技術を調べる](https://qiita.com/nightyknite/items/1258eeca403e7d449b5a)
+- [【爆速UI設計術】モダンなwebデザイン素材集](https://qiita.com/iijima-naoya-45b/items/2e63a51681188d2bb93a)
 - [HTMLを書いたり、修正する時に役立つVS Codeの機能拡張のまとめ](https://coliss.com/articles/build-websites/operation/work/vs-code-extensions-for-html.html)
 - [HTTPを手で書いて学ぶ ファイルアップロードの仕組み](https://speakerdeck.com/ikumatadokoro/httpwoshou-deshu-itexue-bu-huairuatupurodonoshi-zu-mi)
 - [CodeGrid](https://www.codegrid.net/about/)
@@ -183,6 +185,8 @@
 
 ## JavaScript
 
+- [[javascript] カラフルなconsole.log](https://qiita.com/oharu121/items/446027d9e4a494455555)
+- [「JavaScriptで要素をドラッグして移動する簡単な方法」という記事が初耳だらけだった件](https://qiita.com/www-tacos/items/5614b61d3742d6db34b7)
 - [そのfor文ちょっと待った！！ ループ処理の代替表現ガイド](https://zenn.dev/lclco/articles/77587be8ccb1a7)
 - [検索: getElement* と querySelector*](https://ja.javascript.info/searching-elements-dom)
 - [SNSで話題のWeb関連情報 2023年 12/2?12/15](https://www.webcreatorbox.com/webnews/2023-1202-1215)

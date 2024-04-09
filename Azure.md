@@ -14,6 +14,7 @@
 
 # Azure
 
+- [【必読】Azureエンジニアが教える！AZ−104とAZ−305にほぼ合格できる勉強方法](https://zenn.dev/murakami_koki/articles/e404cb8aa8995b)
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
 - [Azureを勉強したいけど何したらいいかわからない人へ ~ 勉強資料インデックスの紹介 ~](https://qiita.com/aktsmm/items/d0da6b7b245b6a88ef95)
 - [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
@@ -89,6 +90,7 @@
 
 ## Azure App Service
 
+- [【Azure】App Serviceのアクセスログを自動かつ永続的に保存する](https://atmarkit.itmedia.co.jp/ait/articles/2404/03/news029.html)
 - [推しの Azure リソース「App Service」について語り尽くしました](https://tech-lab.sios.jp/archives/25879)
 - [AzurePaaS 研究サイト](https://www.azureportal-site.com/appservice-functions-portal)
 - [Azure App Service の VNet 統合](https://tech-lab.sios.jp/archives/22563)
@@ -183,6 +185,7 @@
 
 ## Azure Bicep
 
+- [AzureでのIaCツール選びに迷ったらこれ！ARMTemplate, Bicep, Terraform, Pulumi 比較ガイド](https://qiita.com/s_w_high/items/534a6add2a37b172a6bb)
 - [GPT4-Vで構成図からIaCコードを生成させる](https://qiita.com/shyamagu/items/556f08282a91000c6b14)
 - [AzureにおけるIaC　Bicepに入門してみた](https://engineers.fenrir-inc.com/entry/2022/06/30/131400)
 - [VSCodeのTerraform拡張機能にTerraform Cloudビューが追加されました](https://dev.classmethod.jp/articles/vscode-extenstions-tfc-view/)
@@ -483,9 +486,21 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 - [マネージド ID を 使って Azure VM から CLI で Azure を操作する。](https://qiita.com/aktsmm/items/1a1d8b79f18f0c7a5331)
 
-
 ## Azure Open AI
 
+- [ChatGPTなどのチャットAIがどんな風に文章をトークンとして認識しているのかが一目で分かる「Tokenizer」](https://gigazine.net/news/20230407-tokenizer-open-ai/)
+- [Copilot に Intune の PowerShell を書かせたらマジでビビった話](https://zenn.dev/microsoft/articles/9e48fe6f2b5633)
+- [「ChatGPT」ユーザー登録なしで誰でも使えるように](https://ascii.jp/elem/000/004/192/4192024/)
+- [Asia AI Odyssey](https://www.microsoft.com/ja-jp/AIOdyssey/)
+- [RAG構築のためのAzure OpenAI Serviceリファレンスアーキテクチャ詳解](https://tech-lab.sios.jp/archives/38900)
+- [クイック スタート: Azure OpenAI Service を使用してテキストの生成を開始する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython-new&pivots=programming-language-powershell)
+- [Azure OpenAI 音声読み上げチャット](https://learn.microsoft.com/ja-jp/azure/ai-services/speech-service/openai-speech?tabs=windows&pivots=programming-language-csharp)
+- [Azure OpenAI Service #AOAIドーナツ本 第3章 勉強メモ](https://qiita.com/chomado/items/3098ce48e06b63143bfc)
+- [Dockerで構築する機械学習環境【2024年版】](https://zenn.dev/mkj/articles/33befbaf38c693)
+- [話題のチャットAI「Claude 3」のプロンプト集、公式が公開中　「Excelの数式作って」など64種](https://www.itmedia.co.jp/news/articles/2403/11/news182.html)
+- [Google NotebookLMを使ってみた - もしかしたらかなり使えるかも！](https://note.com/ippei_suzuki_us/n/ncbc2e184c72b)
+- [Azure OpenAI Service を監視するための第一歩 (Azure OpenAI Insights)](https://blog.beachside.dev/entry/2024/02/27/180000)
+- [アクセンチュア流「AIとの8つの融合スキル」とは？ トップが示す生成AI仕事術](https://www.sbbit.jp/article/cont1/132844)
 - [Azure OpenAI Service 入門ハンズオンラボ](https://dev-lab-io.github.io/aoai/scenario1/home)
 - [マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開](https://www.publickey1.jp/blog/24/aiai12.html)
 - [プログラミング支援AIサービスが主要各社から出そろう　各サービスのまとめ　GitHub／AWS／Google／GitLab／JetBrains](https://www.itmedia.co.jp/news/articles/2312/18/news093.html)
@@ -527,6 +542,10 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [【緊急企画】話題の ChatGPT 。Microsoft の担当者が登場！まだ序章！今話せること全部お話します！ビジネスで使える IT ネタをお届けする「ネタバース」 | 日本マイクロソフト](https://www.youtube.com/watch?v=wsQruf1KEJE)
 - [削除された Azure AI サービス リソースの復旧または消去](https://learn.microsoft.com/ja-jp/azure/ai-services/recover-purge-resources)
 
+### Local LLM
+
+- [LLM開発のための環境構築](https://zenn.dev/elith/articles/e4dbbb62752e04)
+
 ### Open Interpreter
 
 - [話題のOpen Interpreterを使ってみた、そして、驚いた](https://qiita.com/yanagih/items/466a5560bd771e2b9030)
@@ -534,6 +553,8 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [凄すぎると話題の「Open Interpreter」の始め方・使い方まとめ](https://qiita.com/ot12/items/d2672144b914cb6f252f)
 - [今さら聞けないChatGPT「Code Interpreter」、データ分析能力が飛躍的向上のワケ](https://www.sbbit.jp/article/cont1/120122)
 - [チャット形式でプログラミングが可能なローカルで動作するオープンソースなAIツール「Open Interpreter」を使ってみた](https://gigazine.net/news/20231119-open-interpreter/)
+- [Open Interpreter](https://qiita.com/fuyu_quant/items/e531b5d1f87a8640d10e)
+- [Open Interpreterがついに画像出力にも対応！使い方から実践までを解説【画像付き】](https://weel.co.jp/media/tech/open-interpreter/)
 
 ### Chat GPT
 
@@ -655,6 +676,7 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 
 ## Azure Static Web Apps
 
+- [Azure Static Web Apps を構成する](https://learn.microsoft.com/ja-jp/azure/static-web-apps/configuration)
 - [Azure Static Web Apps のローカル実行方法まとめ ＃Azureリレー](https://tech-blog.cloud-config.jp/2021-11-23-azure-static-web-apps-local/)
 - [SPAをStatic Web Appsにデプロイ、本番環境で使ってみた](https://qiita.com/keiotoi/items/d019303d10b11ccf568e)
 - [Static React Web App + Functions with C# API and SQL Database on Azure](https://learn.microsoft.com/ja-jp/samples/azure-samples/todo-csharp-sql-swa-func/todo-csharp-sql-swa-func/)
@@ -792,6 +814,11 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 
 ## SendGrid
 
+- [Twilio SendGridユーザがGmailのガイドラインに対応する具体的な方法](https://sendgrid.kke.co.jp/blog/?p=17611)
+- [バウンスメールとその対策](https://sendgrid.kke.co.jp/blog/?p=17622)
+- [Twilio SendGridの契約先による、機能面やサポート面での違い](https://sendgrid.kke.co.jp/blog/?p=10084)
+- [『List-Unsubscribe』ヘッダとは？](https://sendgrid.kke.co.jp/blog/?p=1822)
+- [C#でメール送信！Twilio SendGridを使って簡単に実装する方法](https://sendgrid.kke.co.jp/blog/?p=1075)
 - [『List-Unsubscribe』ヘッダとは？ | SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=1822)
 - [GASを利用してEvent WebhookのデータをGoogle スプレッドシートに出力する](https://sendgrid.kke.co.jp/blog/?p=17140)
 - [専門家が解説！DMARCの重要性 | SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=16911)
@@ -853,6 +880,7 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 
 ## Microsoft Fabric
 
+- [Microsoft Fabric 開発ガイド](https://speakerdeck.com/ryomaru0825/microsoft-fabric-kai-fa-gaido?slide=2)
 - [[速報] Microsoft Fabric の試用版を有効にする方法（2023/05/24 時点）](https://qiita.com/yugoes1021/items/9427f70fdab5a73e351a)
 - [Microsoftの新データ分析プラットフォーム「Fabric」　CopilotとOneLakeで直感的なUI](https://www.itmedia.co.jp/news/articles/2305/24/news086.html)
 - [OneLake File Explorer](https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer)
