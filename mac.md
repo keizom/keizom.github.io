@@ -14,29 +14,43 @@
 
 ## mac
 
-- [知ったら使わずにはいられない。Macの生産性を底上げする小技5選](https://www.lifehacker.jp/article/2211-matome-mac-productivity-up-5/)
-- [MacのFinderが自分好みに！ 簡単にできるカスタマイズ方法 【今日のワークハック】](https://www.lifehacker.jp/article/2212-easily-quick-free-finder-makeover-mac/)
-- [Mac: ターミナルとプロンプトをカスタマイズする(zsh)](https://ktksq.hatenablog.com/entry/mac-customize)
-- [【M1 Pro/Max対応】M1 Mac環境構築ベストプラクティス](https://qiita.com/c60evaporator/items/aef6cc1581d2c4676504)
-- [macOSの可能性を引き出す！ 知らないと損する生産性アプリ11選【今日のワークハック】](https://www.lifehacker.jp/article/230611-lesser-known-apps-everyone-should-install-on-their/)
 - [Appleシリコン搭載Macで「Windows 11」を無料で動かす方法](https://www.lifehacker.jp/article/2306-you-can-run-windows-11-on-your-apple-silicon-mac-for-fr/)
-- [MacBookの生産性を向上させる、超強力なおすすめMacアプリ15選（有料＆無料）](https://gadget-shot.com/66146)
-- [Mac を買ったら必ずやっておきたい初期設定](https://qiita.com/ucan-lab/items/c1a12c20c878d6fb1e21)
 - [元Appleエンジニア作！注目のGmail専用メールアプリ「Mimestream」がすごい](https://pc.watch.impress.co.jp/docs/column/macinfo/1525500.html)
 - [【TIPS】MacBookのCommandとControlを入れ替える方法(Windowsユーザーおすすめ)](https://engineer-lifestyle-blog.com/lifestyle/mac/control-command-key-bind-swap/)
 - [MacBook｜ControlとCommandキーの変更方法【Mac初心者におすすめ】](https://smartchannel.jp/macbook-hhkb-keyboard-settei/)
 - [【macOS Sonoma】Macにウィジェットを置いてみた。新機能の手順と感想をお伝えします](https://www.gizmodo.jp/2023/09/how-to-use-macos-sonoma-new-feature.html)
 - [Macのゴチャゴチャした「メニューバー」をすっきりさせよう！](https://pc.watch.impress.co.jp/docs/column/macinfo/1533360.html)
-- [M1 MacへのNode.jsインストール手順](https://qiita.com/naoto24kawa/items/6c1be2296bb762ff283f)
 - [MacのDockに現在のCPU使用率をリアルタイムで表示してくれるCPUメーター「CPU mini」がリリース](https://applech2.com/archives/20240206-cpu-mini-for-mac-dock.html)
-- [【DX向上】VSCodeの設定のススメ【Mac】](https://qiita.com/genimura/items/059c4f338f81e976117f)
-- [Macの効率化に役立つユーティリティ系のアプリ7選](https://note.com/dtp_tranist/n/nd0f21ccd0755)
-- [Googleによる生成AIモデル「Gemma」をMacBook(M2)で動かしてみた](https://qiita.com/nabata/items/01cf907c289db3fdb47d)
+- [クリック1つでMacの様々な機能をON/OFFできる「OnlySwitch」がmacOS 14 Sonomaのデスクトップ・ウィジェットに対応。](https://applech2.com/archives/20240319-onlyswitch-for-mac-support-sonoma-widgets.html)
+
+### Setup
+
 - [MacBook Air環境構築 2024](https://zenn.dev/masanork/articles/1891afd0d2e82d)
 - [新しいMacBookのセットアップ](https://zenn.dev/miyasic/articles/81f5fe3e3b060c)
-- [クリック1つでMacの様々な機能をON/OFFできる「OnlySwitch」がmacOS 14 Sonomaのデスクトップ・ウィジェットに対応。](https://applech2.com/archives/20240319-onlyswitch-for-mac-support-sonoma-widgets.html)
+- [知ったら使わずにはいられない。Macの生産性を底上げする小技5選](https://www.lifehacker.jp/article/2211-matome-mac-productivity-up-5/)
+- [MacのFinderが自分好みに！ 簡単にできるカスタマイズ方法 【今日のワークハック】](https://www.lifehacker.jp/article/2212-easily-quick-free-finder-makeover-mac/)
+- [【M1 Pro/Max対応】M1 Mac環境構築ベストプラクティス](https://qiita.com/c60evaporator/items/aef6cc1581d2c4676504)
+- [macOSの可能性を引き出す！ 知らないと損する生産性アプリ11選【今日のワークハック】](https://www.lifehacker.jp/article/230611-lesser-known-apps-everyone-should-install-on-their/)
+- [【DX向上】VSCodeの設定のススメ【Mac】](https://qiita.com/genimura/items/059c4f338f81e976117f)
+- [MacBookの生産性を向上させる、超強力なおすすめMacアプリ15選（有料＆無料）](https://gadget-shot.com/66146)
+- [Mac を買ったら必ずやっておきたい初期設定](https://qiita.com/ucan-lab/items/c1a12c20c878d6fb1e21)
+- [M1 MacへのNode.jsインストール手順](https://qiita.com/naoto24kawa/items/6c1be2296bb762ff283f)
+- [Macの効率化に役立つユーティリティ系のアプリ7選](https://note.com/dtp_tranist/n/nd0f21ccd0755)
+
+
+### Docker
+
 - [Docker for Macをインストールする方法は？導入手順や使い方を初心者向けに解説](https://www.kagoya.jp/howto/cloud/container/dockerformac/)
+
+### LLM
+
+- [Googleによる生成AIモデル「Gemma」をMacBook(M2)で動かしてみた](https://qiita.com/nabata/items/01cf907c289db3fdb47d)
 - [M3 Mac で Ollamaを使ってLLMsを動かしてみる](https://note.com/lucas_san/n/n75575017e613)
-- [お前らのターミナルはダサい](https://qiita.com/kinchiki/items/57e9391128d07819c321)
+
+
+### Terminal
+
 - [macの開発環境をカスタマイズする（zsh)](https://zenn.dev/its532/articles/3f2508b896056a)
+- - [Mac: ターミナルとプロンプトをカスタマイズする(zsh)](https://ktksq.hatenablog.com/entry/mac-customize)
+- [お前らのターミナルはダサい](https://qiita.com/kinchiki/items/57e9391128d07819c321)
 - [Mac: ターミナルとプロンプトをカスタマイズする(zsh)](https://ktksq.hatenablog.com/entry/mac-customize)
