@@ -105,6 +105,7 @@
 - [Microsoft 365 Copilot カタログ 2023年9月更新](https://info.microsoft.com/JA-T2C-CNTNT-FY24-08Aug-18-Microsoft-365-Copilot-Catalog-SRGCM10917_LP01-Registration---Form-in-Body.html)
 - [Announcing Microsoft 365 Copilot general availability and Microsoft 365 Chat](https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availability-and-microsoft-365-chat/)
 - [The AI-Powered Future of Work](https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot)
+- [Microsoft Copilot for Microsoft 365で何ができる？使い方・利用料金・導入方法などを徹底解説](https://www.lifehacker.jp/article/how-to-use-microsoft-365-copilot/)
 
 ## Developer Subscription
 
@@ -270,6 +271,7 @@
 ## Microsoft Graph
 
 - [Microsoft Graph で SharePoint Onlineのリストアイテムを取得する（ユーザー列・選択肢列・参照列）](https://qiita.com/miesque/items/e66d991291f47ece032f)
+- [Microsoft Graph アクティビティ ログが一般公開されました！](https://jpazureid.github.io/blog/azure-active-directory/graph-activity-logs-ga/)
 - [GraphAPIを使ってSharePointリストに大量のデータを投入する](https://qiita.com/Rambosan/items/2eefca18f1760bb784c6)
 - [イベントを取得する](https://learn.microsoft.com/ja-jp/graph/api/event-get?view=graph-rest-1.0&tabs=http)
 - [Microsoft Graphを使ったプログラミングにまつわる苦労](https://blog.hokkai7go.jp/entry/2022/11/22/111327)

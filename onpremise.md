@@ -317,3 +317,4 @@ Add-SPDistributedCacheServiceInstance
 - [Surface Go 3: Windows 11とUbuntu 22.04 LTSのデュアルブート環境を構築する](https://remoteroom.jp/diary/2023-09-03/)
 - [厳選Linuxフリーソフト100](https://xtech.nikkei.com/atcl/nxt/column/18/02713/)
 - [シェルスクリプトとjqコマンドでJSONをループして中身を取り出す](https://pakapaka.jp/shell-json-loop/)
+- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)

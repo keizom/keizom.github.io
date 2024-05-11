@@ -121,6 +121,7 @@
 - [Azure AD webinar にご参加ください](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)
 - [AzureAD Japan](https://www.youtube.com/channel/UCVrKqrCLcB0eJu8heNB2ZKg/videos)
 - [全エンジニア必見！情報収集のためのリンク集](https://qiita.com/kazuki_tachikawa/items/773b4a07ae3f73f22a48)
+- [GW、暇なら読んどく？　企業が無料公開した研修資料まとめ　「AI活用」「グラブル裏側」「うんこのリスク」など](https://www.itmedia.co.jp/news/articles/2405/01/news053.html)
 
 # Security
 
@@ -128,6 +129,7 @@
 - [実際の標的型攻撃の事例を基にした「インシデント対応ハンズオン」コンテンツを JPCERT／CC が公開：標的型攻撃を受けたときの Windows ログ調査方法を学べる - ＠IT](https://www.atmarkit.co.jp/ait/articles/2007/30/news025.html)
 - [JPCERT／CC がイベントログ分析支援ツール「LogonTracer v1.5.0」を公開](https://www.atmarkit.co.jp/ait/articles/2011/04/news028.html)
 - [オンボーディング支援プログラム - Mackerel（マカレル）: 新世代のサーバー管理・監視サービス](https://mackerel.io/ja/services-support/onboarding/)
+- [「クラウドの設定ミス対策ガイドブック」の公表](https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00209.html)
 
 # 資料
 
@@ -143,3 +145,13 @@
 - [会話の公理（ポール・グライス） ? \*ListFreak](https://listfreak.com/list/1301)
 - [糖尿病予備群たちに告ぐ！ 今やるべき対処法 5 つ Tarzan Web（ターザンウェブ）](https://tarzanweb.jp/post-210390)
 - [「旧街道サイクリングの旅」サイクルスポーツ.jp にて好評連載中！［最終回 更新！］](https://www.strada.jp/events/kyukaidou_201908/)
+
+# google
+
+- [スクリプトをプロキシしてトラッキングをブロックしているユーザーのデータをGoogleアナリティクスで収集するためのツール「Google Tag Manager & Google Analytics Proxy」を使ってみた](https://gigazine.net/news/20230504-google-tag-manager-analytics-proxy/)
+- [【Colab 入門】Google Colaboratory とは？使い方・メリットを徹底解説！](https://www.kikagaku.co.jp/kikagaku-blog/google-colab-howto/)
+
+
+# Meta Quest 3
+- [「Meta Quest 3」は何ができるのか？ 機能、使い方、おすすめコンテンツを紹介](https://www.moguravr.com/meta-quest-3-summary/)
+- 

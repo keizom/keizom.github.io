@@ -117,7 +117,8 @@
 
 ## Docker
 
-= [Dockerで構築する機械学習環境【2024年版】](https://zenn.dev/mkj/articles/33befbaf38c693)
+- [Dockerで構築する機械学習環境【2024年版】](https://zenn.dev/mkj/articles/33befbaf38c693)
+- [Kubernetes使いになるためにPodをつくってみる　『つくって、壊して、直して学ぶ Kubernetes入門』より](https://codezine.jp/article/detail/19343)
 - [Dockerを少しずつ理解しようっていうお話](https://qiita.com/mr_noppo/items/d921886c5f4d868374ba)
 - [Docker学習　1日目](https://qiita.com/ki_takada/items/679bb0c8f04857c46380)
 - [【永久保存版】0からDockerを勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/a4ba0592142b76223aa0)
@@ -153,6 +154,7 @@
 ## git
 
 - [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
+- [いまさらだけどGitを基本から分かりやすくまとめてみた](https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0)
 - [Gitの内部構造をよく理解して、うまく使おう【基本の仕組みを解説】](https://codezine.jp/article/detail/17328)
 - [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
 - [Gitに不慣れな人はとりあえずgit statusを打ちまくっておけば大体なんとかなる説](https://qiita.com/na0y/items/c5554057d8efbf2e0967)
@@ -193,6 +195,9 @@
 - [GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
 - [GitHub Copilot Chatを触ることでWindows Copilotの後の世界を体感できる](https://logmi.jp/tech/articles/328912)
 - [GitHub - Codespaces](https://github.co.jp/features/codespaces)
+- [GitHub Actionsって何？触ってみて理解しよう！入門・逆引きリファレンス](https://qiita.com/s3i7h/items/b50ceb0008edc3c0312e)
+- [Gitコマンド早見表](https://qiita.com/kohga/items/dccf135b0af395f69144)
+- [GitHub Copilot Workspace：GitHub Copilotネイティブの開発環境へようこそ](https://github.blog/jp/2024-04-30-github-copilot-workspace/)
 
 ## GitHub Copilot
 
@@ -338,7 +343,8 @@
 - [VSCode のオススメ拡張機能 24 選 (と Tips をいくつか) - Qiita](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
 - [Visual Studio Code の拡張機能である「C# Dev Kit」が GA となったので使ってみた](https://dev.classmethod.jp/articles/vscode-csharp-dev-kit/)
 - [VSCodeでC#開発環境を充実させる「C# Dev Kit」正式リリース、ソリューションエクスプローラーやIntelliCodeなど提供](https://www.publickey1.jp/blog/23/vscodecc_dev_kitintellicode.html)
-
+- [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
+- [AIと共同でプログラミングする新時代へ──AIコーディング支援ツール「GitHub Copilot」へ入門しよう](https://codezine.jp/article/detail/19383?p=2)
 
 ## Visual Studio Extention
 
@@ -428,6 +434,7 @@
 - [「Windows×OpenSSH×WSL 2 ＝ほぼほぼネイティブな Linux」に見えてしまう、の作り方](https://www.atmarkit.co.jp/ait/articles/2007/15/news005.html)
 - [WSL2 をインストールして Windows で Ubuntu を使う方法](https://tombomemo.com/wsl2-install-settings/)
 - [Windows WSL2 WSL2 で Docker 開発環境を構築してみる - NicoNico Pun](https://blog.nicopun.com/post/2019-07-02-windows-wsl2/)
+- [グチャグチャになった「Ubuntu on WSL2」のやり直し方](https://qiita.com/PoodleMaster/items/b54db3608c4d343d27c4)
 
 ## YAML
 

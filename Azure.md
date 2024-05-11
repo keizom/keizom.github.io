@@ -476,6 +476,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [初めてのAzure Log AnalyticsとKQL クエリ](https://www.tama-negi.com/2021/08/04/azure-loganalytics-begin/)
 - [Azure MonitorとLogAnalyticsについて](https://www.guri2o1667.work/entry/2020/03/21/Azure_Monitor%E3%81%A8LogAnalytics%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 - [【Azure】Log Analytics単体では不可能なクエリをPowerShellで補完する](https://atmarkit.itmedia.co.jp/ait/articles/2401/31/news038.html)
+- [The Definitive Guide to KQL: Using Kusto Query Language for Operations, Defending and Threat Hunting](https://github.com/KQLMSPress/definitive-guide-kql)
 
 ## Azure Logic Apps
 
@@ -545,6 +546,25 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ### Local LLM
 
 - [LLM開発のための環境構築](https://zenn.dev/elith/articles/e4dbbb62752e04)
+- [LLMプロダクト開発とはどういうものなのか？](https://note.com/erukiti/n/ne901fbb08145)
+- [基本に立ち戻る：LLMのプロンプト](https://nikkie-ftnext.hatenablog.com/entry/llm-prompt-basics-202405-few-shot-learning-and-chain-of-thought)
+- [【ollama / Phi-3】ニュースで話題のLLMをローカルPC上で動かしてみる](https://zenn.dev/tanny/articles/705682d88e254e)
+- [MacでLocalでLLMを走らせるならLM Studioが楽。](https://qiita.com/ponnhide/items/b46a95228d0b832f1770)
+- [ローカルLLMを手軽に楽しむ](https://zenn.dev/karaage0703/articles/c271ca65b91bdb)
+- [準備0でローカルLLMを動かす(LM Studio)](https://zenn.dev/howtelevision/articles/95e62c480b34a8)
+- [Llama 3の比較レビュー](https://qiita.com/Yorozuya59/items/4ddf8fb0e69b52e0721a)
+- [MetaのLlama3-8BをGoogle Colabで検証してみた](https://qiita.com/DeepTama/items/b17ac21010424de38c5f)
+- [AIによる爆速開発：画面設計からプログラミングまで自動化！？](https://qiita.com/ssc-yshikeda/items/d9a6ba46c897aae186a4)
+- [僅か2.3GBで日本語可能な超高性能ローカルLLMのPhi-3 MINIをllama.cppとCPUで動かしてみた。スマホでも可。従来のコンパクトLLMと比較して超越した性能で未来を感じさせるMicroSoft寄付ありがとう](https://togetter.com/li/2355369)
+- [優秀と噂なCohere社のCommand R+でRAGチャットボットを簡単に構築して体験しよう！](https://qiita.com/itokazu/items/2b519ef301fdf1430486)
+- [いちばんやさしいローカル LLM](https://note.com/schroneko/n/n8b1a5bbc740b)
+
+
+
+
+
+
+
 
 ### Open Interpreter
 
@@ -555,10 +575,13 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [チャット形式でプログラミングが可能なローカルで動作するオープンソースなAIツール「Open Interpreter」を使ってみた](https://gigazine.net/news/20231119-open-interpreter/)
 - [Open Interpreter](https://qiita.com/fuyu_quant/items/e531b5d1f87a8640d10e)
 - [Open Interpreterがついに画像出力にも対応！使い方から実践までを解説【画像付き】](https://weel.co.jp/media/tech/open-interpreter/)
+- [Power Platform から Azure OpenAI Service 経由で ChatGPT を利用してみる](https://qiita.com/Takashi_Masumori/items/96b9e0f1590762fd6fad)
 
 ### Chat GPT
 
 - [ChatGPT-Prompt-Sample-Japanese/Workshop at main ? dahatake/ChatGPT-Prompt-Sample-Japanese ? GitHub](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/tree/main/Workshop)
+- [「ChatGPT」vs「Claude 3」、ビジネスにお勧めの生成AIを選ぶポイントは](https://japan.cnet.com/article/35218294/)
+- [ChatGPT先生によるプロンプトエンジニアリングとPythonのハンズオン入門講義](https://zenn.dev/acntechjp/articles/fa3b302d0f7264)
 - [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese)
 - [【決定版】GPTs開発の教科書](https://chatgpt-lab.com/n/n43cc9a028aac)
 - [データ分析もChatGPTの機能（旧Code Interpreter）でできるか、やったみた【番外編】](https://atmarkit.itmedia.co.jp/ait/articles/2312/14/news013.html)
@@ -592,6 +615,17 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [ChatGPT Hack 要件定義から設計・モデリング・プロトタイプ作成。そして Azure への Deploy までを。ChatGPT に作らせた](https://qiita.com/dahatake/items/54588139062b641cc96f)
 - [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji?slide=66)
 - [「自社製品にチャットAIを組み込みたい」　企業が取るべきセキュリティ対策とは？　“プロンプトインジェクション”の基本手口](https://www.itmedia.co.jp/news/articles/2308/10/news101.html)
+
+### Dify
+
+- [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
+- [dify](https://dify.ai/jp)
+- [噂のノーコードAIシステム開発環境Difyを使ってツールを作ってみた。使った感想](https://note.com/shi3zblog/n/necd6de514475)
+- [Difyをローカル環境で起動してLLMアプリを作成してみた](https://qiita.com/araryo/items/89dcee526210c56dcc45)
+- [ノーコードで、高機能AIチャットbotを作ろう。「Dify」を徹底解説](https://chatgpt-lab.com/n/n12d18abb26c8)
+- [Dify で RAG を試す](https://note.com/npaka/n/nca849f1a23f1)
+- [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
+
 
 ## プロンプトエンジニアリング
 
@@ -815,6 +849,8 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 ## SendGrid
 
 - [Twilio SendGridユーザがGmailのガイドラインに対応する具体的な方法](https://sendgrid.kke.co.jp/blog/?p=17611)
+- [送信ドメインを認証するためのSPFレコードに詳しくなろう](https://sendgrid.kke.co.jp/blog/?p=3509)
+- [SMTP API（X-SMTPAPI）入門](https://sendgrid.kke.co.jp/blog/?p=4232)
 - [バウンスメールとその対策](https://sendgrid.kke.co.jp/blog/?p=17622)
 - [Twilio SendGridの契約先による、機能面やサポート面での違い](https://sendgrid.kke.co.jp/blog/?p=10084)
 - [『List-Unsubscribe』ヘッダとは？](https://sendgrid.kke.co.jp/blog/?p=1822)

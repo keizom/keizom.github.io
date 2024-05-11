@@ -180,6 +180,7 @@
 
 ## Power BI
 
+- [【働き方の可視化】Power BI × Graph API で O365 のデータを取得する方法](https://qiita.com/komiyasa/items/b58839be68c2bfb39454)
 - [国土交通省が新サイト「不動産情報ライブラリ」を無料公開、早くも神サイトと評判](https://internet.watch.impress.co.jp/docs/yajiuma/1581368.html)
 - [人工衛星からみた地球のデータ、なんと無料。使わないともったいない](https://www.gizmodo.jp/2024/02/jss-hyper-spectral-sensor-hisui-video2.html)
 - [クラウド フローとオンプレミス環境間でデータ連携する方法](https://jpdynamicscrm.github.io/blog/powerautomate/gateway-install/)

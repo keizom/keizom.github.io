@@ -20,6 +20,7 @@
 
 ## SharePoint Online
 
+- [SharePoint ブランドセンター (プレビュー)](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2024/05/sharepoint-79bf.html?s=09)
 - [What’s Next for SharePoint](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-next-for-sharepoint/ba-p/3776866)
 - [Microsoft SharePoint Premium の発表](https://shanqiai.lekumo.biz/sharepoint_technical_note/2023/11/microsoft-ignit-0923.html)
 - [SharePoint のニュースを丸ごとメール配信しよう!](https://shanqiai.lekumo.biz/sharepoint_technical_note/2023/09/sharepoint-34b1.html)

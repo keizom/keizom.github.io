@@ -46,6 +46,7 @@
 ## html
 
 - [あのサイトで使われている技術を調べる](https://qiita.com/nightyknite/items/1258eeca403e7d449b5a)
+- [ヘッダー（グローバルナビゲーション）のデザイン事例100選](https://note.com/akane_desu/n/nd079b5e83727)
 - [【爆速UI設計術】モダンなwebデザイン素材集](https://qiita.com/iijima-naoya-45b/items/2e63a51681188d2bb93a)
 - [HTMLを書いたり、修正する時に役立つVS Codeの機能拡張のまとめ](https://coliss.com/articles/build-websites/operation/work/vs-code-extensions-for-html.html)
 - [HTTPを手で書いて学ぶ ファイルアップロードの仕組み](https://speakerdeck.com/ikumatadokoro/httpwoshou-deshu-itexue-bu-huairuatupurodonoshi-zu-mi)
@@ -209,6 +210,7 @@
 - [JavaScript でのメディアクエリ、matchMedia()の使い方を解説 コリス](https://coliss.com/articles/build-websites/operation/javascript/javascript-media-queries.html)
 - [便利なのが登場！フォームのバリデーションをシンプルな記述で実装できる超軽量 JavaScript ライブラリ -v8n](https://coliss.com/articles/build-websites/operation/javascript/js-validation-library-v8n.html)
 - [知っておくと実装に役立つ！JavaScript のテクニックのまとめ](https://coliss.com/articles/build-websites/operation/javascript/javascript-tips-by-garvitmotwani.html)
+- [WebAssembly は次世代のコンテナ技術になれるか？](https://zenn.dev/mizchi/articles/wasm-component-model-futures)
 
 ## vue.js
 
