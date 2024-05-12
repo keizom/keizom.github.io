@@ -91,6 +91,7 @@
 
 ## Microsoft 365 Copilot
 
+- [Copilot Studioに関するよくある質問](https://qiita.com/skuramoto/items/45491770cdf8df0d9cdd)
 - [OfficeのCopilotを利用する「Excel編」](https://swri.jp/article/1423)
 - [Microsoft 365 Copilotを上手に使うためのTips・できることまとめ](https://qiita.com/ssc-yshikeda/items/ec2cfe07d2bbcd989be9)
 - [「Copilot for Microsoft 365 ユーザー向け研修資料」を公開しました！](https://blog.cloudnative.co.jp/22909/)

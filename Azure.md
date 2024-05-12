@@ -182,6 +182,7 @@
 ## Azure Bastion
 
 - [Azure Bastion 試したよ](https://sshzk.blogspot.com/2019/07/azure-bastion.html)
+- [Azure Bastionとネイティブクライアント接続機能を使ってAzure VMをセキュアに管理](https://licensecounter.jp/azure/blog/howto/azurebastion.html)
 
 ## Azure Bicep
 
@@ -558,10 +559,8 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [僅か2.3GBで日本語可能な超高性能ローカルLLMのPhi-3 MINIをllama.cppとCPUで動かしてみた。スマホでも可。従来のコンパクトLLMと比較して超越した性能で未来を感じさせるMicroSoft寄付ありがとう](https://togetter.com/li/2355369)
 - [優秀と噂なCohere社のCommand R+でRAGチャットボットを簡単に構築して体験しよう！](https://qiita.com/itokazu/items/2b519ef301fdf1430486)
 - [いちばんやさしいローカル LLM](https://note.com/schroneko/n/n8b1a5bbc740b)
-
-
-
-
+- [LLMアプリ開発の必須ツール？！Langfuseがすごい！](https://qiita.com/moritalous/items/76ba9f2ad200df335d07)
+- [RAGの性能を高める「Self-RAG」を3分で理解する](https://zenn.dev/knowledgesense/articles/67dd2a41fc4d0b)
 
 
 
@@ -695,6 +694,7 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 - [Azure 使いだすときに Sentinel でやっておくべきこと](https://zenn.dev/tomot/articles/79aeae00252ba6)
 - [Office 365 の監査ログを Microsoft Sentinel に格納する - Office 365 Management API と Data Collector API (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/8fde7595042f0f281de8)
 - [Azure使いだすときにSentinelでやっておくべきこと](https://zenn.dev/tomot/articles/79aeae00252ba6)
+- [Microsoft Sentinel で検出内容をメール通知する方法](https://www.softbanktech.co.jp/special/cve/2024/0008/)
 
 ## Azure Stack HCI
 
@@ -901,6 +901,7 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 ## Terraform
 
 - [GitHub Copilot ChatでAzureのインフラを爆速実装しよう](https://techblog.ap-com.co.jp/entry/2024/01/26/184440)
+- [5分で分かるTerraform（Infrastructure as Code）](https://www.lac.co.jp/lacwatch/service/20200903_002270.html)
 
 ## Migration
 

@@ -24,6 +24,15 @@
 - [bootstrap のカルーセルの使い方とカスタマイズのサンプルを紹介](https://be-engineer.jp/programming/514/)
 - [カルーセル UI を実現する JS ライブラリまとめ(2021 年版) - 導入手間や機能の比較紹介](https://ics.media/entry/210902/)
 
+## figma
+
+- [Figma初心者でも大丈夫！ レスポンシブWebデザインをFigmaで作るための3つのポイント](https://stocker.jp/diary/figma-rwd-point/)
+- [XDからFigmaへ移行したい人のためにFigmaの機能を紹介](https://stocker.jp/diary/xd-to-figma/)
+- [エンジニア向けFigmaの使い方を徹底解説](https://liginc.co.jp/blog/tech/639546)
+- [Figmaの魅力がすぐわかる、仕事で即使える！おすすめテンプレ、プラグイン、ウィジェット【Figmaワークハック #4】](https://www.lifehacker.jp/article/2312-figma-4/)
+- [生成AIを使用したFigmaのコード変換：Animaの新しいAIカスタマイズコーディングの使用例6選](https://www.animaapp.com/blog/ja/ai/%e7%94%9f%e6%88%90ai%e3%82%92%e4%bd%bf%e7%94%a8%e3%81%97%e3%81%9ffigma%e3%81%ae%e3%82%b3%e3%83%bc%e3%83%89%e5%a4%89%e6%8f%9b%ef%bc%9aanima%e3%81%ae%e6%96%b0%e3%81%97%e3%81%84ai%e3%82%ab%e3%82%b9/)
+- [FigmaのHTMLコードへのエクスポートの仕方](https://www.animaapp.com/blog/ja/%E3%80%8C%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%8B%E3%82%89%E3%82%B3%E3%83%BC%E3%83%89%E3%80%8D/figma%E3%81%AEhtml%E3%82%B3%E3%83%BC%E3%83%89%E3%81%B8%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E4%BB%95%E6%96%B9/)
+
 ## Loading
 
 - [処理中のユーザーの誤操作を防止しよう](https://www.htmlhifive.com/conts/web/view/recipe/indicator)
@@ -45,6 +54,8 @@
 
 ## html
 
+- [2024年版 HTMLで作るフォームバリデーション](https://ics.media/entry/240418/)
+- [2024年版最近の実装に合わせた、HTMLでWebページを実装するための必要最小限をまとめたテンプレート一式](https://coliss.com/articles/build-websites/operation/work/html5-boilerplate-professional-template.html)
 - [あのサイトで使われている技術を調べる](https://qiita.com/nightyknite/items/1258eeca403e7d449b5a)
 - [ヘッダー（グローバルナビゲーション）のデザイン事例100選](https://note.com/akane_desu/n/nd079b5e83727)
 - [【爆速UI設計術】モダンなwebデザイン素材集](https://qiita.com/iijima-naoya-45b/items/2e63a51681188d2bb93a)

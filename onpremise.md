@@ -318,3 +318,4 @@ Add-SPDistributedCacheServiceInstance
 - [厳選Linuxフリーソフト100](https://xtech.nikkei.com/atcl/nxt/column/18/02713/)
 - [シェルスクリプトとjqコマンドでJSONをループして中身を取り出す](https://pakapaka.jp/shell-json-loop/)
 - [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
+- [Ubuntuフレーバー10種類総ざらい](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0808)
