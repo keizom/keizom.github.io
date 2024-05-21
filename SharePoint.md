@@ -39,19 +39,18 @@
 
 - [Accessing Mixed-Mode SharePoint Web Applications With CSOM And PowerShell](http://www.lifeonplanetgroove.com/accessing-mixed-mode-sharepoint-web-applications-with-csom-and-powershell/)
 - [リストまたはライブラリ列にインデックスを追加する](https://support.microsoft.com/ja-jp/office/%E3%83%AA%E3%82%B9%E3%83%88%E3%81%BE%E3%81%9F%E3%81%AF%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E5%88%97%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B-f3f00554-b7dc-44d1-a2ed-d477eac463b0)
-  > インデックス作成でサポートされている列とサポートされていない列
 
-| サポートされている列の種類                 | サポートされていない列の種類               |
-| ------------------------------------------ | ------------------------------------------ |
-| 1 行テキスト                               | 複数行テキスト                             |
-| 選択肢 (単一値)                            | 選択肢 (複数値)                            |
-| 数値                                       | 集計値                                     |
-| 通貨                                       | ハイパーリンクまたは画像                   |
-| 日付と時刻に関する数式                     | ユーザー設定の列                           |
-| 人物またはグループ (単一値) (ルックアップ) | 人物またはグループ (複数値) (ルックアップ) |
-| 管理メタデータ (ルックアップ)              | 外部データ                                 |
-| Yes/No                                     | -                                          |
-| ルックアップ (ルックアップ)                | -                                          |
+  | サポートされている列の種類                 | サポートされていない列の種類               |
+  | ------------------------------------------ | ------------------------------------------ |
+  | 1 行テキスト                               | 複数行テキスト                             |
+  | 選択肢 (単一値)                            | 選択肢 (複数値)                            |
+  | 数値                                       | 集計値                                     |
+  | 通貨                                       | ハイパーリンクまたは画像                   |
+  | 日付と時刻に関する数式                     | ユーザー設定の列                           |
+  | 人物またはグループ (単一値) (ルックアップ) | 人物またはグループ (複数値) (ルックアップ) |
+  | 管理メタデータ (ルックアップ)              | 外部データ                                 |
+  | Yes/No                                     | -                                          |
+  | ルックアップ (ルックアップ)                | -                                          |
 
 - [SharePoint のファイル管理機能をどう使っていくべきか？](https://shanqiai.weblogs.jp/sharepoint_technical_note/2022/04/sharepoint-filemanagement-from-my-point-of-view.html)
 - [SharePoint Online エクスプローラーで開く機能の制限事項について](https://social.msdn.microsoft.com/Forums/ja-JP/75d6134c-69f2-4013-878f-7892b23e9042/sharepoint-online?forum=sharepointsupportteamja)
@@ -209,7 +208,9 @@
 - [Getting started with the PnP Core SDK](https://pnp.github.io/pnpcore/using-the-sdk/readme.html)
 - [SharePoint サイトへのアクセスを制限する](https://learn.microsoft.com/ja-jp/SharePoint/restricted-access-control)
 - [SharePoint アプリ専用のアクセスを許可する](https://learn.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/security-apponly-azureacs)
+
   > https://contoso-admin.sharepoint.com/_layouts/15/appinv.aspx
+
 - [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
 - [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)
 - [【SharePoint Online】モダン認証で指定のサイトに対してアクセス許可を設定する](https://www.hogehoge-note.com/2022/02/19/post-937/)
@@ -349,11 +350,11 @@
 
 - [SharePoint Online: Disable Access Requests for All Sites using PowerShell](https://www.sharepointdiary.com/2020/03/sharepoint-online-disable-access-requests-for-all-sites-using-powershell.html)
 
-> #Disable Access Request
-> $Web.RequestAccessEmail = [string]::Empty
-> $Web.SetUseAccessRequestDefaultAndUpdate($False)
-> $Web.Update()
-> Invoke-PnPQuery
+  > #Disable Access Request
+  > $Web.RequestAccessEmail = [string]::Empty
+  > $Web.SetUseAccessRequestDefaultAndUpdate($False)
+  > $Web.Update()
+  > Invoke-PnPQuery
 
 ## Microsoft Syntex
 

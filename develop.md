@@ -39,7 +39,7 @@
 
 ## .NET MAUI
 
--[初めての.NET MAUI アプリを作ってみよう マルチプラットフォーム GUI 技術を解説](https://codezine.jp/article/detail/15907)
+- [初めての.NET MAUI アプリを作ってみよう マルチプラットフォーム GUI 技術を解説](https://codezine.jp/article/detail/15907)
 
 ## ASP.NET Identity
 
@@ -210,7 +210,7 @@
 - [GitHub Copilot in VS Code で、作業内容からコミットメッセージを生成可能になりました](https://dev.classmethod.jp/articles/https-code-visualstudio-com-docs-editor-github-copilot/)
 - [【GitHub Copilot Chat】いまさら聞けない？GitHub Copilot Chatの使い方について詳しくご紹介します！](https://aadojo.alterbooth.com/entry/2023/12/13/000000)
 - [GitHub Copilotが便利になったのでターミナルもVSCodeで良いのでは？という話](https://qiita.com/EichiSanden/items/0e4f14c1e4c6e4c61982)
-- [GitHub Copilot開発者が語る最新アップデート ～ コード生成の裏側を知って、より効率的に開発しよう！ (microsoft.com)](https://info.microsoft.com/
+- [GitHub Copilot開発者が語る最新アップデート ～ コード生成の裏側を知って、より効率的に開発しよう！](https://info.microsoft.com/JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0602-SRGCM10625_LP01-Registration---Form-in-Body.html)
 - [CLI 上の操作だけでコマンドの説明や提案をしてもらえる「GitHub Copilot in the CLI」の Public Beta が提供開始されました](https://dev.classmethod.jp/articles/github-copilot-cli-public-beta-launch/)
 - [ブログ執筆時に GitHub Copilot を使って効率化していること3選](https://dev.classmethod.jp/articles/how-github-copilot-is-helping-me-write-blog-posts-more-efficiently-3-examples/)
 - [github copilot事始め](https://qiita.com/GETB/items/0f880b7fb14c6204cad4)
@@ -237,22 +237,23 @@
 - [PowerShell のデバッグに役立つコマンド設定](https://www.pine4.net/Memo/Article/Archives/207)
 - [Windows PowerShell 入門（10）－デバッグ編](https://codezine.jp/article/detail/3067?p=3)
 
-> $DebugPreference
-> |設定値|Write-Debug の動作|
-> |---|---|
-> |Continue|メッセージを出力する|
-> |SilentlyContinue|メッセージを出力しない|
-> |Stop|メッセージを出力・停止|
-> |Inquire|メッセージを出力・続行|
->
-> Set-PSDebug
->
-> $host.EnterNestedPrompt()
+    > $DebugPreference
+
+    | 設定値           | Write-Debug の動作     |
+    | ---------------- | ---------------------- |
+    | Continue         | メッセージを出力する   |
+    | SilentlyContinue | メッセージを出力しない |
+    | Stop             | メッセージを出力・停止 |
+    | Inquire          | メッセージを出力・続行 |
+
+    > Set-PSDebug
+    >
+    > $host.EnterNestedPrompt()
 
 ## Python
 
 - [2023年最新版の有名企業のエンジニア向け研修資料をまとめてみた #Python - Qiita](https://qiita.com/eri_issue/items/576acaea7e8235f82d89)
-- [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには | TECH+（テックプラス）](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
+- [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには TECH+（テックプラス）](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
 - [PythonでWeb開発を学ぶ上で確認するべきGitHubリポジトリ 18選 2023年版](https://zenn.dev/nameless_sn/articles/18_awesome_python_repos_2023)
 - [【2023年】プログラミング・Pythonの無料おすすめ学習教材13選](https://qiita.com/skillup_ai/items/75e892e166f41ca85bf8)
 - [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
@@ -309,9 +310,9 @@
 - [Figma for VS Codeを使ってCSS実装する時のおすすめポイント](https://goodpatch-tech.hatenablog.com/entry/figma-for-vscode)
 - [チュートリアル: Visual Studio Code を使用して .NET コンソール アプリケーションを作成する](https://learn.microsoft.com/ja-jp/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-7-0)
 
-> dotnet new console --framework net7.0
+    > dotnet new console --framework net7.0
 
-- [dotnet new <テンプレート>](https://learn.microsoft.com/ja-jp/dotnet/core/tools/dotnet-new)
+- [dotnet new テンプレート](https://learn.microsoft.com/ja-jp/dotnet/core/tools/dotnet-new)
 - [VSCodeをプログラミングエディタとして強化しよう！ 便利な設定や拡張機能を紹介](https://codezine.jp/article/detail/18224)
 - [コードを書くのが楽になる！知っておくと便利な VS Code の機能・設定のまとめ コリス](https://coliss.com/articles/build-websites/operation/work/vs-code-dont-need-extensions.html)
 - [VS Code で HTML を楽々コーディング！ (1/2)](https://www.atmarkit.co.jp/ait/articles/1806/26/news032.html)
@@ -456,11 +457,8 @@
 
 ## 学習サイト
 
-― [どっとインストール](https://microsoft-search.github.io/pnp-modern-search/)
+- [どっとインストール](https://microsoft-search.github.io/pnp-modern-search/)
 
 ## リファクタリング
 
 - [どうやってコード品質を上げるのか？ 実例で学ぶリファクタリング](https://codezine.jp/article/detail/18854)
-
-
-

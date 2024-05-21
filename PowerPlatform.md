@@ -33,12 +33,11 @@
 - [Managed Environments overview](https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-overview)
 - [Power Apps、Power Automate 初学者向け記事まとめ](https://qiita.com/Takashi_Masumori/items/4182939ef99040213319)
 
-
 ## copilot
 
 - [The Future of Work with AI（Microsoft 365 Copilot 発表イベント）- 日本語まとめ](https://memo.tyoshida.me/office-365/the-future-of-work-with-ai-summary/#Power_Automate_denoCopilot)
 - [Microsoft 365 Copilotでできるようになること](https://blog.ict-in-education.jp/entry/2023/04/01/050000)
-- [Microsoft Dynamics 365 Copilot ～ CRM と ERP を支える世界初の AI アシスタント～ | 日本マイクロソフト](https://www.youtube.com/watch?v=jaTXXhZUNVw)
+- [Microsoft Dynamics 365 Copilot ～ CRM と ERP を支える世界初の AI アシスタント～ 日本マイクロソフト](https://www.youtube.com/watch?v=jaTXXhZUNVw)
 - [Microsoft 365 Copilotでできること──プロンプト例で紹介](https://www.itmedia.co.jp/news/articles/2303/17/news102.html)
 - [Microsoft、企業向けにも生成系AI　「Dynamics 365 Copilot」提供開始](https://www.itmedia.co.jp/news/articles/2303/07/news076.html)
 
@@ -126,7 +125,7 @@
 
 ## Power Automate Desktop
 
-= [ローカルPCのテキストファイルをPower Automateに読み込ませて活用しよう](https://ascii.jp/elem/000/004/191/4191996/)
+- [ローカルPCのテキストファイルをPower Automateに読み込ませて活用しよう](https://ascii.jp/elem/000/004/191/4191996/)
 - [Windows10 の無償デスクトップ自動化ツール「Power Automate Desktop」で Web ブラウザーでの作業を自動化する](https://codezine.jp/article/detail/15410)
 - [Windows：PowerAutomate Desktop をインストールして使ってみる](https://zenn.dev/barusu/articles/b702ef21c713ba)
 - [Power Automate の RPA 機能「UI flows」の始め方](https://rpahack.com/uiflows)
@@ -190,7 +189,7 @@
 - [Power BI Service でサービス プリンシパルを利用する](https://jpbap-sqlbi.github.io/blog/powerbi/ServicePrincipal/)
 - [Copilot in Power BI (preview) is available worldwide](https://powerbi.microsoft.com/ja-jp/blog/copilot-in-power-bi-preview-is-available-worldwide/)
 - [Power BI の今年、2024年に向けてちょっと未来のお話](https://qiita.com/yugoes1021/items/0a53809a819551932bbf)
-- [Artificial Intelligence sample for Power BI: Take a tour - Power BI | Microsoft Learn](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-artificial-intelligence)
+- [Artificial Intelligence sample for Power BI: Take a tour - Power BI Microsoft Learn](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-artificial-intelligence)
 - [PowerPlatform の各 Blog の RSS を定期的に取得](https://app.powerbi.com/view?r=eyJrIjoiNGIwZjQ1YzYtNTI2My00ZjA3LTkyMmUtYjZjOTMyOTZiYzQ3IiwidCI6IjgzZmQ0NjViLTczNGUtNDA1Ny1hZTM3LWU3N2FhN2QzNDcyOSJ9)
 - [Power BI Weekly News 100 - データセット が セマンティックモデル に名称変更したぞぉー](https://www.youtube.com/watch?v=YhPBmH_jNz0)
 - [スター スキーマと Power BI での重要性を理解する](https://learn.microsoft.com/ja-jp/power-bi/guidance/star-schema)

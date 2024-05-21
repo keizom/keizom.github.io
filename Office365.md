@@ -111,7 +111,7 @@
 
 ## Developer Subscription
 
-― [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
+- [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
 - [Microsoft 365 開発者サンドボックス サブスクリプションの設定](https://docs.microsoft.com/ja-jp/office/developer-program/microsoft-365-developer-program-get-started)
 - [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
 - [Office 365 評価版サイト申し込み](https://www.microsoft.com/ja-jp/microsoft-365/enterprise/compare-office-365-plans)
@@ -183,7 +183,7 @@
 
 ## Exchagne Online
 
-- [「Gmail」にメールを送れなくなる恐れ、グーグルによる迷惑メール対策強化の衝撃 | 日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00989/120500134/)
+- [「Gmail」にメールを送れなくなる恐れ、グーグルによる迷惑メール対策強化の衝撃 日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00989/120500134/)
 - [DMARC を使用してメールを検証する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-dmarc-configure)
 - [SPF を設定して、スプーフィングを防止する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-spf-configure?view=o365-worldwide)
 - [DKIM を使用して、カスタム ドメインから送信される送信電子メールを検証する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-dkim-configure)

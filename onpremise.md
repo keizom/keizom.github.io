@@ -313,7 +313,7 @@ Add-SPDistributedCacheServiceInstance
 - [qiita-cli](https://github.com/increments/qiita-cli)
 - [Qiitaの記事をGitHubリポジトリで管理する方法](https://qiita.com/Qiita/items/32c79014509987541130)
 - [Qiitaで埋め込み可能なコンテンツ一覧](https://qiita.com/Qiita/items/612e2e149b9f9451c144)
-- - [Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。 (github.com)](https://github.com/increments/qiita-cli)
+- [Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。 (github.com)](https://github.com/increments/qiita-cli)
 - [ローカル環境でQiitaが書けちゃう「Qiita CLI」が登場！ GitHub Actionsも早速試してみた ](https://qiita.com/minorun365/items/d1c43f9a7ae63b3321f2)
 
 # Linux
