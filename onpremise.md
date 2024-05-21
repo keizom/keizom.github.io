@@ -72,17 +72,17 @@
 - [SharePoint Server 2016 Prerequisites, Installation and Deployment](https://social.technet.microsoft.com/wiki/contents/articles/32950.sharepoint-server-2016-prerequisites-installation-and-deployment.aspx)
 - [構成キャッシュの再作成](https://social.msdn.microsoft.com/Forums/ja-JP/590627a7-d369-47b2-bfc8-7726d7cf9342/2708325104124611251512483124711251712398208772031625104?forum=sharepointsupportteamja)
 
-> 構成キャッシュが破損すると、以下のような様々な事象が発生する場合があります。
->
-> - SharePoint の各タイマージョブが実行されない
-> - 通知メールが飛ばない
-> - 検索関連の以下の問題が発生する
-> - クロールが開始・完了しない
-> - インデックス リセットが出来ない
-> - トポロジーの変更が出来ない
-> - 管理シェルが実行出来ない
-> - サイトにアクセス出来ない
-> - 新規サイトコレクションが作成出来ない
+  > 構成キャッシュが破損すると、以下のような様々な事象が発生する場合があります。
+  >
+  > - SharePoint の各タイマージョブが実行されない
+  > - 通知メールが飛ばない
+  > - 検索関連の以下の問題が発生する
+  > - クロールが開始・完了しない
+  > - インデックス リセットが出来ない
+  > - トポロジーの変更が出来ない
+  > - 管理シェルが実行出来ない
+  > - サイトにアクセス出来ない
+  > - 新規サイトコレクションが作成出来ない
 
 - [データベースの種類と説明](https://docs.microsoft.com/ja-jp/SharePoint/technical-reference/database-types-and-descriptions)
 

@@ -111,7 +111,7 @@
 - [cloudsteady](https://cloudsteady.jp/post/category/blog/)
 - [Microsoft Dynamics 365 CRM Tips and Tricks](https://www.inogic.com/blog/)
 
-## WebSite
+## Web
 
 - [ASCII × FIXER](https://ascii.jp/azure-fixer/)
 - [ゼロからはじめる Azure Mynavi](https://news.mynavi.jp/techplus/series/zeroazure/)
