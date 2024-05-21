@@ -183,6 +183,17 @@
 
 - [Azure Bastion 試したよ](https://sshzk.blogspot.com/2019/07/azure-bastion.html)
 - [Azure Bastionとネイティブクライアント接続機能を使ってAzure VMをセキュアに管理](https://licensecounter.jp/azure/blog/howto/azurebastion.html)
+- [Bastion と Linux ネイティブ クライアントを使用して仮想マシンに接続する](https://learn.microsoft.com/ja-jp/azure/bastion/connect-vm-native-client-linux)
+- [az network bastion](https://learn.microsoft.com/ja-jp/cli/azure/network/bastion?view=azure-cli-latest)
+- [Azure Bastion にネイティブクライアントで接続する (ファイル転送、AAD 認証)](https://qiita.com/Isato-Hiyama/items/106504a2ed49a74d990f)
+- [Mac から Azure Bastion 経由で VM へ接続する](https://qiita.com/tbuchi888/items/ba4bca16412f68abfc65)
+- [Azure Bastionを使ってVscode接続・SSH接続](https://www.netmarvs.com/archives/6055)
+- [Visual Studio Code の Tunnel 機能が便利](https://yoh1496.hatenablog.com/entry/2022/12/16/184800)
+- [Remote SSH via Azure Bastion (with AAD auth) #7179](https://github.com/microsoft/vscode-remote-release/issues/7179)
+- [VSCode の Remote Tunnels で「いつもの開発環境へ」お手軽リモート接続](https://zenn.dev/hankei6km/articles/connect-my-machine-via-vscode-remote-tunne)
+- [VSCodeでリモート開発環境を整えてみた](https://techblog.gmo-ap.jp/2023/04/11/vscode_remote/)
+- [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
+
 
 ## Azure Bicep
 
@@ -557,12 +568,10 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [MetaのLlama3-8BをGoogle Colabで検証してみた](https://qiita.com/DeepTama/items/b17ac21010424de38c5f)
 - [AIによる爆速開発：画面設計からプログラミングまで自動化！？](https://qiita.com/ssc-yshikeda/items/d9a6ba46c897aae186a4)
 - [僅か2.3GBで日本語可能な超高性能ローカルLLMのPhi-3 MINIをllama.cppとCPUで動かしてみた。スマホでも可。従来のコンパクトLLMと比較して超越した性能で未来を感じさせるMicroSoft寄付ありがとう](https://togetter.com/li/2355369)
-- [優秀と噂なCohere社のCommand R+でRAGチャットボットを簡単に構築して体験しよう！](https://qiita.com/itokazu/items/2b519ef301fdf1430486)
 - [いちばんやさしいローカル LLM](https://note.com/schroneko/n/n8b1a5bbc740b)
 - [LLMアプリ開発の必須ツール？！Langfuseがすごい！](https://qiita.com/moritalous/items/76ba9f2ad200df335d07)
 - [RAGの性能を高める「Self-RAG」を3分で理解する](https://zenn.dev/knowledgesense/articles/67dd2a41fc4d0b)
-
-
+- [M1MacでOllamaを試したら爆速で驚いた](https://zenn.dev/yasuna/articles/284aa6bbf6124e)
 
 
 ### Open Interpreter
@@ -579,7 +588,19 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ### Chat GPT
 
 - [ChatGPT-Prompt-Sample-Japanese/Workshop at main ? dahatake/ChatGPT-Prompt-Sample-Japanese ? GitHub](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/tree/main/Workshop)
+- [gpt-4oを試す](https://zenn.dev/kun432/scraps/99e72ee73a3ab7)
+  - [進化する生成AIを使いこなせ！ エンジニアの生産性を爆上げするChatGPT活用](https://codezine.jp/article/detail/19230?p=2)
+  - [あなたのChatGPT活用 はじめの一歩](https://atmarkit.itmedia.co.jp/ait/articles/2405/13/news016.html)
+- [ChatGPT-4o(GPT-4o)とは？使い方や料金、切り替え方法を解説！](https://www.ai-souken.com/article/summary-of-chatgpt-updates)
+- [リリースされたGPT-4oを使って動画のサマリー生成をしてみる！](https://qiita.com/sakasegawa/items/b82a9745fda81143e409)
+- [ChatGPT for Developer - Promptのチカラ](https://speakerdeck.com/dahatake/chatgpt-for-developer-chao-ru-men)
+- [ChatGPT無料ユーザーが最新の「GPT-4o」を使う方法（ちょっとわかりづらいので解説）](https://ascii.jp/elem/000/004/198/4198881/)
+- [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
+- [GPT-4o と GPT-4 について数学的能力を Azure OpenAI Playground 上で検証してみた](https://qiita.com/Aratahead/items/afbd45aba122b0645694)
+- [#Udemy 学習メモ『OpenAI + Azure AI Search で作るナレッジマイニング chat bot』 #PR](https://qiita.com/chomado/items/6ae8eef881dd1791f6cc)
 - [「ChatGPT」vs「Claude 3」、ビジネスにお勧めの生成AIを選ぶポイントは](https://japan.cnet.com/article/35218294/)
+- [OpenAIのGPT-4oを日本語OCRとして使ってみる](https://zenn.dev/tomioka/articles/74adf0c6bc8bc6)
+- [OpenAI社の新しいGPT-4o モデルについて](https://zenn.dev/ippeisuzuki/articles/8c091817b5047a)
 - [ChatGPT先生によるプロンプトエンジニアリングとPythonのハンズオン入門講義](https://zenn.dev/acntechjp/articles/fa3b302d0f7264)
 - [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese)
 - [【決定版】GPTs開発の教科書](https://chatgpt-lab.com/n/n43cc9a028aac)
@@ -625,6 +646,10 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Dify で RAG を試す](https://note.com/npaka/n/nca849f1a23f1)
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
 
+### 
+
+- [まるで“いけない話ができるChatGPT”　ローカルAI「Command R+」の爆発的な可能性](https://ascii.jp/elem/000/004/198/4198080/)
+- [優秀と噂なCohere社のCommand R+でRAGチャットボットを簡単に構築して体験しよう！](https://qiita.com/itokazu/items/2b519ef301fdf1430486)
 
 ## プロンプトエンジニアリング
 
@@ -849,6 +874,7 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 ## SendGrid
 
 - [Twilio SendGridユーザがGmailのガイドラインに対応する具体的な方法](https://sendgrid.kke.co.jp/blog/?p=17611)
+- [新機能「Email Address Validation API」のご紹介](https://sendgrid.kke.co.jp/blog/?p=17715)
 - [送信ドメインを認証するためのSPFレコードに詳しくなろう](https://sendgrid.kke.co.jp/blog/?p=3509)
 - [SMTP API（X-SMTPAPI）入門](https://sendgrid.kke.co.jp/blog/?p=4232)
 - [バウンスメールとその対策](https://sendgrid.kke.co.jp/blog/?p=17622)

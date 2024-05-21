@@ -118,6 +118,8 @@
 ## Docker
 
 - [Dockerで構築する機械学習環境【2024年版】](https://zenn.dev/mkj/articles/33befbaf38c693)
+- [これを知らないともったいない！Kubernetes関連の便利ツール20選](https://qiita.com/suin/items/3c4df13ad3478ffe7b5d)
+- [Dockerコマンドの挙動を図解にして覚えやすくしてみた](https://qiita.com/Tanachu8/items/5e85c75818e499042bfe)
 - [Kubernetes使いになるためにPodをつくってみる　『つくって、壊して、直して学ぶ Kubernetes入門』より](https://codezine.jp/article/detail/19343)
 - [Dockerを少しずつ理解しようっていうお話](https://qiita.com/mr_noppo/items/d921886c5f4d868374ba)
 - [Docker学習　1日目](https://qiita.com/ki_takada/items/679bb0c8f04857c46380)
@@ -154,6 +156,7 @@
 ## git
 
 - [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
+- [ゼロから学ぶGit/GitHubを勝手に補足](https://zenn.dev/karaage0703/articles/d90c18f65921fc)
 - [いまさらだけどGitを基本から分かりやすくまとめてみた](https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0)
 - [Gitの内部構造をよく理解して、うまく使おう【基本の仕組みを解説】](https://codezine.jp/article/detail/17328)
 - [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
@@ -185,6 +188,7 @@
 
 ## GitHub
 
+- [全エンジニアが知っておくべきGithubレポジトリTop28【2023最新版】](https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3)
 - [GitHub Projects を利用したタスク管理](https://user-first.ikyu.co.jp/entry/2023/11/09/175121)
 - [【入門】Github Gistとは？概要や基本的な使い方をわかりやすく解説](https://www.kagoya.jp/howto/it-glossary/develop/githubgist/)
 - [【入門】Gitとは？できることや使い方、GitHubとの違いをわかりやすく解説](https://www.kagoya.jp/howto/it-glossary/develop/git/)
@@ -202,6 +206,7 @@
 ## GitHub Copilot
 
 - [GitHub Copilot Chat の一般提供が開始されました](https://dev.classmethod.jp/articles/github-copilot-chat-generally-available/)
+- [GitHub Copilot Workspaceが利用可能になったのでゼロからアプリを作ってみた](https://aadojo.alterbooth.com/entry/2024/05/13/090000)
 - [GitHub Copilot in VS Code で、作業内容からコミットメッセージを生成可能になりました](https://dev.classmethod.jp/articles/https-code-visualstudio-com-docs-editor-github-copilot/)
 - [【GitHub Copilot Chat】いまさら聞けない？GitHub Copilot Chatの使い方について詳しくご紹介します！](https://aadojo.alterbooth.com/entry/2023/12/13/000000)
 - [GitHub Copilotが便利になったのでターミナルもVSCodeで良いのでは？という話](https://qiita.com/EichiSanden/items/0e4f14c1e4c6e4c61982)
@@ -457,6 +462,5 @@
 
 - [どうやってコード品質を上げるのか？ 実例で学ぶリファクタリング](https://codezine.jp/article/detail/18854)
 
-## Meta Quest 3
-- [「Meta Quest 3」をしばらく使ってみて分かったこと 長所と短所を紹介](https://www.moguravr.com/meta-quest-3-review-2/)
+
 

@@ -31,6 +31,8 @@
 - [Japan Power Platform Conference 2022](https://app.powerbi.com/view?r=eyJrIjoiZmQ3YzcwYmUtNDc1OS00YWNiLTk2YzAtMzZhYjA4ZTNmZTAxIiwidCI6ImEyYjExZTNlLWY3MjItNDQ0OS1iMTY3LWFhMDA2NzIyN2I0MiJ9)
 - [Microsoft Power Platform の新しいガバナンス機能「マネージド環境」をプレビュー公開](https://memo.tyoshida.me/power-platform/microsoft-power-platform-managed-environments-preview/)
 - [Managed Environments overview](https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-overview)
+- [Power Apps、Power Automate 初学者向け記事まとめ](https://qiita.com/Takashi_Masumori/items/4182939ef99040213319)
+
 
 ## copilot
 

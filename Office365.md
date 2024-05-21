@@ -92,6 +92,7 @@
 ## Microsoft 365 Copilot
 
 - [Copilot Studioに関するよくある質問](https://qiita.com/skuramoto/items/45491770cdf8df0d9cdd)
+- [できる Copilot for Microsoft 365 スタートガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-05-Copilot-for-Microsoft-365-Getting-Started-Guide-SRGCM11972_LP01-Registration---Form-in-Body.html)
 - [OfficeのCopilotを利用する「Excel編」](https://swri.jp/article/1423)
 - [Microsoft 365 Copilotを上手に使うためのTips・できることまとめ](https://qiita.com/ssc-yshikeda/items/ec2cfe07d2bbcd989be9)
 - [「Copilot for Microsoft 365 ユーザー向け研修資料」を公開しました！](https://blog.cloudnative.co.jp/22909/)
@@ -129,6 +130,7 @@
 ## Advanced Threat Protection
 
 - [Microsoft Defender for Endpoint - デモ シナリオ](https://learn.microsoft.com/ja-jp/microsoft-365/security/defender-endpoint/defender-endpoint-demonstrations?view=o365-worldwide)
+- [五味ちゃんが徹底解説！テレワーク時代のセキュリティ対策編](https://licensecounter.jp/microsoft365/download/gomichan-microsoft365-security/)
 - [Office 365 の ATP (Advanced Threat Protection) を使ってみる - kazuakix の日記](https://blog.kazuakix.jp/entry/2017/12/05/000100)
 - [ATP のアタックシミュレータ - Office 365 Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/security/office-365-security/attack-simulator?view=o365-worldwide)
 - [Changes in the support case submission experience - Microsoft Tech Community - 1521387](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387)
@@ -175,6 +177,9 @@
 - [SPF レコードを定義する: 基本設定](https://support.google.com/a/answer/10685031?hl=ja)
 - [迷惑メール、なりすまし、フィッシングを Gmail 認証で防止する](https://support.google.com/a/answer/10583557?hl=ja)
 - [メール送信者のガイドライン](https://support.google.com/a/answer/81126?hl=ja)
+- [スクリプトをプロキシしてトラッキングをブロックしているユーザーのデータをGoogleアナリティクスで収集するためのツール「Google Tag Manager & Google Analytics Proxy」を使ってみた](https://gigazine.net/news/20230504-google-tag-manager-analytics-proxy/)
+- [【Colab 入門】Google Colaboratory とは？使い方・メリットを徹底解説！](https://www.kikagaku.co.jp/kikagaku-blog/google-colab-howto/)
+
 
 ## Exchagne Online
 

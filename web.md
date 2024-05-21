@@ -16,7 +16,8 @@
 
 ## フロントエンド
 
--[2023年度版フロントエンド開発環境構築徹底解説](https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf)
+- [2023年度版フロントエンド開発環境構築徹底解説](https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf)
+- [Webの次世代アーキテクチャ - PESPA](https://qiita.com/takagimeow/items/ac814c1e5b5d9e8a76e1)
 
 ## Carousel
 
@@ -55,6 +56,8 @@
 ## html
 
 - [2024年版 HTMLで作るフォームバリデーション](https://ics.media/entry/240418/)
+- [Webデザインに必須のコーディングの基礎知識【初心者向け】](https://liginc.co.jp/643347)
+- [令和のHTML / CSS / JavaScriptの書き方50選](https://zenn.dev/necscat/articles/bc9bba54babaf5)
 - [2024年版最近の実装に合わせた、HTMLでWebページを実装するための必要最小限をまとめたテンプレート一式](https://coliss.com/articles/build-websites/operation/work/html5-boilerplate-professional-template.html)
 - [あのサイトで使われている技術を調べる](https://qiita.com/nightyknite/items/1258eeca403e7d449b5a)
 - [ヘッダー（グローバルナビゲーション）のデザイン事例100選](https://note.com/akane_desu/n/nd079b5e83727)
@@ -144,6 +147,7 @@
 ## css
 
 - [モダンCSSで実装する、テーブル（<table>）のさまざまなスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/a-guide-to-styling-tables.html)
+- [CSSは日々進化している！知ったら使いたくなる「モダンCSS」機能紹介](https://levtech.jp/media/article/column/detail_429/)
 - [2024年の実装に役立つCSSの新機能と使い方のまとめ](https://coliss.com/articles/build-websites/operation/css/css-snippets-in-2024.html)
 - [これは知っておくとかなり便利！ details要素にname属性を与えると、連動して開閉するアコーディオンを実装できます](https://coliss.com/articles/build-websites/operation/css/exclusive-accordion.html)
 - [CSSのデフォルトとして記述しておくと便利、img要素に設定するスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/sensible-defaults-for-img-elements.html)

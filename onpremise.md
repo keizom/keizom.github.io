@@ -288,6 +288,13 @@ Add-SPDistributedCacheServiceInstance
 - [ESXi のハードウェア要件](https://docs.vmware.com/jp/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-DEB8086A-306B-4239-BF76-E354679202FC.html)
 - [ESXi on AMD版NUC 導入レポ](https://qiita.com/hirosat/items/c6e330212f01f766cc42)
 - [Minisforum EliteMini HX90 を使って、自宅に VMware な仮想環境を作った](https://blog.aimless.jp/archives/2022/07/create-vmware-virtual-platform-with-minisforum-elitemini-hx90/)
+- [VMware Fusion Pro: Now Available Free for Personal Use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
+- [VMware Fusion 13.5で構築、M2 MacにWindows11をインストール](https://www.maclab.tokyo/document/vmware-fusion13_5-windows11/10068/)
+- [VMware Workstation Pro Download](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)
+- [VMware Download](https://support.broadcom.com/group/ecx/downloads)
+- [Mac に VMware 入れたら Homebrew が死んだ](https://qiita.com/taquaki-satwo/items/beae15d30343d5a0a9a8)
+- [Install Ubuntu Desktop 22.04 ARM64 on macOS Apple Silicon (M1/Pro/Max) in Parallels](https://askubuntu.com/questions/1405124/install-ubuntu-desktop-22-04-arm64-on-macos-apple-silicon-m1-pro-max-in-parall)
+
 
 # AWS
 

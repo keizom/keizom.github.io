@@ -135,23 +135,23 @@
 
 - [Microsoft 365 Virtual Marathon 2022 Japanese Track](https://connpass.com/event/243871/presentation/)
 - [【まとめ】大学が公開している有益な資料](https://qiita.com/KNR109/items/02e08d17dba01d9c2fd6)
-
-# Gmail
-
-- [Gmailが2024年2月から(大量)送信者に求めてることが分からない闇への防衛術(前編)](https://qiita.com/nfujita55a/items/37b05801209f6058808e)
+- [レベルアップしたい人必見　Qiita記事43選](https://qiita.com/tadashiro_ninomiya/items/ac994dfa0094c9e58f7d)
+- [【クラウドエンジニア向け】無償公開されている講義資料・研修資料リンク集](https://qiita.com/yoshiyama_hana/items/96dbe0b82ca783c86be0)
+- [【データ分析の必読10冊+差をつける10冊＋100冊超】データサイエンス、データ分析、機械学習関連の本](https://qiita.com/aokikenichi/items/ae4df263f591e47528a6)
+- [すべての開発者へ。すごいGitHubリポジトリ10選](https://qiita.com/baby-degu/items/6c0c73a1e79644ebbb1a)
 
 # MISC
 
 - [会話の公理（ポール・グライス） ? \*ListFreak](https://listfreak.com/list/1301)
 - [糖尿病予備群たちに告ぐ！ 今やるべき対処法 5 つ Tarzan Web（ターザンウェブ）](https://tarzanweb.jp/post-210390)
 - [「旧街道サイクリングの旅」サイクルスポーツ.jp にて好評連載中！［最終回 更新！］](https://www.strada.jp/events/kyukaidou_201908/)
-
-# google
-
-- [スクリプトをプロキシしてトラッキングをブロックしているユーザーのデータをGoogleアナリティクスで収集するためのツール「Google Tag Manager & Google Analytics Proxy」を使ってみた](https://gigazine.net/news/20230504-google-tag-manager-analytics-proxy/)
-- [【Colab 入門】Google Colaboratory とは？使い方・メリットを徹底解説！](https://www.kikagaku.co.jp/kikagaku-blog/google-colab-howto/)
+- [オープンソースライセンス、どれなら使っても良いの？？](https://qiita.com/fate_shelled/items/a928709d7610cee5aa66)
 
 
 # Meta Quest 3
 - [「Meta Quest 3」は何ができるのか？ 機能、使い方、おすすめコンテンツを紹介](https://www.moguravr.com/meta-quest-3-summary/)
 - [「なんのためのMRか」Meta Quest 3を実際に家庭で試して気づいた大きな恩恵](https://www.moguravr.com/meta-quest-3-mr-review-2/)
+- [「Virtual Desktop」に、マルチモニター機能（β版）実装 Meta Quest 3で最大3枚まで表示可能に](https://www.moguravr.com/virtual-desktop-beta-1-32-0/)
+- [「Meta Quest 3」をしばらく使ってみて分かったこと 長所と短所を紹介](https://www.moguravr.com/meta-quest-3-review-2/)
+- [【VR】Quest 3 で PC VR : Virtual Desktop, Steam Link, Quest Air Link どれを使えばよいのか？](https://joytokey.net/ja/blog/vr/high-quality-wireless-pc-vr/)
+
