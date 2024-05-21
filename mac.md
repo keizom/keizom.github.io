@@ -51,6 +51,6 @@
 ### Terminal
 
 - [macの開発環境をカスタマイズする（zsh)](https://zenn.dev/its532/articles/3f2508b896056a)
-- - [Mac: ターミナルとプロンプトをカスタマイズする(zsh)](https://ktksq.hatenablog.com/entry/mac-customize)
+- [Mac: ターミナルとプロンプトをカスタマイズする(zsh)](https://ktksq.hatenablog.com/entry/mac-customize)
 - [お前らのターミナルはダサい](https://qiita.com/kinchiki/items/57e9391128d07819c321)
 - [Mac: ターミナルとプロンプトをカスタマイズする(zsh)](https://ktksq.hatenablog.com/entry/mac-customize)

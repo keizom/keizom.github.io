@@ -234,6 +234,6 @@
 -[Vue.jsとjQueryの違いは メリット・デメリットを歴史的に比較](https://runteq.jp/blog/programming-school/other/2774/)
 - [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
 - [TypeScript未経験でもスムーズに業務に取り組める、最強の学習用コンテンツを作った話](https://engineers.ntt.com/entry/2023/12/19/090007)
-- [TypeScriptとも相性抜群なライブラリ──Vue.jsで状態管理を行う新定番「Pinia」を解説！ (2/3)|CodeZine（コードジン）](https://codezine.jp/article/detail/18727?p=2)
+- [TypeScriptとも相性抜群なライブラリ──Vue.jsで状態管理を行う新定番「Pinia」を解説！ (2/3) CodeZine（コードジン）](https://codezine.jp/article/detail/18727?p=2)
 - [【他のSPAでも】Vue3でアプリ作るならこれを入れろ！2023 ver【使えるよ】](https://qiita.com/k2-kanda/items/42e7df9a578495a5a215)
 - [【Vue.js】今、ゼロから Vue を学び始めるならこうやるといいんじゃないか (2024) 【初学者向け】](https://zenn.dev/comm_vue_nuxt/articles/start-to-learn-vue-2024)
