@@ -139,6 +139,19 @@
 - [【クラウドエンジニア向け】無償公開されている講義資料・研修資料リンク集](https://qiita.com/yoshiyama_hana/items/96dbe0b82ca783c86be0)
 - [【データ分析の必読10冊+差をつける10冊＋100冊超】データサイエンス、データ分析、機械学習関連の本](https://qiita.com/aokikenichi/items/ae4df263f591e47528a6)
 - [すべての開発者へ。すごいGitHubリポジトリ10選](https://qiita.com/baby-degu/items/6c0c73a1e79644ebbb1a)
+- [全ての“入り口”はIDから~Microsoft Entraで学ぶ、やさしいID基礎知識 ~：第1回 新しいID管理ソリューションEntraのご紹介と今から始めよう「Azure ADによる脱VPN化」](https://info.microsoft.com/JA-ZTF-VDEO-FY23-09Sep-13-MKTO-FY23-Entra-Webinar-Gated-content-0823-SRGCM7732_LP01-Registration---Form-in-Body.html)
+- [AI のビジネス活用スタート](https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-AIbusinessutilization-SRGCM1257.pdf)
+- [Azure Stack HCI 評価ガイド - Part 1 「Azure Stack HCI の基礎と展開」 編](https://info.microsoft.com/JA-HCS-CNTNT-FY23-10Oct-12-Azure-Stack-HCI-Assessment-Guide-Part-1-Azure-Stack-HCI-Fundamentals-and-Deployment-SRGCM7946_LP01-Registration---Form-in-Body.html)
+- [Windows Virtual Desktop Event](https://info.microsoft.com/ww-landing-windows-virtual-desktop.html)
+- [徹底解説！できる Azure Migrate](https://info.microsoft.com/JA-AzureMig-CNTNT-FY20-03Mar-18-Thoroughcommentary-SRGCM3343_01Registration-ForminBody.html)
+- [Windows 365 ウェビナー 第1弾　新登場！Windows 365 Frontline](https://info.microsoft.com/JA-MODEND-VDEO-FY24-09Sep-05-Windows-365-Webinar-Vol-1-New-Windows-365-Frontline-SRGCM10973_LP01-Registration---Form-in-Body.html)
+- [GitHub Copilot開発者が語る最新アップデート ～ コード生成の裏側を知って、より効率的に開発しよう！](https://info.microsoft.com/JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0602-SRGCM10625_LP01-Registration---Form-in-Body.html)
+- [できる Copilot for Microsoft 365 スタートガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-05-Copilot-for-Microsoft-365-Getting-Started-Guide-SRGCM11972_LP01-Registration---Form-in-Body.html)
+- [Microsoft 365 Copilot カタログ 2023年9月更新](https://info.microsoft.com/JA-T2C-CNTNT-FY24-08Aug-18-Microsoft-365-Copilot-Catalog-SRGCM10917_LP01-Registration---Form-in-Body.html)
+- [できるMicrosoft Viva【改訂版】](https://info.microsoft.com/JA-EMPEX-CNTNT-FY23-02Feb-27-Microsoft-Viva-Revised-Edition-SRGCM9341_LP01-Registration---Form-in-Body.html)
+- [ノンコーディングで業務アプリ開発！「PowerApps」と「Microsoft Flow」とは](https://info.microsoft.com/JA-DynOps-WBNR-FY18-06Jun-14-Businessappdevelopment-MCW0006792_02OnDemandRegistration-ForminBody.html)
+- [ウェビナー Power BI を使う時の基本～最初に考えること～](https://info.microsoft.com/JA-SQLDB-WBNR-FY18-06Jun-21-PowerBI-MCW0006279_02OnDemandRegistration-ForminBody.html)
+
 
 # MISC
 

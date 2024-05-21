@@ -92,7 +92,7 @@
 ## Microsoft 365 Copilot
 
 - [Copilot Studioに関するよくある質問](https://qiita.com/skuramoto/items/45491770cdf8df0d9cdd)
-- [できる Copilot for Microsoft 365 スタートガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-05-Copilot-for-Microsoft-365-Getting-Started-Guide-SRGCM11972_LP01-Registration---Form-in-Body.html)
+
 - [OfficeのCopilotを利用する「Excel編」](https://swri.jp/article/1423)
 - [Microsoft 365 Copilotを上手に使うためのTips・できることまとめ](https://qiita.com/ssc-yshikeda/items/ec2cfe07d2bbcd989be9)
 - [「Copilot for Microsoft 365 ユーザー向け研修資料」を公開しました！](https://blog.cloudnative.co.jp/22909/)
@@ -104,7 +104,6 @@
 - [GPU非搭載ノートPCでもコマンド不要で各種言語モデルの性能を試せる実行環境「LM Studio」レビュー](https://gigazine.net/news/20231202-lm-studio-llm/)
 - [Microsoft 365 Copilotを利用する前に必ず知っておくべき注意点](https://kn.itmedia.co.jp/kn/articles/2312/01/news076.html)
 - [最新のWindows 11 23H2は何が変わった？AIアシスタントのCopilotなど、新機能・更新内容を一挙紹介](https://pc.watch.impress.co.jp/docs/topic/feature/1544477.html)
-- [Microsoft 365 Copilot カタログ 2023年9月更新](https://info.microsoft.com/JA-T2C-CNTNT-FY24-08Aug-18-Microsoft-365-Copilot-Catalog-SRGCM10917_LP01-Registration---Form-in-Body.html)
 - [Announcing Microsoft 365 Copilot general availability and Microsoft 365 Chat](https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availability-and-microsoft-365-chat/)
 - [The AI-Powered Future of Work](https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot)
 - [Microsoft Copilot for Microsoft 365で何ができる？使い方・利用料金・導入方法などを徹底解説](https://www.lifehacker.jp/article/how-to-use-microsoft-365-copilot/)
@@ -323,5 +322,4 @@
 
 ## Microsoft Viva
 
-- [できるMicrosoft Viva【改訂版】](https://info.microsoft.com/JA-EMPEX-CNTNT-FY23-02Feb-27-Microsoft-Viva-Revised-Edition-SRGCM9341_LP01-Registration---Form-in-Body.html)
 - [Viva の機能へのアクセスを制御する](https://learn.microsoft.com/ja-jp/viva/feature-access-management)

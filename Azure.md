@@ -48,7 +48,7 @@
 - [2022 年 6 月末から「セキュリティの既定値群」の有効化が促されます (対象 : 一部のテナント)](https://jpazureid.github.io/blog/azure-active-directory/security-default-2022/)
 - [Conditional Access Workflow - v1.4.pdf](https://github.com/kennethvs/cabaseline202212/blob/main/Conditional%20Access%20Workflow%20-%20v1.4.pdf)
 - [Microsoft Graph PowerShellを利用してユーザーの最終サインイン日時を取得する](https://blog.jbs.co.jp/entry/2023/03/15/124720)
-- [全ての“入り口”はIDから~Microsoft Entraで学ぶ、やさしいID基礎知識 ~：第1回 新しいID管理ソリューションEntraのご紹介と今から始めよう「Azure ADによる脱VPN化」](https://info.microsoft.com/JA-ZTF-VDEO-FY23-09Sep-13-MKTO-FY23-Entra-Webinar-Gated-content-0823-SRGCM7732_LP01-Registration---Form-in-Body.html)
+
 - [Microsoft Entra が Security Service Edge に拡張、Azure AD が Microsoft Entra ID に名称変更](https://news.microsoft.com/ja-jp/2023/07/12/230712-microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id/)
 
 ### 条件付きアクセス
@@ -259,7 +259,6 @@
 - [Microsoft が誰でも簡単に機械学習モデルが作れるツール「Lobe」を公開！ Techable(テッカブル)](https://techable.jp/archives/140757)
 - [AI Builder: AI Embedded in Power Apps- Part 1 - RADACAD](https://radacad.com/ai-builder-power-apps-embed-with-ai-part-1)
 - [非エンジニア向け AI ビジネス スクール - tottokug Microsoft Docs](https://docs.microsoft.com/ja-jp/users/tottokug/collections/2g78i6x8z1nxe)
-- [AI のビジネス活用スタート](https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-AIbusinessutilization-SRGCM1257.pdf)
 - [Cognitive Services Custom Vision から画像解析モデルを Dockerimage に Export して利用する - Qiita](https://qiita.com/annie/items/3c0d0ec517d61526eb63)
 - [Cognitive Services LUIS でノンコーディング自然言語分析始めよう (2019 年 6 月版) - Qiita](https://qiita.com/annie/items/5fdc9030521f8a0ed61c)
 - [Cognitive Services Speech Service ことはじめ\_20190725](https://www.slideshare.net/ayomori/cogbot-cognitive-servicesspeechgettingstarted20190725)
@@ -730,7 +729,6 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Azure Stack HCI に含まれないもの、それはゲスト OS のライセンス](https://atmarkit.itmedia.co.jp/ait/articles/2110/13/news006.html)
 - [Azure Stack Hub Development Kit とは](https://blog.aimless.jp/archives/2018-12-04-what-is-asdk/)
 - [Azure Stack HCI 単一ノードクラスターの評価環境を作成して ESU の検証環境を作成する](https://blog.engineer-memo.com/2022/07/05/azure-stack-hci-%E5%8D%98%E4%B8%80%E3%83%8E%E3%83%BC%E3%83%89%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE%E8%A9%95%E4%BE%A1%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6-esu/)
-- [Azure Stack HCI 評価ガイド - Part 1 「Azure Stack HCI の基礎と展開」 編](https://info.microsoft.com/JA-HCS-CNTNT-FY23-10Oct-12-Azure-Stack-HCI-Assessment-Guide-Part-1-Azure-Stack-HCI-Fundamentals-and-Deployment-SRGCM7946_LP01-Registration---Form-in-Body.html)
 
 ## Azure Static Web Apps
 
@@ -836,7 +834,6 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [【Windows Virtual Desktop のディープな技術情報を解説】 #1 新しい管理ポータル](https://zine.qiita.com/topics/202010-wvd-1/)
 - [【Windows Virtual Desktop のディープな技術情報を解説】WVD におけるネットワークセキュリティ - Qiita Zine](https://zine.qiita.com/topics/202010-wvd-2/)
 - [IT リソース キット Windows Virtual Desktop の使用を開始する](https://clouddamcdnprodep.azureedge.net/gdc/gdcamLwLh/original)
-- [Windows Virtual Desktop Event](https://info.microsoft.com/ww-landing-windows-virtual-desktop.html)
 - [Windows Virtual Desktop 最短構築方法解説](https://www.gmo.jp/report/single/?art_id=261)
 
 ## Azure Monitor
@@ -931,7 +928,6 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ## Migration
 
 - [What is Azure Resource Mover?](https://docs.microsoft.com/en-us/azure/resource-mover/overview)
-- [徹底解説！できる Azure Migrate](https://info.microsoft.com/JA-AzureMig-CNTNT-FY20-03Mar-18-Thoroughcommentary-SRGCM3343_01Registration-ForminBody.html)
 
 ## Microsoft Operations Management Suite
 
@@ -948,8 +944,3 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [OneLake File Explorer](https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric1](https://marshal115.hatenablog.com/entry/2023/06/19/230347)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric3](https://marshal115.hatenablog.com/entry/2023/07/16/233247)
-
-## Windows 365
-
-- [Windows 365 ウェビナー 第1弾　新登場！Windows 365 Frontline](https://info.microsoft.com/JA-MODEND-VDEO-FY24-09Sep-05-Windows-365-Webinar-Vol-1-New-Windows-365-Frontline-SRGCM10973_LP01-Registration---Form-in-Body.html)
-- 

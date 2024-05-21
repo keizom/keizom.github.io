@@ -106,7 +106,6 @@
 - [PowerApps で名刺管理アプリを作ってみる(1) - Qiita](https://qiita.com/IKETA/items/132633f4988477809355)
 - [PowerApps で来訪者管理アプリを作成する](https://www.si-jirei.jp/2019/01/23/powerapps%E3%82%B3%E3%83%A9%E3%83%A0/)
 - [コネクタのドキュメント - Connectors  Microsoft Docs](https://docs.microsoft.com/ja-jp/connectors/)
-- [ノンコーディングで業務アプリ開発！「PowerApps」と「Microsoft Flow」とは](https://info.microsoft.com/JA-DynOps-WBNR-FY18-06Jun-14-Businessappdevelopment-MCW0006792_02OnDemandRegistration-ForminBody.html)
 - [社内緊急対策のための Power Platform テンプレートをリリース](https://memo.tyoshida.me/power-platform/powerapps/crisis-communication-template-released/)
 - [働き方改革に効く！ゼロからはじめる PowerApps(5) Office 365 の Excel とバーコード機能で固定資産の棚卸をしよう   マイナビニュース](https://news.mynavi.jp/article/powerapps-5/)
 - [働き方改革に効く！ゼロからはじめる PowerApps(11) スキルや資格を Microsoft 365 ユーザーにひもづけて管理するアプリを作る   マイナビニュース](https://news.mynavi.jp/article/powerapps-11/)
@@ -166,7 +165,6 @@
 - [RPA 勉強会！Power Automate Talk #7 ～ハンズオンで勤怠報告ボタン作成！～ (2020/11/27 19:30〜)](https://rpacommunity.connpass.com/event/195217/)
 - [Windows 10 で開発環境を設定する](https://docs.microsoft.com/ja-jp/windows/dev-environment/overview)
 - [コネクタのドキュメント - Connectors  Microsoft Docs](https://docs.microsoft.com/ja-jp/connectors/)
-- [ノンコーディングで業務アプリ開発！「PowerApps」と「Microsoft Flow」とは](https://info.microsoft.com/JA-DynOps-WBNR-FY18-06Jun-14-Businessappdevelopment-MCW0006792_02OnDemandRegistration-ForminBody.html)
 - [マイクロソフトが Power Automate の機能を強化する Process Advisor を公開、反復の多い作業のワークフローを効率化](https://jp.techcrunch.com/2020/12/10/2020-12-09-microsoft-brings-new-process-mining-features-to-power-automate/)
 
 ## Power Virtual Agents
@@ -229,7 +227,6 @@
 - [Power BI の学び-真似することから始めてみる - 業務ハック Lab](https://yo-yon.hatenablog.com/entry/powerbimanabimane)
 - [powerbi-desktop-samples/Sample Reports at master microsoft/powerbi-desktop-samples · GitHub](https://github.com/microsoft/powerbi-desktop-samples/tree/master/Sample%20Reports)
 - [Global Admin Pro Tip: Learn how to build video analytics reporting using Office 365 audit logs](https://techcommunity.microsoft.com/t5/Microsoft-Stream-Blog/Global-Admin-Pro-Tip-Learn-how-to-build-video-analytics/ba-p/365267)
-- [ウェビナー Power BI を使う時の基本～最初に考えること～](https://info.microsoft.com/JA-SQLDB-WBNR-FY18-06Jun-21-PowerBI-MCW0006279_02OnDemandRegistration-ForminBody.html)
 - [組織内の Office 365 の利用状況を可視化する Power BI Office 365 Adoption Content Pack パブリック プレビュー開始  idea.toString();](https://idea.tostring.jp/?p=2873)
 - [Heads up: The Power BI app is coming to Microsoft Outlook and Microsoft Office (Preview)](https://powerbi.microsoft.com/ja-jp/blog/heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview/?cdn=disable)
 - [OneDrive と SharePoint で Power BI ファイルを表示する](https://learn.microsoft.com/ja-jp/power-bi/collaborate-share/service-sharepoint-viewer)

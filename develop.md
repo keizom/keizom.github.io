@@ -210,7 +210,6 @@
 - [GitHub Copilot in VS Code で、作業内容からコミットメッセージを生成可能になりました](https://dev.classmethod.jp/articles/https-code-visualstudio-com-docs-editor-github-copilot/)
 - [【GitHub Copilot Chat】いまさら聞けない？GitHub Copilot Chatの使い方について詳しくご紹介します！](https://aadojo.alterbooth.com/entry/2023/12/13/000000)
 - [GitHub Copilotが便利になったのでターミナルもVSCodeで良いのでは？という話](https://qiita.com/EichiSanden/items/0e4f14c1e4c6e4c61982)
-- [GitHub Copilot開発者が語る最新アップデート ～ コード生成の裏側を知って、より効率的に開発しよう！](https://info.microsoft.com/JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0602-SRGCM10625_LP01-Registration---Form-in-Body.html)
 - [CLI 上の操作だけでコマンドの説明や提案をしてもらえる「GitHub Copilot in the CLI」の Public Beta が提供開始されました](https://dev.classmethod.jp/articles/github-copilot-cli-public-beta-launch/)
 - [ブログ執筆時に GitHub Copilot を使って効率化していること3選](https://dev.classmethod.jp/articles/how-github-copilot-is-helping-me-write-blog-posts-more-efficiently-3-examples/)
 - [github copilot事始め](https://qiita.com/GETB/items/0f880b7fb14c6204cad4)
