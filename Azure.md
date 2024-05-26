@@ -587,6 +587,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ### Chat GPT
 
 - [ChatGPT-Prompt-Sample-Japanese/Workshop at main ? dahatake/ChatGPT-Prompt-Sample-Japanese ? GitHub](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/tree/main/Workshop)
+-  [AzureでGPT-4oのAPIを使う方法](https://zenn.dev/headwaters/articles/9d4410846fd6b9)
 - [gpt-4oを試す](https://zenn.dev/kun432/scraps/99e72ee73a3ab7)
 - [進化する生成AIを使いこなせ！ エンジニアの生産性を爆上げするChatGPT活用](https://codezine.jp/article/detail/19230?p=2)
 - [あなたのChatGPT活用 はじめの一歩](https://atmarkit.itmedia.co.jp/ait/articles/2405/13/news016.html)

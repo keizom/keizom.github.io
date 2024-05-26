@@ -31,6 +31,12 @@
 - [Microsoft Viva Pulse](https://pulse.cloud.microsoft)
 - [Microsoft Vivaスキル](https://skills.cloud.microsoft)
 
+## Microsoft Build 2024
+
+- [【速報】Microsoft Build 2024 アップデート情報 Azure OpenAI関連](https://zenn.dev/yyteam/articles/microsoft-build-update-azure-openai)
+
+## Microsoft 資料
+
 - [Microsoft (有志)](https://zenn.dev/p/microsoft)
 - [マイクロソフトイグナイト BOOK OF NEWS](https://news.microsoft.com/ignite-2022-book-of-news/ja/)
 - [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)

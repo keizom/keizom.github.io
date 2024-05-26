@@ -24,6 +24,7 @@
 
 ## PowerPlatform
 
+- [Power Platform で市民開発するなら、環境ルーティングを設定しよう！](https://qiita.com/kumukai/items/56c380e337a3699aa8a0)
 - [Power Platform プレミアムサンプル](https://microsoft.github.io/PowerApps-Sample-Apps-Japan/)
 - [Compare Power Automate plans](https://learn.microsoft.com/en-us/power-platform/admin/power-automate-licensing/types#compare-power-automate-plans)
 - [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)

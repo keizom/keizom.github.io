@@ -117,7 +117,7 @@
 
 ## Docker
 
-- [Dockerで構築する機械学習環境【2024年版】](https://zenn.dev/mkj/articles/33befbaf38c693)
+- [.NETでDev Containerに入門してみた【初心者向け】](https://tech-lab.sios.jp/archives/40541)
 - [これを知らないともったいない！Kubernetes関連の便利ツール20選](https://qiita.com/suin/items/3c4df13ad3478ffe7b5d)
 - [Dockerコマンドの挙動を図解にして覚えやすくしてみた](https://qiita.com/Tanachu8/items/5e85c75818e499042bfe)
 - [Kubernetes使いになるためにPodをつくってみる　『つくって、壊して、直して学ぶ Kubernetes入門』より](https://codezine.jp/article/detail/19343)
@@ -205,6 +205,7 @@
 
 ## GitHub Copilot
 
+- [ChatGPT APIの運用で必須のツール: LangChainの使い方まとめ (2)](https://qiita.com/sakasegawa/items/9b6c79dc11bc3a1bc0ed)
 - [GitHub Copilot Chat の一般提供が開始されました](https://dev.classmethod.jp/articles/github-copilot-chat-generally-available/)
 - [GitHub Copilot Workspaceが利用可能になったのでゼロからアプリを作ってみた](https://aadojo.alterbooth.com/entry/2024/05/13/090000)
 - [GitHub Copilot in VS Code で、作業内容からコミットメッセージを生成可能になりました](https://dev.classmethod.jp/articles/https-code-visualstudio-com-docs-editor-github-copilot/)
@@ -287,7 +288,7 @@
 - [VSCodeMeetup20240130](https://www.docswell.com/s/shosuz/58G39X-2024-01-30-203540)
 - [VS Code Meetup #27](https://vscode.connpass.com/event/303633/presentation/)
 - [Visual Studio Code （VSCode）の導入と、おすすめの初期設定をまとめました](https://biz.hpg.co.jp/biz2020/column/755/#render_line)
-- [【GitHub Copoilot】特定のファイルでCopilotを無効にする（VSCode編）](https://techblog.ap-com.co.jp/entry/2023/07/15/110118)
+- [【GitHub Copilot】特定のファイルでCopilotを無効にする（VSCode編）](https://techblog.ap-com.co.jp/entry/2023/07/15/110118)
 - [AIが識別子の名前を考えてくれる機能、「Visual Studio 2022」にテスト導入](https://forest.watch.impress.co.jp/docs/news/1556899.html)
 - [VScodeだけでGit操作を完結させるのだ～～ッ!!](https://zenn.dev/praha/articles/db1c4bcc4ef48c)
 - [Visual Studio Codeに入れるべき拡張機能【2023年最新版】 #VSCode - Qiita](https://qiita.com/midiambear/items/f38686bd4d139e0cd46c)
@@ -352,6 +353,12 @@
 - [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
 - [AIと共同でプログラミングする新時代へ──AIコーディング支援ツール「GitHub Copilot」へ入門しよう](https://codezine.jp/article/detail/19383?p=2)
 
+## AI Toolkit for VSCode Preview
+
+- [AI Toolkit for Visual Studio Code Preview](https://github.com/microsoft/vscode-ai-toolkit/blob/main/README.md)
+- [Microsoft、「AI Toolkit for VS Code」を発表](https://forest.watch.impress.co.jp/docs/news/1593578.html)
+- [Visual Studio Code 用 AI Toolkit の概要](https://learn.microsoft.com/ja-jp/windows/ai/toolkit/)
+
 ## Visual Studio Extention
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -415,6 +422,11 @@
 - [GitHub - CenterCLR/ozcodejapantour: OzCode japan tour materials.](https://github.com/CenterCLR/ozcodejapantour)
 - [WSL2、Visual Studio Code、DockerでグッとよくなるWindows開発環境](https://www.youtube.com/watch?v=aL5MlZUvZ4g)
 
+## Windows Copilot Runtime
+
+- [Microsoft、「Windows Copilot Runtime」を発表](https://forest.watch.impress.co.jp/docs/news/1593474.html)
+- [Windows Copilot Runtime の概要](https://learn.microsoft.com/ja-jp/windows/ai/overview)
+
 ## web API
 
 - [今すぐ使える無料WebAPIまとめ【2023年最新版】](https://qiita.com/kazuki_tachikawa/items/7b2fead2a9698d1c15e8)
@@ -429,6 +441,7 @@
 
 - [Microsoft が紹介する「Windows Terminal」のカスタマイズや活用のコツ](https://www.atmarkit.co.jp/ait/articles/2011/04/news052.html)
 - [Azure Cloud Shell をローカルの Visual Studio Code／Windows Terminal に統合する方法：Microsoft Azure 最新機能フォローアップ（89） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1908/27/news017.html)
+- [Vision Pro対抗なるか。Windowsの3DアプリがMeta Questで動く世界 #MicrosoftBuild](https://www.gizmodo.jp/2024/05/windows-volumetric-apps-on-meta-quest.html)
 
 ## WSL
 
