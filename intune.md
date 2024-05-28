@@ -26,3 +26,4 @@
 - [Windows 10/11 デバイスを Intune に登録する](https://learn.microsoft.com/ja-jp/mem/intune/user-help/enroll-windows-10-device)
 - [【Azure】IntuneへのWindows10デバイスの登録方法](https://yatalog.org/intune-registration-windows)
 - [Microsoft Intune 勉強会 第 1 回目](https://speakerdeck.com/tamaiyutaro/microsoft-intune-mian-qiang-hui-di-1-hui-mu)
+- [powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples/blob/master/ManagedDevices/ManagedDevices_Hardware_Get.ps1)

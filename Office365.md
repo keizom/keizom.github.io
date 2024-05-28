@@ -223,6 +223,7 @@
 
 ## Teams
 
+- [【Sampleアプリ】Teams用の組織階層アドレス帳](https://qiita.com/Nagaaki_Iwata/items/0860c79bb958ab152af0)
 - [ChatGPTをMicrosoft Teamsから使う仕組みをノーコードで作ろう](https://ascii.jp/elem/000/004/146/4146380/)
 - [「Microsoft Teams」の「Project」「Roadmap」アプリ発表 - CNET Japan](https://japan.cnet.com/article/35161885/)
 - [【Teams】すべての Teams から情報を取得する【PowerShell】   ほげふがな日常](https://www.hogehoge-note.com/2019/08/16/post-300/)

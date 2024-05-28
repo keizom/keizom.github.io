@@ -65,6 +65,10 @@
 
 - [ソフトマッチによる Azure AD (Office 365) 上のユーザーをオンプレミス Active Directory ユーザーと紐付ける方法](https://jpazureid.github.io/blog/azure-active-directory-connect/aboutSoftMatching/)
 - [ハードマッチによる Azure AD (Office 365) 上のユーザーをオンプレミス Active Directory ユーザーと紐付ける方法](https://jpazureid.github.io/blog/azure-active-directory-connect/upn-hard-match/)
+- [AzureADとオンプレADをハードマッチさせてユーザを整合性を保つ方法](https://qiita.com/Itsuki0105/items/96b72061a9f64874fe9e)
+- [ハードマッチによる同期ユーザーの切り替え方法 (AD フォレスト移行 編)](https://jpazureid.github.io/blog/azure-active-directory-connect/aadc_hardmatch/)
+- [How To Convert ImmutableId To ObjectGuid And Back](https://www.easy365manager.com/how-to-convert-immutableid-to-objectguid-and-back/)
+- [Azure AD Connect - ディレクトリ同期の基本的なポイント](https://jpazureid.github.io/blog/azure-active-directory-connect/basic-points-directory-synchronization/)
 - [デバイス ベースのアクセス制御 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/device_access)
 - [登録されたデバイスの管理方法 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/registerd_device_managemant)
 - [サイトのユーザー情報を強制的に AD と同期させる方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/ad)
@@ -586,8 +590,9 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ### Chat GPT
 
+- [すごすぎ！GPT-4oをPower Apps、Power Automateで楽しんでみよう！](https://www.docswell.com/s/DemodoriGatsuo/KRXN3R-20240525-140714-GATSUO_BIRIBIRI#p13)
 - [ChatGPT-Prompt-Sample-Japanese/Workshop at main ? dahatake/ChatGPT-Prompt-Sample-Japanese ? GitHub](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/tree/main/Workshop)
--  [AzureでGPT-4oのAPIを使う方法](https://zenn.dev/headwaters/articles/9d4410846fd6b9)
+- [AzureでGPT-4oのAPIを使う方法](https://zenn.dev/headwaters/articles/9d4410846fd6b9)
 - [gpt-4oを試す](https://zenn.dev/kun432/scraps/99e72ee73a3ab7)
 - [進化する生成AIを使いこなせ！ エンジニアの生産性を爆上げするChatGPT活用](https://codezine.jp/article/detail/19230?p=2)
 - [あなたのChatGPT活用 はじめの一歩](https://atmarkit.itmedia.co.jp/ait/articles/2405/13/news016.html)
@@ -646,7 +651,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Dify で RAG を試す](https://note.com/npaka/n/nca849f1a23f1)
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
 
-### 
+### Command R
 
 - [まるで“いけない話ができるChatGPT”　ローカルAI「Command R+」の爆発的な可能性](https://ascii.jp/elem/000/004/198/4198080/)
 - [優秀と噂なCohere社のCommand R+でRAGチャットボットを簡単に構築して体験しよう！](https://qiita.com/itokazu/items/2b519ef301fdf1430486)

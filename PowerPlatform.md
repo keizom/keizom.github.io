@@ -24,6 +24,9 @@
 
 ## PowerPlatform
 
+- [Power Platformのセキュリティロールについて](https://qiita.com/skuramoto/items/fe305aac24273c7cccbf)
+- [Dataverse グループ チームの活用方法＆注意点](https://jpdynamicscrm.github.io/blog/powerplatform/About-group-team-in-Dataverse/)
+- [ユーザーへのセキュリティ ロールの割り当て](https://learn.microsoft.com/ja-jp/power-platform/admin/assign-security-roles)
 - [Power Platform で市民開発するなら、環境ルーティングを設定しよう！](https://qiita.com/kumukai/items/56c380e337a3699aa8a0)
 - [Power Platform プレミアムサンプル](https://microsoft.github.io/PowerApps-Sample-Apps-Japan/)
 - [Compare Power Automate plans](https://learn.microsoft.com/en-us/power-platform/admin/power-automate-licensing/types#compare-power-automate-plans)
@@ -180,7 +183,9 @@
 
 ## Power BI
 
+- [#PowerAutomate で #PowerBI サービスから pbixファイル を自動取得する](https://qiita.com/yamad365/items/0748379102f323a9bb06)
 - [【働き方の可視化】Power BI × Graph API で O365 のデータを取得する方法](https://qiita.com/komiyasa/items/b58839be68c2bfb39454)
+- [Power Apps(Power Automate) Power BI APIへのカスタムコネクタの作成！ Power BIから色々な情報を持ってくる！](https://ippu-biz.com/development/powerplatform/powerapps/customconnector-powerbi/)
 - [国土交通省が新サイト「不動産情報ライブラリ」を無料公開、早くも神サイトと評判](https://internet.watch.impress.co.jp/docs/yajiuma/1581368.html)
 - [人工衛星からみた地球のデータ、なんと無料。使わないともったいない](https://www.gizmodo.jp/2024/02/jss-hyper-spectral-sensor-hisui-video2.html)
 - [クラウド フローとオンプレミス環境間でデータ連携する方法](https://jpdynamicscrm.github.io/blog/powerautomate/gateway-install/)

@@ -115,6 +115,10 @@
 - [【Cursor】今話題のAI搭載最強コードエディタ！使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
 - [Cursorエディタで開発を爆速化しよう！](https://qiita.com/railgun-0402/items/717f44df9d68d77309f1)
 
+## Dev Home
+
+- [Dev Home とは](https://learn.microsoft.com/ja-jp/windows/dev-home/)
+
 ## Docker
 
 - [.NETでDev Containerに入門してみた【初心者向け】](https://tech-lab.sios.jp/archives/40541)
@@ -203,8 +207,10 @@
 - [Gitコマンド早見表](https://qiita.com/kohga/items/dccf135b0af395f69144)
 - [GitHub Copilot Workspace：GitHub Copilotネイティブの開発環境へようこそ](https://github.blog/jp/2024-04-30-github-copilot-workspace/)
 
+
 ## GitHub Copilot
 
+- [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 - [ChatGPT APIの運用で必須のツール: LangChainの使い方まとめ (2)](https://qiita.com/sakasegawa/items/9b6c79dc11bc3a1bc0ed)
 - [GitHub Copilot Chat の一般提供が開始されました](https://dev.classmethod.jp/articles/github-copilot-chat-generally-available/)
 - [GitHub Copilot Workspaceが利用可能になったのでゼロからアプリを作ってみた](https://aadojo.alterbooth.com/entry/2024/05/13/090000)
@@ -280,6 +286,11 @@
 
 ## VisualStudio Code
 
+- [Visual Studio CodeでLinux ホストリモート開発](https://qiita.com/whim0321/items/ae72b2dd5fd41beaef04)
+- [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
+- [ローカルのVSCodeからRemote SSHでLinuxにSSH接続する](https://tekkubu.com/remote-ssh/)
+- [VSCodeでリモート開発環境を整えてみた](https://techblog.gmo-ap.jp/2023/04/11/vscode_remote/)
+- [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
 - [VSCodeでC#開発をする方法](https://zenn.dev/midoliy/articles/9e3cff958ff89ba151de)
 - [【Rye + uv + Ruff】Docker で VS Code の Dev Container 上に快適な Python 環境を構築する](https://zenn.dev/dena/articles/rye_python_in_devcontainer)
 - [チーム開発でVSCodeの拡張機能やフォーマット設定などを統一したい時に便利な設定ファイルについて](https://dev.classmethod.jp/articles/vscode_settings_file_for_team_dev/)
@@ -353,8 +364,9 @@
 - [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
 - [AIと共同でプログラミングする新時代へ──AIコーディング支援ツール「GitHub Copilot」へ入門しよう](https://codezine.jp/article/detail/19383?p=2)
 
-## AI Toolkit for VSCode Preview
+## AI Toolkit for VS Code
 
+- [Microsoft、「AI Toolkit for VS Code」を発表](https://forest.watch.impress.co.jp/docs/news/1593578.html)
 - [AI Toolkit for Visual Studio Code Preview](https://github.com/microsoft/vscode-ai-toolkit/blob/main/README.md)
 - [Microsoft、「AI Toolkit for VS Code」を発表](https://forest.watch.impress.co.jp/docs/news/1593578.html)
 - [Visual Studio Code 用 AI Toolkit の概要](https://learn.microsoft.com/ja-jp/windows/ai/toolkit/)
