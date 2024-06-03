@@ -590,6 +590,11 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ### Chat GPT
 
+- [GPT-4o のマルチモーダル機能をさっそく試す](https://qiita.com/smats-rd/items/8cd88ca12efb947ce52b)
+- [GPT-4oとは？ChatGPT最新AIモデル GPT-4o の使い方や料金を詳しく解説](https://aismiley.co.jp/ai_news/what-is-gpt4o/)
+- [初心者必見！プロンプトエンジニアリング入門ガイド ~基礎編~](https://tech-lab.sios.jp/archives/41500)
+- [GPT から Claude 3 への移行ガイド](https://data.gunosy.io/entry/claude-migration-guide)
+- [無料版「ChatGPT」機能増えまくり　GPTs、Web検索、画像入力、データ分析など可能に](https://ascii.jp/elem/000/004/201/4201413/)
 - [すごすぎ！GPT-4oをPower Apps、Power Automateで楽しんでみよう！](https://www.docswell.com/s/DemodoriGatsuo/KRXN3R-20240525-140714-GATSUO_BIRIBIRI#p13)
 - [ChatGPT-Prompt-Sample-Japanese/Workshop at main ? dahatake/ChatGPT-Prompt-Sample-Japanese ? GitHub](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/tree/main/Workshop)
 - [AzureでGPT-4oのAPIを使う方法](https://zenn.dev/headwaters/articles/9d4410846fd6b9)
@@ -650,6 +655,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [ノーコードで、高機能AIチャットbotを作ろう。「Dify」を徹底解説](https://chatgpt-lab.com/n/n12d18abb26c8)
 - [Dify で RAG を試す](https://note.com/npaka/n/nca849f1a23f1)
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
+
 
 ### Command R
 
@@ -875,6 +881,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## SendGrid
 
+- [Webhookとは？](https://sendgrid.kke.co.jp/blog/?p=1851)
 - [Twilio SendGridユーザがGmailのガイドラインに対応する具体的な方法](https://sendgrid.kke.co.jp/blog/?p=17611)
 - [新機能「Email Address Validation API」のご紹介](https://sendgrid.kke.co.jp/blog/?p=17715)
 - [送信ドメインを認証するためのSPFレコードに詳しくなろう](https://sendgrid.kke.co.jp/blog/?p=3509)

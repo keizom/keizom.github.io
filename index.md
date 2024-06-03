@@ -34,6 +34,9 @@
 ## Microsoft Build 2024
 
 - [【速報】Microsoft Build 2024 アップデート情報 Azure OpenAI関連](https://zenn.dev/yyteam/articles/microsoft-build-update-azure-openai)
+- [Microsoft Build 2024 キーノート完全日本語化まとめ・意訳](https://memo.tyoshida.me/others/microsoft-build-2024-keynote-japanaese-recap/)
+- [Azure インフラ 仮想マシン関連まとめ - Microsoft Build 2024](https://qiita.com/Olivia_0707/items/2afdb74a99dbbe8d3f68)
+- [Microsoft Build 2024 - インフラ関連アップデートまとめ](https://zenn.dev/openjny/articles/cebe1121f4bc5c)
 
 ## Microsoft 資料
 

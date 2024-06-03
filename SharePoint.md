@@ -200,6 +200,7 @@
 
 ## PnP SharePoint
 
+- [PnP PowerShell で SharePoint リストに値を登録するときの列の種類別の値指定方法](https://idea.tostring.jp/?p=6976#toc4)
 - [Send-PnPMail で no-reply@sharepointonline.com からメールを送付する](https://mountfuji.hatenablog.com/entry/2021/04/18/113700)
 - [Working with modern client-side pages using PnP PowerShell](https://learn.microsoft.com/en-us/microsoft-365/community/working-with-modern-clientside-pages-using-pnp-powershell)
 - [【SharePoint】サイト内のすべてのページのすべての Web パーツを CSV 出力する（PnP PowerShell）](https://mynote365.hatenadiary.com/entry/2023/01/14/125427)

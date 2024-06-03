@@ -92,7 +92,7 @@
 ## Microsoft 365 Copilot
 
 - [Copilot Studioに関するよくある質問](https://qiita.com/skuramoto/items/45491770cdf8df0d9cdd)
-
+- [Copilot for Microsoft 365 プロンプト活用クイックガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-04-Copilot-for-Microsoft-365-Prompts-Quick-Guide-SRGCM11973_LP01-Registration---Form-in-Body.html)
 - [OfficeのCopilotを利用する「Excel編」](https://swri.jp/article/1423)
 - [Microsoft 365 Copilotを上手に使うためのTips・できることまとめ](https://qiita.com/ssc-yshikeda/items/ec2cfe07d2bbcd989be9)
 - [「Copilot for Microsoft 365 ユーザー向け研修資料」を公開しました！](https://blog.cloudnative.co.jp/22909/)
@@ -179,9 +179,9 @@
 - [スクリプトをプロキシしてトラッキングをブロックしているユーザーのデータをGoogleアナリティクスで収集するためのツール「Google Tag Manager & Google Analytics Proxy」を使ってみた](https://gigazine.net/news/20230504-google-tag-manager-analytics-proxy/)
 - [【Colab 入門】Google Colaboratory とは？使い方・メリットを徹底解説！](https://www.kikagaku.co.jp/kikagaku-blog/google-colab-howto/)
 
-
 ## Exchagne Online
 
+- [会議室メールボックスに登録されている予定情報を取得して CSV ファイルにエクスポートする](https://idea.tostring.jp/?p=7767)
 - [「Gmail」にメールを送れなくなる恐れ、グーグルによる迷惑メール対策強化の衝撃 日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00989/120500134/)
 - [DMARC を使用してメールを検証する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-dmarc-configure)
 - [SPF を設定して、スプーフィングを防止する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-spf-configure?view=o365-worldwide)

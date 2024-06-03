@@ -268,6 +268,7 @@
 - [オライリー「Think Python」第 2 版 ダウンロード](https://cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython2.pdf)
 - [Python 早見表](https://chokkan.github.io/python/index.html)
 - [主にVSCodeではじめるPython開発環境構築ガイド](https://dev.classmethod.jp/articles/python-vscode-plugin/)
+- [Python環境構築](https://qiita.com/s8ry_mk/items/7bcac9c72bad8db10c39)
 
 ## swagger
 

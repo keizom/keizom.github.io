@@ -55,6 +55,7 @@
 
 ## html
 
+- [生成AI時代のフロントエンド開発術](https://zenn.dev/silverbirder/articles/47965727b4f05b)
 - [2024年版 HTMLで作るフォームバリデーション](https://ics.media/entry/240418/)
 - [Webデザインに必須のコーディングの基礎知識【初心者向け】](https://liginc.co.jp/643347)
 - [令和のHTML / CSS / JavaScriptの書き方50選](https://zenn.dev/necscat/articles/bc9bba54babaf5)
@@ -146,6 +147,7 @@
 
 ## css
 
+- [Web制作者はダウンロードしておきたい！ CSS関連の最新版チートシートのまとめ](https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-for-web-development.html)
 - [モダンCSSで実装する、テーブル（<table>）のさまざまなスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/a-guide-to-styling-tables.html)
 - [CSSは日々進化している！知ったら使いたくなる「モダンCSS」機能紹介](https://levtech.jp/media/article/column/detail_429/)
 - [2024年の実装に役立つCSSの新機能と使い方のまとめ](https://coliss.com/articles/build-websites/operation/css/css-snippets-in-2024.html)
@@ -227,13 +229,22 @@
 - [知っておくと実装に役立つ！JavaScript のテクニックのまとめ](https://coliss.com/articles/build-websites/operation/javascript/javascript-tips-by-garvitmotwani.html)
 - [WebAssembly は次世代のコンテナ技術になれるか？](https://zenn.dev/mizchi/articles/wasm-component-model-futures)
 
+## TypeScript
+
+- [40代エンジニア志望、TypeScript はじめの一歩](https://qiita.com/nyakako13/items/6251e58a129f6d455dfb)
+- - [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
+- [TypeScript未経験でもスムーズに業務に取り組める、最強の学習用コンテンツを作った話](https://engineers.ntt.com/entry/2023/12/19/090007)
+- [TypeScriptとも相性抜群なライブラリ──Vue.jsで状態管理を行う新定番「Pinia」を解説！ (2/3) CodeZine（コードジン）](https://codezine.jp/article/detail/18727?p=2)
+
 ## vue.js
 
 - [「あなたのVueファイルは読みづらい」と文句を言われたくない① -- 記述方法編 --](https://qiita.com/IJproject/items/46342f529320652a8fad)
 -[「Vueって何？」から始めるVue.js入門](https://qiita.com/MIDO-ruby7/items/6ab4bac960c3520a55d5)
 -[Vue.jsとjQueryの違いは メリット・デメリットを歴史的に比較](https://runteq.jp/blog/programming-school/other/2774/)
-- [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
-- [TypeScript未経験でもスムーズに業務に取り組める、最強の学習用コンテンツを作った話](https://engineers.ntt.com/entry/2023/12/19/090007)
-- [TypeScriptとも相性抜群なライブラリ──Vue.jsで状態管理を行う新定番「Pinia」を解説！ (2/3) CodeZine（コードジン）](https://codezine.jp/article/detail/18727?p=2)
 - [【他のSPAでも】Vue3でアプリ作るならこれを入れろ！2023 ver【使えるよ】](https://qiita.com/k2-kanda/items/42e7df9a578495a5a215)
 - [【Vue.js】今、ゼロから Vue を学び始めるならこうやるといいんじゃないか (2024) 【初学者向け】](https://zenn.dev/comm_vue_nuxt/articles/start-to-learn-vue-2024)
+
+## Microsoft Clarity
+
+- [マイクロソフトが提供する無料で使えるヒートマップ「Microsoft Clarity」を使ってみよう！](https://www.mdn.co.jp/web/helpful_tips/7134)
+

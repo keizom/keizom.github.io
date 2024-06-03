@@ -82,8 +82,17 @@
 - [更に強化された次世代のAI/GPT機能により Power Apps はより多くのプログラマーに力を](https://memo.tyoshida.me/power-platform/powerapps/next-gen-ai-capabilities-empower-developers/)
 - [Microsoft Build 2023 キーノートまとめ – Windows Copilot、Microsoft Fabric、Azure AI Studioなどを発表](https://memo.tyoshida.me/others/microsoft-build-2023-keynote-summary/)
 
+## CI/CD
+
+- [Power Apps・Power Automate：開発と本番環境を用いたアプリ構築手法(3) Power Platform パイプラインでCI/CD環境を構築](https://artisan.jp.net/blog/build-applications-using-development-and-production-environments-3/)
+- [Microsoft Power Platform CLI を使用した Power Apps ポータルの構成の CI/CD のサポート](https://learn.microsoft.com/ja-jp/power-platform-release-plan/2021wave1/power-apps-portals/support-cicd-power-apps-portals-configuration-using-power-apps-cli)
+- [スクラムで Power Apps 開発をやってみた / Tried to develop Power Apps with Scrum](https://speakerdeck.com/karamem0/tried-to-develop-power-apps-with-scrum)
+- [Automate CI/CD using Azure DevOps for Power Apps applications created in Teams](https://www.youtube.com/watch?v=Ul0aVxJsl_o)
+- [Power Automateでソリューションのエクスポート・インポートを自動化する](https://tech-blog.cloud-config.jp/2022-04-07-power-automate-export-import-solution/)
+
 ## Power Apps
 
+- [Power Apps & GPT-4oを使って超高速で画像解析アプリを作る！](https://qiita.com/DEmodoriGatsuO/items/4c4734b78973970e0d3d)
 - [部署異動の際の Power Apps や Power Automate の引継ぎについて](https://qiita.com/Takashi_Masumori/items/34fbad7d5b9d42e00b92)
 - [(Power Platfom 市民開発者向け) SharePoint リストについて](https://qiita.com/Takashi_Masumori/items/2c1cb62496171cf23cf6)
 - [【デザイン】私がしているPower Appsのアプリを作るときのデザインをよくする工夫](https://qiita.com/skuramoto/items/717cf173dd55cfb9adc6)
