@@ -82,6 +82,13 @@
 - [更に強化された次世代のAI/GPT機能により Power Apps はより多くのプログラマーに力を](https://memo.tyoshida.me/power-platform/powerapps/next-gen-ai-capabilities-empower-developers/)
 - [Microsoft Build 2023 キーノートまとめ – Windows Copilot、Microsoft Fabric、Azure AI Studioなどを発表](https://memo.tyoshida.me/others/microsoft-build-2023-keynote-summary/)
 
+## Figma
+
+- [Figma を利用したアプリ作成の概要](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/figma/overview)
+- [FigmaのデザインをPower Apps のキャンバスアプリに変換する方法 (Express Design)](https://qiita.com/kumukai/items/dd4bd0f9dcc62d87458f)
+- [Figma ファイルから Power Apps キャンバス アプリを作成](https://www.illuminate-j.jp/blog/canvasapp_figma)
+- [Figmaを利用したPower Apps キャンバスアプリの作成](https://mofumofupower.hatenablog.com/entry/figma_apps)
+
 ## CI/CD
 
 - [Power Apps・Power Automate：開発と本番環境を用いたアプリ構築手法(3) Power Platform パイプラインでCI/CD環境を構築](https://artisan.jp.net/blog/build-applications-using-development-and-production-environments-3/)

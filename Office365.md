@@ -70,6 +70,8 @@
 
 ## Office 365 PowerShell
 
+- [Microsoft 365 アカウントで Microsoft Edge の Copilot にサインインできなくなったときに試したこと](https://idea.tostring.jp/?p=7813)
+- [Send-MailMessageが非推奨になった今、PowerShellでセキュアにメールを送信する方法](https://qiita.com/todkm/items/90c1fdf8cb53eee0633a)
 - [Microsoft 365 Scripts](https://m365scripts.com/)
 - [MSOnline / AzureAD PowerShell から Graph PowerShell SDK への移行について 1\_概要](https://jpazureid.github.io/blog/azure-active-directory/azuread-module-retirement1/)
 - [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)

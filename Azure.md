@@ -588,6 +588,10 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Open Interpreterがついに画像出力にも対応！使い方から実践までを解説【画像付き】](https://weel.co.jp/media/tech/open-interpreter/)
 - [Power Platform から Azure OpenAI Service 経由で ChatGPT を利用してみる](https://qiita.com/Takashi_Masumori/items/96b9e0f1590762fd6fad)
 
+### GPTs
+
+- [初心者でもわかるGPTsの使い方](https://qiita.com/toshiki7124/items/7db8850e32383806a9e7)
+
 ### Chat GPT
 
 - [GPT-4o のマルチモーダル機能をさっそく試す](https://qiita.com/smats-rd/items/8cd88ca12efb947ce52b)
@@ -656,6 +660,9 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Dify で RAG を試す](https://note.com/npaka/n/nca849f1a23f1)
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
 
+### Microsoft Phi-3
+
+- [Welcome to Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)
 
 ### Command R
 

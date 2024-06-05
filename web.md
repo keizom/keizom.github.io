@@ -33,6 +33,7 @@
 - [Figmaの魅力がすぐわかる、仕事で即使える！おすすめテンプレ、プラグイン、ウィジェット【Figmaワークハック #4】](https://www.lifehacker.jp/article/2312-figma-4/)
 - [生成AIを使用したFigmaのコード変換：Animaの新しいAIカスタマイズコーディングの使用例6選](https://www.animaapp.com/blog/ja/ai/%e7%94%9f%e6%88%90ai%e3%82%92%e4%bd%bf%e7%94%a8%e3%81%97%e3%81%9ffigma%e3%81%ae%e3%82%b3%e3%83%bc%e3%83%89%e5%a4%89%e6%8f%9b%ef%bc%9aanima%e3%81%ae%e6%96%b0%e3%81%97%e3%81%84ai%e3%82%ab%e3%82%b9/)
 - [FigmaのHTMLコードへのエクスポートの仕方](https://www.animaapp.com/blog/ja/%E3%80%8C%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%8B%E3%82%89%E3%82%B3%E3%83%BC%E3%83%89%E3%80%8D/figma%E3%81%AEhtml%E3%82%B3%E3%83%BC%E3%83%89%E3%81%B8%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E4%BB%95%E6%96%B9/)
+- [Figmaでちょっとしたデザインをつくるときに使っているプラグイン8選](https://ics.media/entry/240603/)
 
 ## Loading
 
