@@ -38,10 +38,14 @@
 - [Azure インフラ 仮想マシン関連まとめ - Microsoft Build 2024](https://qiita.com/Olivia_0707/items/2afdb74a99dbbe8d3f68)
 - [Microsoft Build 2024 - インフラ関連アップデートまとめ](https://zenn.dev/openjny/articles/cebe1121f4bc5c)
 
+## Microsoft Ignite
+
+- [マイクロソフトイグナイト BOOK OF NEWS](https://news.microsoft.com/ignite-2022-book-of-news/ja/)
+- [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
+`
 ## Microsoft 資料
 
 - [Microsoft (有志)](https://zenn.dev/p/microsoft)
-- [マイクロソフトイグナイト BOOK OF NEWS](https://news.microsoft.com/ignite-2022-book-of-news/ja/)
 - [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
 - [Microsoft Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
 - [Microsoft Azure](https://docs.microsoft.com/ja-jp/learn/azure/)
@@ -55,7 +59,6 @@
 - [オンデマンドで学ぶクラウド アプリケーション開発](https://www.microsoft.com/ja-jp/biz/cloud-platform/apps-innovation-ondemand.aspx)
 - [Microsoft Security Forum 2020 オンライン](https://www.microsoft.com/ja-jp/biz/security/forum-online.aspx)
 - [Azure Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
-- [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
 - [Microsoft Partner blog](https://blogs.partner.microsoft.com/mpn/)
 - [Azure のイベントとウェビナー](https://azure.microsoft.com/ja-jp/resources/events/)
 
