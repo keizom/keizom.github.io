@@ -504,6 +504,9 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [【HeyGen】ホリエモン(堀江貴文さん)のAI動画はどうやって作られている？](https://romptn.com/article/44268)
+- [Canva×HeyGen講座～ホリエモンAIってどうやって作るの?応用して英語のプレゼン作成してみた](https://www.youtube.com/watch?v=d6l0A3nuBfk)
+- [RAG構築のためのAzure OpenAI Serviceリファレンスアーキテクチャ詳解](https://tech-lab.sios.jp/archives/38900)
 - [ChatGPTなどのチャットAIがどんな風に文章をトークンとして認識しているのかが一目で分かる「Tokenizer」](https://gigazine.net/news/20230407-tokenizer-open-ai/)
 - [Copilot に Intune の PowerShell を書かせたらマジでビビった話](https://zenn.dev/microsoft/articles/9e48fe6f2b5633)
 - [「ChatGPT」ユーザー登録なしで誰でも使えるように](https://ascii.jp/elem/000/004/192/4192024/)
@@ -592,9 +595,18 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 - [初心者でもわかるGPTsの使い方](https://qiita.com/toshiki7124/items/7db8850e32383806a9e7)
 
+### Google Notebook L<
+
+- [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
+
+### LLM
+
+- [Open WebUI (Formerly Ollama WebUI) がすごい](https://qiita.com/moritalous/items/1cad6878ea750d18747c)
+
 ### Chat GPT
 
 - [GPT-4o のマルチモーダル機能をさっそく試す](https://qiita.com/smats-rd/items/8cd88ca12efb947ce52b)
+- [ChatGPTプログラミングのすすめ](https://zenn.dev/nobucshirai/articles/chatgpt_programming)
 - [GPT-4oとは？ChatGPT最新AIモデル GPT-4o の使い方や料金を詳しく解説](https://aismiley.co.jp/ai_news/what-is-gpt4o/)
 - [初心者必見！プロンプトエンジニアリング入門ガイド ~基礎編~](https://tech-lab.sios.jp/archives/41500)
 - [GPT から Claude 3 への移行ガイド](https://data.gunosy.io/entry/claude-migration-guide)

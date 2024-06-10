@@ -148,6 +148,8 @@
 
 ## css
 
+- [CSSの新機能にどのように向き合えばよいか、新しいことを学んだり覚えることは頭の固い人には難しい](https://coliss.com/articles/build-websites/operation/css/old-dogs-new-css-tricks.html)
+- [ホームページを眺めながらCSS設計の初歩を学ぼう](https://qiita.com/shimamoooon/items/314f8484de4b9f1a1abd)
 - [Web制作者はダウンロードしておきたい！ CSS関連の最新版チートシートのまとめ](https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-for-web-development.html)
 - [モダンCSSで実装する、テーブル（<table>）のさまざまなスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/a-guide-to-styling-tables.html)
 - [CSSは日々進化している！知ったら使いたくなる「モダンCSS」機能紹介](https://levtech.jp/media/article/column/detail_429/)
@@ -204,6 +206,7 @@
 
 ## JavaScript
 
+- [JavaScriptの便利な記法や関数の紹介およびそれらの注意点について](https://qiita.com/umiushi_1/items/487fdcfcf5caf7a9a3c0)
 - [[javascript] カラフルなconsole.log](https://qiita.com/oharu121/items/446027d9e4a494455555)
 - [「JavaScriptで要素をドラッグして移動する簡単な方法」という記事が初耳だらけだった件](https://qiita.com/www-tacos/items/5614b61d3742d6db34b7)
 - [そのfor文ちょっと待った！！ ループ処理の代替表現ガイド](https://zenn.dev/lclco/articles/77587be8ccb1a7)

@@ -121,6 +121,7 @@
 
 ## Docker
 
+- [超簡単! Kubernetesデバッグチートシート](https://qiita.com/reoring/items/e82bf912cf76570ed21f)
 - [.NETでDev Containerに入門してみた【初心者向け】](https://tech-lab.sios.jp/archives/40541)
 - [これを知らないともったいない！Kubernetes関連の便利ツール20選](https://qiita.com/suin/items/3c4df13ad3478ffe7b5d)
 - [Dockerコマンドの挙動を図解にして覚えやすくしてみた](https://qiita.com/Tanachu8/items/5e85c75818e499042bfe)
@@ -160,6 +161,7 @@
 ## git
 
 - [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
+- [【Git中級者への第一歩】リリースプロセスの品質を上げるブランチ戦略、開発をもっと便利にするコマンドとは](https://codezine.jp/article/detail/19413)
 - [ゼロから学ぶGit/GitHubを勝手に補足](https://zenn.dev/karaage0703/articles/d90c18f65921fc)
 - [いまさらだけどGitを基本から分かりやすくまとめてみた](https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0)
 - [Gitの内部構造をよく理解して、うまく使おう【基本の仕組みを解説】](https://codezine.jp/article/detail/17328)
@@ -258,6 +260,8 @@
 
 ## Python
 
+- [僕の考えた最強の Python 開発環境 (2024)](https://zenn.dev/koki_algebra/articles/cd3341bcba9272)
+- [Python + VSCode の環境構築 20240604](https://zenn.dev/mizchi/articles/setup-python-20240604)
 - [2023年最新版の有名企業のエンジニア向け研修資料をまとめてみた #Python - Qiita](https://qiita.com/eri_issue/items/576acaea7e8235f82d89)
 - [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには TECH+（テックプラス）](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
 - [PythonでWeb開発を学ぶ上で確認するべきGitHubリポジトリ 18選 2023年版](https://zenn.dev/nameless_sn/articles/18_awesome_python_repos_2023)
@@ -287,6 +291,7 @@
 
 ## VisualStudio Code
 
+- [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
 - [Visual Studio CodeでLinux ホストリモート開発](https://qiita.com/whim0321/items/ae72b2dd5fd41beaef04)
 - [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
 - [ローカルのVSCodeからRemote SSHでLinuxにSSH接続する](https://tekkubu.com/remote-ssh/)

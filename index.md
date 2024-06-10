@@ -38,6 +38,10 @@
 - [Azure インフラ 仮想マシン関連まとめ - Microsoft Build 2024](https://qiita.com/Olivia_0707/items/2afdb74a99dbbe8d3f68)
 - [Microsoft Build 2024 - インフラ関連アップデートまとめ](https://zenn.dev/openjny/articles/cebe1121f4bc5c)
 
+## Microsoft 365 Day 2024
+
+- [パート3 Microsoft 365 Day 2024 ~ Copilot と始めるビジネス変革 ~](https://info.microsoft.com/JA-MODEND-VDEO-FY24-05May-16-Part-3-Microsoft-365-Day-2024-Business-transformation-with-Copilot-SRGCM12253_LP01-Registration---Form-in-Body.html)
+
 ## Microsoft Ignite
 
 - [マイクロソフトイグナイト BOOK OF NEWS](https://news.microsoft.com/ignite-2022-book-of-news/ja/)

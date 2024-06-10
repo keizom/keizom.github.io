@@ -93,6 +93,7 @@
 
 ## Microsoft 365 Copilot
 
+- [「Copilot for Microsoft 365」を試してみよう【2024年6月7日】](https://dekiru.net/article/25468/)
 - [Copilot Studioに関するよくある質問](https://qiita.com/skuramoto/items/45491770cdf8df0d9cdd)
 - [Copilot for Microsoft 365 プロンプト活用クイックガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-04-Copilot-for-Microsoft-365-Prompts-Quick-Guide-SRGCM11973_LP01-Registration---Form-in-Body.html)
 - [OfficeのCopilotを利用する「Excel編」](https://swri.jp/article/1423)
