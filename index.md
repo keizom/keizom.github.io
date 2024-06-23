@@ -14,6 +14,15 @@
 
 # site
 
+## Service
+
+- [GitGHub Copilot](https://github.com/settings/copilot)
+- [Chat GPT](https://chatgpt.com/)
+- [Figma](https://www.figma.com/)
+- [ReSharper](https://account.jetbrains.com/)
+- [Creative Cloud](https://account.adobe.com/)
+- [postman](https://www.postman.com/)
+
 ## Microsoft
 
 - [Microsoft 製品とサービスの URL](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/cloud-microsoft-domain?view=o365-worldwide&s=09#microsoft-product-and-service-urls)
