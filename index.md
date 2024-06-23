@@ -22,6 +22,7 @@
 - [ReSharper](https://account.jetbrains.com/)
 - [Creative Cloud](https://account.adobe.com/)
 - [postman](https://www.postman.com/)
+- [sendgrid](https://sendgrid.kke.co.jp)
 
 ## Microsoft
 
