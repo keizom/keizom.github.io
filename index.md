@@ -18,11 +18,14 @@
 
 - [GitGHub Copilot](https://github.com/settings/copilot)
 - [Chat GPT](https://chatgpt.com/)
+- [perplexity.ai/](https://www.perplexity.ai/)
+- [claude 3](https://www.anthropic.com/news/claude-3-family)
 - [Figma](https://www.figma.com/)
 - [ReSharper](https://account.jetbrains.com/)
 - [Creative Cloud](https://account.adobe.com/)
 - [postman](https://www.postman.com/)
 - [sendgrid](https://sendgrid.kke.co.jp)
+
 
 ## Microsoft
 
@@ -56,7 +59,7 @@
 
 - [マイクロソフトイグナイト BOOK OF NEWS](https://news.microsoft.com/ignite-2022-book-of-news/ja/)
 - [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
-`
+
 ## Microsoft 資料
 
 - [Microsoft (有志)](https://zenn.dev/p/microsoft)
