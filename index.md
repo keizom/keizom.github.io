@@ -19,6 +19,7 @@
 - [GitGHub Copilot](https://github.com/settings/copilot)
 - [Chat GPT](https://chatgpt.com/)
 - [perplexity.ai/](https://www.perplexity.ai/)
+- [Perplexity Pro](https://www.perplexity.ai/pro)
 - [claude 3](https://www.anthropic.com/news/claude-3-family)
 - [Figma](https://www.figma.com/)
 - [ReSharper](https://account.jetbrains.com/)

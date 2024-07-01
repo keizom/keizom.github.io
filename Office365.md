@@ -17,6 +17,7 @@
 - [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
 - [ライセンス](https://m365maps.com/matrix.htm)
 - [Test Base for Microsoft 365とは何か、使ってみてわかった｢完全自動化｣の利点と課題](https://www.sbbit.jp/article/cont1/127133)
+- [自分のMicrosoft 365 環境を作ってみる](https://office365labo.com/2023/06/05/%e8%87%aa%e5%88%86%e3%81%a0%e3%81%91%e3%81%aemicrosoft-365-%e7%92%b0%e5%a2%83%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/)
 
 ## 認証関係
 
@@ -93,6 +94,10 @@
 
 ## Microsoft 365 Copilot
 
+- [Copilot Proの実力を探る](https://xtech.nikkei.com/atcl/nxt/column/18/02856/)
+- [Copilotに提案されたプロンプトや「Copilot Lab」を使ってみよう](https://xtech.nikkei.com/atcl/nxt/column/18/01787/062100144/)
+- [「Microsoft Copilot」にプロジェクトをフォローアップする「Copilot in Planner」が追加](https://forest.watch.impress.co.jp/docs/news/1597368.html)
+- [Microsoftが提供する生成AI「Copilot」は4種類、Officeアプリから使ってみよう](https://xtech.nikkei.com/atcl/nxt/column/18/01787/061700143/)
 - [「Copilot for Microsoft 365」を試してみよう【2024年6月7日】](https://dekiru.net/article/25468/)
 - [Copilot Studioに関するよくある質問](https://qiita.com/skuramoto/items/45491770cdf8df0d9cdd)
 - [Copilot for Microsoft 365 プロンプト活用クイックガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-04-Copilot-for-Microsoft-365-Prompts-Quick-Guide-SRGCM11973_LP01-Registration---Form-in-Body.html)

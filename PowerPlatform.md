@@ -100,6 +100,7 @@
 ## Power Apps
 
 - [Power Apps & GPT-4oを使って超高速で画像解析アプリを作る！](https://qiita.com/DEmodoriGatsuO/items/4c4734b78973970e0d3d)
+- [Power Platform で市民開発する際に、SharePoint リストのユーザーまたはグループ列を使う際にはまること](https://qiita.com/Takashi_Masumori/items/0160c44ba5404ac13237)
 - [部署異動の際の Power Apps や Power Automate の引継ぎについて](https://qiita.com/Takashi_Masumori/items/34fbad7d5b9d42e00b92)
 - [(Power Platfom 市民開発者向け) SharePoint リストについて](https://qiita.com/Takashi_Masumori/items/2c1cb62496171cf23cf6)
 - [【デザイン】私がしているPower Appsのアプリを作るときのデザインをよくする工夫](https://qiita.com/skuramoto/items/717cf173dd55cfb9adc6)

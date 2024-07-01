@@ -202,6 +202,7 @@
 ## Azure Bicep
 
 - [AzureでのIaCツール選びに迷ったらこれ！ARMTemplate, Bicep, Terraform, Pulumi 比較ガイド](https://qiita.com/s_w_high/items/534a6add2a37b172a6bb)
+- [Azure CLIやBicep CLIを最新版にアップデートする方法【Windows OS編】](https://atmarkit.itmedia.co.jp/ait/articles/2406/26/news032.html)
 - [GPT4-Vで構成図からIaCコードを生成させる](https://qiita.com/shyamagu/items/556f08282a91000c6b14)
 - [AzureにおけるIaC　Bicepに入門してみた](https://engineers.fenrir-inc.com/entry/2022/06/30/131400)
 - [VSCodeのTerraform拡張機能にTerraform Cloudビューが追加されました](https://dev.classmethod.jp/articles/vscode-extenstions-tfc-view/)
@@ -364,6 +365,10 @@
   > Azure DNS IP アドレスは 168.63.129.16 です。これは静的な IP アドレスであり、変更されません。
 
 - [IP アドレス 168.63.129.16 とは](https://docs.microsoft.com/ja-jp/azure/virtual-network/what-is-ip-address-168-63-129-16)
+
+## Azure Document Intelligence
+
+- [GraphRAGの簡易検証 ~Azure Document Intelligence, Neo4jを用いて~](https://qiita.com/Ruuchami/items/294d797798d4fca346ad)
 
 ## Azure Front Door
 
@@ -561,8 +566,15 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [【緊急企画】話題の ChatGPT 。Microsoft の担当者が登場！まだ序章！今話せること全部お話します！ビジネスで使える IT ネタをお届けする「ネタバース」 日本マイクロソフト](https://www.youtube.com/watch?v=wsQruf1KEJE)
 - [削除された Azure AI サービス リソースの復旧または消去](https://learn.microsoft.com/ja-jp/azure/ai-services/recover-purge-resources)
 
+### Claud3
+
+- [Claude3の使い方や料金を初心者向けに解説！【画像で解説】](https://highreso.jp/edgehub/wordgenerationai/howclaude3.html)
+- [Claude 3.5 Sonnetの進化を体感してみた](https://zenn.dev/acntechjp/articles/711642473bb502)
+- [Claude 3.5 Sonnet for Visionの使い方備忘録](https://qiita.com/Tadataka_Takahashi/items/b27ecb8c56bb64a11761)
+
 ### Local LLM
 
+- [[翻訳]LLMで1年間開発して学んだこと〜LLMプロダクト開発を成功に導くための実践的ガイド〜](https://zenn.dev/seya/articles/12c67b5d80670a)
 - [LLM開発のための環境構築](https://zenn.dev/elith/articles/e4dbbb62752e04)
 - [LLMプロダクト開発とはどういうものなのか？](https://note.com/erukiti/n/ne901fbb08145)
 - [基本に立ち戻る：LLMのプロンプト](https://nikkie-ftnext.hatenablog.com/entry/llm-prompt-basics-202405-few-shot-learning-and-chain-of-thought)
@@ -579,6 +591,9 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [RAGの性能を高める「Self-RAG」を3分で理解する](https://zenn.dev/knowledgesense/articles/67dd2a41fc4d0b)
 - [M1MacでOllamaを試したら爆速で驚いた](https://zenn.dev/yasuna/articles/284aa6bbf6124e)
 
+### RAG
+
+- [RAGで人間の脳を再現。「HippoRAG」を理解する](https://zenn.dev/knowledgesense/articles/913d07f490e9c7)
 
 ### Open Interpreter
 
@@ -598,13 +613,19 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ### Google Notebook L<
 
 - [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
+- [超長くてたくさんの資料も放り込めば、まとめてブレストにも付き合ってくれる有能助手「NotebookLM」の始め方（Google Tales）](https://www.techno-edge.net/article/2024/06/10/3446.html)
 
 ### LLM
 
 - [Open WebUI (Formerly Ollama WebUI) がすごい](https://qiita.com/moritalous/items/1cad6878ea750d18747c)
+- [「よーしパパ、Ollama で Llama-3-ELYZA-JP-8B 動かしちゃうぞー」](https://qiita.com/s3kzk/items/3cebb8d306fb46cabe9f)
+- [おすすめLLM（大規模言語モデル）比較11選｜各LLMの特徴や活用分野を詳しく紹介](https://furusatohonpo.jp/saas/generation-ai-llm/)
 
 ### Chat GPT
 
+- [Power Apps で ChatGPT と連携する実用的なアプリを作ってみました](https://qiita.com/Takashi_Masumori/items/8a07fb6d1869967ce1f9)
+- [【ChatGPT】無料で使う「GPT-4o」その概要と注意点](https://atmarkit.itmedia.co.jp/ait/articles/2406/10/news021.html)
+- [【ChatGPT】プロンプトエンジニアが教える、ChatGPTを最大限に活用するためのプロンプト作成術](https://qiita.com/suzuyu0115/items/93cd511b95aa0a22dd86)
 - [GPT-4o のマルチモーダル機能をさっそく試す](https://qiita.com/smats-rd/items/8cd88ca12efb947ce52b)
 - [ChatGPTプログラミングのすすめ](https://zenn.dev/nobucshirai/articles/chatgpt_programming)
 - [GPT-4oとは？ChatGPT最新AIモデル GPT-4o の使い方や料金を詳しく解説](https://aismiley.co.jp/ai_news/what-is-gpt4o/)
@@ -676,10 +697,16 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 - [Welcome to Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)
 
+### Gemini
+
+- [GoogleのAI「Gemini」って、何ができるの？知っておきたい基礎知識まとめました](https://www.lifehacker.jp/article/2406-difference-between-google-gemini-apps-and-models/)
+
+
 ### Command R
 
 - [まるで“いけない話ができるChatGPT”　ローカルAI「Command R+」の爆発的な可能性](https://ascii.jp/elem/000/004/198/4198080/)
 - [優秀と噂なCohere社のCommand R+でRAGチャットボットを簡単に構築して体験しよう！](https://qiita.com/itokazu/items/2b519ef301fdf1430486)
+
 
 ## プロンプトエンジニアリング
 
@@ -875,6 +902,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ## Azure VM
 
 - [Azure VM の送信接続 (SNAT) オプション まとめ](https://jpaztech.github.io/blog/network/snat-options-for-azure-vm/)
+- [VM(Windows 11) の日本語化の方法](https://office365labo.com/2024/06/21/vmwindows-11-%e3%81%ae%e6%97%a5%e6%9c%ac%e8%aa%9e%e5%8c%96%e3%81%ae%e6%96%b9%e6%b3%95/)
 - [Azureのデフォルトoutbound廃止に伴うSelf-hosted Agentへの影響](https://kkamegawa.hatenablog.jp/entry/2023/10/07/185453)
 - [Azure: VMのカスタムのスクリプト拡張機能をARMテンプレートで使用する際の設定方法について](https://tech-lab.sios.jp/archives/36757)
 - [「トラステッド起動」が既定になり、Azure VMはデプロイ時点で“安全”に](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news003.html)
@@ -900,6 +928,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## SendGrid
 
+- [GlockAppsで迷惑メール度を判定する](https://sendgrid.kke.co.jp/blog/?p=8210)
 - [Webhookとは？](https://sendgrid.kke.co.jp/blog/?p=1851)
 - [Twilio SendGridユーザがGmailのガイドラインに対応する具体的な方法](https://sendgrid.kke.co.jp/blog/?p=17611)
 - [新機能「Email Address Validation API」のご紹介](https://sendgrid.kke.co.jp/blog/?p=17715)

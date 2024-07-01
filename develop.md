@@ -194,6 +194,9 @@
 
 ## GitHub
 
+- [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
+-  [GitHubのプッシュ処理を改善した方法](https://github.blog/jp/2024-06-14-how-we-improved-push-processing-on-github/)
+- [開発者が知っておくべき Git コマンド12選](https://github.blog/jp/2024-06-13-top-12-git-commands-every-developer-must-know/)
 - [全エンジニアが知っておくべきGithubレポジトリTop28【2023最新版】](https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3)
 - [GitHub Projects を利用したタスク管理](https://user-first.ikyu.co.jp/entry/2023/11/09/175121)
 - [【入門】Github Gistとは？概要や基本的な使い方をわかりやすく解説](https://www.kagoya.jp/howto/it-glossary/develop/githubgist/)
@@ -212,6 +215,8 @@
 
 ## GitHub Copilot
 
+- [「GitHub Copilot」の機能をより便利に活用するには？ 操作方法やプログラミングなどの活用例をシーン別に紹介](https://codezine.jp/article/detail/19719)
+- [GitHub Copilot Chat 舐めていた](https://blog.nishimu.land/entry/2024/06/12/215706)
 - [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 - [ChatGPT APIの運用で必須のツール: LangChainの使い方まとめ (2)](https://qiita.com/sakasegawa/items/9b6c79dc11bc3a1bc0ed)
 - [GitHub Copilot Chat の一般提供が開始されました](https://dev.classmethod.jp/articles/github-copilot-chat-generally-available/)
@@ -258,6 +263,10 @@
     >
     > $host.EnterNestedPrompt()
 
+## .NET Aspire
+
+- [マイクロサービス作らなくても .NET Aspire って便利](https://zenn.dev/microsoft/articles/dotnet-aspire-minimal)
+
 ## Python
 
 - [僕の考えた最強の Python 開発環境 (2024)](https://zenn.dev/koki_algebra/articles/cd3341bcba9272)
@@ -274,6 +283,10 @@
 - [主にVSCodeではじめるPython開発環境構築ガイド](https://dev.classmethod.jp/articles/python-vscode-plugin/)
 - [Python環境構築](https://qiita.com/s8ry_mk/items/7bcac9c72bad8db10c39)
 
+## Phi-3 vision
+
+- [ローカルPCでマルチモーダルなSLM「Phi-3 vision」を動かす](https://zenn.dev/microsoft/articles/20240604-phi3-vision-onnx)
+
 ## swagger
 
 - [今日から始めるswagger入門（最低限書けるようになる）](https://qiita.com/yuya_sega/items/0b87e8e7d494f6fa3d69)
@@ -284,6 +297,7 @@
 
 - [開発に使える脆弱性スキャンツール](https://engineers.ntt.com/entry/2022/12/07/113602)
 - [シェル・ワンライナー 160 本ノックを完走した](https://engineers.ntt.com/entry/2022/12/04/071122)
+- [エンジニアのための十徳ナイフ「DevToys」がバージョン２になってクロスプラットフォームやCLI対応しさらに便利すぎる](https://qiita.com/danishi/items/a75ab904da66cecc71b4)
 
 ## TypeScript
 
@@ -292,6 +306,7 @@
 ## VisualStudio Code
 
 - [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
+- [VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか)](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
 - [Visual Studio CodeでLinux ホストリモート開発](https://qiita.com/whim0321/items/ae72b2dd5fd41beaef04)
 - [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
 - [ローカルのVSCodeからRemote SSHでLinuxにSSH接続する](https://tekkubu.com/remote-ssh/)

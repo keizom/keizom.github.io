@@ -360,3 +360,4 @@
 ## Microsoft Syntex
 
 - [Microsoft Ignite 2022 Recap: 凄い! Microsoft Syntex による最新のMicrosoft 365 コンテンツ管理を学ぼう](https://shanqiai.lekumo.biz/sharepoint_technical_note/2022/10/microsoft-ignite-2022-recap-microsoft-syntex.html)
+- [Overview of autofill columns in Microsoft Syntex](https://learn.microsoft.com/en-us/microsoft-365/syntex/autofill-overview)

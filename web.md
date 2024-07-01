@@ -27,6 +27,8 @@
 
 ## figma
 
+- [プロダクトを横断したFigmaコンポーネント構築 〜「インスタンスガイドライン」を策定した話〜](https://zenn.dev/levtech/articles/0271c278f88584)
+- [Figmaでちょっとしたデザインをつくるときに使っているプラグイン8選](https://ics.media/entry/240603/)
 - [Figma初心者でも大丈夫！ レスポンシブWebデザインをFigmaで作るための3つのポイント](https://stocker.jp/diary/figma-rwd-point/)
 - [XDからFigmaへ移行したい人のためにFigmaの機能を紹介](https://stocker.jp/diary/xd-to-figma/)
 - [エンジニア向けFigmaの使い方を徹底解説](https://liginc.co.jp/blog/tech/639546)
@@ -57,6 +59,7 @@
 ## html
 
 - [生成AI時代のフロントエンド開発術](https://zenn.dev/silverbirder/articles/47965727b4f05b)
+- [シンプルなHTMLで、レスポンシブとライト・ダークモード対応のモダンなWebページを簡単に作成できる超軽量CSSライブラリ -matcha.css](https://coliss.com/articles/build-websites/operation/css/css-library-matcha.html)
 - [2024年版 HTMLで作るフォームバリデーション](https://ics.media/entry/240418/)
 - [Webデザインに必須のコーディングの基礎知識【初心者向け】](https://liginc.co.jp/643347)
 - [令和のHTML / CSS / JavaScriptの書き方50選](https://zenn.dev/necscat/articles/bc9bba54babaf5)
