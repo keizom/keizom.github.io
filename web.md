@@ -18,6 +18,10 @@
 
 - [2023年度版フロントエンド開発環境構築徹底解説](https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf)
 - [Webの次世代アーキテクチャ - PESPA](https://qiita.com/takagimeow/items/ac814c1e5b5d9e8a76e1)
+- [世界一わかりみが深いかもしれないフロントエンドのビルド周り](https://tech-lab.sios.jp/archives/41659)
+- [これだけ守れば見やすくなるデザインの基礎](https://speakerdeck.com/kinakobooster/koredakeshou-rebajian-yasukunarudezainfalseji-chu)
+- [デジタル庁デザインシステム デザインデータ v2.0.2](https://www.figma.com/community/file/1377880368787735577/v2-0-2)
+- [Webエンジニアの学習ロードマップが知れるサイト](https://qiita.com/hirokazu_nakao/items/26d90b2e8a582a474df3)
 
 ## Carousel
 
@@ -28,6 +32,8 @@
 ## figma
 
 - [プロダクトを横断したFigmaコンポーネント構築 〜「インスタンスガイドライン」を策定した話〜](https://zenn.dev/levtech/articles/0271c278f88584)
+- [FigmaのAIによる学習「コンテンツのトレーニング」をオフにする方法、独自性・機密性の高いデザインを扱っている場合は注意が必要です](https://coliss.com/articles/build-websites/operation/work/figma-ai-will-use-your-content-to-train.html)
+- [Figmaの実践的な使い方がこれでよく分かる！ UIコンポーネントの作り方にフォーカスされた解説書 -Figmaで作るUIデザインアイデア集](https://coliss.com/articles/book-review/isbn-9784295019084.html)
 - [Figmaでちょっとしたデザインをつくるときに使っているプラグイン8選](https://ics.media/entry/240603/)
 - [Figma初心者でも大丈夫！ レスポンシブWebデザインをFigmaで作るための3つのポイント](https://stocker.jp/diary/figma-rwd-point/)
 - [XDからFigmaへ移行したい人のためにFigmaの機能を紹介](https://stocker.jp/diary/xd-to-figma/)
@@ -58,7 +64,12 @@
 
 ## html
 
+- [これはすごい便利！ WebサイトやスマホアプリのUIに今時のアニメーションやインタラクションを簡単に実装できる -Animata](https://coliss.com/articles/build-websites/operation/work/animate-ui-interaction-and-animations.html)
+- [ChatGPTでデザインのレビューをしてもらおう](https://www.webcreatorbox.com/inspiration/chatgpt-design-review)
+- [Webサイトを使いやすく改善する、知っておくと便利なCSSのテクニック](https://coliss.com/articles/build-websites/operation/css/css-one-liners-for-almost-every-project.html)
+- [【2024年最新動向】日本発の「いけてる」デザインシステム事例10選](https://goodpatch.com/blog/2024-07-10cooldesignsystems)
 - [生成AI時代のフロントエンド開発術](https://zenn.dev/silverbirder/articles/47965727b4f05b)
+- [Open-Source UI elements for any project](https://uiverse.io/)
 - [シンプルなHTMLで、レスポンシブとライト・ダークモード対応のモダンなWebページを簡単に作成できる超軽量CSSライブラリ -matcha.css](https://coliss.com/articles/build-websites/operation/css/css-library-matcha.html)
 - [2024年版 HTMLで作るフォームバリデーション](https://ics.media/entry/240418/)
 - [Webデザインに必須のコーディングの基礎知識【初心者向け】](https://liginc.co.jp/643347)
@@ -250,6 +261,10 @@
 -[Vue.jsとjQueryの違いは メリット・デメリットを歴史的に比較](https://runteq.jp/blog/programming-school/other/2774/)
 - [【他のSPAでも】Vue3でアプリ作るならこれを入れろ！2023 ver【使えるよ】](https://qiita.com/k2-kanda/items/42e7df9a578495a5a215)
 - [【Vue.js】今、ゼロから Vue を学び始めるならこうやるといいんじゃないか (2024) 【初学者向け】](https://zenn.dev/comm_vue_nuxt/articles/start-to-learn-vue-2024)
+
+## react
+
+- [【2024年最新版】0からReactを勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/7d8c6f309dddda1a3961)
 
 ## Microsoft Clarity
 

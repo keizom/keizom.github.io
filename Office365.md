@@ -94,7 +94,14 @@
 
 ## Microsoft 365 Copilot
 
+- [「Microsoft Copilot」活用法](https://www.youtube.com/watch?v=DTCwUOd08-I)
+- [Microsoft Copilotはここから使え　初心者のための活用講座](https://kn.itmedia.co.jp/kn/articles/2407/17/news023.html)
 - [Copilot Proの実力を探る](https://xtech.nikkei.com/atcl/nxt/column/18/02856/)
+- [MicrosoftのAIアシスタント「Copilot」の目玉新機能まとめ｜Officeアプリとの連携がより強化！](https://www.lifehacker.jp/article/2407-the-best-new-features-you-can-use-on-microsoft-copilot-right-now/)
+- [Copilot for Microsoft 365 について (5)](https://qiita.com/tadanok/items/1b0c4eae3b10a8283a1d)
+- [図解:アクセンチュア流「Microsoft Copilotの使い方」、「4つの効果とその仕組み」を解説](https://www.sbbit.jp/article/cont1/143882)
+- [Microsoft Copilotはここから使え　初心者のための活用講座](https://kn.itmedia.co.jp/kn/articles/2407/17/news023.html)
+- [Copilot in Word、選択したコンテンツの編集や校正をサポート](https://news.mynavi.jp/techplus/article/20240722-2989528/)
 - [Copilotに提案されたプロンプトや「Copilot Lab」を使ってみよう](https://xtech.nikkei.com/atcl/nxt/column/18/01787/062100144/)
 - [「Microsoft Copilot」にプロジェクトをフォローアップする「Copilot in Planner」が追加](https://forest.watch.impress.co.jp/docs/news/1597368.html)
 - [Microsoftが提供する生成AI「Copilot」は4種類、Officeアプリから使ってみよう](https://xtech.nikkei.com/atcl/nxt/column/18/01787/061700143/)
@@ -116,6 +123,10 @@
 - [The AI-Powered Future of Work](https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot)
 - [Microsoft Copilot for Microsoft 365で何ができる？使い方・利用料金・導入方法などを徹底解説](https://www.lifehacker.jp/article/how-to-use-microsoft-365-copilot/)
 
+## Microsoft Designer
+
+- [無料で使えるMicrosoftの生成AI「Microsoft Designer」で始める画像生成](https://forest.watch.impress.co.jp/docs/serial/offitech/1609858.html)
+
 ## Developer Subscription
 
 - [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
@@ -124,6 +135,7 @@
 - [Office 365 評価版サイト申し込み](https://www.microsoft.com/ja-jp/microsoft-365/enterprise/compare-office-365-plans)
 - [Microsoft 365 Enterprise のテスト ラボ ガイド - Microsoft 365 Enterprise Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/m365-enterprise-test-lab-guides?view=o365-worldwide)
 - [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
+- [Microsoft 365 開発者プログラム サブスクリプションへの参加条件の変更](https://shanqiai.lekumo.biz/sharepoint_technical_note/2024/07/microsoft-365-be36.html)
 
 ## BandWidth
 
@@ -231,6 +243,9 @@
 
 ## Teams
 
+- [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
+- [Microsoft Teamsの表示をカスタマイズ、既定のリアクションを変更しよう](https://active.nikkeibp.co.jp/atcl/act/19/00390/061300092/)
+- [TeamsのIncomming Webhookコネクタが廃止されるようなのでPowerAutomateのワークフローに移行してみる](https://qiita.com/fukasawah/items/896c3638c203a973c2f0)
 - [【Sampleアプリ】Teams用の組織階層アドレス帳](https://qiita.com/Nagaaki_Iwata/items/0860c79bb958ab152af0)
 - [ChatGPTをMicrosoft Teamsから使う仕組みをノーコードで作ろう](https://ascii.jp/elem/000/004/146/4146380/)
 - [「Microsoft Teams」の「Project」「Roadmap」アプリ発表 - CNET Japan](https://japan.cnet.com/article/35161885/)

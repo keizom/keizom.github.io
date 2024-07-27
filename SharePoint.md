@@ -326,6 +326,7 @@
 - [Graph API では SharePoint リストのハイパーリンク列が操作できない件](https://zenn.dev/ymasaoka/articles/graphapi-connot-manipulate-splist-hyperlink-col)
 - [Streamline your SharePoint experience with the new Microsoft Graph SharePoint Admin API](https://devblogs.microsoft.com/microsoft365dev/streamline-your-sharepoint-experience-with-the-new-microsoft-graph-sharepoint-admin-api/)
 - [Microsoft Graph API PowerShell で SPO からファイルをダウンロード](https://zenn.dev/microsoft/articles/3a99b025a0005e)
+- [Direct File Download API support for SharePoint files through Microsoft Graph](https://www.youtube.com/watch?app=desktop&v=L3R6NX3wEiw)
 
 ## Fiddler
 
@@ -361,3 +362,13 @@
 
 - [Microsoft Ignite 2022 Recap: 凄い! Microsoft Syntex による最新のMicrosoft 365 コンテンツ管理を学ぼう](https://shanqiai.lekumo.biz/sharepoint_technical_note/2022/10/microsoft-ignite-2022-recap-microsoft-syntex.html)
 - [Overview of autofill columns in Microsoft Syntex](https://learn.microsoft.com/en-us/microsoft-365/syntex/autofill-overview)
+- [SharePoint Syntexでドキュメントライブラリのプロパティ追加を自動化する -Excel編-](https://blog.jbs.co.jp/entry/2023/03/14/163312)
+- [SharePoint Premium (Microsoft Syntex)](https://x.com/ai_yamasaki/status/1810990053411410435?t=X-NeLhLNdc_kQOlU3Xa7JA&s=19)
+
+## SharePoint Workflow Manager
+
+- [SharePoint Workflow Manager](https://www.microsoft.com/en-us/download/details.aspx?id=104867)
+- [SharePoint Server のワークフローのインストールと構成](https://learn.microsoft.com/ja-jp/sharepoint/governance/install-and-configure-workflow-for-sharepoint-server)
+- [[SP2013] Workflow Manager 1.0 のインストール](https://shanqiai.lekumo.biz/sharepoint_technical_note/2013/02/sp2013-workflow-manager-1-installation.html)
+- [ビデオ シリーズ: SharePoint Server 2013 でワークフローをインストールおよび構成する](https://learn.microsoft.com/ja-jp/sharepoint/governance/video-series-install-and-configure-workflow-in-sharepoint-server-2013)
+

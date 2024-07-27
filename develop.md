@@ -118,9 +118,12 @@
 ## Dev Home
 
 - [Dev Home とは](https://learn.microsoft.com/ja-jp/windows/dev-home/)
+- [Windowsが今更（？）開発者に優しくなろうとしている!? 「Dev Home」は開発者にとって使い物になる？](https://ascii.jp/elem/000/004/205/4205741/)
 
 ## Docker
 
+- [Dockerがわからない人へ。これ1本で0から学べる丁寧なDocker入門](https://qiita.com/Sicut_study/items/4f301d000ecee98e78c9)
+- [Web開発において複数人で同じ環境を用意しよう(Dockerの基本)](https://qiita.com/JavaLangRuntimeException/items/6f6d03bd6d1e69c9e67e)
 - [超簡単! Kubernetesデバッグチートシート](https://qiita.com/reoring/items/e82bf912cf76570ed21f)
 - [.NETでDev Containerに入門してみた【初心者向け】](https://tech-lab.sios.jp/archives/40541)
 - [これを知らないともったいない！Kubernetes関連の便利ツール20選](https://qiita.com/suin/items/3c4df13ad3478ffe7b5d)
@@ -162,6 +165,7 @@
 
 - [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
 - [【Git中級者への第一歩】リリースプロセスの品質を上げるブランチ戦略、開発をもっと便利にするコマンドとは](https://codezine.jp/article/detail/19413)
+- [初めてのGitは電車で例えて学ぼう！初学者向け基本Gitコマンド入門](https://qiita.com/k_uki512/items/7c1856edbade1bc7b98a)
 - [ゼロから学ぶGit/GitHubを勝手に補足](https://zenn.dev/karaage0703/articles/d90c18f65921fc)
 - [いまさらだけどGitを基本から分かりやすくまとめてみた](https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0)
 - [Gitの内部構造をよく理解して、うまく使おう【基本の仕組みを解説】](https://codezine.jp/article/detail/17328)
@@ -194,8 +198,10 @@
 
 ## GitHub
 
+- [Gitの仕組みと用語 / GitHub Term](https://speakerdeck.com/kaityo256/github-term)
+- [5分でできる！GitHub README プロフィール](https://qiita.com/mmnn/items/cf465d271171cba8bd51)
 - [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
--  [GitHubのプッシュ処理を改善した方法](https://github.blog/jp/2024-06-14-how-we-improved-push-processing-on-github/)
+- [GitHubのプッシュ処理を改善した方法](https://github.blog/jp/2024-06-14-how-we-improved-push-processing-on-github/)
 - [開発者が知っておくべき Git コマンド12選](https://github.blog/jp/2024-06-13-top-12-git-commands-every-developer-must-know/)
 - [全エンジニアが知っておくべきGithubレポジトリTop28【2023最新版】](https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3)
 - [GitHub Projects を利用したタスク管理](https://user-first.ikyu.co.jp/entry/2023/11/09/175121)
@@ -215,6 +221,7 @@
 
 ## GitHub Copilot
 
+- [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 - [「GitHub Copilot」の機能をより便利に活用するには？ 操作方法やプログラミングなどの活用例をシーン別に紹介](https://codezine.jp/article/detail/19719)
 - [GitHub Copilot Chat 舐めていた](https://blog.nishimu.land/entry/2024/06/12/215706)
 - [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
@@ -305,7 +312,10 @@
 
 ## VisualStudio Code
 
+- [次世代エディタ6選](https://qiita.com/twrcd1227/items/4faccd04f0f19f3fdb5e)
+- [【VSCode】オススメの拡張機能と設定](https://qiita.com/twrcd1227/items/16c685b626ad548810c7)
 - [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
+- [VSCode で最高の LaTeX 環境を作る](https://qiita.com/rainbartown/items/d7718f12d71e688f3573)
 - [VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか)](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
 - [Visual Studio CodeでLinux ホストリモート開発](https://qiita.com/whim0321/items/ae72b2dd5fd41beaef04)
 - [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
@@ -499,6 +509,10 @@
 ## WSH
 
 - [第18回　FileSystemObjectオブジェクトを利用する](https://atmarkit.itmedia.co.jp/ait/articles/0906/03/news120_2.html)
+
+## Wireshark
+
+- [Wiresharkで観察して理解するHTTPS（HTTP over TLS）の仕組み](https://tech-blog.rakus.co.jp/entry/20240701/wireshark)
 
 ## 学習サイト
 

@@ -23,6 +23,9 @@
 - [MacのDockに現在のCPU使用率をリアルタイムで表示してくれるCPUメーター「CPU mini」がリリース](https://applech2.com/archives/20240206-cpu-mini-for-mac-dock.html)
 - [クリック1つでMacの様々な機能をON/OFFできる「OnlySwitch」がmacOS 14 Sonomaのデスクトップ・ウィジェットに対応。](https://applech2.com/archives/20240319-onlyswitch-for-mac-support-sonoma-widgets.html)
 - [Macで文章入力の手間を省くなら「TRex」](https://www.lifehacker.jp/article/2405this-app-can-copy-text-from-anything-on-your-screen/)
+- [初めて買ったMacが使いにくかったらすぐ試したい5つの基本設定｜今さら聞けないMacの便利テク](https://www.goodspress.jp/howto/616440/2/)
+- [Mac版ChatGPTアプリの基本的な使い方](https://www.gizmodo.jp/2024/07/basic-chatgpt-for-mac.html)
+- [ChatGPTのMac用無料アプリがかなりイケてる](https://zenn.dev/akira11/articles/3ae5aee61d2ee9)
 
 ### Setup
 

@@ -304,6 +304,7 @@ Add-SPDistributedCacheServiceInstance
 - [基本的なシステム構成図を理解するためのAWS基礎をまとめてみた](https://qiita.com/g_ayushi/items/0e0f34d19813b8fdc2b8)
 - [PowerShellからAWSを操作するための設定](https://qiita.com/kkksssyyy/items/3e137e89b0fb22aecba5)
 - [【AWS初心者向け】AWS学習方法まとめ【15時間で達成できる】](https://qiita.com/toma_shohei/items/b7a001d26bd988d52021)
+- [東京大学のAWS入門資料がいい感じだったので最新のAWS環境でも実行できるようにしてみた](https://qiita.com/ampspeed/items/94cae966ba2cdc4fac10)
 
 # Ansible
 
@@ -321,9 +322,29 @@ Add-SPDistributedCacheServiceInstance
 
 - [Windows使いが理解に苦しむ“Linux多過ぎ”問題](https://atmarkit.itmedia.co.jp/ait/articles/2401/14/news002.html)
 - [Linuxでの調査時に高頻度で使用してきたコマンドまとめ](https://qiita.com/hirssk/items/aed3fd28462f5ac245cf)
-- [【永久保存版】シェルスクリプト完全攻略ガイド #初心者 - Qiita](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
-- [Surface Go 3: Windows 11とUbuntu 22.04 LTSのデュアルブート環境を構築する](https://remoteroom.jp/diary/2023-09-03/)
 - [厳選Linuxフリーソフト100](https://xtech.nikkei.com/atcl/nxt/column/18/02713/)
+
+## Shell
+
 - [シェルスクリプトとjqコマンドでJSONをループして中身を取り出す](https://pakapaka.jp/shell-json-loop/)
 - [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
+
+## ubuntu
+
+- [Surface Go 3: Windows 11とUbuntu 22.04 LTSのデュアルブート環境を構築する](https://remoteroom.jp/diary/2023-09-03/)
 - [Ubuntuフレーバー10種類総ざらい](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0808)
+- [Ubuntuインストールしたら行う初期設定チートシート](https://qiita.com/reisuta/items/9fdfb32a4da1bdec1a8e)
+
+## RedHat
+
+- [RHEL7以降の初期設定について](https://qiita.com/ftoshiki/items/f1863cccb14c6ce808bd)
+- [Linux(Cent,RHEL,Alam)のおすすめ初期設定](https://www.kayura-se.com/entry/2022/08/08/024012)
+- [RHEL7 よくある初期構築設定のコマンド詰め合わせ](https://dev.classmethod.jp/articles/ec2-rehl7-first-buildcmd/)
+- [RHELの開発者用サブスクリプションを取得する方法](https://qiita.com/SkyLaptor/items/31eb7b506339718455d4)
+- [Red Hat Developer Programに登録して最大16台までRHELを使おう](https://qiita.com/yamada-hakase/items/dc39d29fda693238d113)
+- [RHEL9での変更点（セキュリティ編：Part1 SELinuxの無効化について）](https://security.sios.jp/security/rhel9-security-part1-selinux/)
+
+## WSL
+
+- [WindowsのWSL2がsystemdに対応したらしいので、Rocky Linux9入れて使ってみる](https://labo.mycabin.net/diary/1574/)
+- [WSLでRed Hat Enterprise Linuxを利用する](https://roy-n-roy.nyan-co.page/Windows/WSL%EF%BC%86%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/rhel/)

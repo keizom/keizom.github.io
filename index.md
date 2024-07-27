@@ -51,6 +51,11 @@
 - [Microsoft Build 2024 キーノート完全日本語化まとめ・意訳](https://memo.tyoshida.me/others/microsoft-build-2024-keynote-japanaese-recap/)
 - [Azure インフラ 仮想マシン関連まとめ - Microsoft Build 2024](https://qiita.com/Olivia_0707/items/2afdb74a99dbbe8d3f68)
 - [Microsoft Build 2024 - インフラ関連アップデートまとめ](https://zenn.dev/openjny/articles/cebe1121f4bc5c)
+- [Microsoft Build Japan 2024](https://www.youtube.com/playlist?list=PL1RqQ3kddIpYpXBUz-Yduh4nXEhpqinCB)
+
+## 日本リスキリングコンソーシアム
+
+- [日本リスキリングコンソーシアム](https://japan-reskilling-consortium.jp/)
 
 ## Microsoft 365 Day 2024
 
@@ -176,6 +181,7 @@
 
 # 資料
 
+- [【2024年度】エンジニア向け研修資料まとめ](https://qiita.com/nucomiya/items/29965f1915436f2cfc79)
 - [Microsoft 365 Virtual Marathon 2022 Japanese Track](https://connpass.com/event/243871/presentation/)
 - [【まとめ】大学が公開している有益な資料](https://qiita.com/KNR109/items/02e08d17dba01d9c2fd6)
 - [レベルアップしたい人必見　Qiita記事43選](https://qiita.com/tadashiro_ninomiya/items/ac994dfa0094c9e58f7d)
@@ -197,4 +203,8 @@
 - [「Virtual Desktop」に、マルチモニター機能（β版）実装 Meta Quest 3で最大3枚まで表示可能に](https://www.moguravr.com/virtual-desktop-beta-1-32-0/)
 - [「Meta Quest 3」をしばらく使ってみて分かったこと 長所と短所を紹介](https://www.moguravr.com/meta-quest-3-review-2/)
 - [【VR】Quest 3 で PC VR : Virtual Desktop, Steam Link, Quest Air Link どれを使えばよいのか？](https://joytokey.net/ja/blog/vr/high-quality-wireless-pc-vr/)
+- [Meta QuestでWordとExcelを体験！VRが予想外の「集中部屋」に進化していた #TrendBuzz](https://www.lifehacker.jp/article/2401-tb-meta-quest-app/)
 
+# Darkweb
+
+-[「え！こんなにも…」ダークウェブへのあなたの個人情報流出を一発チェック、Googleのツール無料化に期待大](https://jbpress.ismedia.jp/articles/-/82138)

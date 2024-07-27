@@ -76,11 +76,14 @@
 ## Power Platform
 
 - [Power Virtual AgentsのCopilot　次世代AIが自然言語によるボット構築を支援](https://community.dynamics.com/blogs/post/?postid=42bca5ec-1a39-43ab-9b4a-59e1b1037fa5)
+- [MicrosoftのPlatform Engineeringガイドを読んで実際になにかやってみた](https://speakerdeck.com/ymd65536/platform-engineeringgaidowodu-ndeshi-ji-ninanikayatutemita)
+- [Power Platform 環境払い出し申請業務を効率化しよう](https://qiita.com/Takashi_Masumori/items/bf458a93ac89bfa641a1)
 - [Power Platformで実現するアプリ開発の未来](https://community.dynamics.com/blogs/post/?postid=73f1783c-8d1e-4439-97e0-17739a54e487)
 - [Power Platform × Azure OpenAI の価値](https://qiita.com/Takashi_Masumori/items/bef0a07a521cae238064)
 - [Microsoft Build 2023】Power Platform 関連の発表まとめ【速報】](https://qiita.com/kumukai/items/3d4ff6a00aa05c3a7e71)
 - [更に強化された次世代のAI/GPT機能により Power Apps はより多くのプログラマーに力を](https://memo.tyoshida.me/power-platform/powerapps/next-gen-ai-capabilities-empower-developers/)
 - [Microsoft Build 2023 キーノートまとめ – Windows Copilot、Microsoft Fabric、Azure AI Studioなどを発表](https://memo.tyoshida.me/others/microsoft-build-2023-keynote-summary/)
+- [横河電機は新入社員研修にPower Platform と生成AI を取り入れDX人財育成を加速](https://community.dynamics.com/blogs/post/?postid=d4f92e6f-2d40-ef11-8409-6045bdd49f80)
 
 ## Figma
 
@@ -99,6 +102,8 @@
 
 ## Power Apps
 
+- [365ユーザー向け、キャンバスアプリの作り方](https://learn.microsoft.com/ja-jp/collections/j0xzun463pkrng?sharingId=M365-MVP-5000493)
+- [365ユーザー向け、クラウドフローの作り方](https://learn.microsoft.com/ja-jp/collections/yjoqipk6wznk2z?sharingId=M365-MVP-5000493)
 - [Power Apps & GPT-4oを使って超高速で画像解析アプリを作る！](https://qiita.com/DEmodoriGatsuO/items/4c4734b78973970e0d3d)
 - [Power Platform で市民開発する際に、SharePoint リストのユーザーまたはグループ列を使う際にはまること](https://qiita.com/Takashi_Masumori/items/0160c44ba5404ac13237)
 - [部署異動の際の Power Apps や Power Automate の引継ぎについて](https://qiita.com/Takashi_Masumori/items/34fbad7d5b9d42e00b92)
@@ -188,6 +193,10 @@
 - [コネクタのドキュメント - Connectors  Microsoft Docs](https://docs.microsoft.com/ja-jp/connectors/)
 - [マイクロソフトが Power Automate の機能を強化する Process Advisor を公開、反復の多い作業のワークフローを効率化](https://jp.techcrunch.com/2020/12/10/2020-12-09-microsoft-brings-new-process-mining-features-to-power-automate/)
 
+## PowerQuery
+
+- [Excelをノーコードで自動化しよう! パワークエリの教科書 第10回 フォルダーからデータを取得する方法](https://news.infoseek.co.jp/article/mynavi_2789152/)
+
 ## Power Virtual Agents
 
 - [Power Virtual Agents](https://powerva.microsoft.com/#/dialog/4c6f7ea5-a79a-48c5-ade0-7553c95a880d)
@@ -200,6 +209,12 @@
 
 ## Power BI
 
+- [Microsoft ID プラットフォームと OAuth 2.0 クライアント資格情報フロー](https://learn.microsoft.com/ja-jp/entra/identity-platform/v2-oauth2-client-creds-grant-flow)
+- [[Power BI] Power Query の Web.Contents 関数でREST APIを使う（仮）](https://qiita.com/spumoni/items/419ffd1f07947a07cad0)
+- [Microsoft Graph データ接続の概要](https://learn.microsoft.com/ja-jp/graph/data-connect-concept-overview)
+- [監査ログの検索](https://learn.microsoft.com/ja-jp/purview/audit-search?tabs=microsoft-purview-portal)
+- [Visualize your Azure Audit Logs with Power BI](https://powerbi.microsoft.com/ja-jp/blog/monitor-azure-audit-logs-with-power-bi/)
+- [Power BI Proを使って海外式履歴書を作ってみよう](https://memo.tyoshida.me/office-365/lets-make-resume-with-power-bi-pro/)
 - [#PowerAutomate で #PowerBI サービスから pbixファイル を自動取得する](https://qiita.com/yamad365/items/0748379102f323a9bb06)
 - [【働き方の可視化】Power BI × Graph API で O365 のデータを取得する方法](https://qiita.com/komiyasa/items/b58839be68c2bfb39454)
 - [Power Apps(Power Automate) Power BI APIへのカスタムコネクタの作成！ Power BIから色々な情報を持ってくる！](https://ippu-biz.com/development/powerplatform/powerapps/customconnector-powerbi/)
