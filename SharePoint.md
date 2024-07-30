@@ -372,3 +372,6 @@
 - [[SP2013] Workflow Manager 1.0 のインストール](https://shanqiai.lekumo.biz/sharepoint_technical_note/2013/02/sp2013-workflow-manager-1-installation.html)
 - [ビデオ シリーズ: SharePoint Server 2013 でワークフローをインストールおよび構成する](https://learn.microsoft.com/ja-jp/sharepoint/governance/video-series-install-and-configure-workflow-in-sharepoint-server-2013)
 
+## ライブラリバージョン
+
+- [SharePoint: バージョン履歴の制限 (プレビュー)](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2024/07/sharepoint-e21d.html)

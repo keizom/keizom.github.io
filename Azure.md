@@ -575,6 +575,12 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [【緊急企画】話題の ChatGPT 。Microsoft の担当者が登場！まだ序章！今話せること全部お話します！ビジネスで使える IT ネタをお届けする「ネタバース」 日本マイクロソフト](https://www.youtube.com/watch?v=wsQruf1KEJE)
 - [削除された Azure AI サービス リソースの復旧または消去](https://learn.microsoft.com/ja-jp/azure/ai-services/recover-purge-resources)
 
+### 公式ガイド
+
+- [プロンプトエンジニアリングの戦略と戦術（OpenAI公式ガイド・ ChatGPT）](https://note.com/martins_day/n/ncc5fb07467ed)
+- [プロンプトエンジニアリングは公式ガイドを参考にしよう（OpenAI・Microsoft・Google）](https://note.com/martins_day/n/n057d451467e5)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+
 ### 資料
 
 - [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
@@ -629,6 +635,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [RAGで人間の脳を再現。「HippoRAG」を理解する](https://zenn.dev/knowledgesense/articles/913d07f490e9c7)
 - [生成AIのRAG構成を大手3社（AWS、Azure、Google Cloud）で徹底比較してみた](https://blog.g-gen.co.jp/entry/comparing-rag-architecture-across-cloud-vendors)
 - [Microsoft⁠⁠、RAGの機能を拡張⁠⁠、強化させたGraphRAGを一般利用可能に](https://gihyo.jp/article/2024/07/microsoft-graphrag)
+- [Exploring the Advanced RAG (Retrieval Augmented Generation) Service](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/exploring-the-advanced-rag-retrieval-augmented-generation/ba-p/4197836)
 
 ### Open Interpreter
 
