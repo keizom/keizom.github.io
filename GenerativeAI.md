@@ -15,106 +15,11 @@
 
 # Generative AI
 
-## 公式ガイド
-
-- [プロンプトエンジニアリングの戦略と戦術（OpenAI公式ガイド・ ChatGPT）](https://note.com/martins_day/n/ncc5fb07467ed)
-- [プロンプトエンジニアリングは公式ガイドを参考にしよう（OpenAI・Microsoft・Google）](https://note.com/martins_day/n/n057d451467e5)
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-
-## 資料
-
-- [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
-- [Claude の Projects にライブラリのリファレンスを丸ごと入れてみる](https://qiita.com/kunishou/items/ed097b46cd78030e0b29)
-- [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)
-
-## Claud3
-
-- [Claude3の使い方や料金を初心者向けに解説！【画像で解説】](https://highreso.jp/edgehub/wordgenerationai/howclaude3.html)
-- [Claude 3.5 Sonnetの進化を体感してみた](https://zenn.dev/acntechjp/articles/711642473bb502)
-- [Claude 3.5 Sonnet for Visionの使い方備忘録](https://qiita.com/Tadataka_Takahashi/items/b27ecb8c56bb64a11761)
-- [Claude 3.5 SonnetでWord企画書をブラッシュアップ｜ウィンドウの切り替えがいらないって快適だ！](https://www.lifehacker.jp/article/2407-claude-sonnet/)
-- [Claude神アプデ。「Artifacts」に共有機能が追加され、プログラミング知識なしでも自作のゲームやツールが公開できるようになった](https://ascii.jp/elem/000/004/209/4209077/)
-- [Anthropic Consoleで プロンプトの生成・テスト・評価 を試す](https://note.com/npaka/n/na0ddd7e30dd6)
-- [GPT-4o超え？Anthropic「Claude 3.5 Sonnet」を使ってみた](https://liginc.co.jp/647254)
-- [Claudeの利用制限を回避するコツ](https://note.com/genkaijokyo/n/nd84c60300cbb)
-- [Claude 3.5 Sonnet vs GPT-4o — An honest revie](https://hackernoon.com/claude-35-sonnet-vs-gpt-4o-an-honest-review)
-- [【完全版】GPT-4o超えで話題沸騰のClaude 3.5 Sonnetの使い方と活用事例15選を徹底解説《プロンプトテンプレートと他LLMとの比較付》　7,000文字近くの決定版。](https://note.com/chaen_channel/n/nd6162d2b7312)
-
-## Gemini
-
-- [Gemini for Google Workspace Prompt Guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
-
-## Local LLM
-
-- [[翻訳]LLMで1年間開発して学んだこと〜LLMプロダクト開発を成功に導くための実践的ガイド〜](https://zenn.dev/seya/articles/12c67b5d80670a)
-- [LLM開発のための環境構築](https://zenn.dev/elith/articles/e4dbbb62752e04)
-- [LLMプロダクト開発とはどういうものなのか？](https://note.com/erukiti/n/ne901fbb08145)
-- [基本に立ち戻る：LLMのプロンプト](https://nikkie-ftnext.hatenablog.com/entry/llm-prompt-basics-202405-few-shot-learning-and-chain-of-thought)
-- [【ollama / Phi-3】ニュースで話題のLLMをローカルPC上で動かしてみる](https://zenn.dev/tanny/articles/705682d88e254e)
-- [MacでLocalでLLMを走らせるならLM Studioが楽。](https://qiita.com/ponnhide/items/b46a95228d0b832f1770)
-- [ローカルLLMを手軽に楽しむ](https://zenn.dev/karaage0703/articles/c271ca65b91bdb)
-- [準備0でローカルLLMを動かす(LM Studio)](https://zenn.dev/howtelevision/articles/95e62c480b34a8)
-- [Llama 3の比較レビュー](https://qiita.com/Yorozuya59/items/4ddf8fb0e69b52e0721a)
-- [MetaのLlama3-8BをGoogle Colabで検証してみた](https://qiita.com/DeepTama/items/b17ac21010424de38c5f)
-- [AIによる爆速開発：画面設計からプログラミングまで自動化！？](https://qiita.com/ssc-yshikeda/items/d9a6ba46c897aae186a4)
-- [僅か2.3GBで日本語可能な超高性能ローカルLLMのPhi-3 MINIをllama.cppとCPUで動かしてみた。スマホでも可。従来のコンパクトLLMと比較して超越した性能で未来を感じさせるMicroSoft寄付ありがとう](https://togetter.com/li/2355369)
-- [いちばんやさしいローカル LLM](https://note.com/schroneko/n/n8b1a5bbc740b)
-- [LLMアプリ開発の必須ツール？！Langfuseがすごい！](https://qiita.com/moritalous/items/76ba9f2ad200df335d07)
-- [RAGの性能を高める「Self-RAG」を3分で理解する](https://zenn.dev/knowledgesense/articles/67dd2a41fc4d0b)
-- [M1MacでOllamaを試したら爆速で驚いた](https://zenn.dev/yasuna/articles/284aa6bbf6124e)
-- [Surface で NPU を活用する:「Hello World」モデルの実行例](https://blogs.windows.com/japan/2024/07/11/unlocking-the-power-of-npu-on-surface-our-hello-world-journey/)
-
-## Prompt
-
-- [Google製プロンプト活用法100選](https://docs.google.com/spreadsheets/d/1Ti13QWfBzXpurHxgVyaTTd9XuzrJqYL9HRgg7blVXac/edit?gid=0#gid=0)
-- [マーケティングプロンプト50選(前編) 後編は公式LINEで配布中](https://docs.google.com/spreadsheets/d/18EC9WV_AIBR4m5xXk-YV5UJY9jcWe7_ei-N47zUb-Fc/edit?pli=1&gid=0#gid=0)
-- [Vertex AI プロンプト ギャラリー](https://console.cloud.google.com/vertex-ai/generative/prompt-gallery?project=hallowed-fin-242701&pli=1)
-
-## RAG
-
-- [RAGで人間の脳を再現。「HippoRAG」を理解する](https://zenn.dev/knowledgesense/articles/913d07f490e9c7)
-- [生成AIのRAG構成を大手3社（AWS、Azure、Google Cloud）で徹底比較してみた](https://blog.g-gen.co.jp/entry/comparing-rag-architecture-across-cloud-vendors)
-- [Microsoft⁠⁠、RAGの機能を拡張⁠⁠、強化させたGraphRAGを一般利用可能に](https://gihyo.jp/article/2024/07/microsoft-graphrag)
-- [Exploring the Advanced RAG (Retrieval Augmented Generation) Service](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/exploring-the-advanced-rag-retrieval-augmented-generation/ba-p/4197836)
-
-## Open Interpreter
-
-- [話題のOpen Interpreterを使ってみた、そして、驚いた](https://qiita.com/yanagih/items/466a5560bd771e2b9030)
-- [【実例】ChatGPTでコード生成～Code interpreterも解説](https://book.st-hakky.com/business/chatgpt-code-generation/)
-- [凄すぎると話題の「Open Interpreter」の始め方・使い方まとめ](https://qiita.com/ot12/items/d2672144b914cb6f252f)
-- [今さら聞けないChatGPT「Code Interpreter」、データ分析能力が飛躍的向上のワケ](https://www.sbbit.jp/article/cont1/120122)
-- [チャット形式でプログラミングが可能なローカルで動作するオープンソースなAIツール「Open Interpreter」を使ってみた](https://gigazine.net/news/20231119-open-interpreter/)
-- [Open Interpreter](https://qiita.com/fuyu_quant/items/e531b5d1f87a8640d10e)
-- [Open Interpreterがついに画像出力にも対応！使い方から実践までを解説【画像付き】](https://weel.co.jp/media/tech/open-interpreter/)
-- [Power Platform から Azure OpenAI Service 経由で ChatGPT を利用してみる](https://qiita.com/Takashi_Masumori/items/96b9e0f1590762fd6fad)
-
-## GPTs
-
-- [初心者でもわかるGPTsの使い方](https://qiita.com/toshiki7124/items/7db8850e32383806a9e7)
-
-## Google Notebook L<
-
-- [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
-- [超長くてたくさんの資料も放り込めば、まとめてブレストにも付き合ってくれる有能助手「NotebookLM」の始め方（Google Tales）](https://www.techno-edge.net/article/2024/06/10/3446.html)
-- [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
-
-## Perplexity
-
-- [Perplexityが「Pages」を発表 – 最強のAI記事ジェネレーター](https://ainow.ai/2024/07/09/276731/)
-- [検索特化型AI「Perplexity」の強みは？ChatGPT・Geminiと比較してみた](https://www.lifehacker.jp/article/2406-ai-perplexity/)
-- [チャットAI「Claude」すごい新機能「Artifacts」の使い方、全部教えます](https://ascii.jp/elem/000/004/206/4206789/2/)
-- [AI検索「Perplexity」の「Pro Search」が大幅機能向上。4時間ごと5回まで無料](https://ascii.jp/elem/000/004/208/4208087/)
-
-## LLM
-
-- [Open WebUI (Formerly Ollama WebUI) がすごい](https://qiita.com/moritalous/items/1cad6878ea750d18747c)
-- [「よーしパパ、Ollama で Llama-3-ELYZA-JP-8B 動かしちゃうぞー」](https://qiita.com/s3kzk/items/3cebb8d306fb46cabe9f)
-- [おすすめLLM（大規模言語モデル）比較11選｜各LLMの特徴や活用分野を詳しく紹介](https://furusatohonpo.jp/saas/generation-ai-llm/)
-- [GPT-4超えの日本語性能？ 話題のELYZA製LLMをBedrockにインポート！ サーバーレス化してみよう](https://qiita.com/minorun365/items/eadb4e818f71a802f0e7)
 
 ## Chat GPT
 
 - [【生成AI】知らないと後悔する、GPT-4oだけでシステム開発を300%効率化するハック【CodeAGI】](https://qiita.com/nqdior/items/1bef77d46e199f8ec97c)
+- [ChatGPTに.xlsxファイルの中身を読み込ませてデータを処理させる方法](https://www.itmedia.co.jp/mobile/articles/2408/02/news173.html)
 - [Open AI GPT-4o mini誕生 爆速でした！](https://zenn.dev/acntechjp/articles/c28eaf817789b9)
 - [Power Apps で ChatGPT と連携する実用的なアプリを作ってみました](https://qiita.com/Takashi_Masumori/items/8a07fb6d1869967ce1f9)
 - [ChatGPTとOneDriveを連携させて業務効率化](https://acro-engineer.hatenablog.com/entry/2024/07/25/120000)
@@ -178,6 +83,24 @@
 - [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji?slide=66)
 - [「自社製品にチャットAIを組み込みたい」　企業が取るべきセキュリティ対策とは？　“プロンプトインジェクション”の基本手口](https://www.itmedia.co.jp/news/articles/2308/10/news101.html)
 
+## Claud3
+
+- [Claude3の使い方や料金を初心者向けに解説！【画像で解説】](https://highreso.jp/edgehub/wordgenerationai/howclaude3.html)
+- [Claude 3.5 Sonnetの進化を体感してみた](https://zenn.dev/acntechjp/articles/711642473bb502)
+- [Claude 3.5 Sonnet for Visionの使い方備忘録](https://qiita.com/Tadataka_Takahashi/items/b27ecb8c56bb64a11761)
+- [Claude 3.5 SonnetでWord企画書をブラッシュアップ｜ウィンドウの切り替えがいらないって快適だ！](https://www.lifehacker.jp/article/2407-claude-sonnet/)
+- [Claude神アプデ。「Artifacts」に共有機能が追加され、プログラミング知識なしでも自作のゲームやツールが公開できるようになった](https://ascii.jp/elem/000/004/209/4209077/)
+- [Anthropic Consoleで プロンプトの生成・テスト・評価 を試す](https://note.com/npaka/n/na0ddd7e30dd6)
+- [GPT-4o超え？Anthropic「Claude 3.5 Sonnet」を使ってみた](https://liginc.co.jp/647254)
+- [Claudeの利用制限を回避するコツ](https://note.com/genkaijokyo/n/nd84c60300cbb)
+- [Claude 3.5 Sonnet vs GPT-4o — An honest revie](https://hackernoon.com/claude-35-sonnet-vs-gpt-4o-an-honest-review)
+- [【完全版】GPT-4o超えで話題沸騰のClaude 3.5 Sonnetの使い方と活用事例15選を徹底解説《プロンプトテンプレートと他LLMとの比較付》　7,000文字近くの決定版。](https://note.com/chaen_channel/n/nd6162d2b7312)
+
+## Command R
+
+- [まるで“いけない話ができるChatGPT”　ローカルAI「Command R+」の爆発的な可能性](https://ascii.jp/elem/000/004/198/4198080/)
+- [優秀と噂なCohere社のCommand R+でRAGチャットボットを簡単に構築して体験しよう！](https://qiita.com/itokazu/items/2b519ef301fdf1430486)
+
 ## Dify
 
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
@@ -188,20 +111,98 @@
 - [Dify で RAG を試す](https://note.com/npaka/n/nca849f1a23f1)
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
 
+## Gemini
+
+- [Gemini for Google Workspace Prompt Guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
+- [GoogleのAI「Gemini」って、何ができるの？知っておきたい基礎知識まとめました](https://www.lifehacker.jp/article/2406-difference-between-google-gemini-apps-and-models/)
+
+## Google Notebook LLM
+
+- [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
+- [超長くてたくさんの資料も放り込めば、まとめてブレストにも付き合ってくれる有能助手「NotebookLM」の始め方（Google Tales）](https://www.techno-edge.net/article/2024/06/10/3446.html)
+- [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
+
+## GPTs
+
+- [初心者でもわかるGPTsの使い方](https://qiita.com/toshiki7124/items/7db8850e32383806a9e7)
+
+## GraphRAG
+
+- [GraphRAG: New tool for complex data discovery now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
+- [microsoft/graphrag](https://github.com/microsoft/graphrag)
+- [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
+- [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://www.microsoft.com/en-us/research/publication/from-local-to-global-a-graph-rag-approach-to-query-focused-summarization/)
+
+## Local LLM
+
+- [[翻訳]LLMで1年間開発して学んだこと〜LLMプロダクト開発を成功に導くための実践的ガイド〜](https://zenn.dev/seya/articles/12c67b5d80670a)
+- [LLM開発のための環境構築](https://zenn.dev/elith/articles/e4dbbb62752e04)
+- [LLMプロダクト開発とはどういうものなのか？](https://note.com/erukiti/n/ne901fbb08145)
+- [基本に立ち戻る：LLMのプロンプト](https://nikkie-ftnext.hatenablog.com/entry/llm-prompt-basics-202405-few-shot-learning-and-chain-of-thought)
+- [【ollama / Phi-3】ニュースで話題のLLMをローカルPC上で動かしてみる](https://zenn.dev/tanny/articles/705682d88e254e)
+- [MacでLocalでLLMを走らせるならLM Studioが楽。](https://qiita.com/ponnhide/items/b46a95228d0b832f1770)
+- [ローカルLLMを手軽に楽しむ](https://zenn.dev/karaage0703/articles/c271ca65b91bdb)
+- [準備0でローカルLLMを動かす(LM Studio)](https://zenn.dev/howtelevision/articles/95e62c480b34a8)
+- [Llama 3の比較レビュー](https://qiita.com/Yorozuya59/items/4ddf8fb0e69b52e0721a)
+- [MetaのLlama3-8BをGoogle Colabで検証してみた](https://qiita.com/DeepTama/items/b17ac21010424de38c5f)
+- [AIによる爆速開発：画面設計からプログラミングまで自動化！？](https://qiita.com/ssc-yshikeda/items/d9a6ba46c897aae186a4)
+- [僅か2.3GBで日本語可能な超高性能ローカルLLMのPhi-3 MINIをllama.cppとCPUで動かしてみた。スマホでも可。従来のコンパクトLLMと比較して超越した性能で未来を感じさせるMicroSoft寄付ありがとう](https://togetter.com/li/2355369)
+- [いちばんやさしいローカル LLM](https://note.com/schroneko/n/n8b1a5bbc740b)
+- [LLMアプリ開発の必須ツール？！Langfuseがすごい！](https://qiita.com/moritalous/items/76ba9f2ad200df335d07)
+- [RAGの性能を高める「Self-RAG」を3分で理解する](https://zenn.dev/knowledgesense/articles/67dd2a41fc4d0b)
+- [M1MacでOllamaを試したら爆速で驚いた](https://zenn.dev/yasuna/articles/284aa6bbf6124e)
+- [Surface で NPU を活用する:「Hello World」モデルの実行例](https://blogs.windows.com/japan/2024/07/11/unlocking-the-power-of-npu-on-surface-our-hello-world-journey/)
+
+## LLM
+
+- [ChatGPT - LLMシステム開発大全](https://speakerdeck.com/hirosatogamo/chatgpt-azure-openai-da-quan)
+- [Open WebUI (Formerly Ollama WebUI) がすごい](https://qiita.com/moritalous/items/1cad6878ea750d18747c)
+- [「よーしパパ、Ollama で Llama-3-ELYZA-JP-8B 動かしちゃうぞー」](https://qiita.com/s3kzk/items/3cebb8d306fb46cabe9f)
+- [おすすめLLM（大規模言語モデル）比較11選｜各LLMの特徴や活用分野を詳しく紹介](https://furusatohonpo.jp/saas/generation-ai-llm/)
+- [GPT-4超えの日本語性能？ 話題のELYZA製LLMをBedrockにインポート！ サーバーレス化してみよう](https://qiita.com/minorun365/items/eadb4e818f71a802f0e7)
+
+## Open Interpreter
+
+- [話題のOpen Interpreterを使ってみた、そして、驚いた](https://qiita.com/yanagih/items/466a5560bd771e2b9030)
+- [【実例】ChatGPTでコード生成～Code interpreterも解説](https://book.st-hakky.com/business/chatgpt-code-generation/)
+- [凄すぎると話題の「Open Interpreter」の始め方・使い方まとめ](https://qiita.com/ot12/items/d2672144b914cb6f252f)
+- [今さら聞けないChatGPT「Code Interpreter」、データ分析能力が飛躍的向上のワケ](https://www.sbbit.jp/article/cont1/120122)
+- [チャット形式でプログラミングが可能なローカルで動作するオープンソースなAIツール「Open Interpreter」を使ってみた](https://gigazine.net/news/20231119-open-interpreter/)
+- [Open Interpreter](https://qiita.com/fuyu_quant/items/e531b5d1f87a8640d10e)
+- [Open Interpreterがついに画像出力にも対応！使い方から実践までを解説【画像付き】](https://weel.co.jp/media/tech/open-interpreter/)
+- [Power Platform から Azure OpenAI Service 経由で ChatGPT を利用してみる](https://qiita.com/Takashi_Masumori/items/96b9e0f1590762fd6fad)
+
+## Perplexity
+
+- [Perplexityが「Pages」を発表 – 最強のAI記事ジェネレーター](https://ainow.ai/2024/07/09/276731/)
+- [検索特化型AI「Perplexity」の強みは？ChatGPT・Geminiと比較してみた](https://www.lifehacker.jp/article/2406-ai-perplexity/)
+- [チャットAI「Claude」すごい新機能「Artifacts」の使い方、全部教えます](https://ascii.jp/elem/000/004/206/4206789/2/)
+- [AI検索「Perplexity」の「Pro Search」が大幅機能向上。4時間ごと5回まで無料](https://ascii.jp/elem/000/004/208/4208087/)
+
+## Prompt
+
+- [Google製プロンプト活用法100選](https://docs.google.com/spreadsheets/d/1Ti13QWfBzXpurHxgVyaTTd9XuzrJqYL9HRgg7blVXac/edit?gid=0#gid=0)
+- [マーケティングプロンプト50選(前編) 後編は公式LINEで配布中](https://docs.google.com/spreadsheets/d/18EC9WV_AIBR4m5xXk-YV5UJY9jcWe7_ei-N47zUb-Fc/edit?pli=1&gid=0#gid=0)
+- [Vertex AI プロンプト ギャラリー](https://console.cloud.google.com/vertex-ai/generative/prompt-gallery?project=hallowed-fin-242701&pli=1)
+
+## RAG
+
+- [RAGで人間の脳を再現。「HippoRAG」を理解する](https://zenn.dev/knowledgesense/articles/913d07f490e9c7)
+- [生成AIのRAG構成を大手3社（AWS、Azure、Google Cloud）で徹底比較してみた](https://blog.g-gen.co.jp/entry/comparing-rag-architecture-across-cloud-vendors)
+- [Microsoft⁠⁠、RAGの機能を拡張⁠⁠、強化させたGraphRAGを一般利用可能に](https://gihyo.jp/article/2024/07/microsoft-graphrag)
+- [テキスト抽出不要のRAGを実現するColPali](https://zenn.dev/knowledgesense/articles/08cfc3de7464cb)
+
+## Tools
+
+- [Exploring the Advanced RAG (Retrieval Augmented Generation) Service](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/exploring-the-advanced-rag-retrieval-augmented-generation/ba-p/4197836)
+
+- []()
+- []()
+- []()
+
 ## Microsoft Phi-3
 
 - [Welcome to Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)
-
-## Gemini
-
-- [GoogleのAI「Gemini」って、何ができるの？知っておきたい基礎知識まとめました](https://www.lifehacker.jp/article/2406-difference-between-google-gemini-apps-and-models/)
-
-
-## Command R
-
-- [まるで“いけない話ができるChatGPT”　ローカルAI「Command R+」の爆発的な可能性](https://ascii.jp/elem/000/004/198/4198080/)
-- [優秀と噂なCohere社のCommand R+でRAGチャットボットを簡単に構築して体験しよう！](https://qiita.com/itokazu/items/2b519ef301fdf1430486)
-
 
 ## プロンプトエンジニアリング
 
@@ -217,3 +218,15 @@
 - [「Copilot、Copilot...」と連呼する前に、Power BIでは...](https://qiita.com/ishiayaya/items/15b6f28e3245137b5d6f)
 - [Microsoft Copilot Studio を触ってみました！ - Alternative Architecture DOJO](https://aadojo.alterbooth.com/entry/2023/12/09/113106JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0602-SRGCM10625_LP01-Registration---Form-in-Body.html)
 - [Celebrating the first year of Copilot with significant new innovations - The Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/12/05/celebrating-the-first-year-of-copilot-with-significant-new-innovations/)
+
+## 公式ガイド
+
+- [プロンプトエンジニアリングの戦略と戦術（OpenAI公式ガイド・ ChatGPT）](https://note.com/martins_day/n/ncc5fb07467ed)
+- [プロンプトエンジニアリングは公式ガイドを参考にしよう（OpenAI・Microsoft・Google）](https://note.com/martins_day/n/n057d451467e5)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+
+## 資料
+
+- [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
+- [Claude の Projects にライブラリのリファレンスを丸ごと入れてみる](https://qiita.com/kunishou/items/ed097b46cd78030e0b29)
+- [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)

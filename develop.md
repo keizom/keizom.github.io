@@ -166,6 +166,7 @@
 ## git
 
 - [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
+- [【Git中級者への第一歩】自らステップアップする！ チートシートや自分で起こすコンフリクトなど、Git学習のヒント](https://codezine.jp/article/detail/19919)
 - [【Git中級者への第一歩】リリースプロセスの品質を上げるブランチ戦略、開発をもっと便利にするコマンドとは](https://codezine.jp/article/detail/19413)
 - [初めてのGitは電車で例えて学ぼう！初学者向け基本Gitコマンド入門](https://qiita.com/k_uki512/items/7c1856edbade1bc7b98a)
 - [ゼロから学ぶGit/GitHubを勝手に補足](https://zenn.dev/karaage0703/articles/d90c18f65921fc)

@@ -162,6 +162,7 @@
 ## Azure Automation
 
 - [Creating Files in SharePoint Online Using Azure Automation and PowerShell](https://practical365.com/azure-automation-spo-create-files/)
+- [【Azure】Automation RunbookにGitHub上のPowerShellスクリプトをインポートする（ARMテンプレート編）](https://atmarkit.itmedia.co.jp/ait/articles/2405/01/news020.html)
 - [【Azure】AutomationアカウントでVMの起動／停止を定期的に繰り返すスケジュールを組む（PowerShell編）](https://atmarkit.itmedia.co.jp/ait/articles/2407/17/news025.html)
 - [Automation における Runbook の入力パラメーターを構成する](https://learn.microsoft.com/ja-jp/azure/automation/runbook-input-parameters)
 - [PowerShellの操作を自動化！ Azure Automation の Power Shell Runbook を使いこなそう！！](https://tech-blog.cloud-config.jp/2023-01-11-azure-automation-runbook)
@@ -283,11 +284,12 @@
 ## Azure Cost
 
 - [CSP の Azure 明細を PowerShell で整形する 日々徒然](https://blog.o365mvp.com/2020/04/07/format-csp-reconcile-with-powershell/)
+- [Azure の正しい始め方 - Azure Plan (従量課金) サブスクリプション、Microsoft Entra ID (Azure AD)、課金アカウント (MCA) の全体像](https://qiita.com/YoshiakiOi/items/90d8162fc9fcfc3b01f1)
 
 ## Azure Data Explorer
 
 - [ビッグデータを視覚化し、さらに共有もできる「Azure Data Explorerダッシュボード」とは](https://atmarkit.itmedia.co.jp/ait/articles/2303/03/news011.html)
-- 
+
 ## Azure Databricks
 
 - [はじめに: アカウントとワークスペースのセットアップ](https://learn.microsoft.com/ja-jp/azure/databricks/getting-started/)
@@ -739,6 +741,10 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ## Azure Red Hat OpenShift
 
 - [Microsoft Azure Red Hat OpenShift (ARO) その１ - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/2021/06/30/Microsoft_Azure_Red_Hat_OpenShift_%28ARO%29_%E3%81%9D%E3%81%AE%EF%BC%91)
+
+## Azure Traffic Manager
+
+- [【Azure】Traffic Managerのトラフィック切り替えをPowerShellで自動化する](https://atmarkit.itmedia.co.jp/ait/articles/2407/31/news049.html)
 
 ## Azure Virtual Desktop
 

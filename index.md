@@ -59,6 +59,10 @@
 
 - [日本リスキリングコンソーシアム](https://japan-reskilling-consortium.jp/)
 
+## Security
+
+- [ICI リスクアセスメントツール公開の背景](https://blog.itochuci.co.jp/entry/2024/07/31/160000)
+
 ## Microsoft 365 Day 2024
 
 - [パート3 Microsoft 365 Day 2024 ~ Copilot と始めるビジネス変革 ~](https://info.microsoft.com/JA-MODEND-VDEO-FY24-05May-16-Part-3-Microsoft-365-Day-2024-Business-transformation-with-Copilot-SRGCM12253_LP01-Registration---Form-in-Body.html)
