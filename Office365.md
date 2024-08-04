@@ -302,6 +302,8 @@
 ## Microsoft Graph
 
 - [Microsoft Graph で SharePoint Onlineのリストアイテムを取得する（ユーザー列・選択肢列・参照列）](https://qiita.com/miesque/items/e66d991291f47ece032f)
+- [Microsoft Graphでメールを自動送信するスクリプトを作る](https://qiita.com/piyo8810/items/f2093a9f92ec9eaf059e)
+- [Azure ADの監査ログを取得 ～Microsoft Graph API編～](https://tech-lab.sios.jp/archives/25178)
 - [Microsoft Graph アクティビティ ログが一般公開されました！](https://jpazureid.github.io/blog/azure-active-directory/graph-activity-logs-ga/)
 - [GraphAPIを使ってSharePointリストに大量のデータを投入する](https://qiita.com/Rambosan/items/2eefca18f1760bb784c6)
 - [イベントを取得する](https://learn.microsoft.com/ja-jp/graph/api/event-get?view=graph-rest-1.0&tabs=http)

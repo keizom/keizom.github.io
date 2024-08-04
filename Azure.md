@@ -41,8 +41,9 @@
 - [Azureの「Private Link」「サービスエンドポイント」　どちらを選べばいい？](https://techtarget.itmedia.co.jp/tt/news/2312/20/news06.html)
 
 
-## Azure AD
+## Entra ID
 
+- [Microsoft Entra PowerShell の紹介](https://jpazureid.github.io/blog/azure-active-directory/introducing-entra-powershell/)
 - [Azure AD参加端末におけるPRT (Primary Refresh Token)悪用のリスクと対策について](https://gmo-cybersecurity.com/blog/azuread-prt/)
 - [Arure AD管理者必見　悩みの種になりがちな「ゲストユーザー」を管理する4つの方法](https://kn.itmedia.co.jp/kn/articles/2307/12/news023.html)
 - [フェデレーション認証から Azure AD 認証への移行事例のご紹介](https://www.softbanktech.co.jp/special/blog/cloud_blog/2022/0087/)

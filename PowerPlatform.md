@@ -26,6 +26,8 @@
 
 ## PowerPlatform
 
+- [Announcing Power Platform Well-Architected](https://www.microsoft.com/en-us/power-platform/blog/power-apps/announcing-power-platform-well-architected/)
+- [Power Platform Well-Architected](https://learn.microsoft.com/ja-jp/power-platform/well-architected/)
 - [Power Platformのセキュリティロールについて](https://qiita.com/skuramoto/items/fe305aac24273c7cccbf)
 - [Dataverse グループ チームの活用方法＆注意点](https://jpdynamicscrm.github.io/blog/powerplatform/About-group-team-in-Dataverse/)
 - [ユーザーへのセキュリティ ロールの割り当て](https://learn.microsoft.com/ja-jp/power-platform/admin/assign-security-roles)
@@ -93,6 +95,7 @@
 - [FigmaのデザインをPower Apps のキャンバスアプリに変換する方法 (Express Design)](https://qiita.com/kumukai/items/dd4bd0f9dcc62d87458f)
 - [Figma ファイルから Power Apps キャンバス アプリを作成](https://www.illuminate-j.jp/blog/canvasapp_figma)
 - [Figmaを利用したPower Apps キャンバスアプリの作成](https://mofumofupower.hatenablog.com/entry/figma_apps)
+- [手書きで書いたメモをPowerAppsが、良い感じのフォームにしてくれるらしいのでやってみた。](https://dev.classmethod.jp/articles/powerapps-expressdesign-handwriting/)
 
 ## CI/CD
 

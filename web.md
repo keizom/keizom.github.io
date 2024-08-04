@@ -13,7 +13,6 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [web](https://keizom.github.io/web.html)
 
-
 # Web
 
 ## フロントエンド

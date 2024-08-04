@@ -191,14 +191,11 @@
 - [生成AIのRAG構成を大手3社（AWS、Azure、Google Cloud）で徹底比較してみた](https://blog.g-gen.co.jp/entry/comparing-rag-architecture-across-cloud-vendors)
 - [Microsoft⁠⁠、RAGの機能を拡張⁠⁠、強化させたGraphRAGを一般利用可能に](https://gihyo.jp/article/2024/07/microsoft-graphrag)
 - [テキスト抽出不要のRAGを実現するColPali](https://zenn.dev/knowledgesense/articles/08cfc3de7464cb)
+- [Microsoft、LLMで注目の「RAG」の精度を向上させる「GraphRAG」をGitHubで公開](https://atmarkit.itmedia.co.jp/ait/articles/2408/03/news056.html)
 
 ## Tools
 
 - [Exploring the Advanced RAG (Retrieval Augmented Generation) Service](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/exploring-the-advanced-rag-retrieval-augmented-generation/ba-p/4197836)
-
-- []()
-- []()
-- []()
 
 ## Microsoft Phi-3
 
@@ -208,7 +205,8 @@
 
 - [プロンプトエンジニアリングの基本と応用](https://blog.brainpad.co.jp/entry/2023/12/19/153000)
 - [生成 AI アプリケーションの開発を始めるために必要な全知識を学べる 12 講座](https://microsoft.github.io/generative-ai-for-beginners/#/translations/ja-jp/)
-
+- [Copilot for Microsoft 365 ゴールデンプロンプト ~ 話題の生成 AI カンタン使いこなし術 ~ 2024年6月更新版](https://info.microsoft.com/JA-T2C-CNTNT-FY24-05May-22-Copilot-for-Microsoft-365-Golden-Prompt-Easy-way-to-use-AI-to-generate-topics-SRGCM12256_LP02-Thank-You---Standard-Hero.html)
+- [dahatake/ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese)
 - [Build better apps, faster: Copilot in Power Apps is now generally available](https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/)
 - [Windowsで使える生成AI活用のアシスタント機能「Copilot in Windows」を解説Tips連載をスタート](https://www.itmedia.co.jp/pcuser/articles/2312/29/news068.html)
 - [AI コパイロットの概要](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/ai-overview?s=09#prerequisites-for-the-ai-features-in-power-apps)
