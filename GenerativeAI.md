@@ -15,10 +15,14 @@
 
 # Generative AI
 
+## 資料
+
+- [世界経済の潮流](https://www5.cao.go.jp/j-j/sekai_chouryuu/sh24-01/index-pdf.html)
 
 ## Chat GPT
 
 - [【生成AI】知らないと後悔する、GPT-4oだけでシステム開発を300%効率化するハック【CodeAGI】](https://qiita.com/nqdior/items/1bef77d46e199f8ec97c)
+- [ChatGPTの衝撃 第2章 -2024年8月バージョン-](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji-2023nian-12yue-baziyon)
 - [ChatGPTに.xlsxファイルの中身を読み込ませてデータを処理させる方法](https://www.itmedia.co.jp/mobile/articles/2408/02/news173.html)
 - [Open AI GPT-4o mini誕生 爆速でした！](https://zenn.dev/acntechjp/articles/c28eaf817789b9)
 - [Power Apps で ChatGPT と連携する実用的なアプリを作ってみました](https://qiita.com/Takashi_Masumori/items/8a07fb6d1869967ce1f9)
@@ -160,6 +164,8 @@
 - [「よーしパパ、Ollama で Llama-3-ELYZA-JP-8B 動かしちゃうぞー」](https://qiita.com/s3kzk/items/3cebb8d306fb46cabe9f)
 - [おすすめLLM（大規模言語モデル）比較11選｜各LLMの特徴や活用分野を詳しく紹介](https://furusatohonpo.jp/saas/generation-ai-llm/)
 - [GPT-4超えの日本語性能？ 話題のELYZA製LLMをBedrockにインポート！ サーバーレス化してみよう](https://qiita.com/minorun365/items/eadb4e818f71a802f0e7)
+- [LLMアプリケーションの評価入門〜基礎から運用まで徹底解説〜](https://zenn.dev/pharmax/articles/df59290ba875ff)
+- [ローカルLLMの実行ツールであるOllamaをUbuntuで動かす](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0825)
 
 ## Open Interpreter
 
@@ -184,6 +190,8 @@
 - [Google製プロンプト活用法100選](https://docs.google.com/spreadsheets/d/1Ti13QWfBzXpurHxgVyaTTd9XuzrJqYL9HRgg7blVXac/edit?gid=0#gid=0)
 - [マーケティングプロンプト50選(前編) 後編は公式LINEで配布中](https://docs.google.com/spreadsheets/d/18EC9WV_AIBR4m5xXk-YV5UJY9jcWe7_ei-N47zUb-Fc/edit?pli=1&gid=0#gid=0)
 - [Vertex AI プロンプト ギャラリー](https://console.cloud.google.com/vertex-ai/generative/prompt-gallery?project=hallowed-fin-242701&pli=1)
+- [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- 
 
 ## RAG
 

@@ -108,6 +108,7 @@
 ## Power Apps
 
 - [365ユーザー向け、キャンバスアプリの作り方](https://learn.microsoft.com/ja-jp/collections/j0xzun463pkrng?sharingId=M365-MVP-5000493)
+- [ありそうでなかった！Power Appsから直接SharePointのドキュメントライブラリにアップロードするコンポーネントを作成する](https://qiita.com/DEmodoriGatsuO/items/2b9c25cf5dcd17b4958d)
 - [365ユーザー向け、クラウドフローの作り方](https://learn.microsoft.com/ja-jp/collections/yjoqipk6wznk2z?sharingId=M365-MVP-5000493)
 - [Power Apps & GPT-4oを使って超高速で画像解析アプリを作る！](https://qiita.com/DEmodoriGatsuO/items/4c4734b78973970e0d3d)
 - [Power Platform で市民開発する際に、SharePoint リストのユーザーまたはグループ列を使う際にはまること](https://qiita.com/Takashi_Masumori/items/0160c44ba5404ac13237)

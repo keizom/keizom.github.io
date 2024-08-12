@@ -317,11 +317,11 @@
 
 - [次世代エディタ6選](https://qiita.com/twrcd1227/items/4faccd04f0f19f3fdb5e)
 - [【VSCode】オススメの拡張機能と設定](https://qiita.com/twrcd1227/items/16c685b626ad548810c7)
+- [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
 - [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
 - [VSCode で最高の LaTeX 環境を作る](https://qiita.com/rainbartown/items/d7718f12d71e688f3573)
 - [VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか)](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
 - [Visual Studio CodeでLinux ホストリモート開発](https://qiita.com/whim0321/items/ae72b2dd5fd41beaef04)
-- [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
 - [ローカルのVSCodeからRemote SSHでLinuxにSSH接続する](https://tekkubu.com/remote-ssh/)
 - [VSCodeでリモート開発環境を整えてみた](https://techblog.gmo-ap.jp/2023/04/11/vscode_remote/)
 - [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
@@ -397,6 +397,12 @@
 - [VSCodeでC#開発環境を充実させる「C# Dev Kit」正式リリース、ソリューションエクスプローラーやIntelliCodeなど提供](https://www.publickey1.jp/blog/23/vscodecc_dev_kitintellicode.html)
 - [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
 - [AIと共同でプログラミングする新時代へ──AIコーディング支援ツール「GitHub Copilot」へ入門しよう](https://codezine.jp/article/detail/19383?p=2)
+
+### 多段ssh
+
+- [多段sshサーバーにVScodeで接続する(エージェントフォワード)](https://qiita.com/my0shym/items/c5b792cbb0de7531376e)
+- [VSCodeで踏み台サーバ経由で接続したリモートサーバ上のファイルをエクスプローラー表示する](https://qiita.com/keso_keso/items/fee7b6c1be86614bdc65)
+- [VScode Remote-SSHで外部サーバーに 多段SSH接続](https://ichiri.biz/tech/vscode-multihop-remote-ssh/)
 
 ## AI Toolkit for VS Code
 
