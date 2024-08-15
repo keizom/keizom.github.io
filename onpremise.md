@@ -338,6 +338,9 @@ Add-SPDistributedCacheServiceInstance
 
 ## RedHat
 
+- [RedHat Customer Portal](https://access.redhat.com/)
+- [RedHat Developers](https://developers.redhat.com/)
+- [RedHat Console](https://console.redhat.com/)
 - [RHEL7以降の初期設定について](https://qiita.com/ftoshiki/items/f1863cccb14c6ce808bd)
 - [Linux(Cent,RHEL,Alam)のおすすめ初期設定](https://www.kayura-se.com/entry/2022/08/08/024012)
 - [RHEL7 よくある初期構築設定のコマンド詰め合わせ](https://dev.classmethod.jp/articles/ec2-rehl7-first-buildcmd/)

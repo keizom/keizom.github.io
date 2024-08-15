@@ -74,6 +74,7 @@
 
 ## Microsoft 資料
 
+- [Azure 技術資料インデックス Azure/jp-techdocs](https://github.com/Azure/jp-techdocs/)
 - [Microsoft (有志)](https://zenn.dev/p/microsoft)
 - [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
 - [Microsoft Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
