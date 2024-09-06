@@ -203,10 +203,16 @@
 - [VSCodeでリモート開発環境を整えてみた](https://techblog.gmo-ap.jp/2023/04/11/vscode_remote/)
 - [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
 
+## Azure Developer CLI
+
+- [Bicepを上手く早く書くコツ](https://zenn.dev/mizti/articles/0c8c5801be46a9)
+- [Azure Developer CLI とは](https://learn.microsoft.com/ja-jp/azure/developer/azure-developer-cli/overview)
 
 ## Azure Bicep
 
 - [AzureでのIaCツール選びに迷ったらこれ！ARMTemplate, Bicep, Terraform, Pulumi 比較ガイド](https://qiita.com/s_w_high/items/534a6add2a37b172a6bb)
+- [Bicepを上手く早く書くコツ](https://zenn.dev/mizti/articles/0c8c5801be46a9)
+- [Azure Developer CLI とは](https://learn.microsoft.com/ja-jp/azure/developer/azure-developer-cli/overview)
 - [Deploy to Azure ボタンで Bicep ファイルからデプロイする (っぽく見せる powered by GitHub Actions )。](https://uncaughtexception.hatenablog.com/entry/2022/05/23/101852)
 - [Bicep の基礎](https://learn.microsoft.com/ja-jp/training/paths/fundamentals-bicep/)
 - [Azure CLIやBicep CLIを最新版にアップデートする方法【Windows OS編】](https://atmarkit.itmedia.co.jp/ait/articles/2406/26/news032.html)

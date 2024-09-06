@@ -329,6 +329,7 @@ Add-SPDistributedCacheServiceInstance
 
 - [シェルスクリプトとjqコマンドでJSONをループして中身を取り出す](https://pakapaka.jp/shell-json-loop/)
 - [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
+- [「Linux」でAI搭載ターミナルアプリ「AI Shell」を使うには](https://japan.zdnet.com/article/35222662/)
 
 ## ubuntu
 

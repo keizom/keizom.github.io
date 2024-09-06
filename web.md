@@ -23,6 +23,8 @@
 - [これだけ守れば見やすくなるデザインの基礎](https://speakerdeck.com/kinakobooster/koredakeshou-rebajian-yasukunarudezainfalseji-chu)
 - [デジタル庁デザインシステム デザインデータ v2.0.2](https://www.figma.com/community/file/1377880368787735577/v2-0-2)
 - [Webエンジニアの学習ロードマップが知れるサイト](https://qiita.com/hirokazu_nakao/items/26d90b2e8a582a474df3)
+- [はじめに教わるデザインの基本。気をつけるべき28のポイント](https://liginc.co.jp/535365)
+- [ツール・ド・フロントエンド2024（フロントエンド班の開発環境や興味のある技術を調査してみた）](https://zenn.dev/teamlab_fe/articles/8f5ff75885a868)
 
 ## Carousel
 
@@ -65,6 +67,7 @@
 
 ## html
 
+- [見た目そのまま編集可能なオープンソースのHTMLメールデザインツール「SENDUNE」を使ってみた](https://gigazine.net/news/20240810-sendune-open-source-html-email-designer/)
 - [これはすごい便利！ WebサイトやスマホアプリのUIに今時のアニメーションやインタラクションを簡単に実装できる -Animata](https://coliss.com/articles/build-websites/operation/work/animate-ui-interaction-and-animations.html)
 - [ChatGPTでデザインのレビューをしてもらおう](https://www.webcreatorbox.com/inspiration/chatgpt-design-review)
 - [Webサイトを使いやすく改善する、知っておくと便利なCSSのテクニック](https://coliss.com/articles/build-websites/operation/css/css-one-liners-for-almost-every-project.html)
@@ -163,6 +166,7 @@
 
 ## css
 
+- [すべての主要ブラウザで利用可能になったアットルール@starting-styleとは](https://zenn.dev/cybozu_frontend/articles/20240812_starting-style)
 - [CSSの新機能にどのように向き合えばよいか、新しいことを学んだり覚えることは頭の固い人には難しい](https://coliss.com/articles/build-websites/operation/css/old-dogs-new-css-tricks.html)
 - [ホームページを眺めながらCSS設計の初歩を学ぼう](https://qiita.com/shimamoooon/items/314f8484de4b9f1a1abd)
 - [Web制作者はダウンロードしておきたい！ CSS関連の最新版チートシートのまとめ](https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-for-web-development.html)
@@ -221,6 +225,7 @@
 
 ## JavaScript
 
+- [JavaScript エンジンの高速化](https://zenn.dev/acd1034/articles/240726-accelerating-javascript-engine)
 - [JavaScriptの便利な記法や関数の紹介およびそれらの注意点について](https://qiita.com/umiushi_1/items/487fdcfcf5caf7a9a3c0)
 - [[javascript] カラフルなconsole.log](https://qiita.com/oharu121/items/446027d9e4a494455555)
 - [「JavaScriptで要素をドラッグして移動する簡単な方法」という記事が初耳だらけだった件](https://qiita.com/www-tacos/items/5614b61d3742d6db34b7)
@@ -250,6 +255,7 @@
 
 ## TypeScript
 
+- [TypeScript入門 2024](https://speakerdeck.com/recruitengineers/typescriptru-men-2024)
 - [40代エンジニア志望、TypeScript はじめの一歩](https://qiita.com/nyakako13/items/6251e58a129f6d455dfb)
 - - [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
 - [TypeScript未経験でもスムーズに業務に取り組める、最強の学習用コンテンツを作った話](https://engineers.ntt.com/entry/2023/12/19/090007)

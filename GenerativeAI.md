@@ -18,10 +18,14 @@
 ## 資料
 
 - [世界経済の潮流](https://www5.cao.go.jp/j-j/sekai_chouryuu/sh24-01/index-pdf.html)
+- [AIで仕事が奪われるエンジニアの特徴](https://qiita.com/Sicut_study/items/66a0b326402896e6c50b)
+- [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
+- [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)
 
 ## Chat GPT
 
 - [【生成AI】知らないと後悔する、GPT-4oだけでシステム開発を300%効率化するハック【CodeAGI】](https://qiita.com/nqdior/items/1bef77d46e199f8ec97c)
+- [ChatGPTを使って無料で画像生成する方法と注意点](https://atmarkit.itmedia.co.jp/ait/articles/2409/02/news023.html)
 - [ChatGPTの衝撃 第2章 -2024年8月バージョン-](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji-2023nian-12yue-baziyon)
 - [ChatGPTに.xlsxファイルの中身を読み込ませてデータを処理させる方法](https://www.itmedia.co.jp/mobile/articles/2408/02/news173.html)
 - [Open AI GPT-4o mini誕生 爆速でした！](https://zenn.dev/acntechjp/articles/c28eaf817789b9)
@@ -89,6 +93,9 @@
 
 ## Claud3
 
+- [チャットAI「Claude」人気機能「Artifacts」が誰でも使えるようになった](https://ascii.jp/elem/000/004/218/4218138/)
+- [チャットAI「Claude」すごい新機能「Artifacts」の使い方、全部教えます](https://ascii.jp/elem/000/004/206/4206789/)
+- [Claude の Projects にライブラリのリファレンスを丸ごと入れてみる](https://qiita.com/kunishou/items/ed097b46cd78030e0b29)
 - [Claude3の使い方や料金を初心者向けに解説！【画像で解説】](https://highreso.jp/edgehub/wordgenerationai/howclaude3.html)
 - [Claude 3.5 Sonnetの進化を体感してみた](https://zenn.dev/acntechjp/articles/711642473bb502)
 - [Claude 3.5 Sonnet for Visionの使い方備忘録](https://qiita.com/Tadataka_Takahashi/items/b27ecb8c56bb64a11761)
@@ -107,6 +114,7 @@
 
 ## Dify
 
+- [Difyの基礎知識](https://zenn.dev/satto_sann/articles/e94e49f590f4b6)
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
 - [dify](https://dify.ai/jp)
 - [噂のノーコードAIシステム開発環境Difyを使ってツールを作ってみた。使った感想](https://note.com/shi3zblog/n/necd6de514475)
@@ -136,6 +144,8 @@
 - [microsoft/graphrag](https://github.com/microsoft/graphrag)
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
 - [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://www.microsoft.com/en-us/research/publication/from-local-to-global-a-graph-rag-approach-to-query-focused-summarization/)
+- [RAGの「ベクトル検索」の弱みを、ナレッジグラフで補う](https://zenn.dev/knowledgesense/articles/077ad1ab0f9ff6)
+- [話題のGraphRAGとは - 内部構造の解析と実用性の考察](https://www.alpha.co.jp/blog/202408_01/)
 
 ## Local LLM
 
@@ -191,10 +201,11 @@
 - [マーケティングプロンプト50選(前編) 後編は公式LINEで配布中](https://docs.google.com/spreadsheets/d/18EC9WV_AIBR4m5xXk-YV5UJY9jcWe7_ei-N47zUb-Fc/edit?pli=1&gid=0#gid=0)
 - [Vertex AI プロンプト ギャラリー](https://console.cloud.google.com/vertex-ai/generative/prompt-gallery?project=hallowed-fin-242701&pli=1)
 - [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
-- 
+- [都職員のアイデアが詰まった文章生成AI活用事例](https://www.digitalservice.metro.tokyo.lg.jp/documents/d/digitalservice/ai_prompt)
 
 ## RAG
 
+- [LLMのRAGアプリケーションにおけるオブザーバビリティを向上するツール「Phoenix」の紹介](https://tech.assured.jp/entry/2024/08/20/130000)
 - [RAGで人間の脳を再現。「HippoRAG」を理解する](https://zenn.dev/knowledgesense/articles/913d07f490e9c7)
 - [生成AIのRAG構成を大手3社（AWS、Azure、Google Cloud）で徹底比較してみた](https://blog.g-gen.co.jp/entry/comparing-rag-architecture-across-cloud-vendors)
 - [Microsoft⁠⁠、RAGの機能を拡張⁠⁠、強化させたGraphRAGを一般利用可能に](https://gihyo.jp/article/2024/07/microsoft-graphrag)
@@ -230,9 +241,3 @@
 - [プロンプトエンジニアリングの戦略と戦術（OpenAI公式ガイド・ ChatGPT）](https://note.com/martins_day/n/ncc5fb07467ed)
 - [プロンプトエンジニアリングは公式ガイドを参考にしよう（OpenAI・Microsoft・Google）](https://note.com/martins_day/n/n057d451467e5)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-
-## 資料
-
-- [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
-- [Claude の Projects にライブラリのリファレンスを丸ごと入れてみる](https://qiita.com/kunishou/items/ed097b46cd78030e0b29)
-- [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)

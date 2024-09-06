@@ -19,6 +19,7 @@
 ## リーダブルコード
 
 - [リーダブルコードの要点整理と活用法をまとめた](https://qiita.com/KNR109/items/3b14e2e8f89a33c0f959)
+- [コードを書く際の指針として見返すサイトまとめ](https://qiita.com/kenichi_cc/items/c3ecca7b7d5fc5c6bf2e)
 
 ## .NET Core
 
@@ -106,6 +107,7 @@
 ## Cursor
 
 - [AIエディターCursorを使い始める手順と基本的な使い方を、丁寧にまとめただけの記事。](https://qiita.com/ryamate/items/94a6170c4661242b4c1c)
+- [AIエディターCursor使ってみた！](https://tech-lab.sios.jp/archives/42828)
 - [Cursor Editorというこれまた便利そうなエディタを見つけた](https://qiita.com/ussy_k/items/cfee1b94a10830d7ad86)
 - [【Cursor】AI搭載の最強コードエディタ！日本語の使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
 - [【Cursorのおすすめ活用事例一覧】AI搭載コードエディタのヤバい使い方10選](https://weel.co.jp/media/cursor-case)
@@ -125,6 +127,8 @@
 ## Docker
 
 - [Dockerがわからない人へ。これ1本で0から学べる丁寧なDocker入門](https://qiita.com/Sicut_study/items/4f301d000ecee98e78c9)
+- [ Docker入門資料「入門 Docker」を5年ぶりにアップデートしました。](https://y-ohgi.blog/entry/2024/08/19/Docker%E5%85%A5%E9%96%80%E8%B3%87%E6%96%99%E3%80%8C%E5%85%A5%E9%96%80_Docker%E3%80%8D%E3%82%925%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97)
+- [docker container / image コマンド新旧比較](https://qiita.com/zembutsu/items/6e1ad18f0d548ce6c266)
 - [Web開発において複数人で同じ環境を用意しよう(Dockerの基本)](https://qiita.com/JavaLangRuntimeException/items/6f6d03bd6d1e69c9e67e)
 - [超簡単! Kubernetesデバッグチートシート](https://qiita.com/reoring/items/e82bf912cf76570ed21f)
 - [.NETでDev Containerに入門してみた【初心者向け】](https://tech-lab.sios.jp/archives/40541)
@@ -201,6 +205,7 @@
 
 ## GitHub
 
+- [実務未経験者の人に読んでほしいGitHubの実務tips](https://qiita.com/yamadagenki/items/5e4ee79a7a680b1675e8)
 - [Gitの仕組みと用語 / GitHub Term](https://speakerdeck.com/kaityo256/github-term)
 - [5分でできる！GitHub README プロフィール](https://qiita.com/mmnn/items/cf465d271171cba8bd51)
 - [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
@@ -243,6 +248,10 @@
 - [「GitHub Copilot Chat」ベータ版が個人でも利用可能に ～AIがプログラミングに助言](https://forest.watch.impress.co.jp/docs/news/1532976.html)
 - [【ハイブリッド開催】GitHub Copilotで拓く開発生産性](https://logmi.jp/tech/articles/329426)
 - [コードの解説、ブログの要約、自然言語の翻訳、機能仕様の修正コーディングだけじゃない「Github Copilot」の活用事例](https://logmi.jp/tech/articles/329436)
+
+## GitHub Repository
+
+- [絶対チェックすべきGitHubリポジトリ15選](https://qiita.com/Sicut_study/items/3c063a938f6dbc48bdbd)
 
 ## GoogleApps
 
@@ -296,6 +305,7 @@
 ## Phi-3 vision
 
 - [ローカルPCでマルチモーダルなSLM「Phi-3 vision」を動かす](https://zenn.dev/microsoft/articles/20240604-phi3-vision-onnx)
+- [WSL2でPhi-3.5-mini-instructを試してみる](https://note.com/ngc_shj/n/n4a8b8695b797)
 
 ## swagger
 
@@ -455,6 +465,7 @@
 ## VisualStudio
 
 - [Microsoft、「Visual Studio」でNuGetの依存関係の問題解決を支援するツールを公開](https://atmarkit.itmedia.co.jp/ait/articles/2401/25/news047.html)
+- [もうこれなしでは開発できないVisual Studioの10機能](https://qiita.com/gigadein/items/228305a1cc65651c3c2e)
 - [Visual Studio の GitHub Copilot 拡張機能とは](https://learn.microsoft.com/ja-jp/visualstudio/ide/visual-studio-github-copilot-extension)
 - [Visual StudioでGitHub Copilotが利用できるようになりました](https://aadojo.alterbooth.com/entry/2023/03/05/100000)
 - [Visual Studio 2022の機能でWeb API開発を効率化しよう](https://aadojo.alterbooth.com/entry/2023/06/04/162052)
@@ -500,6 +511,7 @@
 
 - [WSL2 による Python3 の環境構築](https://qiita.com/zakoken/items/8ddfda7267e7d95b3c46)
 - [なんかWSL2がインターネットにつながらなくなったときの解決方法](https://qiita.com/kotauchisunsun/items/71fae973afa00ebb871a)
+- [WSL (Windows Subsystem for Linux)の基本メモ](https://qiita.com/rubytomato@github/items/fdfc0a76e848442f374e)
 - [WSLで外のネットワークにアクセスできないときの解決策](https://zenn.dev/rayfiyo/articles/20231205-wsl_cannot_ping_outside)
 - [WSL2 ミラーモードでDocker使えないのは困る](https://qiita.com/shigeokamoto/items/fc9fa1a395f3fd72fafa)
 - [【WSL 入門】第 1 回　 Windows 10 標準 Linux 環境 WSL を始めよう：IT の教室 - ＠IT](https://www.atmarkit.co.jp/ait/articles/1903/18/news031.html)

@@ -60,3 +60,4 @@
 - [Mac: ターミナルとプロンプトをカスタマイズする(zsh)](https://ktksq.hatenablog.com/entry/mac-customize)
 - [お前らのターミナルはダサい](https://qiita.com/kinchiki/items/57e9391128d07819c321)
 - [Mac: ターミナルとプロンプトをカスタマイズする(zsh)](https://ktksq.hatenablog.com/entry/mac-customize)
+- [Mac初心者に優しいターミナルにする（iTerm2／Oh My Zsh）](https://qiita.com/ryamate/items/075c34fcf29d0889c15a)

@@ -16,6 +16,10 @@
 
 # site
 
+## 資格
+
+- [MS資格](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
+
 ## Service
 
 - [GitGHub Copilot](https://github.com/settings/copilot)
@@ -211,6 +215,10 @@
 - [「Meta Quest 3」をしばらく使ってみて分かったこと 長所と短所を紹介](https://www.moguravr.com/meta-quest-3-review-2/)
 - [【VR】Quest 3 で PC VR : Virtual Desktop, Steam Link, Quest Air Link どれを使えばよいのか？](https://joytokey.net/ja/blog/vr/high-quality-wireless-pc-vr/)
 - [Meta QuestでWordとExcelを体験！VRが予想外の「集中部屋」に進化していた #TrendBuzz](https://www.lifehacker.jp/article/2401-tb-meta-quest-app/)
+
+# HHKB
+
+- [7sPro MAX、それは分割HHKBの新たな選択肢](https://jun3010.me/7spromax-prototype-23076.html)
 
 # Darkweb
 

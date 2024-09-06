@@ -52,6 +52,8 @@
 ## Microsoft Copilot Studio
 
 - [Microsoft Copilot Studio をユーザー部門向けに開放する際、考慮、検討、実施すること](https://qiita.com/Takashi_Masumori/items/fce74bc38ce0451a629e)
+- [Microsoft copilot studioを使ってみた-②【SharePoint編】](https://zenn.dev/headwaters/articles/ed1176d7487c2a)
+- [【Power Platform】Copilot Studioでチャットボットを作ってみる](https://www.qes.co.jp/media/powerplatform/CopilotStudio/a383)
 
 ## AI Builder Lobe
 
