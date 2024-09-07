@@ -218,6 +218,7 @@
 ## Power BI
 
 - [Microsoft ID プラットフォームと OAuth 2.0 クライアント資格情報フロー](https://learn.microsoft.com/ja-jp/entra/identity-platform/v2-oauth2-client-creds-grant-flow)
+- [データ分析Workshop](https://speakerdeck.com/dahatake/detafen-xi-workshop)
 - [[Power BI] Power Query の Web.Contents 関数でREST APIを使う（仮）](https://qiita.com/spumoni/items/419ffd1f07947a07cad0)
 - [Microsoft Graph データ接続の概要](https://learn.microsoft.com/ja-jp/graph/data-connect-concept-overview)
 - [監査ログの検索](https://learn.microsoft.com/ja-jp/purview/audit-search?tabs=microsoft-purview-portal)

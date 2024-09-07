@@ -97,6 +97,7 @@
 
 - [会議室メールボックスに登録されている予定情報を取得して CSV ファイルにエクスポートする](https://idea.tostring.jp/?p=7767)
 - [「Gmail」にメールを送れなくなる恐れ、グーグルによる迷惑メール対策強化の衝撃 日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00989/120500134/)
+- [DMARC「p=reject」 設定後の変化](https://qiita.com/akihiro_suto/items/18f2bb6ef0128c727476)
 - [DMARC を使用してメールを検証する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-dmarc-configure)
 - [SPF を設定して、スプーフィングを防止する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-spf-configure?view=o365-worldwide)
 - [DKIM を使用して、カスタム ドメインから送信される送信電子メールを検証する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-dkim-configure)

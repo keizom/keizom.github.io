@@ -278,6 +278,7 @@ Add-SPDistributedCacheServiceInstance
 - [SQL Troubleshooting SQL Server トラブルシューティング 6 回シリーズのご案内](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/sql-troubleshooting-sql-server-6)
 - [クイック スタート:Red Hat に SQL Server をインストールし、データベースを作成する](https://learn.microsoft.com/ja-jp/sql/linux/quickstart-install-connect-red-hat?view=sql-server-ver16&tabs=rhel9)
 - [クイック スタート:Ubuntu に SQL Server をインストールし、データベースを作成する](https://learn.microsoft.com/ja-jp/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16&tabs=ubuntu2204)
+- [SQL Training 2021](https://speakerdeck.com/ymiyake/sql-training-2021)
 
 # VMware
 
@@ -330,6 +331,7 @@ Add-SPDistributedCacheServiceInstance
 - [シェルスクリプトとjqコマンドでJSONをループして中身を取り出す](https://pakapaka.jp/shell-json-loop/)
 - [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
 - [「Linux」でAI搭載ターミナルアプリ「AI Shell」を使うには](https://japan.zdnet.com/article/35222662/)
+- [「Linux」標準「ターミナル」の代替アプリ5選 - (page 2)](https://japan.zdnet.com/article/35223240/2/)
 
 ## ubuntu
 

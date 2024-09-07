@@ -205,6 +205,7 @@
 
 ## GitHub
 
+- [AzureについてCopilotが何でも教えてくれる「GitHub Copilot for Azure」発表。操作方法からプログラミング、デプロイの方法まで](https://www.publickey1.jp/blog/24/azurecopilotgithub_copilot_for_azure.html)
 - [実務未経験者の人に読んでほしいGitHubの実務tips](https://qiita.com/yamadagenki/items/5e4ee79a7a680b1675e8)
 - [Gitの仕組みと用語 / GitHub Term](https://speakerdeck.com/kaityo256/github-term)
 - [5分でできる！GitHub README プロフィール](https://qiita.com/mmnn/items/cf465d271171cba8bd51)

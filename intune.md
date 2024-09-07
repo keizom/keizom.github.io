@@ -28,3 +28,4 @@
 - [【Azure】IntuneへのWindows10デバイスの登録方法](https://yatalog.org/intune-registration-windows)
 - [Microsoft Intune 勉強会 第 1 回目](https://speakerdeck.com/tamaiyutaro/microsoft-intune-mian-qiang-hui-di-1-hui-mu)
 - [powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples/blob/master/ManagedDevices/ManagedDevices_Hardware_Get.ps1)
+- [Intuneの同期に時間がかかるのはなぜ？](https://azuread.net/archives/14223)

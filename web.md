@@ -67,6 +67,9 @@
 
 ## html
 
+- [CSSもThree.jsもタイムライン編集を可能にするTheatre.jsが凄い](https://ics.media/entry/240827/)
+- [令和のHTML / CSS / JavaScriptの書き方50選](https://zenn.dev/necscat/articles/bc9bba54babaf5)
+- [SNSで話題のWeb関連情報 2024年 8/24〜8/30](https://www.webcreatorbox.com/webnews/2024-0824-0830)
 - [見た目そのまま編集可能なオープンソースのHTMLメールデザインツール「SENDUNE」を使ってみた](https://gigazine.net/news/20240810-sendune-open-source-html-email-designer/)
 - [これはすごい便利！ WebサイトやスマホアプリのUIに今時のアニメーションやインタラクションを簡単に実装できる -Animata](https://coliss.com/articles/build-websites/operation/work/animate-ui-interaction-and-animations.html)
 - [ChatGPTでデザインのレビューをしてもらおう](https://www.webcreatorbox.com/inspiration/chatgpt-design-review)
@@ -260,6 +263,7 @@
 - - [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
 - [TypeScript未経験でもスムーズに業務に取り組める、最強の学習用コンテンツを作った話](https://engineers.ntt.com/entry/2023/12/19/090007)
 - [TypeScriptとも相性抜群なライブラリ──Vue.jsで状態管理を行う新定番「Pinia」を解説！ (2/3) CodeZine（コードジン）](https://codezine.jp/article/detail/18727?p=2)
+- [新しいチームでTypeScriptに素早くキャッチアップするためにやったこと](https://kakehashi-dev.hatenablog.com/entry/2024/09/04/110000)
 
 ## vue.js
 

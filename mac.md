@@ -61,3 +61,9 @@
 - [お前らのターミナルはダサい](https://qiita.com/kinchiki/items/57e9391128d07819c321)
 - [Mac: ターミナルとプロンプトをカスタマイズする(zsh)](https://ktksq.hatenablog.com/entry/mac-customize)
 - [Mac初心者に優しいターミナルにする（iTerm2／Oh My Zsh）](https://qiita.com/ryamate/items/075c34fcf29d0889c15a)
+
+### Tools
+
+- [【Macユーザー必見！】生産性が地味に上がるコピペの神ツール『Clipy』](https://note.com/se_maaru/n/n0cda4758c7dd)
+- [CleanShot X が神ツールすぎてあなたにも伝えたい](https://zenn.dev/contrea/articles/5fbcaeacf3fc99)
+- [Macのウィンドウ操作にはこれ！定番「BetterSnapTool」を使いこなそう](https://pc.watch.impress.co.jp/docs/column/macinfo/1443420.html)

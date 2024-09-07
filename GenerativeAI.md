@@ -21,9 +21,11 @@
 - [AIで仕事が奪われるエンジニアの特徴](https://qiita.com/Sicut_study/items/66a0b326402896e6c50b)
 - [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
 - [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)
+- [3割超の企業がやっている…生成AIのアプリ開発、新時代の当たり前とは？](https://www.sbbit.jp/article/cont1/143365)
 
 ## Chat GPT
 
+- [エンジニアにも知って欲しいChatGPT基本テクニック](https://qiita.com/b-mente/items/93ea3d9a4fc33a76b949)
 - [【生成AI】知らないと後悔する、GPT-4oだけでシステム開発を300%効率化するハック【CodeAGI】](https://qiita.com/nqdior/items/1bef77d46e199f8ec97c)
 - [ChatGPTを使って無料で画像生成する方法と注意点](https://atmarkit.itmedia.co.jp/ait/articles/2409/02/news023.html)
 - [ChatGPTの衝撃 第2章 -2024年8月バージョン-](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji-2023nian-12yue-baziyon)
@@ -122,6 +124,7 @@
 - [ノーコードで、高機能AIチャットbotを作ろう。「Dify」を徹底解説](https://chatgpt-lab.com/n/n12d18abb26c8)
 - [Dify で RAG を試す](https://note.com/npaka/n/nca849f1a23f1)
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
+- [Difyで簡単にPerplexity APIを使おう！設定手順と活用のコツ](https://note.com/tetumemo/n/n43836243dfe7)
 
 ## Gemini
 
@@ -133,6 +136,7 @@
 - [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
 - [超長くてたくさんの資料も放り込めば、まとめてブレストにも付き合ってくれる有能助手「NotebookLM」の始め方（Google Tales）](https://www.techno-edge.net/article/2024/06/10/3446.html)
 - [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
+- [Google NotebookLMとは？ 試してわかった「独自チャットボット」作成ツールの凄い実力](https://www.sbbit.jp/article/cont1/146140)
 
 ## GPTs
 
@@ -170,6 +174,7 @@
 ## LLM
 
 - [ChatGPT - LLMシステム開発大全](https://speakerdeck.com/hirosatogamo/chatgpt-azure-openai-da-quan)
+- [GPTCacheでのLLMのレスポンスキャッシュを試してみる](https://zenn.dev/gaudiy_blog/articles/e0d7c940a01bcb)
 - [Open WebUI (Formerly Ollama WebUI) がすごい](https://qiita.com/moritalous/items/1cad6878ea750d18747c)
 - [「よーしパパ、Ollama で Llama-3-ELYZA-JP-8B 動かしちゃうぞー」](https://qiita.com/s3kzk/items/3cebb8d306fb46cabe9f)
 - [おすすめLLM（大規模言語モデル）比較11選｜各LLMの特徴や活用分野を詳しく紹介](https://furusatohonpo.jp/saas/generation-ai-llm/)
@@ -198,19 +203,24 @@
 ## Prompt
 
 - [Google製プロンプト活用法100選](https://docs.google.com/spreadsheets/d/1Ti13QWfBzXpurHxgVyaTTd9XuzrJqYL9HRgg7blVXac/edit?gid=0#gid=0)
+- [各種Prompt Engineeringの日本語実例集（Zero-CoT、mock、ReAct、ToT、Metacog、Step Back、IEPなど）](https://qiita.com/YutaroOgawa2/items/aca32f8fd7d551596cf8)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
 - [マーケティングプロンプト50選(前編) 後編は公式LINEで配布中](https://docs.google.com/spreadsheets/d/18EC9WV_AIBR4m5xXk-YV5UJY9jcWe7_ei-N47zUb-Fc/edit?pli=1&gid=0#gid=0)
 - [Vertex AI プロンプト ギャラリー](https://console.cloud.google.com/vertex-ai/generative/prompt-gallery?project=hallowed-fin-242701&pli=1)
 - [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 - [都職員のアイデアが詰まった文章生成AI活用事例](https://www.digitalservice.metro.tokyo.lg.jp/documents/d/digitalservice/ai_prompt)
+- [生成AIに複数の案を比較検討してもらう、分析プロセスが意思決定の参考になる](https://xtech.nikkei.com/atcl/nxt/column/18/02901/071900012/)
 
 ## RAG
 
 - [LLMのRAGアプリケーションにおけるオブザーバビリティを向上するツール「Phoenix」の紹介](https://tech.assured.jp/entry/2024/08/20/130000)
+- [RAG入門: 精度改善のための手法28選](https://qiita.com/FukuharaYohei/items/0949aaac17f7b0a4c807)
 - [RAGで人間の脳を再現。「HippoRAG」を理解する](https://zenn.dev/knowledgesense/articles/913d07f490e9c7)
 - [生成AIのRAG構成を大手3社（AWS、Azure、Google Cloud）で徹底比較してみた](https://blog.g-gen.co.jp/entry/comparing-rag-architecture-across-cloud-vendors)
 - [Microsoft⁠⁠、RAGの機能を拡張⁠⁠、強化させたGraphRAGを一般利用可能に](https://gihyo.jp/article/2024/07/microsoft-graphrag)
 - [テキスト抽出不要のRAGを実現するColPali](https://zenn.dev/knowledgesense/articles/08cfc3de7464cb)
 - [Microsoft、LLMで注目の「RAG」の精度を向上させる「GraphRAG」をGitHubで公開](https://atmarkit.itmedia.co.jp/ait/articles/2408/03/news056.html)
+- [ソースコードをリポジトリ丸ごとLLMに読んでもらう方法](https://zenn.dev/karaage0703/articles/0a546df8941057)
 
 ## Tools
 

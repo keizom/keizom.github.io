@@ -586,6 +586,10 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [【緊急企画】話題の ChatGPT 。Microsoft の担当者が登場！まだ序章！今話せること全部お話します！ビジネスで使える IT ネタをお届けする「ネタバース」 日本マイクロソフト](https://www.youtube.com/watch?v=wsQruf1KEJE)
 - [削除された Azure AI サービス リソースの復旧または消去](https://learn.microsoft.com/ja-jp/azure/ai-services/recover-purge-resources)
 
+## Azure OpenAI Whisper
+
+- [Azure OpenAI Whisper の申請から利用までの手順をまとめた](https://qiita.com/y__saito/items/13586b2d4959858853db)
+
 ## Azure PowerShell
 
 - [Extract Azure Datacenter IP ranges to CSV](https://arnav.au/2023/10/14/extract-azure-datacenter-ip-ranges-to-csv/)
@@ -797,6 +801,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ## SendGrid
 
 - [ステップごとに解説！SPF/DKIM/DMARC設定をチェックする方法](https://sendgrid.kke.co.jp/blog/?p=18093)
+- [どんな時にAMPメールを送るべきか](https://sendgrid.kke.co.jp/blog/?p=12806)
 - [GlockAppsで迷惑メール度を判定する](https://sendgrid.kke.co.jp/blog/?p=8210)
 - [Webhookとは？](https://sendgrid.kke.co.jp/blog/?p=1851)
 - [Twilio SendGridユーザがGmailのガイドラインに対応する具体的な方法](https://sendgrid.kke.co.jp/blog/?p=17611)
