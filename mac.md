@@ -67,3 +67,8 @@
 - [【Macユーザー必見！】生産性が地味に上がるコピペの神ツール『Clipy』](https://note.com/se_maaru/n/n0cda4758c7dd)
 - [CleanShot X が神ツールすぎてあなたにも伝えたい](https://zenn.dev/contrea/articles/5fbcaeacf3fc99)
 - [Macのウィンドウ操作にはこれ！定番「BetterSnapTool」を使いこなそう](https://pc.watch.impress.co.jp/docs/column/macinfo/1443420.html)
+- [Macの内部動作をひと目で確認、オタク心をくすぐるユーティリティアプリ}](https://forbesjapan.com/articles/detail/73561)
+- [MacのChromeを軽くする裏技。このアプリ入れたらサクサクだ【今日のワークハック】](https://www.lifehacker.jp/article/2409app-tamer-keeps-chrome-and-other-apps-from-slowing-down-your-mac/)
+- [Mac OSユーザーのための必須ソフトウェア](https://qiita.com/kippp20/items/bdbb23987e7bf71d6eee)
+- [Macデビュー前に知っておきたい！WindowsとMacのキー操作は何が違う？](https://pc.watch.impress.co.jp/docs/column/macinfo/1624398.html)
+

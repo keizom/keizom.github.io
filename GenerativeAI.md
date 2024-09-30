@@ -125,6 +125,7 @@
 - [Dify で RAG を試す](https://note.com/npaka/n/nca849f1a23f1)
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
 - [Difyで簡単にPerplexity APIを使おう！設定手順と活用のコツ](https://note.com/tetumemo/n/n43836243dfe7)
+- [初心者がDifyでワークフローを作る際に知っておくと便利な5つのこと](https://zenn.dev/aidemy/articles/bd4a027308ae2c)
 
 ## Gemini
 
@@ -137,6 +138,7 @@
 - [超長くてたくさんの資料も放り込めば、まとめてブレストにも付き合ってくれる有能助手「NotebookLM」の始め方（Google Tales）](https://www.techno-edge.net/article/2024/06/10/3446.html)
 - [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
 - [Google NotebookLMとは？ 試してわかった「独自チャットボット」作成ツールの凄い実力](https://www.sbbit.jp/article/cont1/146140)
+- [NotebookLMとは？使い方や料金・活用事例5選を詳しく解説](https://aismiley.co.jp/ai_news/what-is-notebooklm-5/)
 
 ## GPTs
 
@@ -150,6 +152,9 @@
 - [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://www.microsoft.com/en-us/research/publication/from-local-to-global-a-graph-rag-approach-to-query-focused-summarization/)
 - [RAGの「ベクトル検索」の弱みを、ナレッジグラフで補う](https://zenn.dev/knowledgesense/articles/077ad1ab0f9ff6)
 - [話題のGraphRAGとは - 内部構造の解析と実用性の考察](https://www.alpha.co.jp/blog/202408_01/)
+- [話題のGraphRAGにAWSで挑戦しよう！（LlamaIndexとNeptuneに入門）](https://qiita.com/minorun365/items/a62dec701bef17cf7562)
+- [【GraphRAG プロジェクトを立ち上げます】ナレッジグラフとLLMで「発想力を持つAI」の実現へ](https://note.com/stockmark/n/n34f4c2cf3559)
+
 
 ## Local LLM
 
@@ -221,6 +226,7 @@
 - [テキスト抽出不要のRAGを実現するColPali](https://zenn.dev/knowledgesense/articles/08cfc3de7464cb)
 - [Microsoft、LLMで注目の「RAG」の精度を向上させる「GraphRAG」をGitHubで公開](https://atmarkit.itmedia.co.jp/ait/articles/2408/03/news056.html)
 - [ソースコードをリポジトリ丸ごとLLMに読んでもらう方法](https://zenn.dev/karaage0703/articles/0a546df8941057)
+- [RAGで文書検索の精度を上げるには、複数の埋め込みモデルを使う](https://zenn.dev/knowledgesense/articles/653229e5c37f4e)
 
 ## Tools
 

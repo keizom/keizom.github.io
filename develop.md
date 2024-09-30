@@ -118,6 +118,7 @@
 - [Cursor AIで変わる新しいエディタ](https://qiita.com/omo_taku/items/f9364fb23c0929b5308f)
 - [【Cursor】今話題のAI搭載最強コードエディタ！使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
 - [Cursorエディタで開発を爆速化しよう！](https://qiita.com/railgun-0402/items/717f44df9d68d77309f1)
+- [Cursor の無料版を使い続ける場合の設定](https://qiita.com/7shi/items/2e8e3ed2c39e3dc4ee22)
 
 ## Dev Home
 
@@ -290,6 +291,7 @@
 ## Python
 
 - [僕の考えた最強の Python 開発環境 (2024)](https://zenn.dev/koki_algebra/articles/cd3341bcba9272)
+- [【2024年版】めっちゃ使いやすいPythonの開発環境をVSCode上で構築する方法](https://zenn.dev/forcia_tech/articles/202409_python_environment_construction)
 - [Python + VSCode の環境構築 20240604](https://zenn.dev/mizchi/articles/setup-python-20240604)
 - [2023年最新版の有名企業のエンジニア向け研修資料をまとめてみた #Python - Qiita](https://qiita.com/eri_issue/items/576acaea7e8235f82d89)
 - [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには TECH+（テックプラス）](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
