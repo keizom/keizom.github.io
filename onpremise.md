@@ -320,6 +320,10 @@ Add-SPDistributedCacheServiceInstance
 - [Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。 (github.com)](https://github.com/increments/qiita-cli)
 - [ローカル環境でQiitaが書けちゃう「Qiita CLI」が登場！ GitHub Actionsも早速試してみた ](https://qiita.com/minorun365/items/d1c43f9a7ae63b3321f2)
 
+# ネットワークシミュレーター
+
+-[いざネットワークシミュレーター、仮想的なネットワークをパソコンに再現](https://xtech.nikkei.com/atcl/nxt/column/18/02948/091200001/)
+
 # Linux
 
 - [Windows使いが理解に苦しむ“Linux多過ぎ”問題](https://atmarkit.itmedia.co.jp/ait/articles/2401/14/news002.html)
@@ -355,3 +359,11 @@ Add-SPDistributedCacheServiceInstance
 
 - [WindowsのWSL2がsystemdに対応したらしいので、Rocky Linux9入れて使ってみる](https://labo.mycabin.net/diary/1574/)
 - [WSLでRed Hat Enterprise Linuxを利用する](https://roy-n-roy.nyan-co.page/Windows/WSL%EF%BC%86%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/rhel/)
+
+## Postfix Dovecot
+
+- [VPSとDockerとPostfixとDovecotで作るメールサーバ](https://zenn.dev/tanukinet/articles/231f3d04c849ad)
+- [自宅サーバー構築譚：DockerコンテナにPostfixをインストール / 全メール受信サーバー](https://qiita.com/katz_engineer/items/8a4e09f6a2de374a5208)
+- [[Raspberry pi4] Docker でメールサーバー(Postfix + Dovecot)を建てる。](https://nosubject.io/raspberry-pi4-docker-mailserver/)
+- [PostfixによるSMTPサーバーの構築](https://zenn.dev/hal_shu_sato/books/misskey-docker-compose-mail/viewer/postfix)
+- [ローカルテスト用SMTPメールサーバは Mailpit がオススメ！](https://qiita.com/ssc-ksaitou/items/e33409ac60235d93130f)

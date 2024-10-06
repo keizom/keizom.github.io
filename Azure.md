@@ -44,6 +44,7 @@
 ## Entra ID
 
 - [Microsoft Entra PowerShell の紹介](https://jpazureid.github.io/blog/azure-active-directory/introducing-entra-powershell/)
+- [いちばんやさしい Azure 認証・認可編 前半](https://qiita.com/KoheiKushida/items/cbf06c17db79d697568f)
 - [Azure AD参加端末におけるPRT (Primary Refresh Token)悪用のリスクと対策について](https://gmo-cybersecurity.com/blog/azuread-prt/)
 - [Arure AD管理者必見　悩みの種になりがちな「ゲストユーザー」を管理する4つの方法](https://kn.itmedia.co.jp/kn/articles/2307/12/news023.html)
 - [フェデレーション認証から Azure AD 認証への移行事例のご紹介](https://www.softbanktech.co.jp/special/blog/cloud_blog/2022/0087/)
@@ -210,6 +211,7 @@
 
 ## Azure Bicep
 
+- [Azure Bicep を GitHub Actions で CI/CD する](https://qiita.com/hoisjp/items/9376fcf9831fe542ee20)
 - [AzureでのIaCツール選びに迷ったらこれ！ARMTemplate, Bicep, Terraform, Pulumi 比較ガイド](https://qiita.com/s_w_high/items/534a6add2a37b172a6bb)
 - [Bicepを上手く早く書くコツ](https://zenn.dev/mizti/articles/0c8c5801be46a9)
 - [Azure Developer CLI とは](https://learn.microsoft.com/ja-jp/azure/developer/azure-developer-cli/overview)

@@ -294,7 +294,9 @@
 
 - [Yeoman v5.0.0 リリースによる SPFx への影響](https://www.illuminate-j.jp/blog/010_spfx_yeoman)
 - [【SPFx】PnP Controlsを利用する SharePoint Framework](https://mynote365.hatenadiary.com/entry/2019/08/16/190000)
+- [SharePoint Framework 更新者・最終更新日時列に任意の値をセットする](https://www.illuminate-j.jp/blog/spfx_validateupdatelistitem)
 - [Announcing SharePoint Framework 1.18 with updates for Microsoft Teams, Microsoft Viva and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-18-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/)
+- [SharePoint Framework カスタムプロパティに繰り返し項目を作成する](https://www.illuminate-j.jp/blog/spfx_arrayproperty)
 - [SharePoint Framework 1 つの PC で複数バージョンの開発環境を利用する](https://www.illuminate-j.jp/blog/spfx04_devenv)
 - [MsGraphSpFxThangu](https://www.youtube.com/watch?v=AKftsTLQBGo)
 - [SharePoint Framework (SPFx) 開発で分かった私的ベストプラクティスまとめ](https://www.micknabewata.com/entry/spfx-best-practice)

@@ -71,4 +71,5 @@
 - [MacのChromeを軽くする裏技。このアプリ入れたらサクサクだ【今日のワークハック】](https://www.lifehacker.jp/article/2409app-tamer-keeps-chrome-and-other-apps-from-slowing-down-your-mac/)
 - [Mac OSユーザーのための必須ソフトウェア](https://qiita.com/kippp20/items/bdbb23987e7bf71d6eee)
 - [Macデビュー前に知っておきたい！WindowsとMacのキー操作は何が違う？](https://pc.watch.impress.co.jp/docs/column/macinfo/1624398.html)
+- [macOSのターミナルから Finder を開き、 Finder から ターミナルを開く](https://lifehacking.jp/2024/09/finder-terminal/)
 

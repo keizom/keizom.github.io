@@ -32,12 +32,15 @@
 - [Creative Cloud](https://account.adobe.com/)
 - [postman](https://www.postman.com/)
 - [sendgrid](https://sendgrid.kke.co.jp)
+- [AI マインドマップ要約ツール](https://mapify.so/ja)
 
 
 ## Microsoft
 
 - [Microsoft 製品とサービスの URL](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/cloud-microsoft-domain?view=o365-worldwide&s=09#microsoft-product-and-service-urls)
 - [Microsoft 365 サービス正常性の状態ページ](https://status.cloud.microsoft)
+- [Copilot Lab](https://copilot.cloud.microsoft/ja-JP/prompts)
+- [Microsoft Create](https://create.microsoft.com/en-us)
 - [Microsoft Admin Center](https://admin.cloud.microsoft)
 - [Microsoft Loop](https://loop.cloud.microsoft)
 - [Microsoft Mesh](https://mesh.cloud.microsoft)
@@ -215,10 +218,12 @@
 - [「Meta Quest 3」をしばらく使ってみて分かったこと 長所と短所を紹介](https://www.moguravr.com/meta-quest-3-review-2/)
 - [【VR】Quest 3 で PC VR : Virtual Desktop, Steam Link, Quest Air Link どれを使えばよいのか？](https://joytokey.net/ja/blog/vr/high-quality-wireless-pc-vr/)
 - [Meta QuestでWordとExcelを体験！VRが予想外の「集中部屋」に進化していた #TrendBuzz](https://www.lifehacker.jp/article/2401-tb-meta-quest-app/)
+- [地球のどこでも自由に飛び回れる VRアプリ「FLY」を体験してみた - MoguLive](https://www.moguravr.com/vr-fly-report/)
 
 # HHKB
 
 - [7sPro MAX、それは分割HHKBの新たな選択肢](https://jun3010.me/7spromax-prototype-23076.html)
+- [HHKB Studioの特殊なキー形状に対応する互換キーキャップ「HHKB Studio Kit」](https://ascii.jp/elem/000/004/225/4225945/)
 
 # Darkweb
 

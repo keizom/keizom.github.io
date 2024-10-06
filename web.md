@@ -67,6 +67,10 @@
 
 ## html
 
+- [人に優しいフォームを作ろう、特に日本人に](https://zenn.dev/yumemi_inc/articles/c1c83cb4cdcaa8)
+;- [AI 駆動フロントエンド（Web アプリ、ネイティブモバイルアプリ）開発ツール等最新アップデート](https://www.docswell.com/s/shosuz/Z1RR94-2024-09-15-194001)
+- [すぐ消えてしまう要素をDevToolsで確認するTips集](https://zenn.dev/gemcook/articles/3e90d883100140)
+- [エンジニア向け一流デザインまとめ](https://qiita.com/nemo_Nuco/items/8c530b4cee8d5f600ab0)
 - [CSSもThree.jsもタイムライン編集を可能にするTheatre.jsが凄い](https://ics.media/entry/240827/)
 - [令和のHTML / CSS / JavaScriptの書き方50選](https://zenn.dev/necscat/articles/bc9bba54babaf5)
 - [SNSで話題のWeb関連情報 2024年 8/24〜8/30](https://www.webcreatorbox.com/webnews/2024-0824-0830)

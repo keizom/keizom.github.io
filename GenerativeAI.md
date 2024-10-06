@@ -25,7 +25,15 @@
 
 ## Chat GPT
 
+- [ChatGPT「4o」vs「o1 preview」なにが違ってどっちが優秀なのか試してみた](https://www.lifehacker.jp/article/2409-openai-chatgpt-o1-4o/)
+- [GitHub CopilotとGitHub ModelsでOpenAI o1のプレビュー開始](https://github.blog/jp/2024-09-20-try-out-openai-o1-in-github-copilot-and-models/)
+- [難しい問題が解けるOpenAI o1、生成AIの次なる競争は「推論の計算量」](https://xtech.nikkei.com/atcl/nxt/column/18/00692/091900141/)
+- [【驚異的】OpenAI o1を徹底検証！使い方・料金・GPT-4oとの比較まで解説！](https://weel.co.jp/media/innovator/openai-o1/)
 - [エンジニアにも知って欲しいChatGPT基本テクニック](https://qiita.com/b-mente/items/93ea3d9a4fc33a76b949)
+- [SearchGPTとは何かを解説、なぜGoogle検索が「もう不要」と言えるのか](https://www.sbbit.jp/article/cont1/148238)
+- [遅れに遅れたChatGPT高度な音声モードが公開開始されたので、AIパーソナリティーのポッドキャストを作ってみた（CloseBox）](https://www.techno-edge.net/article/2024/09/25/3715.html)
+- [ChatGPT o1-previewを使ってみた](https://zenn.dev/acntechjp/articles/8250ec656b67de)
+- [音声操作で広がる可能性！ChatGPTのAdvanced Voice Modeを徹底解説](https://note.com/masaland/n/n129b96b558e9)
 - [【生成AI】知らないと後悔する、GPT-4oだけでシステム開発を300%効率化するハック【CodeAGI】](https://qiita.com/nqdior/items/1bef77d46e199f8ec97c)
 - [ChatGPTを使って無料で画像生成する方法と注意点](https://atmarkit.itmedia.co.jp/ait/articles/2409/02/news023.html)
 - [ChatGPTの衝撃 第2章 -2024年8月バージョン-](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji-2023nian-12yue-baziyon)
@@ -93,9 +101,18 @@
 - [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji?slide=66)
 - [「自社製品にチャットAIを組み込みたい」　企業が取るべきセキュリティ対策とは？　“プロンプトインジェクション”の基本手口](https://www.itmedia.co.jp/news/articles/2308/10/news101.html)
 
+## OpenAI公式プロンプトジェネレーター
+
+- [OpenAI公式プロンプトジェネレーターを使ってみた感想](https://note.com/oliver_wood/n/n9750e35b06f7)
+- [OpenAIのプロンプト自動作成機能を触ってみる](https://qiita.com/ayoyo/items/301ade3c66a2aa9d5e63)
+- [OpenAI Playgroundのプロンプトジェネレータを試す](https://zenn.dev/kun432/scraps/e4fbab09e60dc9)
+- []()
+- []()
+
 ## Claud3
 
 - [チャットAI「Claude」人気機能「Artifacts」が誰でも使えるようになった](https://ascii.jp/elem/000/004/218/4218138/)
+- [Anthropic courses](https://github.com/anthropics/courses)
 - [チャットAI「Claude」すごい新機能「Artifacts」の使い方、全部教えます](https://ascii.jp/elem/000/004/206/4206789/)
 - [Claude の Projects にライブラリのリファレンスを丸ごと入れてみる](https://qiita.com/kunishou/items/ed097b46cd78030e0b29)
 - [Claude3の使い方や料金を初心者向けに解説！【画像で解説】](https://highreso.jp/edgehub/wordgenerationai/howclaude3.html)
@@ -146,6 +163,7 @@
 
 ## GraphRAG
 
+- [知識グラフ入門：辛さでつながる人々](https://qiita.com/Tadataka_Takahashi/items/e90b975c66ee1ba0909c)
 - [GraphRAG: New tool for complex data discovery now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 - [microsoft/graphrag](https://github.com/microsoft/graphrag)
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
@@ -154,7 +172,12 @@
 - [話題のGraphRAGとは - 内部構造の解析と実用性の考察](https://www.alpha.co.jp/blog/202408_01/)
 - [話題のGraphRAGにAWSで挑戦しよう！（LlamaIndexとNeptuneに入門）](https://qiita.com/minorun365/items/a62dec701bef17cf7562)
 - [【GraphRAG プロジェクトを立ち上げます】ナレッジグラフとLLMで「発想力を持つAI」の実現へ](https://note.com/stockmark/n/n34f4c2cf3559)
+- [GraphRAGを使った生成AIチャットアプリを作ってみた](https://qiita.com/ssfujita/items/65a952f299190f4c1e6a)
 
+
+## Python in Excel
+
+- [Python in Excel が GA (General Release)](https://zenn.dev/ymasaoka/articles/trying-out-python-in-excel-it-has-been-ga)
 
 ## Local LLM
 
@@ -178,6 +201,9 @@
 
 ## LLM
 
+- [自宅のPCでLLMが動く！ オープンソースの視点からひも解く生成AIの現在と未来](https://codezine.jp/article/detail/20040?p=2)
+- [OpenAI o1のオープンソースモデル？](https://zenn.dev/fusic/articles/41742093406529)
+- [Llama3.2 をローカルで動かしてみる](https://qiita.com/coitate/items/0ab96c3f092e4f8b1fa0)
 - [ChatGPT - LLMシステム開発大全](https://speakerdeck.com/hirosatogamo/chatgpt-azure-openai-da-quan)
 - [GPTCacheでのLLMのレスポンスキャッシュを試してみる](https://zenn.dev/gaudiy_blog/articles/e0d7c940a01bcb)
 - [Open WebUI (Formerly Ollama WebUI) がすごい](https://qiita.com/moritalous/items/1cad6878ea750d18747c)
@@ -186,6 +212,10 @@
 - [GPT-4超えの日本語性能？ 話題のELYZA製LLMをBedrockにインポート！ サーバーレス化してみよう](https://qiita.com/minorun365/items/eadb4e818f71a802f0e7)
 - [LLMアプリケーションの評価入門〜基礎から運用まで徹底解説〜](https://zenn.dev/pharmax/articles/df59290ba875ff)
 - [ローカルLLMの実行ツールであるOllamaをUbuntuで動かす](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0825)
+
+## Napkin AI
+
+- [【無料・日本語対応】Napkin AIとは？使い方や料金、商用利用について解説！](https://www.ai-souken.com/article/what-is-napkin-ai)
 
 ## Open Interpreter
 
@@ -227,6 +257,7 @@
 - [Microsoft、LLMで注目の「RAG」の精度を向上させる「GraphRAG」をGitHubで公開](https://atmarkit.itmedia.co.jp/ait/articles/2408/03/news056.html)
 - [ソースコードをリポジトリ丸ごとLLMに読んでもらう方法](https://zenn.dev/karaage0703/articles/0a546df8941057)
 - [RAGで文書検索の精度を上げるには、複数の埋め込みモデルを使う](https://zenn.dev/knowledgesense/articles/653229e5c37f4e)
+- [RAGを社内用語に強くするチャンク分割の手法「MoGG」](https://zenn.dev/knowledgesense/articles/f84fab70ce04de)
 
 ## Tools
 

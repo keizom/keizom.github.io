@@ -43,6 +43,11 @@
 
 ## copilot
 
+- [AI スキルの習得: プロンプト入力の基礎](https://info.microsoft.com/JA-HWBR-VDEO-FY25-09Sep-13-Mastering-AI-Skills-Prompting-Basics-SRGCM12840_LP02-Thank-You---Standard-Hero.html)
+- [Microsoft 365 Copilot Wave 2: Pages、Python in Excel、Copilot エージェント](https://news.microsoft.com/ja-jp/2024/09/18/240918-microsoft-365-copilot-wave-2-pages-python-in-excel-and-agents/)
+- [【進化して便利に】Microsoft Copilotが大型アップデート〜Excel、PowerPoint、Outlook《新機能と活用事例紹介》](https://note.com/chaen_channel/n/n14ae1d5d5166)
+- [ChatGPTに「Excelの大量PDF化→名前を付けて保存」丸投げ！初心者でも今すぐまねできる命令文](https://diamond.jp/articles/-/350182)
+- [Copilot for Microsoft 365の最新情報収集お役立ち](https://qiita.com/ponponmikankan/items/884f03c1ba52434292a1)
 - [The Future of Work with AI（Microsoft 365 Copilot 発表イベント）- 日本語まとめ](https://memo.tyoshida.me/office-365/the-future-of-work-with-ai-summary/#Power_Automate_denoCopilot)
 - [Microsoft 365 Copilotでできるようになること](https://blog.ict-in-education.jp/entry/2023/04/01/050000)
 - [Microsoft Dynamics 365 Copilot ～ CRM と ERP を支える世界初の AI アシスタント～ 日本マイクロソフト](https://www.youtube.com/watch?v=jaTXXhZUNVw)
@@ -81,6 +86,7 @@
 
 ## Power Platform
 
+- [Power Platformの「環境」って何？](https://qiita.com/skuramoto/items/bccaf27f28f6e7efad3f)
 - [Power Virtual AgentsのCopilot　次世代AIが自然言語によるボット構築を支援](https://community.dynamics.com/blogs/post/?postid=42bca5ec-1a39-43ab-9b4a-59e1b1037fa5)
 - [MicrosoftのPlatform Engineeringガイドを読んで実際になにかやってみた](https://speakerdeck.com/ymd65536/platform-engineeringgaidowodu-ndeshi-ji-ninanikayatutemita)
 - [Power Platform 環境払い出し申請業務を効率化しよう](https://qiita.com/Takashi_Masumori/items/bf458a93ac89bfa641a1)
@@ -168,6 +174,8 @@
 ## Power Automate
 
 - [Copilot in Power Automate でフローを作成してみた](https://www.illuminate-j.jp/blog/automate-copilot)
+- [Power Automate 更新者・最終更新日時列に任意の値をセットする](https://www.illuminate-j.jp/blog/flow002_validateupdatelistitem)
+- [画面に話しかけながら操作すると生成AIがRPAフローを自動生成する「Record with Copilot in Power Automate Desktop」がパブリックプレビュー](https://www.publickey1.jp/blog/24/airparecord_with_copilot_in_power_automate_desktop.html)
 - [Outlook予定表を大人数に共有する操作をPower Automate Desktopで実行する](https://aliss.jp/?p=2354)
 - [Power AutomateでOutlook予定表のイベント情報を取得する方法](https://www.teijitaisya.com/pa-outlookevents/)
 - [PowerAutomateで実行者の予定表を操作する](https://qiita.com/Rambosan/items/62797dc3676422025a5e)

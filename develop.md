@@ -170,6 +170,7 @@
 
 ## git
 
+- [【図解解説】これ1本でGitをマスターできるチュートリアル！【完全版】](https://qiita.com/Sicut_study/items/0318cc136c189b179b7f)
 - [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
 - [【Git中級者への第一歩】自らステップアップする！ チートシートや自分で起こすコンフリクトなど、Git学習のヒント](https://codezine.jp/article/detail/19919)
 - [【Git中級者への第一歩】リリースプロセスの品質を上げるブランチ戦略、開発をもっと便利にするコマンドとは](https://codezine.jp/article/detail/19413)
@@ -206,7 +207,8 @@
 
 ## GitHub
 
-- [AzureについてCopilotが何でも教えてくれる「GitHub Copilot for Azure」発表。操作方法からプログラミング、デプロイの方法まで](https://www.publickey1.jp/blog/24/azurecopilotgithub_copilot_for_azure.html)
+- [「GitHub CI/CD実践ガイド」イベント基調講演ダイジェスト＋FAQ #Forkwell_Library](https://zenn.dev/tmknom/articles/github-cicd-book)
+- [Git Credential Managerの最新版を取得する](https://kkamegawa.hatenablog.jp/entry/2024/09/21/123821)
 - [実務未経験者の人に読んでほしいGitHubの実務tips](https://qiita.com/yamadagenki/items/5e4ee79a7a680b1675e8)
 - [Gitの仕組みと用語 / GitHub Term](https://speakerdeck.com/kaityo256/github-term)
 - [5分でできる！GitHub README プロフィール](https://qiita.com/mmnn/items/cf465d271171cba8bd51)
@@ -231,6 +233,7 @@
 
 ## GitHub Copilot
 
+- [AzureについてCopilotが何でも教えてくれる「GitHub Copilot for Azure」発表。操作方法からプログラミング、デプロイの方法まで](https://www.publickey1.jp/blog/24/azurecopilotgithub_copilot_for_azure.html)
 - [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 - [「GitHub Copilot」の機能をより便利に活用するには？ 操作方法やプログラミングなどの活用例をシーン別に紹介](https://codezine.jp/article/detail/19719)
 - [GitHub Copilot Chat 舐めていた](https://blog.nishimu.land/entry/2024/06/12/215706)
@@ -304,6 +307,7 @@
 - [Python 早見表](https://chokkan.github.io/python/index.html)
 - [主にVSCodeではじめるPython開発環境構築ガイド](https://dev.classmethod.jp/articles/python-vscode-plugin/)
 - [Python環境構築](https://qiita.com/s8ry_mk/items/7bcac9c72bad8db10c39)
+- [Pythonをこれから始める人におすすめの入門書５選](https://techplay.jp/column/1870)
 
 ## Phi-3 vision
 
