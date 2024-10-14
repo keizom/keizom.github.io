@@ -67,8 +67,12 @@
 
 ## html
 
+- [これでCSSのみで実装できる！ スクロール方向に合わせてヘッダを非表示・表示する方法を解説](https://coliss.com/articles/build-websites/operation/css/css-hide-header-when-scrolling-down.html)
+- [これで簡単に実装できる！ カードやパネルをドラッグアンドドロップで移動できるレイアウトに変換するスクリプト -Swapy](https://coliss.com/articles/build-websites/operation/javascript/drag-to-swap-layout-swapy.html)
+- [【フロントエンド】駆け出しエンジニアが目指すジュニアレベルのエンジニアとは【2024年版】](https://qiita.com/mamimami0709/items/c9657367a8e7dfdca070)
+- [サクッと始めるウェブアプリ開発【Next.js / TypeScript】](https://zenn.dev/umi_mori/books/next-js-typescript)
 - [人に優しいフォームを作ろう、特に日本人に](https://zenn.dev/yumemi_inc/articles/c1c83cb4cdcaa8)
-;- [AI 駆動フロントエンド（Web アプリ、ネイティブモバイルアプリ）開発ツール等最新アップデート](https://www.docswell.com/s/shosuz/Z1RR94-2024-09-15-194001)
+- [AI 駆動フロントエンド（Web アプリ、ネイティブモバイルアプリ）開発ツール等最新アップデート](https://www.docswell.com/s/shosuz/Z1RR94-2024-09-15-194001)
 - [すぐ消えてしまう要素をDevToolsで確認するTips集](https://zenn.dev/gemcook/articles/3e90d883100140)
 - [エンジニア向け一流デザインまとめ](https://qiita.com/nemo_Nuco/items/8c530b4cee8d5f600ab0)
 - [CSSもThree.jsもタイムライン編集を可能にするTheatre.jsが凄い](https://ics.media/entry/240827/)

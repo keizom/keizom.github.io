@@ -83,6 +83,10 @@
 
 - [Microsoftのビデオ・エディター「Clipchamp」がかなり便利だった【入門＆基礎活用術】](https://www.lifehacker.jp/article/2403-how-to-use-clipchamp-in-windows-11/)
 
+## Copilot
+
+- [Microsoft Copilot導入キット](https://adoption.microsoft.com/ja-jp/copilot-enterprise-data-protection/adoption-kit/)
+
 ## Developer Subscription
 
 - [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)

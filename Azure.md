@@ -213,6 +213,7 @@
 
 - [Azure Bicep を GitHub Actions で CI/CD する](https://qiita.com/hoisjp/items/9376fcf9831fe542ee20)
 - [AzureでのIaCツール選びに迷ったらこれ！ARMTemplate, Bicep, Terraform, Pulumi 比較ガイド](https://qiita.com/s_w_high/items/534a6add2a37b172a6bb)
+- [【Azure】AlmaLinuxの仮想マシン（VM）を作成する際の注意点（CentOS7代替）](https://atmarkit.itmedia.co.jp/ait/articles/2308/03/news031.html)
 - [Bicepを上手く早く書くコツ](https://zenn.dev/mizti/articles/0c8c5801be46a9)
 - [Azure Developer CLI とは](https://learn.microsoft.com/ja-jp/azure/developer/azure-developer-cli/overview)
 - [Deploy to Azure ボタンで Bicep ファイルからデプロイする (っぽく見せる powered by GitHub Actions )。](https://uncaughtexception.hatenablog.com/entry/2022/05/23/101852)
@@ -759,6 +760,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ## Azure Traffic Manager
 
 - [【Azure】Traffic Managerのトラフィック切り替えをPowerShellで自動化する](https://atmarkit.itmedia.co.jp/ait/articles/2407/31/news049.html)
+- [Azure Traffic Managerプロファイルを生成する方法（ARMテンプレート編）](https://atmarkit.itmedia.co.jp/ait/articles/2409/18/news039.html)
 
 ## Azure Virtual Desktop
 

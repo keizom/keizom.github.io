@@ -133,6 +133,7 @@
 
 ## Dify
 
+- [Difyで社内ナレッジFAQボットを作成し、GASでSlackと連携する方法](https://chatgpt-lab.com/n/n9cc7dea56ee8)
 - [Difyの基礎知識](https://zenn.dev/satto_sann/articles/e94e49f590f4b6)
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)
 - [dify](https://dify.ai/jp)
@@ -248,7 +249,10 @@
 
 ## RAG
 
+- [RAGの処理で、リランクとベクトル検索でできることの違いを検証／解説してみる](https://acro-engineer.hatenablog.com/entry/2024/09/18/120000)
+- [RAG入門: 精度改善のための手法28選](https://qiita.com/FukuharaYohei/items/0949aaac17f7b0a4c807)
 - [LLMのRAGアプリケーションにおけるオブザーバビリティを向上するツール「Phoenix」の紹介](https://tech.assured.jp/entry/2024/08/20/130000)
+- [サクッと始めるRAG開発【LangChain / Python】](https://zenn.dev/umi_mori/books/llm-rag-langchain-python)
 - [RAG入門: 精度改善のための手法28選](https://qiita.com/FukuharaYohei/items/0949aaac17f7b0a4c807)
 - [RAGで人間の脳を再現。「HippoRAG」を理解する](https://zenn.dev/knowledgesense/articles/913d07f490e9c7)
 - [生成AIのRAG構成を大手3社（AWS、Azure、Google Cloud）で徹底比較してみた](https://blog.g-gen.co.jp/entry/comparing-rag-architecture-across-cloud-vendors)
@@ -288,3 +292,7 @@
 - [プロンプトエンジニアリングの戦略と戦術（OpenAI公式ガイド・ ChatGPT）](https://note.com/martins_day/n/ncc5fb07467ed)
 - [プロンプトエンジニアリングは公式ガイドを参考にしよう（OpenAI・Microsoft・Google）](https://note.com/martins_day/n/n057d451467e5)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+
+## 天秤AI
+
+- [天秤AIに待望のダークモード機能がリリース！｜ChatGPT、Gemini、Claudeなど最新モデルを同時実行！](https://support.oshiete.ai/hc/ja/articles/10759159273359-%E5%A4%A9%E7%A7%A4AI%E3%81%AB%E5%BE%85%E6%9C%9B%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89%E6%A9%9F%E8%83%BD%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-ChatGPT-Gemini-Claude%E3%81%AA%E3%81%A9%E6%9C%80%E6%96%B0%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%90%8C%E6%99%82%E5%AE%9F%E8%A1%8C)

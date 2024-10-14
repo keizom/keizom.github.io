@@ -234,6 +234,7 @@
 ## GitHub Copilot
 
 - [AzureについてCopilotが何でも教えてくれる「GitHub Copilot for Azure」発表。操作方法からプログラミング、デプロイの方法まで](https://www.publickey1.jp/blog/24/azurecopilotgithub_copilot_for_azure.html)
+- [OpenAI o1-preview/o1-miniがVS CodeのGitHub Copilot ChatとGitHub Modelsで利用可能に](https://gihyo.jp/article/2024/09/openai-o1-github-copilot)
 - [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 - [「GitHub Copilot」の機能をより便利に活用するには？ 操作方法やプログラミングなどの活用例をシーン別に紹介](https://codezine.jp/article/detail/19719)
 - [GitHub Copilot Chat 舐めていた](https://blog.nishimu.land/entry/2024/06/12/215706)
@@ -293,6 +294,7 @@
 
 ## Python
 
+- [Python in Excel が GA (General Release)](https://zenn.dev/ymasaoka/articles/trying-out-python-in-excel-it-has-been-ga)
 - [僕の考えた最強の Python 開発環境 (2024)](https://zenn.dev/koki_algebra/articles/cd3341bcba9272)
 - [【2024年版】めっちゃ使いやすいPythonの開発環境をVSCode上で構築する方法](https://zenn.dev/forcia_tech/articles/202409_python_environment_construction)
 - [Python + VSCode の環境構築 20240604](https://zenn.dev/mizchi/articles/setup-python-20240604)
@@ -332,6 +334,8 @@
 
 ## VisualStudio Code
 
+- [ChatGPTとVSCodeを連携させる方法｜使い方を解説](https://www.onamae.com/business/article/26878/)
+- [ChatGPTがコーディング支援を強化。コードエディタ機能を統合、コードレビューやデバッグ、他言語への移植ツールなどを含む新機能「Canvas」が登場](https://www.publickey1.jp/blog/24/chatgptcanvas.html)
 - [次世代エディタ6選](https://qiita.com/twrcd1227/items/4faccd04f0f19f3fdb5e)
 - [【VSCode】オススメの拡張機能と設定](https://qiita.com/twrcd1227/items/16c685b626ad548810c7)
 - [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
@@ -421,14 +425,14 @@
 - [VSCodeで踏み台サーバ経由で接続したリモートサーバ上のファイルをエクスプローラー表示する](https://qiita.com/keso_keso/items/fee7b6c1be86614bdc65)
 - [VScode Remote-SSHで外部サーバーに 多段SSH接続](https://ichiri.biz/tech/vscode-multihop-remote-ssh/)
 
-## AI Toolkit for VS Code
+### AI Toolkit for VS Code
 
 - [Microsoft、「AI Toolkit for VS Code」を発表](https://forest.watch.impress.co.jp/docs/news/1593578.html)
 - [AI Toolkit for Visual Studio Code Preview](https://github.com/microsoft/vscode-ai-toolkit/blob/main/README.md)
 - [Microsoft、「AI Toolkit for VS Code」を発表](https://forest.watch.impress.co.jp/docs/news/1593578.html)
 - [Visual Studio Code 用 AI Toolkit の概要](https://learn.microsoft.com/ja-jp/windows/ai/toolkit/)
 
-## Visual Studio Extention
+### Visual Studio Extention
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
