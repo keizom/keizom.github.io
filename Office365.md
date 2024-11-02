@@ -148,6 +148,7 @@
 - [AI搭載の多機能メモアプリ｢Microsoft Loop｣、Notionとはここがちがいます](https://www.gizmodo.jp/2023/04/loop-notion-comparison.html)
 - [Microsoft Loop ：パブリックプレビューを利用する設定方法](https://art-break.net/tech/?p=17773)
 - [Microsoft Loop がGA (一般提供開始)](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/11/microsoft-loop--bec5.html)
+- [Microsoft Teams上でLoopコンポーネントを作成、Copilotを使って効率よく](https://xtech.nikkei.com/atcl/nxt/column/18/01787/102100160/)
 
 
 ## Microsoft 365 Copilot
@@ -188,6 +189,7 @@
 
 ## Teams
 
+- [Teams 会議の参加リンクや会議 ID から meetingId を取得する方法](https://zenn.dev/ymasaoka/articles/how-to-get-teamsmeeting-id-by-joinweburl)
 - [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
 - [Microsoft Teamsの表示をカスタマイズ、既定のリアクションを変更しよう](https://active.nikkeibp.co.jp/atcl/act/19/00390/061300092/)
 - [TeamsのIncomming Webhookコネクタが廃止されるようなのでPowerAutomateのワークフローに移行してみる](https://qiita.com/fukasawah/items/896c3638c203a973c2f0)

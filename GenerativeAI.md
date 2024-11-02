@@ -22,9 +22,15 @@
 - [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
 - [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)
 - [3割超の企業がやっている…生成AIのアプリ開発、新時代の当たり前とは？](https://www.sbbit.jp/article/cont1/143365)
+- [2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊](https://qiita.com/aokikenichi/items/0e064ecd3824fab9424d)
+
+## Bolt.new
+
+0 [プロンプトの入力によってフルスタックWebアプリを開発、実行、編集、デプロイできる「Bolt.new」が登場　AIで開発作業はどこまで楽になる？](https://atmarkit.itmedia.co.jp/ait/articles/2411/02/news040.html)
 
 ## Chat GPT
 
+- [早速「ChatGPT search」のお試し【OpenAI】](https://qiita.com/youtoy/items/be294a7e8f9fec75fde9)
 - [ChatGPT「4o」vs「o1 preview」なにが違ってどっちが優秀なのか試してみた](https://www.lifehacker.jp/article/2409-openai-chatgpt-o1-4o/)
 - [GitHub CopilotとGitHub ModelsでOpenAI o1のプレビュー開始](https://github.blog/jp/2024-09-20-try-out-openai-o1-in-github-copilot-and-models/)
 - [難しい問題が解けるOpenAI o1、生成AIの次なる競争は「推論の計算量」](https://xtech.nikkei.com/atcl/nxt/column/18/00692/091900141/)
@@ -164,6 +170,8 @@
 
 ## GraphRAG
 
+- [Project GraphRAG](https://www.microsoft.com/en-us/research/project/graphrag/)
+- [話題のGraphRAG、その可能性と課題を理解する](https://speakerdeck.com/hide212131/the-trending-graphrag-understanding-its-potential-and-challenges)
 - [知識グラフ入門：辛さでつながる人々](https://qiita.com/Tadataka_Takahashi/items/e90b975c66ee1ba0909c)
 - [GraphRAG: New tool for complex data discovery now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 - [microsoft/graphrag](https://github.com/microsoft/graphrag)
@@ -235,6 +243,7 @@
 - [検索特化型AI「Perplexity」の強みは？ChatGPT・Geminiと比較してみた](https://www.lifehacker.jp/article/2406-ai-perplexity/)
 - [チャットAI「Claude」すごい新機能「Artifacts」の使い方、全部教えます](https://ascii.jp/elem/000/004/206/4206789/2/)
 - [AI検索「Perplexity」の「Pro Search」が大幅機能向上。4時間ごと5回まで無料](https://ascii.jp/elem/000/004/208/4208087/)
+- [最新情報が扱えてハルシネーションも回避できる検索特化生成AI「Perplexity」のつかいかた](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/1633097.html)
 
 ## Prompt
 
@@ -250,6 +259,8 @@
 ## RAG
 
 - [RAGの処理で、リランクとベクトル検索でできることの違いを検証／解説してみる](https://acro-engineer.hatenablog.com/entry/2024/09/18/120000)
+- [RAGの「最大の弱点」と「対処方法」【Map Reduce / Refine】](https://zenn.dev/umi_mori/books/llm-rag-langchain-python/viewer/rag-weakpoint-map-reduce-refine)
+- [RAGの「文脈が消える問題」を解決する「LongRAG」](https://zenn.dev/knowledgesense/articles/e0ade68c265200)
 - [RAG入門: 精度改善のための手法28選](https://qiita.com/FukuharaYohei/items/0949aaac17f7b0a4c807)
 - [LLMのRAGアプリケーションにおけるオブザーバビリティを向上するツール「Phoenix」の紹介](https://tech.assured.jp/entry/2024/08/20/130000)
 - [サクッと始めるRAG開発【LangChain / Python】](https://zenn.dev/umi_mori/books/llm-rag-langchain-python)

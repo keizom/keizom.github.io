@@ -329,6 +329,8 @@ Add-SPDistributedCacheServiceInstance
 - [Windows使いが理解に苦しむ“Linux多過ぎ”問題](https://atmarkit.itmedia.co.jp/ait/articles/2401/14/news002.html)
 - [Linuxでの調査時に高頻度で使用してきたコマンドまとめ](https://qiita.com/hirssk/items/aed3fd28462f5ac245cf)
 - [厳選Linuxフリーソフト100](https://xtech.nikkei.com/atcl/nxt/column/18/02713/)
+- [「Linux入門」無料のオンライン講座が提供開始　受講時間は約60時間　初心者も一から学べる](https://www.itmedia.co.jp/news/articles/2410/25/news166.html)
+- [UbuntuでSurface Go 3のファームウェアを更新する](https://qiita.com/bugcity/items/8c934044028d8da5215b)
 
 ## Shell
 

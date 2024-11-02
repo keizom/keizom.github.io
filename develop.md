@@ -128,6 +128,7 @@
 ## Docker
 
 - [Dockerがわからない人へ。これ1本で0から学べる丁寧なDocker入門](https://qiita.com/Sicut_study/items/4f301d000ecee98e78c9)
+- [初心者エンジニア必見！Dockerコマンドチートシート&トラブルシューティング&ベストプラクティス](https://qiita.com/K3n_to_n17/items/f61650cf4b9cbba298fd)
 - [ Docker入門資料「入門 Docker」を5年ぶりにアップデートしました。](https://y-ohgi.blog/entry/2024/08/19/Docker%E5%85%A5%E9%96%80%E8%B3%87%E6%96%99%E3%80%8C%E5%85%A5%E9%96%80_Docker%E3%80%8D%E3%82%925%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97)
 - [docker container / image コマンド新旧比較](https://qiita.com/zembutsu/items/6e1ad18f0d548ce6c266)
 - [Web開発において複数人で同じ環境を用意しよう(Dockerの基本)](https://qiita.com/JavaLangRuntimeException/items/6f6d03bd6d1e69c9e67e)
@@ -207,7 +208,9 @@
 
 ## GitHub
 
+- [GitHubをコードで管理 ! Terraformを導入して安全な管理を実現しました](https://tech.route06.co.jp/entry/2024/10/18/153755)
 - [「GitHub CI/CD実践ガイド」イベント基調講演ダイジェスト＋FAQ #Forkwell_Library](https://zenn.dev/tmknom/articles/github-cicd-book)
+- [Github Pagesで職務経歴書を作ってみた](https://zenn.dev/choimake/articles/9809c6dbfc43a4)
 - [Git Credential Managerの最新版を取得する](https://kkamegawa.hatenablog.jp/entry/2024/09/21/123821)
 - [実務未経験者の人に読んでほしいGitHubの実務tips](https://qiita.com/yamadagenki/items/5e4ee79a7a680b1675e8)
 - [Gitの仕組みと用語 / GitHub Term](https://speakerdeck.com/kaityo256/github-term)
@@ -520,6 +523,7 @@
 
 ## WSL
 
+- [WSL2で劇的に変わるあなたのWebアプリケーション開発環境【その2：導入編】](https://tech-lab.sios.jp/archives/18437)
 - [WSL2 による Python3 の環境構築](https://qiita.com/zakoken/items/8ddfda7267e7d95b3c46)
 - [なんかWSL2がインターネットにつながらなくなったときの解決方法](https://qiita.com/kotauchisunsun/items/71fae973afa00ebb871a)
 - [WSL (Windows Subsystem for Linux)の基本メモ](https://qiita.com/rubytomato@github/items/fdfc0a76e848442f374e)

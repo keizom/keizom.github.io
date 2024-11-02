@@ -333,6 +333,11 @@
 - [Azure Deployment Environments](https://azure.microsoft.com/ja-jp/products/deployment-environments/#overview)
 - [Azure Deployment Environments で実現する組織における Azure インフラストラクチャー構成管理](https://techblog.ap-com.co.jp/entry/2022/10/19/130457)
 
+## Azure Developer CLI (azd)
+
+- [Azure Developer CLI (azd) – October 2024](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2024/)
+- [Azure/azure-dev](https://github.com/Azure/azure-dev)
+
 ## Azure DevOps
 
 - [Azure DevOps Online Vol.10とCopilotでのサマリー](https://kkamegawa.hatenablog.jp/entry/2024/01/30/204350)

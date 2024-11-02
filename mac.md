@@ -42,6 +42,7 @@
 - [Mac を買ったら必ずやっておきたい初期設定](https://qiita.com/ucan-lab/items/c1a12c20c878d6fb1e21)
 - [M1 MacへのNode.jsインストール手順](https://qiita.com/naoto24kawa/items/6c1be2296bb762ff283f)
 - [Macの効率化に役立つユーティリティ系のアプリ7選](https://note.com/dtp_tranist/n/nd0f21ccd0755)
+- [Mac新調したのでアプリや設定の個人的な棚卸し](https://qiita.com/kawaz/items/952cb1a86b1da77cd7ab)
 
 
 ### Docker
