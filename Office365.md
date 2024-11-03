@@ -143,6 +143,7 @@
 ## loop
 
 - [Microsoft Loopとは何かを使い方から解説、Notionとの違いは？ 3つの機能や始め方も](https://www.sbbit.jp/article/cont1/131393)
+- [情報の整理・共有に便利なMicrosoft Loopページ、作成をCopilotに手伝ってもらう](https://xtech.nikkei.com/atcl/nxt/column/18/01787/101100159)
 - [Microsoft LoopがGAされたので管理面を整理してみる](https://zenn.dev/santafs/articles/8b9701feb63bf1)
 - [Microsoft Loop アプリ (public preview) - 勉強会の録画公開](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/04/microsoft-loop--6f48.html)
 - [AI搭載の多機能メモアプリ｢Microsoft Loop｣、Notionとはここがちがいます](https://www.gizmodo.jp/2023/04/loop-notion-comparison.html)
@@ -235,6 +236,7 @@
 
 ## Microsoft Graph
 
+- [Graph APIでMFAリセットを実施する](https://tech-lab.sios.jp/archives/43499)
 - [Microsoft Graph で SharePoint Onlineのリストアイテムを取得する（ユーザー列・選択肢列・参照列）](https://qiita.com/miesque/items/e66d991291f47ece032f)
 - [Microsoft Graphでメールを自動送信するスクリプトを作る](https://qiita.com/piyo8810/items/f2093a9f92ec9eaf059e)
 - [Azure ADの監査ログを取得 ～Microsoft Graph API編～](https://tech-lab.sios.jp/archives/25178)

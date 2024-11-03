@@ -23,6 +23,7 @@
 - [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)
 - [3割超の企業がやっている…生成AIのアプリ開発、新時代の当たり前とは？](https://www.sbbit.jp/article/cont1/143365)
 - [2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊](https://qiita.com/aokikenichi/items/0e064ecd3824fab9424d)
+- [【教材まとめ】これ全部やったら流石に誰でもつよつよAIエンジニアになれる](https://qiita.com/eureka-ai/items/6c55e3b6d9617ae58afa)
 
 ## Bolt.new
 
@@ -30,7 +31,10 @@
 
 ## Chat GPT
 
+- [Windows版ChatGPTアプリが公開](https://pc.watch.impress.co.jp/docs/news/1632455.html)
 - [早速「ChatGPT search」のお試し【OpenAI】](https://qiita.com/youtoy/items/be294a7e8f9fec75fde9)
+- [ChatGPT「canvas」使い方と、Claude「Artifacts」との違いを解説　文章作成やコーディングがスイスイできます](https://ascii.jp/elem/000/004/229/4229960/)
+- [【LangChain】正規表現を利用したセマンティックチャンキングの紹介](https://tech-lab.sios.jp/archives/43646)
 - [ChatGPT「4o」vs「o1 preview」なにが違ってどっちが優秀なのか試してみた](https://www.lifehacker.jp/article/2409-openai-chatgpt-o1-4o/)
 - [GitHub CopilotとGitHub ModelsでOpenAI o1のプレビュー開始](https://github.blog/jp/2024-09-20-try-out-openai-o1-in-github-copilot-and-models/)
 - [難しい問題が解けるOpenAI o1、生成AIの次なる競争は「推論の計算量」](https://xtech.nikkei.com/atcl/nxt/column/18/00692/091900141/)
@@ -132,6 +136,10 @@
 - [Claude 3.5 Sonnet vs GPT-4o — An honest revie](https://hackernoon.com/claude-35-sonnet-vs-gpt-4o-an-honest-review)
 - [【完全版】GPT-4o超えで話題沸騰のClaude 3.5 Sonnetの使い方と活用事例15選を徹底解説《プロンプトテンプレートと他LLMとの比較付》　7,000文字近くの決定版。](https://note.com/chaen_channel/n/nd6162d2b7312)
 
+## Create.xyz
+
+- [プロンプトからサイトが作れる！？話題の「Create.xyz」を使ってみた](https://note.com/aicu/n/n319a1039d803)
+
 ## Command R
 
 - [まるで“いけない話ができるChatGPT”　ローカルAI「Command R+」の爆発的な可能性](https://ascii.jp/elem/000/004/198/4198080/)
@@ -139,6 +147,7 @@
 
 ## Dify
 
+- [超簡単に、Windows11にDifyをインストールする手順](https://qiita.com/daishiro_jp/items/de2b59b4081ead2161fe)
 - [Difyで社内ナレッジFAQボットを作成し、GASでSlackと連携する方法](https://chatgpt-lab.com/n/n9cc7dea56ee8)
 - [Difyの基礎知識](https://zenn.dev/satto_sann/articles/e94e49f590f4b6)
 - [話題のローコードツール「Dify」で生成AIアプリを作ってみよう！](https://qiita.com/minorun365/items/4c5dba1de7977c386249)

@@ -15,6 +15,7 @@
 
 # Intune
 
+- [【雑記】GPOなど既存システムのデバイスポリシーを Intune に再現する方法 (Windows)](https://qiita.com/shokolate/items/a0eea9c595fe57bff2e4)
 - [IntuneMaps.com](https://intunemaps.com/)
 - [Export HW/SW Inventory Data from Intune Devices using PowerShell Skatterbrainz Blog](https://skatterbrainz.wordpress.com/2020/01/18/export-hw-sw-inventory-data-from-intune-devices-using-powershell/)
 - [Intune にて PowerShell スクリプトを配布する方法について](https://www.softbanktech.co.jp/special/blog/cloud_blog/2023/0069/)

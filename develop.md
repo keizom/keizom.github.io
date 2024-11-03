@@ -209,6 +209,8 @@
 ## GitHub
 
 - [GitHubをコードで管理 ! Terraformを導入して安全な管理を実現しました](https://tech.route06.co.jp/entry/2024/10/18/153755)
+- [なんとなくから脱却するGitHub Actionsグッドプラクティス11選](https://gihyo.jp/article/2024/10/good-practices-for-github-actions)
+- [【GitHub】初めてのGitHub~GitHubリポジトリ作成まで](https://qiita.com/piromo/items/a45b44d85ad28bf05c02)
 - [「GitHub CI/CD実践ガイド」イベント基調講演ダイジェスト＋FAQ #Forkwell_Library](https://zenn.dev/tmknom/articles/github-cicd-book)
 - [Github Pagesで職務経歴書を作ってみた](https://zenn.dev/choimake/articles/9809c6dbfc43a4)
 - [Git Credential Managerの最新版を取得する](https://kkamegawa.hatenablog.jp/entry/2024/09/21/123821)
@@ -236,6 +238,7 @@
 
 ## GitHub Copilot
 
+- [いくつ知ってる？ GitHub Copilotの新機能、コーディングにとどまらない進化を解説](https://codezine.jp/article/detail/20065)
 - [AzureについてCopilotが何でも教えてくれる「GitHub Copilot for Azure」発表。操作方法からプログラミング、デプロイの方法まで](https://www.publickey1.jp/blog/24/azurecopilotgithub_copilot_for_azure.html)
 - [OpenAI o1-preview/o1-miniがVS CodeのGitHub Copilot ChatとGitHub Modelsで利用可能に](https://gihyo.jp/article/2024/09/openai-o1-github-copilot)
 - [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)

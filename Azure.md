@@ -780,6 +780,10 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Azure Monitor エージェントの概要](https://learn.microsoft.com/ja-jp/azure/azure-monitor/agents/agents-overview)
 - [Microsoft Sentinel とは](https://learn.microsoft.com/ja-jp/azure/sentinel/overview)
 
+## Azure Update Manager
+
+- [Azure Update Manager でパッチ管理を試す！](https://www.cloudou.net/virtual-machines/vm022/)
+
 ## Azure VM
 
 - [Azure VM の送信接続 (SNAT) オプション まとめ](https://jpaztech.github.io/blog/network/snat-options-for-azure-vm/)
