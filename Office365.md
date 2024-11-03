@@ -237,6 +237,7 @@
 ## Microsoft Graph
 
 - [Graph APIでMFAリセットを実施する](https://tech-lab.sios.jp/archives/43499)
+- [マネージド ID に Microsoft Graph API アクセス許可設定を行う](https://zenn.dev/ymasaoka/articles/how-to-set-msgraph-permission-managedid)
 - [Microsoft Graph で SharePoint Onlineのリストアイテムを取得する（ユーザー列・選択肢列・参照列）](https://qiita.com/miesque/items/e66d991291f47ece032f)
 - [Microsoft Graphでメールを自動送信するスクリプトを作る](https://qiita.com/piyo8810/items/f2093a9f92ec9eaf059e)
 - [Azure ADの監査ログを取得 ～Microsoft Graph API編～](https://tech-lab.sios.jp/archives/25178)
