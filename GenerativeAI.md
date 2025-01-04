@@ -17,13 +17,21 @@
 
 ## 資料
 
+- [2025年さらに熱くなるであろうローカルLLMのためのm4mac購入検討](https://zenn.dev/afk2777/articles/localllm-mac)
+- [12 Days of OpenAIの発表内容まとめ【生成AIエンジニア必見】](https://zenn.dev/galirage/articles/openai-12-days)
 - [世界経済の潮流](https://www5.cao.go.jp/j-j/sekai_chouryuu/sh24-01/index-pdf.html)
+- [GPT-3.5 Turbo終了で戸惑う金融各社、国内データセンター限定方針に限界](https://xtech.nikkei.com/atcl/nxt/column/18/00001/09626/)
+- [【入門】生成AI関連を学べる資料まとめ](https://qiita.com/KNR109/items/57b680e1eaab4d744d68)
 - [AIで仕事が奪われるエンジニアの特徴](https://qiita.com/Sicut_study/items/66a0b326402896e6c50b)
 - [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
 - [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)
 - [3割超の企業がやっている…生成AIのアプリ開発、新時代の当たり前とは？](https://www.sbbit.jp/article/cont1/143365)
 - [2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊](https://qiita.com/aokikenichi/items/0e064ecd3824fab9424d)
 - [【教材まとめ】これ全部やったら流石に誰でもつよつよAIエンジニアになれる](https://qiita.com/eureka-ai/items/6c55e3b6d9617ae58afa)
+
+## AI Shell
+
+- [PowerShellをAIフロントにする"AI Shell"をChatGPT端末にしてみた](https://news.mynavi.jp/techplus/article/20241128-aishelltoopenaigpt/)
 
 ## Bolt.new
 
@@ -147,6 +155,7 @@
 
 ## Dify
 
+- [Difyとは｜話題のノーコード生成AIアプリ開発プラットフォーム](https://ledge.ai/articles/dify)
 - [超簡単に、Windows11にDifyをインストールする手順](https://qiita.com/daishiro_jp/items/de2b59b4081ead2161fe)
 - [Difyで社内ナレッジFAQボットを作成し、GASでSlackと連携する方法](https://chatgpt-lab.com/n/n9cc7dea56ee8)
 - [Difyの基礎知識](https://zenn.dev/satto_sann/articles/e94e49f590f4b6)
@@ -179,6 +188,7 @@
 
 ## GraphRAG
 
+- [MicrosoftのGraphRAG+Neo4jで簡単にKnowledge Graphを可視化する](https://acro-engineer.hatenablog.com/entry/2024/11/19/120000)
 - [Project GraphRAG](https://www.microsoft.com/en-us/research/project/graphrag/)
 - [話題のGraphRAG、その可能性と課題を理解する](https://speakerdeck.com/hide212131/the-trending-graphrag-understanding-its-potential-and-challenges)
 - [知識グラフ入門：辛さでつながる人々](https://qiita.com/Tadataka_Takahashi/items/e90b975c66ee1ba0909c)

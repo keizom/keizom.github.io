@@ -16,6 +16,7 @@
 
 # Azure
 
+- [Microsoft デジタル防衛レポート 2024](https://www.microsoft.com/ja-jp/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024)
 - [【必読】Azureエンジニアが教える！AZ−104とAZ−305にほぼ合格できる勉強方法](https://zenn.dev/murakami_koki/articles/e404cb8aa8995b)
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
 - [Azureを勉強したいけど何したらいいかわからない人へ ~ 勉強資料インデックスの紹介 ~](https://qiita.com/aktsmm/items/d0da6b7b245b6a88ef95)
@@ -33,6 +34,7 @@
 
 ## メンテナンス
 
+- [【Azure】まだ使っているのに廃止されてしまうサービスを確認する](https://atmarkit.itmedia.co.jp/ait/articles/2411/06/news033.html)
 - [Azure での仮想マシンのメンテナンス](https://docs.microsoft.com/ja-jp/azure/virtual-machines/maintenance-and-updates)
   > Azure により、都合の良いときに自分でメンテナンスを開始できる時間枠も与えられます。 セルフ メンテナンス期間は、そのメンテナンスが緊急でない限り、通常は 35 日間です (ホスト マシンの場合)。
 
@@ -266,6 +268,7 @@
 
 ## Azure Cosmos DB
 
+- [【Azure】CosmosDBにおけるパーティション入門ガイド【初心者向け】](https://tech-lab.sios.jp/archives/44573)
 - [Azure Cosmos DB for MongoDB API with Xamarin Quick Start](https://docs.microsoft.com/en-us/samples/azure-samples/azure-cosmos-db-mongodb-xamarin-getting-started/azure-cosmos-db-mongodb-xamarin-getting-started/)
 - [GitHub - DocumentDB-Quickstart-DotNet](https://github.com/dzadnip/DocumentDB-Quickstart-DotNet)
 - [Azure Cosmos DB 自習書 Azure Cosmos DB 入門 SQL API 編](https://www.cloud-for-all.com/resource/azure-cosmos-db-sql-api)
@@ -384,6 +387,7 @@
 ## Azure DNS
 
 - [Azure 仮想ネットワーク内のリソースの名前解決](https://docs.microsoft.com/ja-jp/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
+- [Azure DNS セキュリティ ポリシー](https://qiita.com/Isato-Hiyama/items/7bb6483f29e981df9e23)
 
   > Azure DNS IP アドレスは 168.63.129.16 です。これは静的な IP アドレスであり、変更されません。
 
@@ -393,6 +397,10 @@
 
 - [GraphRAGの簡易検証 ~Azure Document Intelligence, Neo4jを用いて~](https://qiita.com/Ruuchami/items/294d797798d4fca346ad)
 - [Azure AI Document Intelligence入門【Resultパラメータ解説付き！】](https://tech-lab.sios.jp/archives/41739)
+
+## Entra ID
+
+- [Entra ID 初学者向けシリーズ第 1 弾 - 条件付きアクセス 入門](https://jpazureid.github.io/blog/azure-active-directory/starter-series-conditional-access/)
 
 ## Azure Front Door
 
@@ -786,6 +794,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure VM
 
+- [パスワードレスを含む Microsoft Entra ID を使用して Azure の Windows 仮想マシンにサインインする](https://learn.microsoft.com/ja-jp/entra/identity/devices/howto-vm-sign-in-azure-ad-windows)
 - [Azure VM の送信接続 (SNAT) オプション まとめ](https://jpaztech.github.io/blog/network/snat-options-for-azure-vm/)
 - [VM(Windows 11) の日本語化の方法](https://office365labo.com/2024/06/21/vmwindows-11-%e3%81%ae%e6%97%a5%e6%9c%ac%e8%aa%9e%e5%8c%96%e3%81%ae%e6%96%b9%e6%b3%95/)
 - [Azureのデフォルトoutbound廃止に伴うSelf-hosted Agentへの影響](https://kkamegawa.hatenablog.jp/entry/2023/10/07/185453)

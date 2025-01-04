@@ -16,6 +16,9 @@
 
 # Develop
 
+
+- [リスト攻撃事案から得られるユーザー周りの設計の学び](https://qiita.com/ritou/items/00990e00151fad46df1a)
+
 ## リーダブルコード
 
 - [リーダブルコードの要点整理と活用法をまとめた](https://qiita.com/KNR109/items/3b14e2e8f89a33c0f959)
@@ -235,6 +238,9 @@
 - [Gitコマンド早見表](https://qiita.com/kohga/items/dccf135b0af395f69144)
 - [GitHub Copilot Workspace：GitHub Copilotネイティブの開発環境へようこそ](https://github.blog/jp/2024-04-30-github-copilot-workspace/)
 
+## GitHub Actions
+
+- [初心者向け！GitHub Actions をはじめる](https://zenn.dev/kiwichan101kg/articles/2d6850ff72bc98)
 
 ## GitHub Copilot
 
@@ -274,6 +280,18 @@
 - [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
 ## PowerShell
+
+- [ハッシュテーブルについて知りたかったことのすべて](https://learn.microsoft.com/ja-jp/powershell/scripting/learn/deep-dives/everything-about-hashtable?view=powershell-7.4)
+
+    > 順序付きハッシュテーブル
+    > 既定では、ハッシュテーブルは順序付け (または並べ替え) されていません。 従来のコンテキストでは、常にキーを使用して値にアクセスする場合、順序は重要ではありません。 プロパティを定義した順序で維持する必要が生じる場合があります。 幸いにも、ordered キーワードを使用してこれを行う方法があります。
+
+    ``` PowerShell
+    $person = [ordered]@{
+        name = 'Kevin'
+        age  = 36
+    }
+    ```
 
 - [about_Comment_Based_Help](<https://docs.microsoft.com/ja-jp/previous-versions/windows/powershell-scripting/hh847834(v=wps.640)?redirectedfrom=MSDN>)
 - [【Write-Verbose】スクリプトや関数の詳細を表示する【PowerShell】](https://www.tekizai.net/entry/2021/08/26/063000)

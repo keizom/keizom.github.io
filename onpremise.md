@@ -366,6 +366,7 @@ Add-SPDistributedCacheServiceInstance
 
 - [WindowsのWSL2がsystemdに対応したらしいので、Rocky Linux9入れて使ってみる](https://labo.mycabin.net/diary/1574/)
 - [WSLでRed Hat Enterprise Linuxを利用する](https://roy-n-roy.nyan-co.page/Windows/WSL%EF%BC%86%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/rhel/)
+- [Windows Subsystem for Linuxガイド 第41回 WSL GUI設定](https://news.mynavi.jp/article/20241107-3060285/)
 
 ## Postfix Dovecot
 

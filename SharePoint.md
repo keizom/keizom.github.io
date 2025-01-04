@@ -16,6 +16,11 @@
 
 # SharePoint
 
+## copilot
+
+- [Copilot Studio のチャットボットから SharePoint のナレッジを参照するための設定](https://qiita.com/sonooh/items/5a05355d4e137b95ce39)
+- [Copilot Studio 使ってみた② -SharePoint篇-](https://www.softbank.jp/biz/blog/cloud-technology/articles/202406/copilot-studio-2/)
+
 ## SSIS 2 SharePoint
 
 - [Moving SharePoint Documents to the File System](https://dataqueen.curiousmind.ca/2013/02/moving-sharepoint-documents-to-the-file-system/)
@@ -365,6 +370,7 @@
 
 ## Microsoft Syntex
 
+- [AIでドキュメントの分類を簡単に！SharePoint Syntexを使ってみた](https://deepcom.co.jp/sharepoint_syntex_introduction/)
 - [Microsoft Ignite 2022 Recap: 凄い! Microsoft Syntex による最新のMicrosoft 365 コンテンツ管理を学ぼう](https://shanqiai.lekumo.biz/sharepoint_technical_note/2022/10/microsoft-ignite-2022-recap-microsoft-syntex.html)
 - [Overview of autofill columns in Microsoft Syntex](https://learn.microsoft.com/en-us/microsoft-365/syntex/autofill-overview)
 - [SharePoint Syntexでドキュメントライブラリのプロパティ追加を自動化する -Excel編-](https://blog.jbs.co.jp/entry/2023/03/14/163312)

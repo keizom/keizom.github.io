@@ -115,6 +115,7 @@
 
 ## Power Apps
 
+- [PowerApps-Sample-Apps-Japan](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main)
 - [365ユーザー向け、キャンバスアプリの作り方](https://learn.microsoft.com/ja-jp/collections/j0xzun463pkrng?sharingId=M365-MVP-5000493)
 - [ありそうでなかった！Power Appsから直接SharePointのドキュメントライブラリにアップロードするコンポーネントを作成する](https://qiita.com/DEmodoriGatsuO/items/2b9c25cf5dcd17b4958d)
 - [365ユーザー向け、クラウドフローの作り方](https://learn.microsoft.com/ja-jp/collections/yjoqipk6wznk2z?sharingId=M365-MVP-5000493)

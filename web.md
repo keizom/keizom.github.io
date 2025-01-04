@@ -67,6 +67,10 @@
 
 ## html
 
+- [【保存版】フロントエンド初心者がまず読むべき資料まとめ【2024年最新】](https://qiita.com/nuco_YM/items/b4259d838be53a6f44ee)
+- [【開発効率爆上がり】すべてのエンジニアが必ず見るべき16のウェブサイト](https://qiita.com/ken1041/items/c975b346d43a575e946d)
+- [デジタル庁のサイトやばすぎるwww](https://qiita.com/mu_tomoya/items/f78f1fad3a8b57ac7dc3)
+- [独学でプロを目指す！Web制作を無料で学べるおすすめ学習まとめ](https://qiita.com/nucomiya/items/ffe6c632254fba2c409b)
 - [これでCSSのみで実装できる！ スクロール方向に合わせてヘッダを非表示・表示する方法を解説](https://coliss.com/articles/build-websites/operation/css/css-hide-header-when-scrolling-down.html)
 - [これで簡単に実装できる！ カードやパネルをドラッグアンドドロップで移動できるレイアウトに変換するスクリプト -Swapy](https://coliss.com/articles/build-websites/operation/javascript/drag-to-swap-layout-swapy.html)
 - [【フロントエンド】駆け出しエンジニアが目指すジュニアレベルのエンジニアとは【2024年版】](https://qiita.com/mamimami0709/items/c9657367a8e7dfdca070)

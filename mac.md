@@ -28,6 +28,14 @@
 - [初めて買ったMacが使いにくかったらすぐ試したい5つの基本設定｜今さら聞けないMacの便利テク](https://www.goodspress.jp/howto/616440/2/)
 - [Mac版ChatGPTアプリの基本的な使い方](https://www.gizmodo.jp/2024/07/basic-chatgpt-for-mac.html)
 - [ChatGPTのMac用無料アプリがかなりイケてる](https://zenn.dev/akira11/articles/3ae5aee61d2ee9)
+- [MacBook歴10年の僕がおすすめする神アプリを15個伝授する【仕事効率化】](https://digital-style.jp/mac-work-efficiency-up#google_vignette)
+- [Mac用システムモニタアプリ「Sensei」がApple M4チップ搭載のMacに初期対応](https://applech2.com/archives/20241126-sensei-for-mac-support-apple-m4.html)
+- [Mac App Store Best of 2015にも選出されたMac用コードスニペットアプリ「SnippetsLab」が無償化。](https://applech2.com/archives/20241127-snippetslab-now-free.html)
+- [Apple Silicon用システムモニター「Mx Power Gadget」がApple M4チップをサポート。](https://applech2.com/archives/20241129-mx-power-gadget-support-apple-m4.html)
+- [MacのCPUやGPU、メモリ、SSDの使用率や温度/ファンセンサー情報をメニューバーに表示できるシステムモニタアプリ「System Monitor」がApple M4 Macに対応。](https://applech2.com/archives/20241201-system-monitor-for-mac-support-apple-m4.html)
+- [あなたのMac“覗かれてない”？ 「プライバシーとセキュリティ」からアプリの設定を見直そう！ macOS Sequoiaでリニューアルされた“見やすい”レイアウト](https://macfan.book.mynavi.jp/article/36242/)
+- [MacBookセットアップ個人的メモ【2025年版】](https://zenn.dev/karaage0703/articles/a1ee72f22882e9)
+- [僕の考えた最強のMacBook開発環境](https://zenn.dev/ring_belle/books/mac-environment)
 
 ### Setup
 
