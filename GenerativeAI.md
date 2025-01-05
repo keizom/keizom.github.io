@@ -39,6 +39,7 @@
 
 ## Chat GPT
 
+- [【世界が10年進んだ】OpenAI怒涛の12日連続発表総まとめ。知っておくべきポイントを抜粋解説《$200プラン、o1、o3、Sora、ビデオ通話 などなど》](https://note.com/chaen_channel/n/n59eef96a01d2)
 - [Windows版ChatGPTアプリが公開](https://pc.watch.impress.co.jp/docs/news/1632455.html)
 - [早速「ChatGPT search」のお試し【OpenAI】](https://qiita.com/youtoy/items/be294a7e8f9fec75fde9)
 - [ChatGPT「canvas」使い方と、Claude「Artifacts」との違いを解説　文章作成やコーディングがスイスイできます](https://ascii.jp/elem/000/004/229/4229960/)
@@ -189,6 +190,8 @@
 ## GraphRAG
 
 - [MicrosoftのGraphRAG+Neo4jで簡単にKnowledge Graphを可視化する](https://acro-engineer.hatenablog.com/entry/2024/11/19/120000)
+- [Microsoft⁠⁠、GraphRAG 1.0をリリース](https://gihyo.jp/article/2024/12/graphrag-1-0)
+- [Moving to GraphRAG 1.0 – Streamlining ergonomics for developers and users](https://www.microsoft.com/en-us/research/blog/moving-to-graphrag-1-0-streamlining-ergonomics-for-developers-and-users/)
 - [Project GraphRAG](https://www.microsoft.com/en-us/research/project/graphrag/)
 - [話題のGraphRAG、その可能性と課題を理解する](https://speakerdeck.com/hide212131/the-trending-graphrag-understanding-its-potential-and-challenges)
 - [知識グラフ入門：辛さでつながる人々](https://qiita.com/Tadataka_Takahashi/items/e90b975c66ee1ba0909c)
@@ -278,6 +281,7 @@
 ## RAG
 
 - [RAGの処理で、リランクとベクトル検索でできることの違いを検証／解説してみる](https://acro-engineer.hatenablog.com/entry/2024/09/18/120000)
+- [資料があるならRAGを作ればいいじゃない。](https://techblog.gmo-ap.jp/2024/12/03/ap_rag_tomoc/)
 - [RAGの「最大の弱点」と「対処方法」【Map Reduce / Refine】](https://zenn.dev/umi_mori/books/llm-rag-langchain-python/viewer/rag-weakpoint-map-reduce-refine)
 - [RAGの「文脈が消える問題」を解決する「LongRAG」](https://zenn.dev/knowledgesense/articles/e0ade68c265200)
 - [RAG入門: 精度改善のための手法28選](https://qiita.com/FukuharaYohei/items/0949aaac17f7b0a4c807)

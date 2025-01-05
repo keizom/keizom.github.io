@@ -226,6 +226,7 @@
 
 ## Power BI
 
+- [SharePointのフォルダ構造（親子階層）を可視化する](https://marshal115.hatenablog.com/entry/2023/07/27/182154)
 - [Microsoft ID プラットフォームと OAuth 2.0 クライアント資格情報フロー](https://learn.microsoft.com/ja-jp/entra/identity-platform/v2-oauth2-client-creds-grant-flow)
 - [データ分析Workshop](https://speakerdeck.com/dahatake/detafen-xi-workshop)
 - [[Power BI] Power Query の Web.Contents 関数でREST APIを使う（仮）](https://qiita.com/spumoni/items/419ffd1f07947a07cad0)

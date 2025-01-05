@@ -39,6 +39,7 @@
 
 ### Setup
 
+- [Macの画面をより広く使うための3つのコツ](https://wired.jp/article/tips-tricks-more-screen-real-estate-on-a-mac/)
 - [MacBook Air環境構築 2024](https://zenn.dev/masanork/articles/1891afd0d2e82d)
 - [新しいMacBookのセットアップ](https://zenn.dev/miyasic/articles/81f5fe3e3b060c)
 - [知ったら使わずにはいられない。Macの生産性を底上げする小技5選](https://www.lifehacker.jp/article/2211-matome-mac-productivity-up-5/)

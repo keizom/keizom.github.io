@@ -241,7 +241,7 @@
 ## GitHub Actions
 
 - [初心者向け！GitHub Actions をはじめる](https://zenn.dev/kiwichan101kg/articles/2d6850ff72bc98)
-
+- [Digger + GitHub Actionsで作るTerraform/OpenTofuのCI/CD](https://qiita.com/minamijoyo/items/b61806b570d9d1257f0b)
 ## GitHub Copilot
 
 - [いくつ知ってる？ GitHub Copilotの新機能、コーディングにとどまらない進化を解説](https://codezine.jp/article/detail/20065)

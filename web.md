@@ -68,6 +68,7 @@
 ## html
 
 - [【保存版】フロントエンド初心者がまず読むべき資料まとめ【2024年最新】](https://qiita.com/nuco_YM/items/b4259d838be53a6f44ee)
+- [【最新版】エンジニア向けおすすめの学習サービスまとめ](https://qiita.com/KNR109/items/ff0699e67a5740eeaaa8)
 - [【開発効率爆上がり】すべてのエンジニアが必ず見るべき16のウェブサイト](https://qiita.com/ken1041/items/c975b346d43a575e946d)
 - [デジタル庁のサイトやばすぎるwww](https://qiita.com/mu_tomoya/items/f78f1fad3a8b57ac7dc3)
 - [独学でプロを目指す！Web制作を無料で学べるおすすめ学習まとめ](https://qiita.com/nucomiya/items/ffe6c632254fba2c409b)
@@ -182,6 +183,7 @@
 ## css
 
 - [すべての主要ブラウザで利用可能になったアットルール@starting-styleとは](https://zenn.dev/cybozu_frontend/articles/20240812_starting-style)
+- [2024年、Web制作者がチェックしておきたいCSSの新機能のまとめ](https://coliss.com/articles/build-websites/operation/css/css-in-2024.html)
 - [CSSの新機能にどのように向き合えばよいか、新しいことを学んだり覚えることは頭の固い人には難しい](https://coliss.com/articles/build-websites/operation/css/old-dogs-new-css-tricks.html)
 - [ホームページを眺めながらCSS設計の初歩を学ぼう](https://qiita.com/shimamoooon/items/314f8484de4b9f1a1abd)
 - [Web制作者はダウンロードしておきたい！ CSS関連の最新版チートシートのまとめ](https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-for-web-development.html)

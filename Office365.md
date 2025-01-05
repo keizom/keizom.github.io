@@ -236,6 +236,7 @@
 
 ## Microsoft Graph
 
+- [マネージド ID で Graph API を使おう！](https://qiita.com/narisho/items/cf60dd0c66e6d153ed44)
 - [Graph APIでMFAリセットを実施する](https://tech-lab.sios.jp/archives/43499)
 - [マネージド ID に Microsoft Graph API アクセス許可設定を行う](https://zenn.dev/ymasaoka/articles/how-to-set-msgraph-permission-managedid)
 - [Microsoft Graph で SharePoint Onlineのリストアイテムを取得する（ユーザー列・選択肢列・参照列）](https://qiita.com/miesque/items/e66d991291f47ece032f)

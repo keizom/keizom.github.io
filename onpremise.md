@@ -273,6 +273,9 @@ Add-SPDistributedCacheServiceInstance
 
 - [【Windows 検証環境構築】(ほぼ) コマンドのみで AD DS の検証環境を準備する方法](https://qiita.com/sonooh/items/5b519da46be7d7d348ab)
 - [Group Policy Settings Reference Spreadsheet のダウンロード先一覧](https://qiita.com/valpasucucci43/items/2ecdfee224d0b4e573ef)
+- [AD DS Do's and don'ts（べしべからず）- 2](https://www.intellilink.co.jp/column/ms/2024/052400.aspx)
+- [ドメイン コントローラーの構築時に言われないと気付かないこと](https://jpwinsup.github.io/blog/2023/10/23/ActiveDirectory/Authentication/design-consideration/)
+- [いまさら聞けないActive Directoryのデータベース](https://atmarkit.itmedia.co.jp/ait/articles/2412/24/news008.html)
 
 # SQL Server
 

@@ -20,6 +20,7 @@
 
 - [Copilot Studio のチャットボットから SharePoint のナレッジを参照するための設定](https://qiita.com/sonooh/items/5a05355d4e137b95ce39)
 - [Copilot Studio 使ってみた② -SharePoint篇-](https://www.softbank.jp/biz/blog/cloud-technology/articles/202406/copilot-studio-2/)
+- [生成型の回答に SharePoint コンテンツを使用する](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/nlu-generative-answers-sharepoint-onedrive)
 
 ## SSIS 2 SharePoint
 
@@ -27,6 +28,7 @@
 
 ## SharePoint Online
 
+- [SharePoint Online 利用しない標準 Web パーツを無効化する](https://www.illuminate-j.jp/blog/spo_hiddenwebpart)
 - [Practical Purview: Why a Flat SharePoint Architecture Matters to Microsoft Purview](https://practical365.com/practical-purview-why-a-flat-sharepoint-architecture-matters-to-microsoft-purview/)
 - [SharePoint ブランドセンター (プレビュー)](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2024/05/sharepoint-79bf.html?s=09)
 - [What’s Next for SharePoint](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-next-for-sharepoint/ba-p/3776866)

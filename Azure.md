@@ -783,10 +783,16 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [IT リソース キット Windows Virtual Desktop の使用を開始する](https://clouddamcdnprodep.azureedge.net/gdc/gdcamLwLh/original)
 - [Windows Virtual Desktop 最短構築方法解説](https://www.gmo.jp/report/single/?art_id=261)
 
+## Azure WAF
+
+- [Webアプリケーションを保護する「Azure WAF」の導入](https://www.lac.co.jp/lacwatch/service/20241008_004135.html)
+- [【Azure WAF】 WAF を調べたので吐き出す 【Application Gateway】](https://qiita.com/ATL_Villas/items/802a1dcd753906038007)
+
 ## Azure Monitor
 
 - [Azure Monitor エージェントの概要](https://learn.microsoft.com/ja-jp/azure/azure-monitor/agents/agents-overview)
 - [Microsoft Sentinel とは](https://learn.microsoft.com/ja-jp/azure/sentinel/overview)
+- [【Azure】「アクショングループ」を新規作成して通知先を設定する（ポータル編）](https://atmarkit.itmedia.co.jp/ait/articles/2411/27/news059.html)
 
 ## Azure Update Manager
 
@@ -823,6 +829,8 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ## SendGrid
 
 - [ステップごとに解説！SPF/DKIM/DMARC設定をチェックする方法](https://sendgrid.kke.co.jp/blog/?p=18093)
+- [Appleのメールプライバシー保護機能の影響と対策](https://sendgrid.kke.co.jp/blog/?p=18306)
+- [スロットリングの原因と対策](https://sendgrid.kke.co.jp/blog/?p=489)
 - [どんな時にAMPメールを送るべきか](https://sendgrid.kke.co.jp/blog/?p=12806)
 - [GlockAppsで迷惑メール度を判定する](https://sendgrid.kke.co.jp/blog/?p=8210)
 - [Webhookとは？](https://sendgrid.kke.co.jp/blog/?p=1851)
