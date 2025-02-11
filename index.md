@@ -20,19 +20,21 @@
 
 - [MS資格](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 
-## Service
+## Service URL
 
 - [GitGHub Copilot](https://github.com/settings/copilot)
 - [Chat GPT](https://chatgpt.com/)
 - [perplexity.ai/](https://www.perplexity.ai/)
 - [Perplexity Pro](https://www.perplexity.ai/pro)
 - [claude 3](https://www.anthropic.com/news/claude-3-family)
+- [AI マインドマップ要約ツール](https://mapify.so/ja)
+
 - [Figma](https://www.figma.com/)
-- [ReSharper](https://account.jetbrains.com/)
 - [Creative Cloud](https://account.adobe.com/)
+
+- [ReSharper](https://account.jetbrains.com/)
 - [postman](https://www.postman.com/)
 - [sendgrid](https://sendgrid.kke.co.jp)
-- [AI マインドマップ要約ツール](https://mapify.so/ja)
 
 
 ## Microsoft

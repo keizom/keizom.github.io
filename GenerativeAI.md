@@ -17,17 +17,22 @@
 
 ## 資料
 
+- [AI SKILLS NAVIGATOR](https://aiskillsnavigator.microsoft.com/ja-jp)
+- [初心者向けの生成 AI](https://learn.microsoft.com/ja-jp/shows/generative-ai-for-beginners/)
+- [【入門】生成AI関連を学べる資料まとめ](https://qiita.com/KNR109/items/57b680e1eaab4d744d68)
+- [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)
+- [2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊](https://qiita.com/aokikenichi/items/0e064ecd3824fab9424d)
+- [【教材まとめ】これ全部やったら流石に誰でもつよつよAIエンジニアになれる](https://qiita.com/eureka-ai/items/6c55e3b6d9617ae58afa)
+
+## misc
+
 - [2025年さらに熱くなるであろうローカルLLMのためのm4mac購入検討](https://zenn.dev/afk2777/articles/localllm-mac)
 - [12 Days of OpenAIの発表内容まとめ【生成AIエンジニア必見】](https://zenn.dev/galirage/articles/openai-12-days)
 - [世界経済の潮流](https://www5.cao.go.jp/j-j/sekai_chouryuu/sh24-01/index-pdf.html)
 - [GPT-3.5 Turbo終了で戸惑う金融各社、国内データセンター限定方針に限界](https://xtech.nikkei.com/atcl/nxt/column/18/00001/09626/)
-- [【入門】生成AI関連を学べる資料まとめ](https://qiita.com/KNR109/items/57b680e1eaab4d744d68)
 - [AIで仕事が奪われるエンジニアの特徴](https://qiita.com/Sicut_study/items/66a0b326402896e6c50b)
 - [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
-- [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)
 - [3割超の企業がやっている…生成AIのアプリ開発、新時代の当たり前とは？](https://www.sbbit.jp/article/cont1/143365)
-- [2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊](https://qiita.com/aokikenichi/items/0e064ecd3824fab9424d)
-- [【教材まとめ】これ全部やったら流石に誰でもつよつよAIエンジニアになれる](https://qiita.com/eureka-ai/items/6c55e3b6d9617ae58afa)
 
 ## AI Shell
 
@@ -37,9 +42,14 @@
 
 0 [プロンプトの入力によってフルスタックWebアプリを開発、実行、編集、デプロイできる「Bolt.new」が登場　AIで開発作業はどこまで楽になる？](https://atmarkit.itmedia.co.jp/ait/articles/2411/02/news040.html)
 
+## Browser Use
+- [【無職発生注意報】ヒトはこうして仕事を奪われる~Browser Use Tutorial~](https://qiita.com/Nicola_GenAI/items/f8585cbc4266656cdbb8)
+- [新時代のアプリケーション開発~bolt.newとGitHub Copilot Workspaceを触ってみた~](https://zenn.dev/raku/articles/57f57ea1a2b655)
+
 ## Chat GPT
 
 - [【世界が10年進んだ】OpenAI怒涛の12日連続発表総まとめ。知っておくべきポイントを抜粋解説《$200プラン、o1、o3、Sora、ビデオ通話 などなど》](https://note.com/chaen_channel/n/n59eef96a01d2)
+- [ChatGPTライクなUIのローカルLLMを構築できるGPT4Allとは？](https://atmarkit.itmedia.co.jp/ait/articles/2501/06/news024.html)
 - [Windows版ChatGPTアプリが公開](https://pc.watch.impress.co.jp/docs/news/1632455.html)
 - [早速「ChatGPT search」のお試し【OpenAI】](https://qiita.com/youtoy/items/be294a7e8f9fec75fde9)
 - [ChatGPT「canvas」使い方と、Claude「Artifacts」との違いを解説　文章作成やコーディングがスイスイできます](https://ascii.jp/elem/000/004/229/4229960/)
@@ -120,14 +130,6 @@
 - [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji?slide=66)
 - [「自社製品にチャットAIを組み込みたい」　企業が取るべきセキュリティ対策とは？　“プロンプトインジェクション”の基本手口](https://www.itmedia.co.jp/news/articles/2308/10/news101.html)
 
-## OpenAI公式プロンプトジェネレーター
-
-- [OpenAI公式プロンプトジェネレーターを使ってみた感想](https://note.com/oliver_wood/n/n9750e35b06f7)
-- [OpenAIのプロンプト自動作成機能を触ってみる](https://qiita.com/ayoyo/items/301ade3c66a2aa9d5e63)
-- [OpenAI Playgroundのプロンプトジェネレータを試す](https://zenn.dev/kun432/scraps/e4fbab09e60dc9)
-- []()
-- []()
-
 ## Claud3
 
 - [チャットAI「Claude」人気機能「Artifacts」が誰でも使えるようになった](https://ascii.jp/elem/000/004/218/4218138/)
@@ -156,6 +158,8 @@
 
 ## Dify
 
+- [会社の資料を今すぐDifyで要約しよう！](https://qiita.com/ogi_kimura/items/d13631b3a77e18023ef9)
+- [Dify入門ガイド：5分で作れる簡単アプリまとめ](https://tech-lab.sios.jp/archives/45860)
 - [Difyとは｜話題のノーコード生成AIアプリ開発プラットフォーム](https://ledge.ai/articles/dify)
 - [超簡単に、Windows11にDifyをインストールする手順](https://qiita.com/daishiro_jp/items/de2b59b4081ead2161fe)
 - [Difyで社内ナレッジFAQボットを作成し、GASでSlackと連携する方法](https://chatgpt-lab.com/n/n9cc7dea56ee8)
@@ -172,6 +176,7 @@
 
 ## Gemini
 
+- [初心者でも簡単！ 生成 AI から欲しい回答を引き出すプロンプト術](https://note.com/google_gemini/n/n60a9c426694e)
 - [Gemini for Google Workspace Prompt Guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
 - [GoogleのAI「Gemini」って、何ができるの？知っておきたい基礎知識まとめました](https://www.lifehacker.jp/article/2406-difference-between-google-gemini-apps-and-models/)
 
@@ -206,29 +211,35 @@
 - [GraphRAGを使った生成AIチャットアプリを作ってみた](https://qiita.com/ssfujita/items/65a952f299190f4c1e6a)
 
 
-## Python in Excel
-
-- [Python in Excel が GA (General Release)](https://zenn.dev/ymasaoka/articles/trying-out-python-in-excel-it-has-been-ga)
-
 ## Local LLM
 
-- [[翻訳]LLMで1年間開発して学んだこと〜LLMプロダクト開発を成功に導くための実践的ガイド〜](https://zenn.dev/seya/articles/12c67b5d80670a)
+- [ローカルLLM活用徹底解説：rClineとLM Studio、Ollamaを使いこなす](https://note.com/life_to_ai/n/nfc3cea295e34)
+- [翻訳LLMで1年間開発して学んだこと〜LLMプロダクト開発を成功に導くための実践的ガイド〜](https://zenn.dev/seya/articles/12c67b5d80670a)
 - [LLM開発のための環境構築](https://zenn.dev/elith/articles/e4dbbb62752e04)
 - [LLMプロダクト開発とはどういうものなのか？](https://note.com/erukiti/n/ne901fbb08145)
 - [基本に立ち戻る：LLMのプロンプト](https://nikkie-ftnext.hatenablog.com/entry/llm-prompt-basics-202405-few-shot-learning-and-chain-of-thought)
-- [【ollama / Phi-3】ニュースで話題のLLMをローカルPC上で動かしてみる](https://zenn.dev/tanny/articles/705682d88e254e)
 - [MacでLocalでLLMを走らせるならLM Studioが楽。](https://qiita.com/ponnhide/items/b46a95228d0b832f1770)
 - [ローカルLLMを手軽に楽しむ](https://zenn.dev/karaage0703/articles/c271ca65b91bdb)
 - [準備0でローカルLLMを動かす(LM Studio)](https://zenn.dev/howtelevision/articles/95e62c480b34a8)
 - [Llama 3の比較レビュー](https://qiita.com/Yorozuya59/items/4ddf8fb0e69b52e0721a)
 - [MetaのLlama3-8BをGoogle Colabで検証してみた](https://qiita.com/DeepTama/items/b17ac21010424de38c5f)
 - [AIによる爆速開発：画面設計からプログラミングまで自動化！？](https://qiita.com/ssc-yshikeda/items/d9a6ba46c897aae186a4)
-- [僅か2.3GBで日本語可能な超高性能ローカルLLMのPhi-3 MINIをllama.cppとCPUで動かしてみた。スマホでも可。従来のコンパクトLLMと比較して超越した性能で未来を感じさせるMicroSoft寄付ありがとう](https://togetter.com/li/2355369)
+
 - [いちばんやさしいローカル LLM](https://note.com/schroneko/n/n8b1a5bbc740b)
 - [LLMアプリ開発の必須ツール？！Langfuseがすごい！](https://qiita.com/moritalous/items/76ba9f2ad200df335d07)
 - [RAGの性能を高める「Self-RAG」を3分で理解する](https://zenn.dev/knowledgesense/articles/67dd2a41fc4d0b)
 - [M1MacでOllamaを試したら爆速で驚いた](https://zenn.dev/yasuna/articles/284aa6bbf6124e)
 - [Surface で NPU を活用する:「Hello World」モデルの実行例](https://blogs.windows.com/japan/2024/07/11/unlocking-the-power-of-npu-on-surface-our-hello-world-journey/)
+
+### Phi
+
+- [【ollama / Phi-3】ニュースで話題のLLMをローカルPC上で動かしてみる](https://zenn.dev/tanny/articles/705682d88e254e)
+- [僅か2.3GBで日本語可能な超高性能ローカルLLMのPhi-3 MINIをllama.cppとCPUで動かしてみた。スマホでも可。従来のコンパクトLLMと比較して超越した性能で未来を感じさせるMicroSoft寄付ありがとう](https://togetter.com/li/2355369)
+- [Welcome to Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)
+- [Phi-4(マイクロソフトのローカルLLM)](https://note.com/masayuki_abe/n/n38f4d179a000)
+- [ローカルPCでマルチモーダルなSLM「Phi-3 vision」を動かす](https://zenn.dev/microsoft/articles/20240604-phi3-vision-onnx)
+- [WSL2でPhi-3.5-mini-instructを試してみる](https://note.com/ngc_shj/n/n4a8b8695b797)
+
 
 ## LLM
 
@@ -248,6 +259,13 @@
 
 - [【無料・日本語対応】Napkin AIとは？使い方や料金、商用利用について解説！](https://www.ai-souken.com/article/what-is-napkin-ai)
 
+## OpenAI公式プロンプトジェネレーター
+
+- [OpenAIのプロンプトジェネレーターで至高のプロンプトを生成する](https://acro-engineer.hatenablog.com/entry/2024/11/18/120000)
+- [OpenAI公式プロンプトジェネレーターを使ってみた感想](https://note.com/oliver_wood/n/n9750e35b06f7)
+- [OpenAIのプロンプト自動作成機能を触ってみる](https://qiita.com/ayoyo/items/301ade3c66a2aa9d5e63)
+- [OpenAI Playgroundのプロンプトジェネレータを試す](https://zenn.dev/kun432/scraps/e4fbab09e60dc9)
+
 ## Open Interpreter
 
 - [話題のOpen Interpreterを使ってみた、そして、驚いた](https://qiita.com/yanagih/items/466a5560bd771e2b9030)
@@ -262,6 +280,7 @@
 ## Perplexity
 
 - [Perplexityが「Pages」を発表 – 最強のAI記事ジェネレーター](https://ainow.ai/2024/07/09/276731/)
+- [AI検索エンジン「Perplexity」とは？ChatGPTとの比較](https://www.techfirm.co.jp/blog/perplexity)
 - [検索特化型AI「Perplexity」の強みは？ChatGPT・Geminiと比較してみた](https://www.lifehacker.jp/article/2406-ai-perplexity/)
 - [チャットAI「Claude」すごい新機能「Artifacts」の使い方、全部教えます](https://ascii.jp/elem/000/004/206/4206789/2/)
 - [AI検索「Perplexity」の「Pro Search」が大幅機能向上。4時間ごと5回まで無料](https://ascii.jp/elem/000/004/208/4208087/)
@@ -278,9 +297,17 @@
 - [都職員のアイデアが詰まった文章生成AI活用事例](https://www.digitalservice.metro.tokyo.lg.jp/documents/d/digitalservice/ai_prompt)
 - [生成AIに複数の案を比較検討してもらう、分析プロセスが意思決定の参考になる](https://xtech.nikkei.com/atcl/nxt/column/18/02901/071900012/)
 
+## Python in Excel
+
+- [Python in Excel が GA (General Release)](https://zenn.dev/ymasaoka/articles/trying-out-python-in-excel-it-has-been-ga)
+
 ## RAG
 
+- [RAGが「複雑な質問に弱い問題」を解決する「Plan×RAG」](https://zenn.dev/knowledgesense/articles/5e0e0f623e1c83)
+- [RAGの実装戦略まとめ](https://qiita.com/jw-automation/items/045917be7b558509fdf2)
+- [Azure OpenAI Service RAGスターターパック 利用してみた！　～データ登録・チャットUI編～](https://tech-lab.sios.jp/archives/45536)
 - [RAGの処理で、リランクとベクトル検索でできることの違いを検証／解説してみる](https://acro-engineer.hatenablog.com/entry/2024/09/18/120000)
+- [【メモ】RAGシステム構築の強い味方 - Doclingによるドキュメント変換入門](https://uepon.hatenadiary.com/entry/2025/01/19/231410)
 - [資料があるならRAGを作ればいいじゃない。](https://techblog.gmo-ap.jp/2024/12/03/ap_rag_tomoc/)
 - [RAGの「最大の弱点」と「対処方法」【Map Reduce / Refine】](https://zenn.dev/umi_mori/books/llm-rag-langchain-python/viewer/rag-weakpoint-map-reduce-refine)
 - [RAGの「文脈が消える問題」を解決する「LongRAG」](https://zenn.dev/knowledgesense/articles/e0ade68c265200)
@@ -297,13 +324,15 @@
 - [RAGで文書検索の精度を上げるには、複数の埋め込みモデルを使う](https://zenn.dev/knowledgesense/articles/653229e5c37f4e)
 - [RAGを社内用語に強くするチャンク分割の手法「MoGG」](https://zenn.dev/knowledgesense/articles/f84fab70ce04de)
 
+### Video RAG
+
+- [RAGで動画検索。「VideoRAG」の解説](https://zenn.dev/knowledgesense/articles/9616c810383b53)
+
 ## Tools
 
 - [Exploring the Advanced RAG (Retrieval Augmented Generation) Service](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/exploring-the-advanced-rag-retrieval-augmented-generation/ba-p/4197836)
 
-## Microsoft Phi-3
 
-- [Welcome to Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)
 
 ## プロンプトエンジニアリング
 

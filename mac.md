@@ -36,9 +36,15 @@
 - [あなたのMac“覗かれてない”？ 「プライバシーとセキュリティ」からアプリの設定を見直そう！ macOS Sequoiaでリニューアルされた“見やすい”レイアウト](https://macfan.book.mynavi.jp/article/36242/)
 - [MacBookセットアップ個人的メモ【2025年版】](https://zenn.dev/karaage0703/articles/a1ee72f22882e9)
 - [僕の考えた最強のMacBook開発環境](https://zenn.dev/ring_belle/books/mac-environment)
+- [「macOS」にLLMをインストールするには--「Ollama」を試す](https://japan.zdnet.com/article/35228511/)
+- [Mac版 ChatGPT の Work with Apps の使い方](https://note.com/npaka/n/nb4e0a3030fbb)
+- [Apple M4やM4 Pro/Maxチップを搭載したiMacやMac mini、MacBook Proの温度センサーやファン制御に対応したシステムモニタアプリ「TG Pro v2.93」がリリース。](https://applech2.com/archives/20241117-tg-pro-support-apple-m4-imac-mac-mini-and-macbook-pro.html)
+- [【shell】Oh My Zshのおすすめプラグイン you-should-use を紹介!](https://zenn.dev/ring_belle/books/mac-environment/viewer/shell-oh-my-zsh-you-should-use)
+- [【shell】zshをカスタマイズして使いやすくするためにOh My Zshを導入する](https://zenn.dev/ring_belle/books/mac-environment/viewer/shell-oh-my-zsh)
 
 ### Setup
 
+- [新たなMacをGetした際のおすすめ設定](https://dev.classmethod.jp/articles/mac-recommended-initial-settings/)
 - [Macの画面をより広く使うための3つのコツ](https://wired.jp/article/tips-tricks-more-screen-real-estate-on-a-mac/)
 - [MacBook Air環境構築 2024](https://zenn.dev/masanork/articles/1891afd0d2e82d)
 - [新しいMacBookのセットアップ](https://zenn.dev/miyasic/articles/81f5fe3e3b060c)

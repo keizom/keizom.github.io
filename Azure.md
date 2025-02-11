@@ -673,6 +673,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Static Web Apps
 
+- [GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する](https://tech-lab.sios.jp/archives/43562)
 - [Azure Static Web Apps を構成する](https://learn.microsoft.com/ja-jp/azure/static-web-apps/configuration)
 - [Azure Static Web Apps のローカル実行方法まとめ ＃Azureリレー](https://tech-blog.cloud-config.jp/2021-11-23-azure-static-web-apps-local/)
 - [SPAをStatic Web Appsにデプロイ、本番環境で使ってみた](https://qiita.com/keiotoi/items/d019303d10b11ccf568e)
@@ -829,6 +830,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ## SendGrid
 
 - [ステップごとに解説！SPF/DKIM/DMARC設定をチェックする方法](https://sendgrid.kke.co.jp/blog/?p=18093)
+- [新しくなったActivityを使いこなそう〜Web API編](https://sendgrid.kke.co.jp/blog/?p=18235)
 - [Appleのメールプライバシー保護機能の影響と対策](https://sendgrid.kke.co.jp/blog/?p=18306)
 - [スロットリングの原因と対策](https://sendgrid.kke.co.jp/blog/?p=489)
 - [どんな時にAMPメールを送るべきか](https://sendgrid.kke.co.jp/blog/?p=12806)

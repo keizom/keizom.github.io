@@ -211,6 +211,12 @@ Add-SPDistributedCacheServiceInstance
  
 (run this command after 1 or 2 minutes).
 ```
+## SharePoint Workflow Manager
+
+- [SharePoint Workflow Manager](https://www.microsoft.com/en-us/download/details.aspx?id=104867)
+- [SharePoint Server のワークフローのインストールと構成](https://learn.microsoft.com/ja-jp/sharepoint/governance/install-and-configure-workflow-for-sharepoint-server)
+- [[SP2013] Workflow Manager 1.0 のインストール](https://shanqiai.lekumo.biz/sharepoint_technical_note/2013/02/sp2013-workflow-manager-1-installation.html)
+- [ビデオ シリーズ: SharePoint Server 2013 でワークフローをインストールおよび構成する](https://learn.microsoft.com/ja-jp/sharepoint/governance/video-series-install-and-configure-workflow-in-sharepoint-server-2013)
 
 ## WorkFlow
 
@@ -218,6 +224,11 @@ Add-SPDistributedCacheServiceInstance
 
 ## Office Online Server
 
+- [SharePoint（HTTP）＋ OfficeWebApps（HTTPS）構成時の設定](https://84log.xii.jp/2016/05/20/412)
+- [Office Online Server を使ってみる](http://sptakesato.blog.fc2.com/blog-entry-20.html?sp)
+- [Office Online Server (OOS) のインストールと構成](https://shanqiai.weblogs.jp/sharepoint_technical_note/2016/02/office-online-server-preview-install-configuration.html)
+- [Office Online Server を使ってみる](http://sptakesato.blog.fc2.com/blog-entry-20.html)
+- [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
 - [Install & Configure Office Online Server](https://social.technet.microsoft.com/wiki/contents/articles/34289.install-configure-office-online-server.aspx)
 - [SharePoint 2016: Installation Of Office Online Server (Part 1)](https://social.technet.microsoft.com/wiki/contents/articles/37303.sharepoint-2016-installation-of-office-online-server-part-1.aspx)
 - [Office Online Server を展開する](https://learn.microsoft.com/ja-jp/officeonlineserver/deploy-office-online-server)
@@ -235,6 +246,7 @@ Add-SPDistributedCacheServiceInstance
 # Windows OS
 
 - [Windows Server Summit 2024で発表されたWindows Server 2025注目の新機能](https://kkamegawa.hatenablog.jp/entry/2024/04/04/081951)
+- [いまさら聞けない「Hyper-Vホスト」の構成と管理機能](https://atmarkit.itmedia.co.jp/ait/articles/2501/10/news005.html)
 - [【Qiita最速】Windows Server 2025を試してみる](https://qiita.com/hidekko/items/a701c55824634d2aac54)
 - [Windowsをクリーンインストールしたら、すぐに済ませておきたい7つのこと：山市良のうぃんどうず日記（272） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2312/20/news008.html)
 - [パスワードより安全？ Windows 11に追加されたパスキー・マネージャーとは](https://www.lifehacker.jp/article/2310microsoft-is-adding-a-passkey-manager-to-windows-11/)

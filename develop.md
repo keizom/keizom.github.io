@@ -79,10 +79,14 @@
 
 - [Bashを学べる全20回の入門動画　MicrosoftがYouTubeで無料公開](https://atmarkit.itmedia.co.jp/ait/articles/2303/11/news027.html)
 
-## CeatSheet
+## CheatSheet
 
 - [エンジニア向けチートシート集](https://qiita.com/KNR109/items/a6b3216552bee53b1724)
 - [2023年版！エンジニア必見のチートシート集](https://qiita.com/hryk_nu/items/d2bd69201778abecedd4)
+
+## CI/CD
+
+- [CI/CDパイプラインで知っておくべき「9つの要素」　一般的な記事のおよそ5倍の大ボリュームで解説](https://atmarkit.itmedia.co.jp/ait/articles/2411/13/news132.html)
 
 ## csharp
 
@@ -109,6 +113,10 @@
 
 ## Cursor
 
+- [AIと個人開発したくなったらまずCursorで要件定義だ](https://zenn.dev/yasuna/articles/9dadbcdc3be48d)
+- [VSCode+ChatGPTより爆速になれるAIエディタ【Cursor】無料プランあり](https://qiita.com/small_island/items/e6cd373ba4f9b124e848)
+- [AI エディター Cursor を試してみる](https://azukiazusa.dev/blog/try-ai-editor-cursor/)
+- [最強神器「Cursor」の本当に使い方を徹底解説【知らないとヤバいレベルです】](https://zenn.dev/aimasaou/articles/f9b19ca901a0cd)
 - [AIエディターCursorを使い始める手順と基本的な使い方を、丁寧にまとめただけの記事。](https://qiita.com/ryamate/items/94a6170c4661242b4c1c)
 - [AIエディターCursor使ってみた！](https://tech-lab.sios.jp/archives/42828)
 - [Cursor Editorというこれまた便利そうなエディタを見つけた](https://qiita.com/ussy_k/items/cfee1b94a10830d7ad86)
@@ -130,6 +138,9 @@
 
 ## Docker
 
+- [改めてDockerを理解する①[コンテナのライフサイクル編]](https://qiita.com/ikemura-ren/items/dae9f599254b90167b06)
+- [Windows環境下でDockerを使う場合](https://zenn.dev/relims7165/articles/e81f389c0497b9)
+- [Dockerとは？概念や基本用語をまとめてみた](https://liginc.co.jp/655905)
 - [Dockerがわからない人へ。これ1本で0から学べる丁寧なDocker入門](https://qiita.com/Sicut_study/items/4f301d000ecee98e78c9)
 - [初心者エンジニア必見！Dockerコマンドチートシート&トラブルシューティング&ベストプラクティス](https://qiita.com/K3n_to_n17/items/f61650cf4b9cbba298fd)
 - [ Docker入門資料「入門 Docker」を5年ぶりにアップデートしました。](https://y-ohgi.blog/entry/2024/08/19/Docker%E5%85%A5%E9%96%80%E8%B3%87%E6%96%99%E3%80%8C%E5%85%A5%E9%96%80_Docker%E3%80%8D%E3%82%925%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97)
@@ -175,6 +186,7 @@
 ## git
 
 - [【図解解説】これ1本でGitをマスターできるチュートリアル！【完全版】](https://qiita.com/Sicut_study/items/0318cc136c189b179b7f)
+- [これだけはできてほしいgitとGitHub](https://qiita.com/tomoswifty/items/be3ff39ab3361a8e9c47)
 - [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
 - [【Git中級者への第一歩】自らステップアップする！ チートシートや自分で起こすコンフリクトなど、Git学習のヒント](https://codezine.jp/article/detail/19919)
 - [【Git中級者への第一歩】リリースプロセスの品質を上げるブランチ戦略、開発をもっと便利にするコマンドとは](https://codezine.jp/article/detail/19413)
@@ -335,11 +347,6 @@
 - [Python環境構築](https://qiita.com/s8ry_mk/items/7bcac9c72bad8db10c39)
 - [Pythonをこれから始める人におすすめの入門書５選](https://techplay.jp/column/1870)
 
-## Phi-3 vision
-
-- [ローカルPCでマルチモーダルなSLM「Phi-3 vision」を動かす](https://zenn.dev/microsoft/articles/20240604-phi3-vision-onnx)
-- [WSL2でPhi-3.5-mini-instructを試してみる](https://note.com/ngc_shj/n/n4a8b8695b797)
-
 ## swagger
 
 - [今日から始めるswagger入門（最低限書けるようになる）](https://qiita.com/yuya_sega/items/0b87e8e7d494f6fa3d69)
@@ -455,6 +462,11 @@
 - [AI Toolkit for Visual Studio Code Preview](https://github.com/microsoft/vscode-ai-toolkit/blob/main/README.md)
 - [Microsoft、「AI Toolkit for VS Code」を発表](https://forest.watch.impress.co.jp/docs/news/1593578.html)
 - [Visual Studio Code 用 AI Toolkit の概要](https://learn.microsoft.com/ja-jp/windows/ai/toolkit/)
+
+### Cline
+
+- [VS CodeとAIチャットの往復いらず！ 話題の拡張機能Clineで爆速開発してみよう](https://qiita.com/minorun365/items/b2990a7228e8cc4ed025)
+
 
 ### Visual Studio Extention
 

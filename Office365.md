@@ -86,6 +86,21 @@
 ## Copilot
 
 - [Microsoft Copilot導入キット](https://adoption.microsoft.com/ja-jp/copilot-enterprise-data-protection/adoption-kit/)
+- [Microsoft Copilot のヘルプとラーニング](https://support.microsoft.com/ja-jp/copilot-skilling)
+- [『 Microsoft 365 Copilot クイックガイド』PowerPoint編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-07-Copilot-for-Microsoft-365-Quick-Guide-PowerPoint-Edition-SRGCM12966_LP01-Registration---Form-in-Body.html?sccid=fb_scl_spl_soc_20250109&ocid=AID3062894_FACEBOOK_oo_spl100007053797207)
+- [『Microsoft 365 Copilotクイックガイド』Teams編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-04-Copilot-for-Microsoft-365-Quick-Guide-for-Teams-SRGCM12965_LP01-Registration---Form-in-Body.html)
+- [『Microsoft 365 Copilot クイックガイド』Microsoft Copilot編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-23-Copilot-for-Microsoft-365-Quick-Guide-for-Microsoft-Copilot-SRGCM12968_LP01-Registration---Form-in-Body.html)
+- [『Microsoft 365 Copilot クイックガイド』Outlook編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-04-Copilot-for-Microsoft-365-Quick-Guide-for-Outlook-SRGCM12967_LP01-Registration---Form-in-Body.html)
+- [『Microsoft 365 Copilot クイックガイド』Word編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-01-Copilot-for-Microsoft-365-Quick-Guide-Word-Edition-SRGCM12964_LP01-Registration---Form-in-Body.html)
+- [Copilot for Microsoft 365 プロンプト活用クイックガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-04-Copilot-for-Microsoft-365-Prompts-Quick-Guide-SRGCM11973_LP01-Registration---Form-in-Body.html?sccid=tw_org_20240705&ocid=AID3062894_TWITTER_oo_spl100005923867636)
+- [プロンプト管理に便利なCopilotプロンプトギャラリー、よく使うプロンプトを保存する](https://xtech.nikkei.com/atcl/nxt/column/18/01787/012000172/)
+- [Microsoft 社員も実践！ Microsoft 365 Copilot 活用ベストプラクティス集](https://info.microsoft.com/JA-COPM365-CNTNT-FY25-11Nov-04-Microsoft-employees-also-practice-Collection-of-best-practices-for-using-Microsoft-365-Copilot-SRGCM13200_LP01-Registration---Form-in-Body.html)
+- [Microsoft 365 Copilot カタログ 2024年12月更新](https://info.microsoft.com/JA-T2C-CNTNT-FY24-08Aug-18-Microsoft-365-Copilot-Catalog-SRGCM10917_LP01-Registration---Form-in-Body.html)
+- [Copilot for Microsoft 365 ゴールデンプロンプト ~ 話題の生成 AI カンタン使いこなし術 ~ 2024年6月更新版](https://info.microsoft.com/JA-T2C-CNTNT-FY24-05May-22-Copilot-for-Microsoft-365-Golden-Prompt-Easy-way-to-use-AI-to-generate-topics-SRGCM12256_LP01-Registration---Form-in-Body.html)
+- [できる Microsoft 365 Copilot スタートガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-05-Copilot-for-Microsoft-365-Getting-Started-Guide-SRGCM11972_LP01-Registration---Form-in-Body.html)
+- [Copilot for Microsoft 365 職種別活用ケース シナリオガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-23-Copilot-for-Microsoft-365-Job-Use-Case-Scenario-Guide-SRGCM12055_LP01-Registration---Form-in-Body.html)
+- []()
+- []()
 
 ## Developer Subscription
 

@@ -16,30 +16,20 @@
 
 # Microsoft 365
 
-## Dataverse
+## AI Builder Lobe
 
-- [Power Platformのセキュリティロールについて](https://qiita.com/skuramoto/items/fe305aac24273c7cccbf)
-- [カスタム API の作成と使用](https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/custom-api)
-- [データ操作とアクセス権](https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/security-access-rights)
-- [Power Apps のライセンス割り当ての簡素化](https://community.dynamics.com/blogs/post/?postid=743cb5eb-588c-ee11-a81c-6045bd81d1b1)
+- [Automate Document Processing end-to-end with AI Builder](https://powerautomate.microsoft.com/en-us/blog/automate-document-processing-end-to-end-with-ai-builder/)
+- [Microsoft が誰でも簡単に機械学習モデルが作れるツール「Lobe」を公開！ Techable(テッカブル)](https://techable.jp/archives/140757)
+- [Microsoft Lobe × Power App で画像分析アプリをカンタン作成 [BUILD2022 Update]](https://qiita.com/annie/items/2531eb6f9dc2231b8ef6)
 
+## CI/CD
 
-## PowerPlatform
+- [Power Apps・Power Automate：開発と本番環境を用いたアプリ構築手法(3) Power Platform パイプラインでCI/CD環境を構築](https://artisan.jp.net/blog/build-applications-using-development-and-production-environments-3/)
+- [Microsoft Power Platform CLI を使用した Power Apps ポータルの構成の CI/CD のサポート](https://learn.microsoft.com/ja-jp/power-platform-release-plan/2021wave1/power-apps-portals/support-cicd-power-apps-portals-configuration-using-power-apps-cli)
+- [スクラムで Power Apps 開発をやってみた / Tried to develop Power Apps with Scrum](https://speakerdeck.com/karamem0/tried-to-develop-power-apps-with-scrum)
+- [Automate CI/CD using Azure DevOps for Power Apps applications created in Teams](https://www.youtube.com/watch?v=Ul0aVxJsl_o)
+- [Power Automateでソリューションのエクスポート・インポートを自動化する](https://tech-blog.cloud-config.jp/2022-04-07-power-automate-export-import-solution/)
 
-- [Announcing Power Platform Well-Architected](https://www.microsoft.com/en-us/power-platform/blog/power-apps/announcing-power-platform-well-architected/)
-- [Power Platform Well-Architected](https://learn.microsoft.com/ja-jp/power-platform/well-architected/)
-- [Power Platformのセキュリティロールについて](https://qiita.com/skuramoto/items/fe305aac24273c7cccbf)
-- [Dataverse グループ チームの活用方法＆注意点](https://jpdynamicscrm.github.io/blog/powerplatform/About-group-team-in-Dataverse/)
-- [ユーザーへのセキュリティ ロールの割り当て](https://learn.microsoft.com/ja-jp/power-platform/admin/assign-security-roles)
-- [Power Platform で市民開発するなら、環境ルーティングを設定しよう！](https://qiita.com/kumukai/items/56c380e337a3699aa8a0)
-- [Power Platform プレミアムサンプル](https://microsoft.github.io/PowerApps-Sample-Apps-Japan/)
-- [Compare Power Automate plans](https://learn.microsoft.com/en-us/power-platform/admin/power-automate-licensing/types#compare-power-automate-plans)
-- [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
-- [Power Platform用GitHub Actionsでアプリ管理・デプロイの自動化をする【前編】](https://tech-blog.cloud-config.jp/2022-06-20-power-platform-github-deploy/)
-- [Japan Power Platform Conference 2022](https://app.powerbi.com/view?r=eyJrIjoiZmQ3YzcwYmUtNDc1OS00YWNiLTk2YzAtMzZhYjA4ZTNmZTAxIiwidCI6ImEyYjExZTNlLWY3MjItNDQ0OS1iMTY3LWFhMDA2NzIyN2I0MiJ9)
-- [Microsoft Power Platform の新しいガバナンス機能「マネージド環境」をプレビュー公開](https://memo.tyoshida.me/power-platform/microsoft-power-platform-managed-environments-preview/)
-- [Managed Environments overview](https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-overview)
-- [Power Apps、Power Automate 初学者向け記事まとめ](https://qiita.com/Takashi_Masumori/items/4182939ef99040213319)
 
 ## copilot
 
@@ -54,17 +44,20 @@
 - [Microsoft 365 Copilotでできること──プロンプト例で紹介](https://www.itmedia.co.jp/news/articles/2303/17/news102.html)
 - [Microsoft、企業向けにも生成系AI　「Dynamics 365 Copilot」提供開始](https://www.itmedia.co.jp/news/articles/2303/07/news076.html)
 
-## Microsoft Copilot Studio
+## Dataverse
 
-- [Microsoft Copilot Studio をユーザー部門向けに開放する際、考慮、検討、実施すること](https://qiita.com/Takashi_Masumori/items/fce74bc38ce0451a629e)
-- [Microsoft copilot studioを使ってみた-②【SharePoint編】](https://zenn.dev/headwaters/articles/ed1176d7487c2a)
-- [【Power Platform】Copilot Studioでチャットボットを作ってみる](https://www.qes.co.jp/media/powerplatform/CopilotStudio/a383)
+- [Power Platformのセキュリティロールについて](https://qiita.com/skuramoto/items/fe305aac24273c7cccbf)
+- [カスタム API の作成と使用](https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/custom-api)
+- [データ操作とアクセス権](https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/security-access-rights)
+- [Power Apps のライセンス割り当ての簡素化](https://community.dynamics.com/blogs/post/?postid=743cb5eb-588c-ee11-a81c-6045bd81d1b1)
+- [Microsoft DataverseのテーブルをPowerShellからCRUD操作してみた](https://qiita.com/sys_zero/items/e2b3381eac50705bc488)
 
-## AI Builder Lobe
+### Access → DataVerse
 
-- [Automate Document Processing end-to-end with AI Builder](https://powerautomate.microsoft.com/en-us/blog/automate-document-processing-end-to-end-with-ai-builder/)
-- [Microsoft が誰でも簡単に機械学習モデルが作れるツール「Lobe」を公開！ Techable(テッカブル)](https://techable.jp/archives/140757)
-- [Microsoft Lobe × Power App で画像分析アプリをカンタン作成 [BUILD2022 Update]](https://qiita.com/annie/items/2531eb6f9dc2231b8ef6)
+- [Access データ型と Dataverse データ型の比較](https://support.microsoft.com/ja-jp/office/access-%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B%E3%81%A8-dataverse-%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B%E3%81%AE%E6%AF%94%E8%BC%83-4beacea3-fdbb-46cf-b1c2-c14a3cff7d20?wt.mc_id=m365-mvp-4029057)
+
+- [概要: Access データを Dataverse に移行する](https://support.microsoft.com/ja-jp/office/%E6%A6%82%E8%A6%81-access-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92-dataverse-%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B-013c8bab-7737-46ca-ad2e-892bbf26287d?wt.mc_id=m365-mvp-4029057)
+
 
 ## Dynamics 365
 
@@ -84,6 +77,42 @@
 - [モデル駆動型アプリのクライアント API リファレンス](https://docs.microsoft.com/ja-jp/power-apps/developer/model-driven-apps/clientapi/reference)
 - [クライアント アプリケーションで、XRM ツール共通ログイン コントロールを使用する](https://docs.microsoft.com/ja-jp/power-apps/developer/data-platform/xrm-tooling/use-xrm-tooling-common-login-control-client-applications)
 
+## Figma
+
+- [Figma を利用したアプリ作成の概要](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/figma/overview)
+- [FigmaのデザインをPower Apps のキャンバスアプリに変換する方法 (Express Design)](https://qiita.com/kumukai/items/dd4bd0f9dcc62d87458f)
+- [Figma ファイルから Power Apps キャンバス アプリを作成](https://www.illuminate-j.jp/blog/canvasapp_figma)
+- [Figmaを利用したPower Apps キャンバスアプリの作成](https://mofumofupower.hatenablog.com/entry/figma_apps)
+- [手書きで書いたメモをPowerAppsが、良い感じのフォームにしてくれるらしいのでやってみた。](https://dev.classmethod.jp/articles/powerapps-expressdesign-handwriting/)
+
+
+## PowerPlatform
+
+- [Announcing Power Platform Well-Architected](https://www.microsoft.com/en-us/power-platform/blog/power-apps/announcing-power-platform-well-architected/)
+- [Power Platform Well-Architected](https://learn.microsoft.com/ja-jp/power-platform/well-architected/)
+- [Power Platformのセキュリティロールについて](https://qiita.com/skuramoto/items/fe305aac24273c7cccbf)
+- [Dataverse グループ チームの活用方法＆注意点](https://jpdynamicscrm.github.io/blog/powerplatform/About-group-team-in-Dataverse/)
+- [ユーザーへのセキュリティ ロールの割り当て](https://learn.microsoft.com/ja-jp/power-platform/admin/assign-security-roles)
+- [Power Platform で市民開発するなら、環境ルーティングを設定しよう！](https://qiita.com/kumukai/items/56c380e337a3699aa8a0)
+- [Power Platform プレミアムサンプル](https://microsoft.github.io/PowerApps-Sample-Apps-Japan/)
+- [Compare Power Automate plans](https://learn.microsoft.com/en-us/power-platform/admin/power-automate-licensing/types#compare-power-automate-plans)
+- [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
+- [Power Platform用GitHub Actionsでアプリ管理・デプロイの自動化をする【前編】](https://tech-blog.cloud-config.jp/2022-06-20-power-platform-github-deploy/)
+- [Japan Power Platform Conference 2022](https://app.powerbi.com/view?r=eyJrIjoiZmQ3YzcwYmUtNDc1OS00YWNiLTk2YzAtMzZhYjA4ZTNmZTAxIiwidCI6ImEyYjExZTNlLWY3MjItNDQ0OS1iMTY3LWFhMDA2NzIyN2I0MiJ9)
+- [Microsoft Power Platform の新しいガバナンス機能「マネージド環境」をプレビュー公開](https://memo.tyoshida.me/power-platform/microsoft-power-platform-managed-environments-preview/)
+- [Managed Environments overview](https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-overview)
+- [Power Apps、Power Automate 初学者向け記事まとめ](https://qiita.com/Takashi_Masumori/items/4182939ef99040213319)
+
+## Microsoft Copilot Studio
+
+- [Microsoft Copilot Studio をユーザー部門向けに開放する際、考慮、検討、実施すること](https://qiita.com/Takashi_Masumori/items/fce74bc38ce0451a629e)
+- [Microsoft copilot studioを使ってみた-②【SharePoint編】](https://zenn.dev/headwaters/articles/ed1176d7487c2a)
+- [【Power Platform】Copilot Studioでチャットボットを作ってみる](https://www.qes.co.jp/media/powerplatform/CopilotStudio/a383)
+- [Microsoft Copilot Studio による カスタムCopilot の作成](https://note.com/npaka/n/n3fcc8060955b)
+- [Microsoft Copilot Studio の概要と、Power Virtual Agents の Ignite2023 での発表まとめ](https://qiita.com/MiyakeMito/items/ec88d2da96dcfc1c11ca)
+- [Microsoft Copilot Studio と Copilot の概要](https://note.com/npaka/n/n765b90a8cd47)
+
+
 ## Power Platform
 
 - [Power Platformの「環境」って何？](https://qiita.com/skuramoto/items/bccaf27f28f6e7efad3f)
@@ -97,24 +126,9 @@
 - [Microsoft Build 2023 キーノートまとめ – Windows Copilot、Microsoft Fabric、Azure AI Studioなどを発表](https://memo.tyoshida.me/others/microsoft-build-2023-keynote-summary/)
 - [横河電機は新入社員研修にPower Platform と生成AI を取り入れDX人財育成を加速](https://community.dynamics.com/blogs/post/?postid=d4f92e6f-2d40-ef11-8409-6045bdd49f80)
 
-## Figma
-
-- [Figma を利用したアプリ作成の概要](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/figma/overview)
-- [FigmaのデザインをPower Apps のキャンバスアプリに変換する方法 (Express Design)](https://qiita.com/kumukai/items/dd4bd0f9dcc62d87458f)
-- [Figma ファイルから Power Apps キャンバス アプリを作成](https://www.illuminate-j.jp/blog/canvasapp_figma)
-- [Figmaを利用したPower Apps キャンバスアプリの作成](https://mofumofupower.hatenablog.com/entry/figma_apps)
-- [手書きで書いたメモをPowerAppsが、良い感じのフォームにしてくれるらしいのでやってみた。](https://dev.classmethod.jp/articles/powerapps-expressdesign-handwriting/)
-
-## CI/CD
-
-- [Power Apps・Power Automate：開発と本番環境を用いたアプリ構築手法(3) Power Platform パイプラインでCI/CD環境を構築](https://artisan.jp.net/blog/build-applications-using-development-and-production-environments-3/)
-- [Microsoft Power Platform CLI を使用した Power Apps ポータルの構成の CI/CD のサポート](https://learn.microsoft.com/ja-jp/power-platform-release-plan/2021wave1/power-apps-portals/support-cicd-power-apps-portals-configuration-using-power-apps-cli)
-- [スクラムで Power Apps 開発をやってみた / Tried to develop Power Apps with Scrum](https://speakerdeck.com/karamem0/tried-to-develop-power-apps-with-scrum)
-- [Automate CI/CD using Azure DevOps for Power Apps applications created in Teams](https://www.youtube.com/watch?v=Ul0aVxJsl_o)
-- [Power Automateでソリューションのエクスポート・インポートを自動化する](https://tech-blog.cloud-config.jp/2022-04-07-power-automate-export-import-solution/)
-
 ## Power Apps
 
+- [App in a Day @Home ― お家で Power Apps ハンズ](https://www.youtube.com/playlist?list=PL1RqQ3kddIpa0plPbFZ2ExF-hCnazx-Rd)
 - [PowerApps-Sample-Apps-Japan](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main)
 - [365ユーザー向け、キャンバスアプリの作り方](https://learn.microsoft.com/ja-jp/collections/j0xzun463pkrng?sharingId=M365-MVP-5000493)
 - [ありそうでなかった！Power Appsから直接SharePointのドキュメントライブラリにアップロードするコンポーネントを作成する](https://qiita.com/DEmodoriGatsuO/items/2b9c25cf5dcd17b4958d)
@@ -163,15 +177,6 @@
 - [Power Apps を使用したモデル駆動型アプリの構築の概要 - Power Apps Microsoft Docs](https://docs.microsoft.com/ja-jp/powerapps/maker/model-driven-apps/model-driven-app-overview)
 - [Power Apps のモデル駆動型アプリの概要 - Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/get-started-with-model-driven-apps-in-powerapps/)
 
-## Power Automate Desktop
-
-- [ローカルPCのテキストファイルをPower Automateに読み込ませて活用しよう](https://ascii.jp/elem/000/004/191/4191996/)
-- [Windows10 の無償デスクトップ自動化ツール「Power Automate Desktop」で Web ブラウザーでの作業を自動化する](https://codezine.jp/article/detail/15410)
-- [Windows：PowerAutomate Desktop をインストールして使ってみる](https://zenn.dev/barusu/articles/b702ef21c713ba)
-- [Power Automate の RPA 機能「UI flows」の始め方](https://rpahack.com/uiflows)
-- [Power Automate で RPA にトライ！！ SIOS Tech. Lab](https://tech-lab.sios.jp/archives/18486)
-- [Power Automate で新しいデスクトップ用 RPA ソリューション「Power Automate Desktop」をリリース - 吉田の備忘録](https://memo.tyoshida.me/power-platform/power-automate/power-automate-desktop-preview-released/)
-
 ## Power Automate
 
 - [Copilot in Power Automate でフローを作成してみた](https://www.illuminate-j.jp/blog/automate-copilot)
@@ -210,23 +215,19 @@
 - [コネクタのドキュメント - Connectors  Microsoft Docs](https://docs.microsoft.com/ja-jp/connectors/)
 - [マイクロソフトが Power Automate の機能を強化する Process Advisor を公開、反復の多い作業のワークフローを効率化](https://jp.techcrunch.com/2020/12/10/2020-12-09-microsoft-brings-new-process-mining-features-to-power-automate/)
 
-## PowerQuery
+## Power Automate Desktop
 
-- [Excelをノーコードで自動化しよう! パワークエリの教科書 第10回 フォルダーからデータを取得する方法](https://news.infoseek.co.jp/article/mynavi_2789152/)
-
-## Power Virtual Agents
-
-- [Power Virtual Agents](https://powerva.microsoft.com/#/dialog/4c6f7ea5-a79a-48c5-ade0-7553c95a880d)
-
-## Microsoft Copilot Studio
-
-- [Microsoft Copilot Studio による カスタムCopilot の作成](https://note.com/npaka/n/n3fcc8060955b)
-- [Microsoft Copilot Studio の概要と、Power Virtual Agents の Ignite2023 での発表まとめ](https://qiita.com/MiyakeMito/items/ec88d2da96dcfc1c11ca)
-- [Microsoft Copilot Studio と Copilot の概要](https://note.com/npaka/n/n765b90a8cd47)
+- [ローカルPCのテキストファイルをPower Automateに読み込ませて活用しよう](https://ascii.jp/elem/000/004/191/4191996/)
+- [Windows10 の無償デスクトップ自動化ツール「Power Automate Desktop」で Web ブラウザーでの作業を自動化する](https://codezine.jp/article/detail/15410)
+- [Windows：PowerAutomate Desktop をインストールして使ってみる](https://zenn.dev/barusu/articles/b702ef21c713ba)
+- [Power Automate の RPA 機能「UI flows」の始め方](https://rpahack.com/uiflows)
+- [Power Automate で RPA にトライ！！ SIOS Tech. Lab](https://tech-lab.sios.jp/archives/18486)
+- [Power Automate で新しいデスクトップ用 RPA ソリューション「Power Automate Desktop」をリリース - 吉田の備忘録](https://memo.tyoshida.me/power-platform/power-automate/power-automate-desktop-preview-released/)
 
 ## Power BI
 
 - [SharePointのフォルダ構造（親子階層）を可視化する](https://marshal115.hatenablog.com/entry/2023/07/27/182154)
+- [Power BI データフローとデータセット及びデータマートの紹介と比較](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_dataflow_dataset/)
 - [Microsoft ID プラットフォームと OAuth 2.0 クライアント資格情報フロー](https://learn.microsoft.com/ja-jp/entra/identity-platform/v2-oauth2-client-creds-grant-flow)
 - [データ分析Workshop](https://speakerdeck.com/dahatake/detafen-xi-workshop)
 - [[Power BI] Power Query の Web.Contents 関数でREST APIを使う（仮）](https://qiita.com/spumoni/items/419ffd1f07947a07cad0)
@@ -289,16 +290,11 @@
 - [OneDrive と SharePoint で Power BI ファイルを表示する](https://learn.microsoft.com/ja-jp/power-bi/collaborate-share/service-sharepoint-viewer)
 - [Power Apps と AI Builder で日報、週報作成業務を効率化するアプリを爆速で開発する](https://qiita.com/Takashi_Masumori/items/5356622854d113ac4e70)
 
-## Power Pages
+## PowerQuery
 
-- [Microsoft Power Pages](https://powerpages.microsoft.com/ja-jp/)
-- [Power Apps ポータルを始めよう](https://www.softbanktech.co.jp/special/blog/dx_station/2021/0007)
+- [Excelをノーコードで自動化しよう! パワークエリの教科書 第10回 フォルダーからデータを取得する方法](https://news.infoseek.co.jp/article/mynavi_2789152/)
 
-## Access → DataVerse
+## Power Virtual Agents
 
-- [Access データ型と Dataverse データ型の比較](https://support.microsoft.com/ja-jp/office/access-%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B%E3%81%A8-dataverse-%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B%E3%81%AE%E6%AF%94%E8%BC%83-4beacea3-fdbb-46cf-b1c2-c14a3cff7d20?wt.mc_id=m365-mvp-4029057)
-- [概要: Access データを Dataverse に移行する](https://support.microsoft.com/ja-jp/office/%E6%A6%82%E8%A6%81-access-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92-dataverse-%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B-013c8bab-7737-46ca-ad2e-892bbf26287d?wt.mc_id=m365-mvp-4029057)
+- [Power Virtual Agents](https://powerva.microsoft.com/#/dialog/4c6f7ea5-a79a-48c5-ade0-7553c95a880d)
 
-## Datavrerse
-
-- [Microsoft DataverseのテーブルをPowerShellからCRUD操作してみた](https://qiita.com/sys_zero/items/e2b3381eac50705bc488)
