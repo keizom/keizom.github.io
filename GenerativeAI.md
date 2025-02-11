@@ -27,6 +27,7 @@
 ## misc
 
 - [2025年さらに熱くなるであろうローカルLLMのためのm4mac購入検討](https://zenn.dev/afk2777/articles/localllm-mac)
+- [【生成AIの学習ロードマップ】最近やたら羽振りのいいやつが生成AIを極めてた件について。](https://qiita.com/Nicola_GenAI/items/04e2babe86291fc4483b)
 - [12 Days of OpenAIの発表内容まとめ【生成AIエンジニア必見】](https://zenn.dev/galirage/articles/openai-12-days)
 - [世界経済の潮流](https://www5.cao.go.jp/j-j/sekai_chouryuu/sh24-01/index-pdf.html)
 - [GPT-3.5 Turbo終了で戸惑う金融各社、国内データセンター限定方針に限界](https://xtech.nikkei.com/atcl/nxt/column/18/00001/09626/)

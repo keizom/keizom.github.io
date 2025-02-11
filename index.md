@@ -23,10 +23,28 @@
 ## Service URL
 
 - [GitGHub Copilot](https://github.com/settings/copilot)
+
 - [Chat GPT](https://chatgpt.com/)
+- [claude](https://www.anthropic.com/news/claude-3-family)
+- [gemini](https://gemini.google.com/app)
+- [Sora](https://openai.com/sora/)
+- [Imagen](https://deepmind.google/technologies/imagen-3/)
+- [Nolang](https://qiita.com/Nicola_GenAI/items/04e2babe86291fc4483b)
+- [v0](https://v0.dev/)
+- [Deep Research](https://blog.google/products/gemini/google-gemini-deep-research/)
+- [Genspark](https://www.genspark.ai/)
+- [イルシル](https://irusiru.jp/)
+- [napkin.ai](https://www.napkin.ai/)
+- [Gamma](https://gamma.app/ja)
+- [tome](https://tome.app/)
+- [Dify](https://dify.ai/jp)
+- [bolt](https://bolt.new/)
+
+
+
 - [perplexity.ai/](https://www.perplexity.ai/)
 - [Perplexity Pro](https://www.perplexity.ai/pro)
-- [claude 3](https://www.anthropic.com/news/claude-3-family)
+
 - [AI マインドマップ要約ツール](https://mapify.so/ja)
 
 - [Figma](https://www.figma.com/)
