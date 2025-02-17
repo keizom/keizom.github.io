@@ -1,23 +1,66 @@
 # Bookmarks
 
-- [site](https://keizom.github.io/)
-- [onpremise](https://keizom.github.io/onpremise.html)
+- [index](https://keizom.github.io/)
 - [Adobe](https://keizom.github.io/adobe.html)
 - [Azure](https://keizom.github.io/Azure.html)
 - [develop](https://keizom.github.io/develop.html)
+- [GenerativeAI](https://keizom.github.io/GenerativeAI.html)
 - [intune](https://keizom.github.io/intune.html)
-- [Office365](https://keizom.github.io/Office365.html)
-- [SharePoint](https://keizom.github.io/SharePoint.html)
-- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
-- [web](https://keizom.github.io/web.html)
 - [mac](https://keizom.github.io/mac.html)
+- [Office365](https://keizom.github.io/Office365.html)
+- [onpremise](https://keizom.github.io/onpremise.html)
+- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
+- [SharePoint](https://keizom.github.io/SharePoint.html)
+- [web](https://keizom.github.io/web.html)
+
 
 # site
+
+## 資格
+
+- [MS資格](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
+
+## Service URL
+
+- [GitGHub Copilot](https://github.com/settings/copilot)
+
+- [Chat GPT](https://chatgpt.com/)
+- [claude](https://www.anthropic.com/news/claude-3-family)
+- [gemini](https://gemini.google.com/app)
+- [Sora](https://openai.com/sora/)
+- [Imagen](https://deepmind.google/technologies/imagen-3/)
+- [Nolang](https://qiita.com/Nicola_GenAI/items/04e2babe86291fc4483b)
+- [v0](https://v0.dev/)
+- [Deep Research](https://blog.google/products/gemini/google-gemini-deep-research/)
+- [Genspark](https://www.genspark.ai/)
+- [イルシル](https://irusiru.jp/)
+- [napkin.ai](https://www.napkin.ai/)
+- [Gamma](https://gamma.app/ja)
+- [tome](https://tome.app/)
+- [Dify](https://dify.ai/jp)
+- [bolt](https://bolt.new/)
+
+
+
+- [perplexity.ai/](https://www.perplexity.ai/)
+- [Perplexity Pro](https://www.perplexity.ai/pro)
+
+- [AI マインドマップ要約ツール](https://mapify.so/ja)
+
+- [Figma](https://www.figma.com/)
+- [Creative Cloud](https://account.adobe.com/)
+
+- [ReSharper](https://account.jetbrains.com/)
+- [postman](https://www.postman.com/)
+- [sendgrid](https://sendgrid.kke.co.jp)
+
 
 ## Microsoft
 
 - [Microsoft 製品とサービスの URL](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/cloud-microsoft-domain?view=o365-worldwide&s=09#microsoft-product-and-service-urls)
 - [Microsoft 365 サービス正常性の状態ページ](https://status.cloud.microsoft)
+- [Copilot Lab](https://copilot.cloud.microsoft/ja-JP/prompts)
+- [Microsoft Create](https://create.microsoft.com/en-us)
 - [Microsoft Admin Center](https://admin.cloud.microsoft)
 - [Microsoft Loop](https://loop.cloud.microsoft)
 - [Microsoft Mesh](https://mesh.cloud.microsoft)
@@ -31,8 +74,35 @@
 - [Microsoft Viva Pulse](https://pulse.cloud.microsoft)
 - [Microsoft Vivaスキル](https://skills.cloud.microsoft)
 
-- [Microsoft (有志)](https://zenn.dev/p/microsoft)
+## Microsoft Build 2024
+
+- [【速報】Microsoft Build 2024 アップデート情報 Azure OpenAI関連](https://zenn.dev/yyteam/articles/microsoft-build-update-azure-openai)
+- [Microsoft Build 2024 キーノート完全日本語化まとめ・意訳](https://memo.tyoshida.me/others/microsoft-build-2024-keynote-japanaese-recap/)
+- [Azure インフラ 仮想マシン関連まとめ - Microsoft Build 2024](https://qiita.com/Olivia_0707/items/2afdb74a99dbbe8d3f68)
+- [Microsoft Build 2024 - インフラ関連アップデートまとめ](https://zenn.dev/openjny/articles/cebe1121f4bc5c)
+- [Microsoft Build Japan 2024](https://www.youtube.com/playlist?list=PL1RqQ3kddIpYpXBUz-Yduh4nXEhpqinCB)
+
+## 日本リスキリングコンソーシアム
+
+- [日本リスキリングコンソーシアム](https://japan-reskilling-consortium.jp/)
+
+## Security
+
+- [ICI リスクアセスメントツール公開の背景](https://blog.itochuci.co.jp/entry/2024/07/31/160000)
+
+## Microsoft 365 Day 2024
+
+- [パート3 Microsoft 365 Day 2024 ~ Copilot と始めるビジネス変革 ~](https://info.microsoft.com/JA-MODEND-VDEO-FY24-05May-16-Part-3-Microsoft-365-Day-2024-Business-transformation-with-Copilot-SRGCM12253_LP01-Registration---Form-in-Body.html)
+
+## Microsoft Ignite
+
 - [マイクロソフトイグナイト BOOK OF NEWS](https://news.microsoft.com/ignite-2022-book-of-news/ja/)
+- [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
+
+## Microsoft 資料
+
+- [Azure 技術資料インデックス Azure/jp-techdocs](https://github.com/Azure/jp-techdocs/)
+- [Microsoft (有志)](https://zenn.dev/p/microsoft)
 - [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
 - [Microsoft Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
 - [Microsoft Azure](https://docs.microsoft.com/ja-jp/learn/azure/)
@@ -46,7 +116,6 @@
 - [オンデマンドで学ぶクラウド アプリケーション開発](https://www.microsoft.com/ja-jp/biz/cloud-platform/apps-innovation-ondemand.aspx)
 - [Microsoft Security Forum 2020 オンライン](https://www.microsoft.com/ja-jp/biz/security/forum-online.aspx)
 - [Azure Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
-- [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
 - [Microsoft Partner blog](https://blogs.partner.microsoft.com/mpn/)
 - [Azure のイベントとウェビナー](https://azure.microsoft.com/ja-jp/resources/events/)
 
@@ -60,6 +129,19 @@
 - [事例で解説！失敗しない Azure VMware Solution 導入のポイントとは？](https://mktoevents.com/Microsoft+Event/332522/157-GQE-382?aaid=azureinfrajp)
 - [Azure ＆ Azure Stack HCI 徹底解説](https://mktoevents.com/Microsoft+Event/332796/157-GQE-382?aaid=azureinfrajp)
 - [イマドキのマルチクラウドセキュリティ対策とは？](https://mktoevents.com/Microsoft+Event/324987/157-GQE-382?aaid=azureinfrajp)
+- [全ての“入り口”はIDから~Microsoft Entraで学ぶ、やさしいID基礎知識 ~：第1回 新しいID管理ソリューションEntraのご紹介と今から始めよう「Azure ADによる脱VPN化」](https://info.microsoft.com/JA-ZTF-VDEO-FY23-09Sep-13-MKTO-FY23-Entra-Webinar-Gated-content-0823-SRGCM7732_LP01-Registration---Form-in-Body.html)
+- [AI のビジネス活用スタート](https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-AIbusinessutilization-SRGCM1257.pdf)
+- [Azure Stack HCI 評価ガイド - Part 1 「Azure Stack HCI の基礎と展開」 編](https://info.microsoft.com/JA-HCS-CNTNT-FY23-10Oct-12-Azure-Stack-HCI-Assessment-Guide-Part-1-Azure-Stack-HCI-Fundamentals-and-Deployment-SRGCM7946_LP01-Registration---Form-in-Body.html)
+- [Windows Virtual Desktop Event](https://info.microsoft.com/ww-landing-windows-virtual-desktop.html)
+- [徹底解説！できる Azure Migrate](https://info.microsoft.com/JA-AzureMig-CNTNT-FY20-03Mar-18-Thoroughcommentary-SRGCM3343_01Registration-ForminBody.html)
+- [Windows 365 ウェビナー 第1弾　新登場！Windows 365 Frontline](https://info.microsoft.com/JA-MODEND-VDEO-FY24-09Sep-05-Windows-365-Webinar-Vol-1-New-Windows-365-Frontline-SRGCM10973_LP01-Registration---Form-in-Body.html)
+- [GitHub Copilot開発者が語る最新アップデート ～ コード生成の裏側を知って、より効率的に開発しよう！](https://info.microsoft.com/JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0602-SRGCM10625_LP01-Registration---Form-in-Body.html)
+- [できる Copilot for Microsoft 365 スタートガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-05-Copilot-for-Microsoft-365-Getting-Started-Guide-SRGCM11972_LP01-Registration---Form-in-Body.html)
+- [Microsoft 365 Copilot カタログ 2023年9月更新](https://info.microsoft.com/JA-T2C-CNTNT-FY24-08Aug-18-Microsoft-365-Copilot-Catalog-SRGCM10917_LP01-Registration---Form-in-Body.html)
+- [できるMicrosoft Viva【改訂版】](https://info.microsoft.com/JA-EMPEX-CNTNT-FY23-02Feb-27-Microsoft-Viva-Revised-Edition-SRGCM9341_LP01-Registration---Form-in-Body.html)
+- [ノンコーディングで業務アプリ開発！「PowerApps」と「Microsoft Flow」とは](https://info.microsoft.com/JA-DynOps-WBNR-FY18-06Jun-14-Businessappdevelopment-MCW0006792_02OnDemandRegistration-ForminBody.html)
+- [ウェビナー Power BI を使う時の基本～最初に考えること～](https://info.microsoft.com/JA-SQLDB-WBNR-FY18-06Jun-21-PowerBI-MCW0006279_02OnDemandRegistration-ForminBody.html)
+
 
 ## MicrosoftSupportTeamsBlog
 
@@ -111,7 +193,7 @@
 - [cloudsteady](https://cloudsteady.jp/post/category/blog/)
 - [Microsoft Dynamics 365 CRM Tips and Tricks](https://www.inogic.com/blog/)
 
-## WebSite
+## Web
 
 - [ASCII × FIXER](https://ascii.jp/azure-fixer/)
 - [ゼロからはじめる Azure Mynavi](https://news.mynavi.jp/techplus/series/zeroazure/)
@@ -121,6 +203,7 @@
 - [Azure AD webinar にご参加ください](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)
 - [AzureAD Japan](https://www.youtube.com/channel/UCVrKqrCLcB0eJu8heNB2ZKg/videos)
 - [全エンジニア必見！情報収集のためのリンク集](https://qiita.com/kazuki_tachikawa/items/773b4a07ae3f73f22a48)
+- [GW、暇なら読んどく？　企業が無料公開した研修資料まとめ　「AI活用」「グラブル裏側」「うんこのリスク」など](https://www.itmedia.co.jp/news/articles/2405/01/news053.html)
 
 # Security
 
@@ -128,18 +211,40 @@
 - [実際の標的型攻撃の事例を基にした「インシデント対応ハンズオン」コンテンツを JPCERT／CC が公開：標的型攻撃を受けたときの Windows ログ調査方法を学べる - ＠IT](https://www.atmarkit.co.jp/ait/articles/2007/30/news025.html)
 - [JPCERT／CC がイベントログ分析支援ツール「LogonTracer v1.5.0」を公開](https://www.atmarkit.co.jp/ait/articles/2011/04/news028.html)
 - [オンボーディング支援プログラム - Mackerel（マカレル）: 新世代のサーバー管理・監視サービス](https://mackerel.io/ja/services-support/onboarding/)
+- [「クラウドの設定ミス対策ガイドブック」の公表](https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00209.html)
 
 # 資料
 
+- [【2024年度】エンジニア向け研修資料まとめ](https://qiita.com/nucomiya/items/29965f1915436f2cfc79)
 - [Microsoft 365 Virtual Marathon 2022 Japanese Track](https://connpass.com/event/243871/presentation/)
 - [【まとめ】大学が公開している有益な資料](https://qiita.com/KNR109/items/02e08d17dba01d9c2fd6)
-
-# Gmail
-
-- [Gmailが2024年2月から(大量)送信者に求めてることが分からない闇への防衛術(前編)](https://qiita.com/nfujita55a/items/37b05801209f6058808e)
+- [レベルアップしたい人必見　Qiita記事43選](https://qiita.com/tadashiro_ninomiya/items/ac994dfa0094c9e58f7d)
+- [【クラウドエンジニア向け】無償公開されている講義資料・研修資料リンク集](https://qiita.com/yoshiyama_hana/items/96dbe0b82ca783c86be0)
+- [【データ分析の必読10冊+差をつける10冊＋100冊超】データサイエンス、データ分析、機械学習関連の本](https://qiita.com/aokikenichi/items/ae4df263f591e47528a6)
+- [すべての開発者へ。すごいGitHubリポジトリ10選](https://qiita.com/baby-degu/items/6c0c73a1e79644ebbb1a)
 
 # MISC
 
 - [会話の公理（ポール・グライス） ? \*ListFreak](https://listfreak.com/list/1301)
 - [糖尿病予備群たちに告ぐ！ 今やるべき対処法 5 つ Tarzan Web（ターザンウェブ）](https://tarzanweb.jp/post-210390)
 - [「旧街道サイクリングの旅」サイクルスポーツ.jp にて好評連載中！［最終回 更新！］](https://www.strada.jp/events/kyukaidou_201908/)
+- [オープンソースライセンス、どれなら使っても良いの？？](https://qiita.com/fate_shelled/items/a928709d7610cee5aa66)
+
+
+# Meta Quest 3
+- [「Meta Quest 3」は何ができるのか？ 機能、使い方、おすすめコンテンツを紹介](https://www.moguravr.com/meta-quest-3-summary/)
+- [「なんのためのMRか」Meta Quest 3を実際に家庭で試して気づいた大きな恩恵](https://www.moguravr.com/meta-quest-3-mr-review-2/)
+- [「Virtual Desktop」に、マルチモニター機能（β版）実装 Meta Quest 3で最大3枚まで表示可能に](https://www.moguravr.com/virtual-desktop-beta-1-32-0/)
+- [「Meta Quest 3」をしばらく使ってみて分かったこと 長所と短所を紹介](https://www.moguravr.com/meta-quest-3-review-2/)
+- [【VR】Quest 3 で PC VR : Virtual Desktop, Steam Link, Quest Air Link どれを使えばよいのか？](https://joytokey.net/ja/blog/vr/high-quality-wireless-pc-vr/)
+- [Meta QuestでWordとExcelを体験！VRが予想外の「集中部屋」に進化していた #TrendBuzz](https://www.lifehacker.jp/article/2401-tb-meta-quest-app/)
+- [地球のどこでも自由に飛び回れる VRアプリ「FLY」を体験してみた - MoguLive](https://www.moguravr.com/vr-fly-report/)
+
+# HHKB
+
+- [7sPro MAX、それは分割HHKBの新たな選択肢](https://jun3010.me/7spromax-prototype-23076.html)
+- [HHKB Studioの特殊なキー形状に対応する互換キーキャップ「HHKB Studio Kit」](https://ascii.jp/elem/000/004/225/4225945/)
+
+# Darkweb
+
+-[「え！こんなにも…」ダークウェブへのあなたの個人情報流出を一発チェック、Googleのツール無料化に期待大](https://jbpress.ismedia.jp/articles/-/82138)

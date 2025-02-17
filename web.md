@@ -1,22 +1,40 @@
 # Bookmarks
 
-- [site](https://keizom.github.io/)
-- [onpremise](https://keizom.github.io/onpremise.html)
+- [index](https://keizom.github.io/)
 - [Adobe](https://keizom.github.io/adobe.html)
 - [Azure](https://keizom.github.io/Azure.html)
 - [develop](https://keizom.github.io/develop.html)
+- [GenerativeAI](https://keizom.github.io/GenerativeAI.html)
 - [intune](https://keizom.github.io/intune.html)
-- [Office365](https://keizom.github.io/Office365.html)
-- [SharePoint](https://keizom.github.io/SharePoint.html)
-- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
-- [web](https://keizom.github.io/web.html)
 - [mac](https://keizom.github.io/mac.html)
+- [Office365](https://keizom.github.io/Office365.html)
+- [onpremise](https://keizom.github.io/onpremise.html)
+- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
+- [SharePoint](https://keizom.github.io/SharePoint.html)
+- [web](https://keizom.github.io/web.html)
 
 # Web
 
 ## フロントエンド
 
--[2023年度版フロントエンド開発環境構築徹底解説](https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf)
+- [2023年度版フロントエンド開発環境構築徹底解説](https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf)
+- [Webの次世代アーキテクチャ - PESPA](https://qiita.com/takagimeow/items/ac814c1e5b5d9e8a76e1)
+- [世界一わかりみが深いかもしれないフロントエンドのビルド周り](https://tech-lab.sios.jp/archives/41659)
+- [これだけ守れば見やすくなるデザインの基礎](https://speakerdeck.com/kinakobooster/koredakeshou-rebajian-yasukunarudezainfalseji-chu)
+- [デジタル庁デザインシステム デザインデータ v2.0.2](https://www.figma.com/community/file/1377880368787735577/v2-0-2)
+- [Webエンジニアの学習ロードマップが知れるサイト](https://qiita.com/hirokazu_nakao/items/26d90b2e8a582a474df3)
+- [はじめに教わるデザインの基本。気をつけるべき28のポイント](https://liginc.co.jp/535365)
+- [ツール・ド・フロントエンド2024（フロントエンド班の開発環境や興味のある技術を調査してみた）](https://zenn.dev/teamlab_fe/articles/8f5ff75885a868)
+
+
+## Bootstrap
+
+- [初心者でも Web 制作ができる！CSS フレームワーク「Bootstrap」入門編](https://ferret-plus.com/5129)
+- [Bootstrap（ブートストラップ）を使ったランディングページの無料デザインテンプレート 35 選](https://ferret-plus.com/8517)
+- [Microsoft、「WinUI 2.5」を公開 ～プログレスリングや Bootstrap 風の情報バーを追加／ナビゲーションペインにはフッターメニューを設定できるように](https://forest.watch.impress.co.jp/docs/news/1293642.html)
+- [Bootstrap Carousel in SPFX (ReactJS)](https://www.c-sharpcorner.com/article/bootstrap-carousel-in-spfxreactjs/)
+- [新しくなった Bootstrap 5 を使用して、管理画面の UI を実装する方法を解説 コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-dashboard-tutorial.html)
+- [Bootstrap 5 の作業環境の構築方法、jQuery を使用しない JavaScript での実装方法を解説 コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-tutorial-without-jquery.html)
 
 ## Carousel
 
@@ -24,28 +42,105 @@
 - [bootstrap のカルーセルの使い方とカスタマイズのサンプルを紹介](https://be-engineer.jp/programming/514/)
 - [カルーセル UI を実現する JS ライブラリまとめ(2021 年版) - 導入手間や機能の比較紹介](https://ics.media/entry/210902/)
 
-## Loading
+## css
 
-- [処理中のユーザーの誤操作を防止しよう](https://www.htmlhifive.com/conts/web/view/recipe/indicator)
-- [ASP.NET でローディング画像(処理中)を表示する](https://itneko.com/asp-loading-image/)
-- [［ASP.NET AJAX］Ajax 通信で使われる「ロード中／更新中」の画像を入手するには？](https://atmarkit.itmedia.co.jp/fdotnet/dotnettips/984ajaxloadingpic/ajaxloadingpic.html)
-- [画面読込中のグルグルまわるローディング画像を出す。jQuery・javascript](http://mori-coding.blog.jp/archives/6760786.html)
-- [Ignite UI for jQuery](https://jp.infragistics.com/support/product-help-downloads/ignite-ui-help)
-- [.NET Core に対応した InputMan で次世代のアプリ配布方法を試す（自己完結型編）](https://devlog.grapecity.co.jp/inputman-dotnetcore-self-contained-publishsinglefile/)
-- [.NET 開発コンポーネントセット](https://www.grapecity.co.jp/developer/componentone)
+- [Web制作者は要チェック！ 2025年、Webサイトやスマホアプリの実装に役立つモダンCSSのスニペットのまとめ](https://coliss.com/articles/build-websites/operation/css/modern-css-snippets-for-2025.html)
+- [すべての主要ブラウザで利用可能になったアットルール@staring-styleとは](https://zenn.dev/cybozu_frontend/articles/20240812_starting-style)
+- [2024年、Web制作者がチェックしておきたいCSSの新機能のまとめ](https://coliss.com/articles/build-websites/operation/css/css-in-2024.html)
+- [CSSの新機能にどのように向き合えばよいか、新しいことを学んだり覚えることは頭の固い人には難しい](https://coliss.com/articles/build-websites/operation/css/old-dogs-new-css-tricks.html)
+- [ホームページを眺めながらCSS設計の初歩を学ぼう](https://qiita.com/shimamoooon/items/314f8484de4b9f1a1abd)
+- [Web制作者はダウンロードしておきたい！ CSS関連の最新版チートシートのまとめ](https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-for-web-development.html)
+- [モダンCSSで実装する、テーブル（<table>）のさまざまなスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/a-guide-to-styling-tables.html)
+- [CSSは日々進化している！知ったら使いたくなる「モダンCSS」機能紹介](https://levtech.jp/media/article/column/detail_429/)
+- [2024年の実装に役立つCSSの新機能と使い方のまとめ](https://coliss.com/articles/build-websites/operation/css/css-snippets-in-2024.html)
+- [これは知っておくとかなり便利！ details要素にname属性を与えると、連動して開閉するアコーディオンを実装できます](https://coliss.com/articles/build-websites/operation/css/exclusive-accordion.html)
+- [CSSのデフォルトとして記述しておくと便利、img要素に設定するスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/sensible-defaults-for-img-elements.html)
+- [現代開発者のためのCSS基礎技術](https://qiita.com/arowM/items/4f06ca5506c522ea3dfe)
+- [CSSのデフォルトとして記述しておくと便利、img要素に設定するスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/sensible-defaults-for-img-elements.html)
+- [知っておくと便利！ CSSだけで要素がスクロールできるかどうかを検出する方法](https://coliss.com/articles/build-websites/operation/css/solved-by-css-scroll-driven-animations-detect-if-can-scroll-or-not.html)
+- [古いリセットCSSからはもう卒業！ モダンブラウザに最適化された新しいリセットCSS -A (more) Modern CSS Reset](https://coliss.com/articles/build-websites/operation/css/a-more-modern-css-reset.html)
+- [CSSをコピペするだけで簡単に実装できる！ ディズニーからインスピレーションを得た、美しいローディング](https://coliss.com/articles/build-websites/operation/css/disney-inspired-loading-animation.html)
+- [CSSで実装できる、最新HTMLテクニック・スニペットまとめ 2023年9月版](https://photoshopvip.net/151016)
+- [CSSはこんなにも進化していたのか！ CSSのかなり高度なテクニック -Expert CSS: The CPU Hack](https://coliss.com/articles/build-websites/operation/css/expert-css-the-cpu-hack.html)
+- [Webデザインの配色に悩んだときの参考になる！ UI要素のさまざまなカラースキームをまとめた配色サイト -Spectrum.Art](https://coliss.com/articles/build-websites/operation/work/color-scheme-for-web-ui.html)
+- [【CSS】CSS Maskingを使って、フェードアウトするUIを実現する。](https://qiita.com/degudegu2510/items/55b63df4f80e7b95ece6)
+- [【第5弾】少しのコードで実装可能な10のCSS小技集](https://www.webcreatorbox.com/tech/css-tips-5)
+- [アプリケーション カスタマイザーでカスタム CSS をロードする](https://www.illuminate-j.jp/blog/spfx06_cssload)
+- [ここまでできる！CSS最新テクニックと書き方30選](https://photoshopvip.net/148200)
+- [最近のWeb制作に役立つ、CSSの便利ツール総まとめ](https://coliss.com/articles/build-websites/operation/work/useful-tools-for-web-developer.html)
+- [Web制作者がチェックしておきたい！ 2023年版、CSSフレームワークのまとめ](https://coliss.com/articles/build-websites/operation/css/awesome-css-frameworks.html)
+- [全部、完全に商用利用無料！ さまざまなデザインが揃ってる、ランディングページ用のHTMLテンプレート -HTMLrev](https://coliss.com/articles/build-websites/operation/work/free-landing-page-html-templates-by-htmlrev.html)
+- [Web制作に役立つ超便利ツールが登場！ HTMLやCSSやJavaScriptのさまざまなツールがひとまとめになったツールボックス -He3](https://coliss.com/articles/build-websites/operation/work/modern-developer-toolbox-he3.html)
+- [ユーザーのインタラクションを伴うさまざまなUIコンポーネントをCSSで実装できる軽量フレームワーク -Ellegant CSS](https://coliss.com/articles/build-websites/operation/css/ellegant-css-microframework.html)
+- [CSSとHTMLだけで作れる様々なUIのコードを公開しているCSSスニペットコレクション・「CSS Stock」](http://kachibito.net/useful-resource/css-stock)
+- [よくある Web 制作の悩みを CSS で解決！最新テクニック 40 選まとめ](https://photoshopvip.net/131693)
+- [ほんの数行の CSS で実装できる小技テクニック 12 個まとめ 【簡単＆実用的】](https://photoshopvip.net/127316)
+- [簡単 CSS アニメーション＆デザイン 20 選（ソースコードと解説付き）](https://baigie.me/officialblog/2021/02/25/css-tips-1/)
+- [ブレイクポイントは特定のデバイスの画面サイズを基準にしない](https://zenn.dev/tak_dcxi/articles/690caf6e9c4e26)
+- [CSS コピペで完成！押したくなる Web ボタンデザインまとめ](https://photoshopvip.net/130681)
+- [CSS だけでできるあんなことこんなこと - Qiita](https://qiita.com/rana_kualu/items/43e8841a4fccb8a80113)
+- [Amazon も！有名 Web サイトの CSS ボタンデザイン 77 個をコピペ再現できる Copy ＆ Paste CSS](https://photoshopvip.net/129699)
+- [【第 3 弾】少しのコードで実装可能な 15 の CSS 小技集](https://www.webcreatorbox.com/tech/css-tips-3)
+- [Web 制作の面倒な作業をラクにする CSS 便利ツール 59 個まとめ - PhotoshopVIP](http://photoshopvip.net/123398)
+- [CodePen Home Blurred Background CSS](https://codepen.io/ariona/pen/geFIK)
+- [Super simple CSS tooltips](https://codepen.io/mildrenben/pen/rVBrpK)
+- [CSS だけでできるあんなことこんなこと - Qiita](https://qiita.com/rana_kualu/items/43e8841a4fccb8a80113)
+- [打ち込むより簡単！保存しておくと便利な CSS スニペット 18 選](https://ferret-plus.com/6036)
+- [CSS でフォームの実装に悩んだら！ さまざまなフレームワークで実装されたフォームのライブラリ -HeroTofu](https://coliss.com/articles/build-websites/operation/css/html-forms-library-herotofu.html)
+- [Web 制作者は要チェック！Instagram に使用されている CSS のテクニック](https://coliss.com/articles/build-websites/operation/css/css-techniques-used-for-instagram.html)
+- [これなら簡単で便利！最近見かける CSS のさまざまなコンポーネントをコピペで利用できる -CodyHouse Framework コリス](https://coliss.com/articles/build-websites/operation/css/codyhouse-framework-2-0.html)
+- [CSS Grid を Chrome デベロッパーツールで検証、デバッグする方法を解説](https://coliss.com/articles/build-websites/operation/css/inspect-css-grid-by-chrome-devtools.html)
+- [2020 年の CSS のまとめ、Flexbox や CSS Grid の使用状況、よく使用するプロパティや単位、人気のフレームワークやツールなど](https://coliss.com/articles/build-websites/operation/css/the-state-of-css-2020.html)
+- [CSSのsubgridがすべてのブラウザにサポートされたので、カード内の見出しやテキストを簡単に揃えることができます](https://coliss.com/articles/build-websites/operation/css/use-subgrid-give-child-elements-access-to-a-parents-grid.html)
+- [ターミナルのシンプルなUIが好きな人に！ モダンでミニマルなCSSの超軽量フレームワーク -Terminal CSS](https://coliss.com/articles/build-websites/operation/css/terminal-css.html)
 
-## STUDIO
+## figma
 
-- [導入前に知っておこう！STUDIOの特徴とよくある質問](https://blog.studio.design/ja/posts/studio-overview)
-- [FigmaからコピペでWebサイトが完成！ HTMLもCSSも書かないノーコードツール「STUDIO」がスゴすぎる](https://webtan.impress.co.jp/e/2023/10/03/45597)
+- [プロダクトを横断したFigmaコンポーネント構築 〜「インスタンスガイドライン」を策定した話〜](https://zenn.dev/levtech/articles/0271c278f88584)
+- [FigmaのAIによる学習「コンテンツのトレーニング」をオフにする方法、独自性・機密性の高いデザインを扱っている場合は注意が必要です](https://coliss.com/articles/build-websites/operation/work/figma-ai-will-use-your-content-to-train.html)
+- [Figmaの実践的な使い方がこれでよく分かる！ UIコンポーネントの作り方にフォーカスされた解説書 -Figmaで作るUIデザインアイデア集](https://coliss.com/articles/book-review/isbn-9784295019084.html)
+- [Figmaでちょっとしたデザインをつくるときに使っているプラグイン8選](https://ics.media/entry/240603/)
+- [Figma初心者でも大丈夫！ レスポンシブWebデザインをFigmaで作るための3つのポイント](https://stocker.jp/diary/figma-rwd-point/)
+- [XDからFigmaへ移行したい人のためにFigmaの機能を紹介](https://stocker.jp/diary/xd-to-figma/)
+- [エンジニア向けFigmaの使い方を徹底解説](https://liginc.co.jp/blog/tech/639546)
+- [Figmaの魅力がすぐわかる、仕事で即使える！おすすめテンプレ、プラグイン、ウィジェット【Figmaワークハック #4】](https://www.lifehacker.jp/article/2312-figma-4/)
+- [生成AIを使用したFigmaのコード変換：Animaの新しいAIカスタマイズコーディングの使用例6選](https://www.animaapp.com/blog/ja/ai/%e7%94%9f%e6%88%90ai%e3%82%92%e4%bd%bf%e7%94%a8%e3%81%97%e3%81%9ffigma%e3%81%ae%e3%82%b3%e3%83%bc%e3%83%89%e5%a4%89%e6%8f%9b%ef%bc%9aanima%e3%81%ae%e6%96%b0%e3%81%97%e3%81%84ai%e3%82%ab%e3%82%b9/)
+- [FigmaのHTMLコードへのエクスポートの仕方](https://www.animaapp.com/blog/ja/%E3%80%8C%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%8B%E3%82%89%E3%82%B3%E3%83%BC%E3%83%89%E3%80%8D/figma%E3%81%AEhtml%E3%82%B3%E3%83%BC%E3%83%89%E3%81%B8%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E4%BB%95%E6%96%B9/)
+- [Figmaでちょっとしたデザインをつくるときに使っているプラグイン8選](https://ics.media/entry/240603/)
 
-## htmx
-
-- [HTMXの正体が分からないので、オレオレHTMXを作ってみた](https://qiita.com/YmBIgo/items/4df3eb97d1ecfd3c66ed)
 
 ## html
 
+- [【保存版】Webフロントエンド基礎力（初心者向け）](https://qiita.com/teradonburi/items/43c52d7cffc318e9b1e9)
+- [【保存版】フロントエンド初心者がまず読むべき資料まとめ【2024年最新】](https://qiita.com/nuco_YM/items/b4259d838be53a6f44ee)
+- [【最新版】エンジニア向けおすすめの学習サービスまとめ](https://qiita.com/KNR109/items/ff0699e67a5740eeaaa8)
+- [【開発効率爆上がり】すべてのエンジニアが必ず見るべき16のウェブサイト](https://qiita.com/ken1041/items/c975b346d43a575e946d)
+- [デジタル庁のサイトやばすぎるwww](https://qiita.com/mu_tomoya/items/f78f1fad3a8b57ac7dc3)
+- [独学でプロを目指す！Web制作を無料で学べるおすすめ学習まとめ](https://qiita.com/nucomiya/items/ffe6c632254fba2c409b)
+- [これでCSSのみで実装できる！ スクロール方向に合わせてヘッダを非表示・表示する方法を解説](https://coliss.com/articles/build-websites/operation/css/css-hide-header-when-scrolling-down.html)
+- [これで簡単に実装できる！ カードやパネルをドラッグアンドドロップで移動できるレイアウトに変換するスクリプト -Swapy](https://coliss.com/articles/build-websites/operation/javascript/drag-to-swap-layout-swapy.html)
+- [【フロントエンド】駆け出しエンジニアが目指すジュニアレベルのエンジニアとは【2024年版】](https://qiita.com/mamimami0709/items/c9657367a8e7dfdca070)
+- [サクッと始めるウェブアプリ開発【Next.js / TypeScript】](https://zenn.dev/umi_mori/books/next-js-typescript)
+- [人に優しいフォームを作ろう、特に日本人に](https://zenn.dev/yumemi_inc/articles/c1c83cb4cdcaa8)
+- [AI 駆動フロントエンド（Web アプリ、ネイティブモバイルアプリ）開発ツール等最新アップデート](https://www.docswell.com/s/shosuz/Z1RR94-2024-09-15-194001)
+- [すぐ消えてしまう要素をDevToolsで確認するTips集](https://zenn.dev/gemcook/articles/3e90d883100140)
+- [エンジニア向け一流デザインまとめ](https://qiita.com/nemo_Nuco/items/8c530b4cee8d5f600ab0)
+- [CSSもThree.jsもタイムライン編集を可能にするTheatre.jsが凄い](https://ics.media/entry/240827/)
+- [SNSで話題のWeb関連情報 2024年 8/24〜8/30](https://www.webcreatorbox.com/webnews/2024-0824-0830)
+- [見た目そのまま編集可能なオープンソースのHTMLメールデザインツール「SENDUNE」を使ってみた](https://gigazine.net/news/20240810-sendune-open-source-html-email-designer/)
+- [これはすごい便利！ WebサイトやスマホアプリのUIに今時のアニメーションやインタラクションを簡単に実装できる -Animata](https://coliss.com/articles/build-websites/operation/work/animate-ui-interaction-and-animations.html)
+- [ChatGPTでデザインのレビューをしてもらおう](https://www.webcreatorbox.com/inspiration/chatgpt-design-review)
+- [Webサイトを使いやすく改善する、知っておくと便利なCSSのテクニック](https://coliss.com/articles/build-websites/operation/css/css-one-liners-for-almost-every-project.html)
+- [【2024年最新動向】日本発の「いけてる」デザインシステム事例10選](https://goodpatch.com/blog/2024-07-10cooldesignsystems)
+- [生成AI時代のフロントエンド開発術](https://zenn.dev/silverbirder/articles/47965727b4f05b)
+- [Open-Source UI elements for any project](https://uiverse.io/)
+- [シンプルなHTMLで、レスポンシブとライト・ダークモード対応のモダンなWebページを簡単に作成できる超軽量CSSライブラリ -matcha.css](https://coliss.com/articles/build-websites/operation/css/css-library-matcha.html)
+- [2024年版 HTMLで作るフォームバリデーション](https://ics.media/entry/240418/)
+- [Webデザインに必須のコーディングの基礎知識【初心者向け】](https://liginc.co.jp/643347)
+- [令和のHTML / CSS / JavaScriptの書き方50選](https://zenn.dev/necscat/articles/bc9bba54babaf5)
+- [2024年版最近の実装に合わせた、HTMLでWebページを実装するための必要最小限をまとめたテンプレート一式](https://coliss.com/articles/build-websites/operation/work/html5-boilerplate-professional-template.html)
 - [あのサイトで使われている技術を調べる](https://qiita.com/nightyknite/items/1258eeca403e7d449b5a)
+- [ヘッダー（グローバルナビゲーション）のデザイン事例100選](https://note.com/akane_desu/n/nd079b5e83727)
 - [【爆速UI設計術】モダンなwebデザイン素材集](https://qiita.com/iijima-naoya-45b/items/2e63a51681188d2bb93a)
 - [HTMLを書いたり、修正する時に役立つVS Codeの機能拡張のまとめ](https://coliss.com/articles/build-websites/operation/work/vs-code-extensions-for-html.html)
 - [HTTPを手で書いて学ぶ ファイルアップロードの仕組み](https://speakerdeck.com/ikumatadokoro/httpwoshou-deshu-itexue-bu-huairuatupurodonoshi-zu-mi)
@@ -129,62 +224,14 @@
 - [Webサイトやスマホアプリで注目されているUXデザインの知識やテクニックが網羅された解説書 -UXデザイン100の原則](https://coliss.com/articles/book-review/isbn-9784802512763.html)
 - [もうWeb制作初心者はHTML/CSS/JavaScript以外やるな](https://itokoba.com/archives/7598#toc3)
 
-## css
+## htmx
 
-- [モダンCSSで実装する、テーブル（<table>）のさまざまなスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/a-guide-to-styling-tables.html)
-- [2024年の実装に役立つCSSの新機能と使い方のまとめ](https://coliss.com/articles/build-websites/operation/css/css-snippets-in-2024.html)
-- [これは知っておくとかなり便利！ details要素にname属性を与えると、連動して開閉するアコーディオンを実装できます](https://coliss.com/articles/build-websites/operation/css/exclusive-accordion.html)
-- [CSSのデフォルトとして記述しておくと便利、img要素に設定するスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/sensible-defaults-for-img-elements.html)
-- [現代開発者のためのCSS基礎技術](https://qiita.com/arowM/items/4f06ca5506c522ea3dfe)
-- [CSSのデフォルトとして記述しておくと便利、img要素に設定するスタイルのまとめ](https://coliss.com/articles/build-websites/operation/css/sensible-defaults-for-img-elements.html)
-- [知っておくと便利！ CSSだけで要素がスクロールできるかどうかを検出する方法](https://coliss.com/articles/build-websites/operation/css/solved-by-css-scroll-driven-animations-detect-if-can-scroll-or-not.html)
-- [古いリセットCSSからはもう卒業！ モダンブラウザに最適化された新しいリセットCSS -A (more) Modern CSS Reset](https://coliss.com/articles/build-websites/operation/css/a-more-modern-css-reset.html)
-- [CSSをコピペするだけで簡単に実装できる！ ディズニーからインスピレーションを得た、美しいローディング](https://coliss.com/articles/build-websites/operation/css/disney-inspired-loading-animation.html)
-- [CSSで実装できる、最新HTMLテクニック・スニペットまとめ 2023年9月版](https://photoshopvip.net/151016)
-- [CSSはこんなにも進化していたのか！ CSSのかなり高度なテクニック -Expert CSS: The CPU Hack](https://coliss.com/articles/build-websites/operation/css/expert-css-the-cpu-hack.html)
-- [Webデザインの配色に悩んだときの参考になる！ UI要素のさまざまなカラースキームをまとめた配色サイト -Spectrum.Art](https://coliss.com/articles/build-websites/operation/work/color-scheme-for-web-ui.html)
-- [【CSS】CSS Maskingを使って、フェードアウトするUIを実現する。](https://qiita.com/degudegu2510/items/55b63df4f80e7b95ece6)
-- [【第5弾】少しのコードで実装可能な10のCSS小技集](https://www.webcreatorbox.com/tech/css-tips-5)
-- [アプリケーション カスタマイザーでカスタム CSS をロードする](https://www.illuminate-j.jp/blog/spfx06_cssload)
-- [ここまでできる！CSS最新テクニックと書き方30選](https://photoshopvip.net/148200)
-- [最近のWeb制作に役立つ、CSSの便利ツール総まとめ](https://coliss.com/articles/build-websites/operation/work/useful-tools-for-web-developer.html)
-- [Web制作者がチェックしておきたい！ 2023年版、CSSフレームワークのまとめ](https://coliss.com/articles/build-websites/operation/css/awesome-css-frameworks.html)
-- [全部、完全に商用利用無料！ さまざまなデザインが揃ってる、ランディングページ用のHTMLテンプレート -HTMLrev](https://coliss.com/articles/build-websites/operation/work/free-landing-page-html-templates-by-htmlrev.html)
-- [Web制作に役立つ超便利ツールが登場！ HTMLやCSSやJavaScriptのさまざまなツールがひとまとめになったツールボックス -He3](https://coliss.com/articles/build-websites/operation/work/modern-developer-toolbox-he3.html)
-- [ユーザーのインタラクションを伴うさまざまなUIコンポーネントをCSSで実装できる軽量フレームワーク -Ellegant CSS](https://coliss.com/articles/build-websites/operation/css/ellegant-css-microframework.html)
-- [CSSとHTMLだけで作れる様々なUIのコードを公開しているCSSスニペットコレクション・「CSS Stock」](http://kachibito.net/useful-resource/css-stock)
-- [よくある Web 制作の悩みを CSS で解決！最新テクニック 40 選まとめ](https://photoshopvip.net/131693)
-- [ほんの数行の CSS で実装できる小技テクニック 12 個まとめ 【簡単＆実用的】](https://photoshopvip.net/127316)
-- [簡単 CSS アニメーション＆デザイン 20 選（ソースコードと解説付き）](https://baigie.me/officialblog/2021/02/25/css-tips-1/)
-- [ブレイクポイントは特定のデバイスの画面サイズを基準にしない](https://zenn.dev/tak_dcxi/articles/690caf6e9c4e26)
-- [CSS コピペで完成！押したくなる Web ボタンデザインまとめ](https://photoshopvip.net/130681)
-- [CSS だけでできるあんなことこんなこと - Qiita](https://qiita.com/rana_kualu/items/43e8841a4fccb8a80113)
-- [Amazon も！有名 Web サイトの CSS ボタンデザイン 77 個をコピペ再現できる Copy ＆ Paste CSS](https://photoshopvip.net/129699)
-- [【第 3 弾】少しのコードで実装可能な 15 の CSS 小技集](https://www.webcreatorbox.com/tech/css-tips-3)
-- [Web 制作の面倒な作業をラクにする CSS 便利ツール 59 個まとめ - PhotoshopVIP](http://photoshopvip.net/123398)
-- [CodePen Home Blurred Background CSS](https://codepen.io/ariona/pen/geFIK)
-- [Super simple CSS tooltips](https://codepen.io/mildrenben/pen/rVBrpK)
-- [CSS だけでできるあんなことこんなこと - Qiita](https://qiita.com/rana_kualu/items/43e8841a4fccb8a80113)
-- [打ち込むより簡単！保存しておくと便利な CSS スニペット 18 選](https://ferret-plus.com/6036)
-- [CSS でフォームの実装に悩んだら！ さまざまなフレームワークで実装されたフォームのライブラリ -HeroTofu](https://coliss.com/articles/build-websites/operation/css/html-forms-library-herotofu.html)
-- [Web 制作者は要チェック！Instagram に使用されている CSS のテクニック](https://coliss.com/articles/build-websites/operation/css/css-techniques-used-for-instagram.html)
-- [これなら簡単で便利！最近見かける CSS のさまざまなコンポーネントをコピペで利用できる -CodyHouse Framework コリス](https://coliss.com/articles/build-websites/operation/css/codyhouse-framework-2-0.html)
-- [CSS Grid を Chrome デベロッパーツールで検証、デバッグする方法を解説](https://coliss.com/articles/build-websites/operation/css/inspect-css-grid-by-chrome-devtools.html)
-- [2020 年の CSS のまとめ、Flexbox や CSS Grid の使用状況、よく使用するプロパティや単位、人気のフレームワークやツールなど](https://coliss.com/articles/build-websites/operation/css/the-state-of-css-2020.html)
-- [CSSのsubgridがすべてのブラウザにサポートされたので、カード内の見出しやテキストを簡単に揃えることができます](https://coliss.com/articles/build-websites/operation/css/use-subgrid-give-child-elements-access-to-a-parents-grid.html)
-- [ターミナルのシンプルなUIが好きな人に！ モダンでミニマルなCSSの超軽量フレームワーク -Terminal CSS](https://coliss.com/articles/build-websites/operation/css/terminal-css.html)
-
-## Bootstrap
-
-- [初心者でも Web 制作ができる！CSS フレームワーク「Bootstrap」入門編](https://ferret-plus.com/5129)
-- [Bootstrap（ブートストラップ）を使ったランディングページの無料デザインテンプレート 35 選](https://ferret-plus.com/8517)
-- [Microsoft、「WinUI 2.5」を公開 ～プログレスリングや Bootstrap 風の情報バーを追加／ナビゲーションペインにはフッターメニューを設定できるように](https://forest.watch.impress.co.jp/docs/news/1293642.html)
-- [Bootstrap Carousel in SPFX (ReactJS)](https://www.c-sharpcorner.com/article/bootstrap-carousel-in-spfxreactjs/)
-- [新しくなった Bootstrap 5 を使用して、管理画面の UI を実装する方法を解説 コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-dashboard-tutorial.html)
-- [Bootstrap 5 の作業環境の構築方法、jQuery を使用しない JavaScript での実装方法を解説 コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-tutorial-without-jquery.html)
+- [HTMXの正体が分からないので、オレオレHTMXを作ってみた](https://qiita.com/YmBIgo/items/4df3eb97d1ecfd3c66ed)
 
 ## JavaScript
 
+- [JavaScript エンジンの高速化](https://zenn.dev/acd1034/articles/240726-accelerating-javascript-engine)
+- [JavaScriptの便利な記法や関数の紹介およびそれらの注意点について](https://qiita.com/umiushi_1/items/487fdcfcf5caf7a9a3c0)
 - [[javascript] カラフルなconsole.log](https://qiita.com/oharu121/items/446027d9e4a494455555)
 - [「JavaScriptで要素をドラッグして移動する簡単な方法」という記事が初耳だらけだった件](https://qiita.com/www-tacos/items/5614b61d3742d6db34b7)
 - [そのfor文ちょっと待った！！ ループ処理の代替表現ガイド](https://zenn.dev/lclco/articles/77587be8ccb1a7)
@@ -209,14 +256,47 @@
 - [JavaScript でのメディアクエリ、matchMedia()の使い方を解説 コリス](https://coliss.com/articles/build-websites/operation/javascript/javascript-media-queries.html)
 - [便利なのが登場！フォームのバリデーションをシンプルな記述で実装できる超軽量 JavaScript ライブラリ -v8n](https://coliss.com/articles/build-websites/operation/javascript/js-validation-library-v8n.html)
 - [知っておくと実装に役立つ！JavaScript のテクニックのまとめ](https://coliss.com/articles/build-websites/operation/javascript/javascript-tips-by-garvitmotwani.html)
+- [WebAssembly は次世代のコンテナ技術になれるか？](https://zenn.dev/mizchi/articles/wasm-component-model-futures)
+
+
+## Loading
+
+- [処理中のユーザーの誤操作を防止しよう](https://www.htmlhifive.com/conts/web/view/recipe/indicator)
+- [ASP.NET でローディング画像(処理中)を表示する](https://itneko.com/asp-loading-image/)
+- [［ASP.NET AJAX］Ajax 通信で使われる「ロード中／更新中」の画像を入手するには？](https://atmarkit.itmedia.co.jp/fdotnet/dotnettips/984ajaxloadingpic/ajaxloadingpic.html)
+- [画面読込中のグルグルまわるローディング画像を出す。jQuery・javascript](http://mori-coding.blog.jp/archives/6760786.html)
+- [Ignite UI for jQuery](https://jp.infragistics.com/support/product-help-downloads/ignite-ui-help)
+- [.NET Core に対応した InputMan で次世代のアプリ配布方法を試す（自己完結型編）](https://devlog.grapecity.co.jp/inputman-dotnetcore-self-contained-publishsinglefile/)
+- [.NET 開発コンポーネントセット](https://www.grapecity.co.jp/developer/componentone)
+
+## Microsoft Clarity
+
+- [マイクロソフトが提供する無料で使えるヒートマップ「Microsoft Clarity」を使ってみよう！](https://www.mdn.co.jp/web/helpful_tips/7134)
+
+## react
+
+- [【2024年最新版】0からReactを勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/7d8c6f309dddda1a3961)
+
+## STUDIO
+
+- [導入前に知っておこう！STUDIOの特徴とよくある質問](https://blog.studio.design/ja/posts/studio-overview)
+- [FigmaからコピペでWebサイトが完成！ HTMLもCSSも書かないノーコードツール「STUDIO」がスゴすぎる](https://webtan.impress.co.jp/e/2023/10/03/45597)
+
+
+## TypeScript
+
+- [TypeScript入門 2024](https://speakerdeck.com/recruitengineers/typescriptru-men-2024)
+- [40代エンジニア志望、TypeScript はじめの一歩](https://qiita.com/nyakako13/items/6251e58a129f6d455dfb)
+- - [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
+- [TypeScript未経験でもスムーズに業務に取り組める、最強の学習用コンテンツを作った話](https://engineers.ntt.com/entry/2023/12/19/090007)
+- [TypeScriptとも相性抜群なライブラリ──Vue.jsで状態管理を行う新定番「Pinia」を解説！ (2/3) CodeZine（コードジン）](https://codezine.jp/article/detail/18727?p=2)
+- [新しいチームでTypeScriptに素早くキャッチアップするためにやったこと](https://kakehashi-dev.hatenablog.com/entry/2024/09/04/110000)
 
 ## vue.js
 
+- [Vue.js 3入門 基礎編](https://dotinstall.com/lessons/basic_vuejs_beginner)
 - [「あなたのVueファイルは読みづらい」と文句を言われたくない① -- 記述方法編 --](https://qiita.com/IJproject/items/46342f529320652a8fad)
 -[「Vueって何？」から始めるVue.js入門](https://qiita.com/MIDO-ruby7/items/6ab4bac960c3520a55d5)
 -[Vue.jsとjQueryの違いは メリット・デメリットを歴史的に比較](https://runteq.jp/blog/programming-school/other/2774/)
-- [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
-- [TypeScript未経験でもスムーズに業務に取り組める、最強の学習用コンテンツを作った話](https://engineers.ntt.com/entry/2023/12/19/090007)
-- [TypeScriptとも相性抜群なライブラリ──Vue.jsで状態管理を行う新定番「Pinia」を解説！ (2/3)|CodeZine（コードジン）](https://codezine.jp/article/detail/18727?p=2)
 - [【他のSPAでも】Vue3でアプリ作るならこれを入れろ！2023 ver【使えるよ】](https://qiita.com/k2-kanda/items/42e7df9a578495a5a215)
 - [【Vue.js】今、ゼロから Vue を学び始めるならこうやるといいんじゃないか (2024) 【初学者向け】](https://zenn.dev/comm_vue_nuxt/articles/start-to-learn-vue-2024)

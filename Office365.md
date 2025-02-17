@@ -1,132 +1,30 @@
 # Bookmarks
 
-- [site](https://keizom.github.io/)
-- [onpremise](https://keizom.github.io/onpremise.html)
+- [index](https://keizom.github.io/)
 - [Adobe](https://keizom.github.io/adobe.html)
 - [Azure](https://keizom.github.io/Azure.html)
 - [develop](https://keizom.github.io/develop.html)
+- [GenerativeAI](https://keizom.github.io/GenerativeAI.html)
 - [intune](https://keizom.github.io/intune.html)
-- [Office365](https://keizom.github.io/Office365.html)
-- [SharePoint](https://keizom.github.io/SharePoint.html)
-- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
-- [web](https://keizom.github.io/web.html)
 - [mac](https://keizom.github.io/mac.html)
+- [Office365](https://keizom.github.io/Office365.html)
+- [onpremise](https://keizom.github.io/onpremise.html)
+- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
+- [SharePoint](https://keizom.github.io/SharePoint.html)
+- [web](https://keizom.github.io/web.html)
+
 
 # Microsoft 365
 
 - [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
 - [ライセンス](https://m365maps.com/matrix.htm)
 - [Test Base for Microsoft 365とは何か、使ってみてわかった｢完全自動化｣の利点と課題](https://www.sbbit.jp/article/cont1/127133)
-
-## 認証関係
-
-- [一番分かりやすい OAuth の説明](https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be)
-- [Azure AD 認証を使って Azure REST API へアクセスする ~Service Bus 編~](https://tech-lab.sios.jp/archives/31473)
-- [Microsoft Graph PowerShell でユーザー作成（MSOnline との比較）](https://tech-lab.sios.jp/archives/29212)
-- [Azure AD アプリ専用を使用してアクセスを許可する](https://learn.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/security-apponly-azuread)
-- [【SharePoint Online】モダン認証で指定のサイトに対してアクセス許可を設定する](https://www.hogehoge-note.com/2022/02/19/post-937/)
-- [AI Builder でのカスタム ドキュメントの処理](https://learn.microsoft.com/ja-jp/training/modules/get-started-with-form-processing/)
-- [PnP PowerShell を任意のアクセス許可で実行する](https://zenn.dev/karamem0/articles/2021_07_02_170000)
-- [PowerShell – Exchange Online に証明書を使用して接続する –](https://tech-lab.sios.jp/archives/24523)
-- [Azure Key Vault を利用して Linux PowerShell から Exchange Online へアクセスする](https://tech-lab.sios.jp/archives/31188)
-
-## AI Builder
-
-- [AI Builder の「カスタムモデル」で日本語対応の「名刺リーダー」を作る](https://qiita.com/nori790822/items/8a2303adace8dde68fab)
-- [Power Apps と AI Builder を使って最速で OCR アプリを作る！！#Power Platform リレー](https://tech-blog.cloud-config.jp/2021-12-23-power-apps-ai-builder-ocr/)
-- [AI Builder による画像認識モデルの構築](https://rpa.bigtreetc.com/column/aibuilder-builing-customai/)
-
-## Clipchamp
-
-- [Microsoftのビデオ・エディター「Clipchamp」がかなり便利だった【入門＆基礎活用術】](https://www.lifehacker.jp/article/2403-how-to-use-clipchamp-in-windows-11/)
-
-## loop
-
-- [Microsoft Loopとは何かを使い方から解説、Notionとの違いは？ 3つの機能や始め方も](https://www.sbbit.jp/article/cont1/131393)
-- [Microsoft LoopがGAされたので管理面を整理してみる](https://zenn.dev/santafs/articles/8b9701feb63bf1)
-- [Microsoft Loop アプリ (public preview) - 勉強会の録画公開](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/04/microsoft-loop--6f48.html)
-- [AI搭載の多機能メモアプリ｢Microsoft Loop｣、Notionとはここがちがいます](https://www.gizmodo.jp/2023/04/loop-notion-comparison.html)
-- [Microsoft Loop ：パブリックプレビューを利用する設定方法](https://art-break.net/tech/?p=17773)
-- [Microsoft Loop がGA (一般提供開始)](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/11/microsoft-loop--bec5.html)
-
-## Office 365 Management API
-
-- [Microsoft365管理センターのメッセージセンターにある情報をPowerShellを使って取得する](https://wataruf.hatenablog.com/entry/2022/03/10/000000)
-- [Azure AD に連携している各種証明書、クライアント シークレットの有効期限の抽出方法（Graph Exploler編）](https://blog.cloudnative.co.jp/18273/)
-- [Office 365 メッセージ追跡 REST API プロトコルの構成オプション](https://www.ibm.com/docs/ja/qradar-on-cloud?topic=pco-office-365-message-trace-rest-api-protocol-configuration-options)
-- [Office 365 管理 API へようこそ](https://learn.microsoft.com/ja-jp/office/office-365-management-api/)
-- [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
-- [Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
-- [Microsoft Graph reports API の試し方](https://blog.rykoma.net/2021/01/13/1610/)
-- [Office 365 Management API の使い方 (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/16866f40c29618f05f39)
-- [Office 365 の監査ログを Microsoft Sentinel に格納する - Office 365 Management API と Data Collector API (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/8fde7595042f0f281de8)
-- [Office 365 管理 API を使って SharePoint Online の監査ログを取得する](https://zenn.dev/karamem0/articles/2020_09_02_150000)
-- [Microsoft365 Microsoft Exchange Onlineの監査ログ（後編）](https://engineers.ntt.com/entry/2021/10/06/103025)
-- [Office 365 の監査ログを全部取得したい？](https://blog.rykoma.net/2019/07/28/1394/)
-- [Office 365 管理アクティビティ API で監査ログを取得する](https://zenn.dev/masakikato/articles/o365-managementapi-quickstart)
-- [Office 365 テナント管理者の同意を得る](https://learn.microsoft.com/ja-jp/office/office-365-management-api/get-started-with-office-365-management-apis)
-- [【Microsoft 365】取得できる監査ログと管理方法を解説](https://symphonict.nesic.co.jp/workingstyle/microsoft365/checking_log/)
-- [Office 365 マネージメント アクティビティ API のリファレンス](https://learn.microsoft.com/ja-jp/office/office-365-management-api/office-365-management-activity-api-reference?toc=%2Fmicrosoft-365%2Fcompliance%2Ftoc.json&bc=%2Fmicrosoft-365%2Fbreadcrumb%2Ftoc.json)
-
-## Office 365 PowerShell
-
-- [Microsoft 365 Scripts](https://m365scripts.com/)
-- [MSOnline / AzureAD PowerShell から Graph PowerShell SDK への移行について 1\_概要](https://jpazureid.github.io/blog/azure-active-directory/azuread-module-retirement1/)
-- [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
-
-- [Export Office 365 Groups a User is Member Of Using PowerShell](https://o365reports.com/2021/04/15/export-office-365-groups-a-user-is-member-of-using-powershell/?fbclid=IwAR0oSgtDfo0gkCH4dJLXTvvpQtKXhK3hDbUn1dd7UfUXpTTPN4p3EpYxQ3E)
-- [Export Office 365 Guest User Report with their Membership](https://o365reports.com/2020/11/12/export-office-365-guest-user-report-with-their-membership/)
-- [Office 365 の PowerShell 運用を PaaS 化してみる](https://sprestaurant.hatenablog.com/entry/2019/07/07/011839)
-- [多要素認証 (MFA) の Office 365 に PowerShell で接続する方法まとめ](https://blog.kazuakix.jp/entry/2018/04/16/221554)
-- [【SPO】CSOM と SharePoint Online 管理シェルを PowerShell でパッケージ管理](https://www.samurainote.com/entry/2019/02/23/222546)
-- [単一の PowerShell ウィンドウですべての Microsoft 365 サービスに接続する](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/connect-to-all-microsoft-365-services-in-a-single-windows-powershell-window?view=o365-worldwide)
-- [PowerShell を使用して Microsoft 365 サービスへのアクセスを無効にする](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/disable-access-to-services-with-microsoft-365-powershell?view=o365-worldwide)
-- [Audit SharePoint Online Group Membership Changes using PowerShell](https://o365reports.com/2022/06/22/audit-sharepoint-online-group-membership-changes-using-powershell/)
-- [Bulk Import Contacts to Office 365 using PowerShell](https://m365scripts.com/exchange-online/bulk-import-contacts-office-365-powershell/)
-- [Office365 監査ログの管理方法を検討する](https://www.engineer-base.net/office365%E3%81%AE%E7%9B%A3%E6%9F%BB%E3%83%AD%E3%82%B0%E7%AE%A1%E7%90%86/)
-- [Microsoft Graph PowerShell でユーザー作成（MSOnline との比較）](https://tech-lab.sios.jp/archives/29212)
-- [Azure AD の変更管理を簡素化します](https://jpazureid.github.io/blog/azure-active-directory/azure-ad-change-management-simplified/)
-
-> 2022 年 12 月以降に 2 つの PowerShell モジュール (MSOL & AAD) が廃止となる予定
-
-## Microsoft 365 Copilot
-
-- [OfficeのCopilotを利用する「Excel編」](https://swri.jp/article/1423)
-- [Microsoft 365 Copilotを上手に使うためのTips・できることまとめ](https://qiita.com/ssc-yshikeda/items/ec2cfe07d2bbcd989be9)
-- [「Copilot for Microsoft 365 ユーザー向け研修資料」を公開しました！](https://blog.cloudnative.co.jp/22909/)
-- [マイクロソフトの「Copilot」、有料版と無料版はどう違う？お金を払う価値はあるか](https://japan.zdnet.com/article/35214694/)
-- [Microsoft Copilotの基本的な設定と使い方](https://atmarkit.itmedia.co.jp/ait/articles/2402/09/news036.html)
-- [Copilotとは何が違う？Copilot for Microsoft 365を使ってわかったOfficeアプリ効率化](https://www.sbbit.jp/article/cont1/132047)
-- [ついに来た！Copilot for Microsoft 365](https://note.com/tknetsn/n/ne391eb45d16b)
-- [3か月試してわかった、Copilot for Microsoft 365の実力とユースケース](https://note.com/fujitsu_pr/n/nd96c22dcd15f)
-- [GPU非搭載ノートPCでもコマンド不要で各種言語モデルの性能を試せる実行環境「LM Studio」レビュー](https://gigazine.net/news/20231202-lm-studio-llm/)
-- [Microsoft 365 Copilotを利用する前に必ず知っておくべき注意点](https://kn.itmedia.co.jp/kn/articles/2312/01/news076.html)
-- [最新のWindows 11 23H2は何が変わった？AIアシスタントのCopilotなど、新機能・更新内容を一挙紹介](https://pc.watch.impress.co.jp/docs/topic/feature/1544477.html)
-- [Microsoft 365 Copilot カタログ 2023年9月更新](https://info.microsoft.com/JA-T2C-CNTNT-FY24-08Aug-18-Microsoft-365-Copilot-Catalog-SRGCM10917_LP01-Registration---Form-in-Body.html)
-- [Announcing Microsoft 365 Copilot general availability and Microsoft 365 Chat](https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availability-and-microsoft-365-chat/)
-- [The AI-Powered Future of Work](https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot)
-
-## Developer Subscription
-
-― [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
-- [Microsoft 365 開発者サンドボックス サブスクリプションの設定](https://docs.microsoft.com/ja-jp/office/developer-program/microsoft-365-developer-program-get-started)
-- [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
-- [Office 365 評価版サイト申し込み](https://www.microsoft.com/ja-jp/microsoft-365/enterprise/compare-office-365-plans)
-- [Microsoft 365 Enterprise のテスト ラボ ガイド - Microsoft 365 Enterprise Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/m365-enterprise-test-lab-guides?view=o365-worldwide)
-- [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
-
-## BandWidth
-
-- [Office365 帯域調査してみました。 ? Exceedone Technical Knowledge](https://tech.exceedone.co.jp/office365-generally/office365-band-survey/)
-- [【オンラインセミナー】Office 365 を快適に利用するためのネットワークインフラ 10 のポイント～疑問は Q&A で解決～](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-11Nov-16-Online-Seminar-Network-MCW0002364.html)
-- [【オンライン セミナー】 Office 365 の快適な利用に向けた帯域確保、プロキシ・ファイアウォールの運用について](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-02Feb-22-Office-365-and-use-proxy-firewalls-MCW0004275.html)
-- [【オンライン セミナー】 Office 365 を有効活用するためのリソースご紹介](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-01-effective-use-of-Office-365-MCW0004287.html)
-- [O365 のネットワークの推奨帯域について マイクロソフト コミュニティ](https://answers.microsoft.com/ja-jp/msoffice/forum/all/o365%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF/9e6f9683-d922-4a85-80f6-6f4fb6e563bb)
-- [Office 365 の利用者に動作が“重い”と苦情を言われたときにとるべき対策は？：最新ルーターで SaaS 時代のネットワーク管理を高度化せよ - ＠IT](https://www.atmarkit.co.jp/ait/articles/1802/27/news001.html)
+- [自分のMicrosoft 365 環境を作ってみる](https://office365labo.com/2023/06/05/%e8%87%aa%e5%88%86%e3%81%a0%e3%81%91%e3%81%aemicrosoft-365-%e7%92%b0%e5%a2%83%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/)
 
 ## Advanced Threat Protection
 
 - [Microsoft Defender for Endpoint - デモ シナリオ](https://learn.microsoft.com/ja-jp/microsoft-365/security/defender-endpoint/defender-endpoint-demonstrations?view=o365-worldwide)
+- [五味ちゃんが徹底解説！テレワーク時代のセキュリティ対策編](https://licensecounter.jp/microsoft365/download/gomichan-microsoft365-security/)
 - [Office 365 の ATP (Advanced Threat Protection) を使ってみる - kazuakix の日記](https://blog.kazuakix.jp/entry/2017/12/05/000100)
 - [ATP のアタックシミュレータ - Office 365 Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/security/office-365-security/attack-simulator?view=o365-worldwide)
 - [Changes in the support case submission experience - Microsoft Tech Community - 1521387](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387)
@@ -138,8 +36,15 @@
 - [はじめての クラウド ストレージの保護: Office 365 Advanced Threat Protection   日本マイクロソフト](https://m.youtube.com/watch?v=Ze_QlJf5ET4)
 - [はじめての クラウドの保護: Microsoft Cloud App Security   日本マイクロソフト](https://m.youtube.com/watch?v=PbgQpWeduMY)
 
+## AI Builder
+
+- [AI Builder の「カスタムモデル」で日本語対応の「名刺リーダー」を作る](https://qiita.com/nori790822/items/8a2303adace8dde68fab)
+- [Power Apps と AI Builder を使って最速で OCR アプリを作る！！#Power Platform リレー](https://tech-blog.cloud-config.jp/2021-12-23-power-apps-ai-builder-ocr/)
+- [AI Builder による画像認識モデルの構築](https://rpa.bigtreetc.com/column/aibuilder-builing-customai/)
+
 ## Audit Log
 
+- [Microsoft 365 の監査ログを長期保存しよう！Microsoft Sentinel](https://live-style.jp/azure-sentinel/)
 - [監査ログ アクティビティ](https://learn.microsoft.com/ja-jp/purview/audit-log-activities)
 
     ファイル アクティビティとページ アクティビティ
@@ -164,19 +69,54 @@
 - [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
 - [Send system disk space utilization HTML report Email using PowerShell](http://vcloud-lab.com/entries/powershell/send-system-disk-space-utilization-html-report-email-using-powershell)
 
-## Google
+## BandWidth
 
-- [Gmailへのメールが届かなくなる？ 2024年6月までにやるべき3つの対応](https://webtan.impress.co.jp/e/2024/04/03/46724)
-- [DMARC レコードを定義する](https://support.google.com/a/answer/10032169?hl=ja)
-- [DMARC レコードの追加](https://support.google.com/a/answer/2466563?hl=ja)
-- [ドメインで DKIM を有効にする](https://support.google.com/a/answer/180504?hl=ja)
-- [SPF レコードを定義する: 基本設定](https://support.google.com/a/answer/10685031?hl=ja)
-- [迷惑メール、なりすまし、フィッシングを Gmail 認証で防止する](https://support.google.com/a/answer/10583557?hl=ja)
-- [メール送信者のガイドライン](https://support.google.com/a/answer/81126?hl=ja)
+- [Office365 帯域調査してみました。 ? Exceedone Technical Knowledge](https://tech.exceedone.co.jp/office365-generally/office365-band-survey/)
+- [【オンラインセミナー】Office 365 を快適に利用するためのネットワークインフラ 10 のポイント～疑問は Q&A で解決～](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-11Nov-16-Online-Seminar-Network-MCW0002364.html)
+- [【オンライン セミナー】 Office 365 の快適な利用に向けた帯域確保、プロキシ・ファイアウォールの運用について](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-02Feb-22-Office-365-and-use-proxy-firewalls-MCW0004275.html)
+- [【オンライン セミナー】 Office 365 を有効活用するためのリソースご紹介](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-01-effective-use-of-Office-365-MCW0004287.html)
+- [O365 のネットワークの推奨帯域について マイクロソフト コミュニティ](https://answers.microsoft.com/ja-jp/msoffice/forum/all/o365%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF/9e6f9683-d922-4a85-80f6-6f4fb6e563bb)
+- [Office 365 の利用者に動作が“重い”と苦情を言われたときにとるべき対策は？：最新ルーターで SaaS 時代のネットワーク管理を高度化せよ - ＠IT](https://www.atmarkit.co.jp/ait/articles/1802/27/news001.html)
 
-## Exchagne Online
 
-- [「Gmail」にメールを送れなくなる恐れ、グーグルによる迷惑メール対策強化の衝撃 | 日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00989/120500134/)
+## Clipchamp
+
+- [Microsoftのビデオ・エディター「Clipchamp」がかなり便利だった【入門＆基礎活用術】](https://www.lifehacker.jp/article/2403-how-to-use-clipchamp-in-windows-11/)
+
+## Copilot
+
+- [Microsoft Copilot導入キット](https://adoption.microsoft.com/ja-jp/copilot-enterprise-data-protection/adoption-kit/)
+- [Microsoft Copilot のヘルプとラーニング](https://support.microsoft.com/ja-jp/copilot-skilling)
+- [『 Microsoft 365 Copilot クイックガイド』PowerPoint編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-07-Copilot-for-Microsoft-365-Quick-Guide-PowerPoint-Edition-SRGCM12966_LP01-Registration---Form-in-Body.html?sccid=fb_scl_spl_soc_20250109&ocid=AID3062894_FACEBOOK_oo_spl100007053797207)
+- [『Microsoft 365 Copilotクイックガイド』Teams編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-04-Copilot-for-Microsoft-365-Quick-Guide-for-Teams-SRGCM12965_LP01-Registration---Form-in-Body.html)
+- [『Microsoft 365 Copilot クイックガイド』Microsoft Copilot編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-23-Copilot-for-Microsoft-365-Quick-Guide-for-Microsoft-Copilot-SRGCM12968_LP01-Registration---Form-in-Body.html)
+- [『Microsoft 365 Copilot クイックガイド』Outlook編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-04-Copilot-for-Microsoft-365-Quick-Guide-for-Outlook-SRGCM12967_LP01-Registration---Form-in-Body.html)
+- [『Microsoft 365 Copilot クイックガイド』Word編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-01-Copilot-for-Microsoft-365-Quick-Guide-Word-Edition-SRGCM12964_LP01-Registration---Form-in-Body.html)
+- [Copilot for Microsoft 365 プロンプト活用クイックガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-04-Copilot-for-Microsoft-365-Prompts-Quick-Guide-SRGCM11973_LP01-Registration---Form-in-Body.html?sccid=tw_org_20240705&ocid=AID3062894_TWITTER_oo_spl100005923867636)
+- [プロンプト管理に便利なCopilotプロンプトギャラリー、よく使うプロンプトを保存する](https://xtech.nikkei.com/atcl/nxt/column/18/01787/012000172/)
+- [Microsoft 社員も実践！ Microsoft 365 Copilot 活用ベストプラクティス集](https://info.microsoft.com/JA-COPM365-CNTNT-FY25-11Nov-04-Microsoft-employees-also-practice-Collection-of-best-practices-for-using-Microsoft-365-Copilot-SRGCM13200_LP01-Registration---Form-in-Body.html)
+- [Microsoft 365 Copilot カタログ 2024年12月更新](https://info.microsoft.com/JA-T2C-CNTNT-FY24-08Aug-18-Microsoft-365-Copilot-Catalog-SRGCM10917_LP01-Registration---Form-in-Body.html)
+- [Copilot for Microsoft 365 ゴールデンプロンプト ~ 話題の生成 AI カンタン使いこなし術 ~ 2024年6月更新版](https://info.microsoft.com/JA-T2C-CNTNT-FY24-05May-22-Copilot-for-Microsoft-365-Golden-Prompt-Easy-way-to-use-AI-to-generate-topics-SRGCM12256_LP01-Registration---Form-in-Body.html)
+- [できる Microsoft 365 Copilot スタートガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-05-Copilot-for-Microsoft-365-Getting-Started-Guide-SRGCM11972_LP01-Registration---Form-in-Body.html)
+- [Copilot for Microsoft 365 職種別活用ケース シナリオガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-23-Copilot-for-Microsoft-365-Job-Use-Case-Scenario-Guide-SRGCM12055_LP01-Registration---Form-in-Body.html)
+- []()
+- []()
+
+## Developer Subscription
+
+- [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
+- [Microsoft 365 開発者サンドボックス サブスクリプションの設定](https://docs.microsoft.com/ja-jp/office/developer-program/microsoft-365-developer-program-get-started)
+- [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
+- [Office 365 評価版サイト申し込み](https://www.microsoft.com/ja-jp/microsoft-365/enterprise/compare-office-365-plans)
+- [Microsoft 365 Enterprise のテスト ラボ ガイド - Microsoft 365 Enterprise Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/m365-enterprise-test-lab-guides?view=o365-worldwide)
+- [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
+- [Microsoft 365 開発者プログラム サブスクリプションへの参加条件の変更](https://shanqiai.lekumo.biz/sharepoint_technical_note/2024/07/microsoft-365-be36.html)
+
+## Exchange Online
+
+- [会議室メールボックスに登録されている予定情報を取得して CSV ファイルにエクスポートする](https://idea.tostring.jp/?p=7767)
+- [「Gmail」にメールを送れなくなる恐れ、グーグルによる迷惑メール対策強化の衝撃 日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00989/120500134/)
+- [DMARC「p=reject」 設定後の変化](https://qiita.com/akihiro_suto/items/18f2bb6ef0128c727476)
 - [DMARC を使用してメールを検証する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-dmarc-configure)
 - [SPF を設定して、スプーフィングを防止する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-spf-configure?view=o365-worldwide)
 - [DKIM を使用して、カスタム ドメインから送信される送信電子メールを検証する](https://learn.microsoft.com/ja-jp/microsoft-365/security/office-365-security/email-authentication-dkim-configure)
@@ -203,20 +143,73 @@
 - [Exchange Online で.NET のメール自動配信アプリを作成する際のメモ書き](http://naoki0311.hateblo.jp/entry/20121003/1349226713)
 - [よくわかる Exchange Online のメッセージ追跡 ～ Part 1 取得編 ～](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/47c1f9d4-f4eb-4667-a3bc-3dbe8f55e209/1242412367124311236312427-exchange-online?forum=exchangeteamjp)
 
-## Planner
+## Google
 
-- [【タスク管理】Teams × Planner で実現。簡単！便利！](https://m.youtube.com/watch?v=Tyqit541i2s)
-- [タスク管理の新提案！ Office 365 Planner とは？ (1/4)：CodeZine（コードジン）](https://codezine.jp/article/detail/9467)
-- [Teams アプリ「タスク」 入門: Planner・To Do 統合 AvePoint Blog](https://www.avepoint.com/blog/ja/microsoft-teams-ja/teams-todo-planner/)
-- [Microsoft Planner にて一般ユーザーによるプラン作成を制限する方法について](https://social.msdn.microsoft.com/Forums/ja-JP/92e21369-0f36-40df-8b56-712bc1402c9f/microsoft-planner?forum=sharepointsupportteamja)
+- [Gmailへのメールが届かなくなる？ 2024年6月までにやるべき3つの対応](https://webtan.impress.co.jp/e/2024/04/03/46724)
+- [DMARC レコードを定義する](https://support.google.com/a/answer/10032169?hl=ja)
+- [DMARC レコードの追加](https://support.google.com/a/answer/2466563?hl=ja)
+- [ドメインで DKIM を有効にする](https://support.google.com/a/answer/180504?hl=ja)
+- [SPF レコードを定義する: 基本設定](https://support.google.com/a/answer/10685031?hl=ja)
+- [迷惑メール、なりすまし、フィッシングを Gmail 認証で防止する](https://support.google.com/a/answer/10583557?hl=ja)
+- [メール送信者のガイドライン](https://support.google.com/a/answer/81126?hl=ja)
+- [スクリプトをプロキシしてトラッキングをブロックしているユーザーのデータをGoogleアナリティクスで収集するためのツール「Google Tag Manager & Google Analytics Proxy」を使ってみた](https://gigazine.net/news/20230504-google-tag-manager-analytics-proxy/)
+- [【Colab 入門】Google Colaboratory とは？使い方・メリットを徹底解説！](https://www.kikagaku.co.jp/kikagaku-blog/google-colab-howto/)
 
-## Microsoft Mesh
+## loop
 
-- [Microsoft Mesh](https://www.microsoft.com/en-us/microsoft-teams/microsoft-mesh)
-- [Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/)
+- [Microsoft Loopとは何かを使い方から解説、Notionとの違いは？ 3つの機能や始め方も](https://www.sbbit.jp/article/cont1/131393)
+- [情報の整理・共有に便利なMicrosoft Loopページ、作成をCopilotに手伝ってもらう](https://xtech.nikkei.com/atcl/nxt/column/18/01787/101100159)
+- [Microsoft LoopがGAされたので管理面を整理してみる](https://zenn.dev/santafs/articles/8b9701feb63bf1)
+- [Microsoft Loop アプリ (public preview) - 勉強会の録画公開](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/04/microsoft-loop--6f48.html)
+- [AI搭載の多機能メモアプリ｢Microsoft Loop｣、Notionとはここがちがいます](https://www.gizmodo.jp/2023/04/loop-notion-comparison.html)
+- [Microsoft Loop ：パブリックプレビューを利用する設定方法](https://art-break.net/tech/?p=17773)
+- [Microsoft Loop がGA (一般提供開始)](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/11/microsoft-loop--bec5.html)
+- [Microsoft Teams上でLoopコンポーネントを作成、Copilotを使って効率よく](https://xtech.nikkei.com/atcl/nxt/column/18/01787/102100160/)
+
+
+## Microsoft 365 Copilot
+
+- [「Microsoft Copilot」活用法](https://www.youtube.com/watch?v=DTCwUOd08-I)
+- [Microsoft Copilotはここから使え　初心者のための活用講座](https://kn.itmedia.co.jp/kn/articles/2407/17/news023.html)
+- [Copilot Proの実力を探る](https://xtech.nikkei.com/atcl/nxt/column/18/02856/)
+- [MicrosoftのAIアシスタント「Copilot」の目玉新機能まとめ｜Officeアプリとの連携がより強化！](https://www.lifehacker.jp/article/2407-the-best-new-features-you-can-use-on-microsoft-copilot-right-now/)
+- [Copilot for Microsoft 365 について (5)](https://qiita.com/tadanok/items/1b0c4eae3b10a8283a1d)
+- [図解:アクセンチュア流「Microsoft Copilotの使い方」、「4つの効果とその仕組み」を解説](https://www.sbbit.jp/article/cont1/143882)
+- [Microsoft Copilotはここから使え　初心者のための活用講座](https://kn.itmedia.co.jp/kn/articles/2407/17/news023.html)
+- [Copilot in Word、選択したコンテンツの編集や校正をサポート](https://news.mynavi.jp/techplus/article/20240722-2989528/)
+- [Copilotに提案されたプロンプトや「Copilot Lab」を使ってみよう](https://xtech.nikkei.com/atcl/nxt/column/18/01787/062100144/)
+- [「Microsoft Copilot」にプロジェクトをフォローアップする「Copilot in Planner」が追加](https://forest.watch.impress.co.jp/docs/news/1597368.html)
+- [Microsoftが提供する生成AI「Copilot」は4種類、Officeアプリから使ってみよう](https://xtech.nikkei.com/atcl/nxt/column/18/01787/061700143/)
+- [「Copilot for Microsoft 365」を試してみよう【2024年6月7日】](https://dekiru.net/article/25468/)
+- [Copilot Studioに関するよくある質問](https://qiita.com/skuramoto/items/45491770cdf8df0d9cdd)
+- [Copilot for Microsoft 365 プロンプト活用クイックガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-04-Copilot-for-Microsoft-365-Prompts-Quick-Guide-SRGCM11973_LP01-Registration---Form-in-Body.html)
+- [OfficeのCopilotを利用する「Excel編」](https://swri.jp/article/1423)
+- [Microsoft 365 Copilotを上手に使うためのTips・できることまとめ](https://qiita.com/ssc-yshikeda/items/ec2cfe07d2bbcd989be9)
+- [「Copilot for Microsoft 365 ユーザー向け研修資料」を公開しました！](https://blog.cloudnative.co.jp/22909/)
+- [マイクロソフトの「Copilot」、有料版と無料版はどう違う？お金を払う価値はあるか](https://japan.zdnet.com/article/35214694/)
+- [Microsoft Copilotの基本的な設定と使い方](https://atmarkit.itmedia.co.jp/ait/articles/2402/09/news036.html)
+- [Copilotとは何が違う？Copilot for Microsoft 365を使ってわかったOfficeアプリ効率化](https://www.sbbit.jp/article/cont1/132047)
+- [ついに来た！Copilot for Microsoft 365](https://note.com/tknetsn/n/ne391eb45d16b)
+- [3か月試してわかった、Copilot for Microsoft 365の実力とユースケース](https://note.com/fujitsu_pr/n/nd96c22dcd15f)
+- [GPU非搭載ノートPCでもコマンド不要で各種言語モデルの性能を試せる実行環境「LM Studio」レビュー](https://gigazine.net/news/20231202-lm-studio-llm/)
+- [Microsoft 365 Copilotを利用する前に必ず知っておくべき注意点](https://kn.itmedia.co.jp/kn/articles/2312/01/news076.html)
+- [最新のWindows 11 23H2は何が変わった？AIアシスタントのCopilotなど、新機能・更新内容を一挙紹介](https://pc.watch.impress.co.jp/docs/topic/feature/1544477.html)
+- [Announcing Microsoft 365 Copilot general availability and Microsoft 365 Chat](https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availability-and-microsoft-365-chat/)
+- [The AI-Powered Future of Work](https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot)
+- [Microsoft Copilot for Microsoft 365で何ができる？使い方・利用料金・導入方法などを徹底解説](https://www.lifehacker.jp/article/how-to-use-microsoft-365-copilot/)
+
+## Microsoft Designer
+
+- [無料で使えるMicrosoftの生成AI「Microsoft Designer」で始める画像生成](https://forest.watch.impress.co.jp/docs/serial/offitech/1609858.html)
+
 
 ## Teams
 
+- [Teams 会議の参加リンクや会議 ID から meetingId を取得する方法](https://zenn.dev/ymasaoka/articles/how-to-get-teamsmeeting-id-by-joinweburl)
+- [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
+- [Microsoft Teamsの表示をカスタマイズ、既定のリアクションを変更しよう](https://active.nikkeibp.co.jp/atcl/act/19/00390/061300092/)
+- [TeamsのIncomming Webhookコネクタが廃止されるようなのでPowerAutomateのワークフローに移行してみる](https://qiita.com/fukasawah/items/896c3638c203a973c2f0)
+- [【Sampleアプリ】Teams用の組織階層アドレス帳](https://qiita.com/Nagaaki_Iwata/items/0860c79bb958ab152af0)
 - [ChatGPTをMicrosoft Teamsから使う仕組みをノーコードで作ろう](https://ascii.jp/elem/000/004/146/4146380/)
 - [「Microsoft Teams」の「Project」「Roadmap」アプリ発表 - CNET Japan](https://japan.cnet.com/article/35161885/)
 - [【Teams】すべての Teams から情報を取得する【PowerShell】   ほげふがな日常](https://www.hogehoge-note.com/2019/08/16/post-300/)
@@ -246,21 +239,10 @@
 - [Teams の会話を PST ファイルとしてエクスポートが可能！ExchangeOnline ライセンスが必要](https://1manit.work/windows/office365/teams/exportdata-pst/)
 - [ノンコーディングで Microsoft Teams のチームをすべて取得する](https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
 
-## ライセンス
+### Microsoft Mesh
 
-- [PowerShell を使用して Microsoft 365 ライセンスをユーザー アカウントに割り当てる](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/assign-licenses-to-user-accounts-with-microsoft-365-powershell?view=o365-worldwide)
-- [Microsoft Graph PowerShell SDK を使用したライセンス管理操作の紹介](https://jpazureid.github.io/blog/azure-active-directory/operating-license-with-microsoft-graph/)
-- [Microsoft Graph PowerShell SDK を使用したライセンス管理操作の紹介 (一括設定編)](https://jpazureid.github.io/blog/azure-active-directory/operating-license-with-microsoft-graph2/)
-
-## セルフサービスサインアップ
-
-- [セルフサービス サインアップで登録されたドメインの対処方法](https://jpmessaging.github.io/blog/%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
-― [セルフサービス サインアップで登録されたドメインの対処方法](https://jpmessaging.github.io/blog/%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
-― [organizationでのセルフサービス サインアップの使用](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide#available-self-service-program)
-
-## OneDrive
-
-- [【オンライン セミナー】 OneDrive for Business を便利に使うための設定大解説!](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-07-OneDrive-for-Business-Great-commentary-MCW0004581.html)
+- [Microsoft Mesh](https://www.microsoft.com/en-us/microsoft-teams/microsoft-mesh)
+- [Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/)
 
 ## Microsoft Graph Tools
 
@@ -269,7 +251,13 @@
 
 ## Microsoft Graph
 
+- [マネージド ID で Graph API を使おう！](https://qiita.com/narisho/items/cf60dd0c66e6d153ed44)
+- [Graph APIでMFAリセットを実施する](https://tech-lab.sios.jp/archives/43499)
+- [マネージド ID に Microsoft Graph API アクセス許可設定を行う](https://zenn.dev/ymasaoka/articles/how-to-set-msgraph-permission-managedid)
 - [Microsoft Graph で SharePoint Onlineのリストアイテムを取得する（ユーザー列・選択肢列・参照列）](https://qiita.com/miesque/items/e66d991291f47ece032f)
+- [Microsoft Graphでメールを自動送信するスクリプトを作る](https://qiita.com/piyo8810/items/f2093a9f92ec9eaf059e)
+- [Azure ADの監査ログを取得 ～Microsoft Graph API編～](https://tech-lab.sios.jp/archives/25178)
+- [Microsoft Graph アクティビティ ログが一般公開されました！](https://jpazureid.github.io/blog/azure-active-directory/graph-activity-logs-ga/)
 - [GraphAPIを使ってSharePointリストに大量のデータを投入する](https://qiita.com/Rambosan/items/2eefca18f1760bb784c6)
 - [イベントを取得する](https://learn.microsoft.com/ja-jp/graph/api/event-get?view=graph-rest-1.0&tabs=http)
 - [Microsoft Graphを使ったプログラミングにまつわる苦労](https://blog.hokkai7go.jp/entry/2022/11/22/111327)
@@ -312,8 +300,84 @@
 - [Microsoft Graph の認証と承認の基本方法](https://docs.microsoft.com/ja-jp/graph/auth/auth-concepts)
 - [Microsoft Graph を使ってみよう : サイト、リスト、リストアイテムリソース (SharePoint)](https://qiita.com/kenakamu/items/61ff83a2b381bc3e9cdb)
 - [Connect to Microsoft Graph PowerShell using Certificate](https://blog.admindroid.com/connect-to-microsoft-graph-powershell-using-certificate/)
+- [Microsoft 365 アカウントで Microsoft Edge の Copilot にサインインできなくなったときに試したこと](https://idea.tostring.jp/?p=7813)
+- [Send-MailMessageが非推奨になった今、PowerShellでセキュアにメールを送信する方法](https://qiita.com/todkm/items/90c1fdf8cb53eee0633a)
+- [Microsoft 365 Scripts](https://m365scripts.com/)
+- [MSOnline / AzureAD PowerShell から Graph PowerShell SDK への移行について 1\_概要](https://jpazureid.github.io/blog/azure-active-directory/azuread-module-retirement1/)
+- [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
+
+- [Export Office 365 Groups a User is Member Of Using PowerShell](https://o365reports.com/2021/04/15/export-office-365-groups-a-user-is-member-of-using-powershell/?fbclid=IwAR0oSgtDfo0gkCH4dJLXTvvpQtKXhK3hDbUn1dd7UfUXpTTPN4p3EpYxQ3E)
+- [Export Office 365 Guest User Report with their Membership](https://o365reports.com/2020/11/12/export-office-365-guest-user-report-with-their-membership/)
+- [Office 365 の PowerShell 運用を PaaS 化してみる](https://sprestaurant.hatenablog.com/entry/2019/07/07/011839)
+- [多要素認証 (MFA) の Office 365 に PowerShell で接続する方法まとめ](https://blog.kazuakix.jp/entry/2018/04/16/221554)
+- [【SPO】CSOM と SharePoint Online 管理シェルを PowerShell でパッケージ管理](https://www.samurainote.com/entry/2019/02/23/222546)
+- [単一の PowerShell ウィンドウですべての Microsoft 365 サービスに接続する](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/connect-to-all-microsoft-365-services-in-a-single-windows-powershell-window?view=o365-worldwide)
+- [PowerShell を使用して Microsoft 365 サービスへのアクセスを無効にする](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/disable-access-to-services-with-microsoft-365-powershell?view=o365-worldwide)
+- [Audit SharePoint Online Group Membership Changes using PowerShell](https://o365reports.com/2022/06/22/audit-sharepoint-online-group-membership-changes-using-powershell/)
+- [Bulk Import Contacts to Office 365 using PowerShell](https://m365scripts.com/exchange-online/bulk-import-contacts-office-365-powershell/)
+- [Office365 監査ログの管理方法を検討する](https://www.engineer-base.net/office365%E3%81%AE%E7%9B%A3%E6%9F%BB%E3%83%AD%E3%82%B0%E7%AE%A1%E7%90%86/)
+- [Microsoft Graph PowerShell でユーザー作成（MSOnline との比較）](https://tech-lab.sios.jp/archives/29212)
+- [Azure AD の変更管理を簡素化します](https://jpazureid.github.io/blog/azure-active-directory/azure-ad-change-management-simplified/)
+
+> 2022 年 12 月以降に 2 つの PowerShell モジュール (MSOL & AAD) が廃止となる予定
 
 ## Microsoft Viva
 
-- [できるMicrosoft Viva【改訂版】](https://info.microsoft.com/JA-EMPEX-CNTNT-FY23-02Feb-27-Microsoft-Viva-Revised-Edition-SRGCM9341_LP01-Registration---Form-in-Body.html)
 - [Viva の機能へのアクセスを制御する](https://learn.microsoft.com/ja-jp/viva/feature-access-management)
+
+## Office 365 Management API
+
+- [Microsoft365管理センターのメッセージセンターにある情報をPowerShellを使って取得する](https://wataruf.hatenablog.com/entry/2022/03/10/000000)
+- [Azure AD に連携している各種証明書、クライアント シークレットの有効期限の抽出方法（Graph Exploler編）](https://blog.cloudnative.co.jp/18273/)
+- [Office 365 メッセージ追跡 REST API プロトコルの構成オプション](https://www.ibm.com/docs/ja/qradar-on-cloud?topic=pco-office-365-message-trace-rest-api-protocol-configuration-options)
+- [Office 365 管理 API へようこそ](https://learn.microsoft.com/ja-jp/office/office-365-management-api/)
+- [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
+- [Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
+- [Microsoft Graph reports API の試し方](https://blog.rykoma.net/2021/01/13/1610/)
+- [Office 365 Management API の使い方 (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/16866f40c29618f05f39)
+- [Office 365 の監査ログを Microsoft Sentinel に格納する - Office 365 Management API と Data Collector API (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/8fde7595042f0f281de8)
+- [Office 365 管理 API を使って SharePoint Online の監査ログを取得する](https://zenn.dev/karamem0/articles/2020_09_02_150000)
+- [Microsoft365 Microsoft Exchange Onlineの監査ログ（後編）](https://engineers.ntt.com/entry/2021/10/06/103025)
+- [Office 365 の監査ログを全部取得したい？](https://blog.rykoma.net/2019/07/28/1394/)
+- [Office 365 管理アクティビティ API で監査ログを取得する](https://zenn.dev/masakikato/articles/o365-managementapi-quickstart)
+- [Office 365 テナント管理者の同意を得る](https://learn.microsoft.com/ja-jp/office/office-365-management-api/get-started-with-office-365-management-apis)
+- [【Microsoft 365】取得できる監査ログと管理方法を解説](https://symphonict.nesic.co.jp/workingstyle/microsoft365/checking_log/)
+- [Office 365 マネージメント アクティビティ API のリファレンス](https://learn.microsoft.com/ja-jp/office/office-365-management-api/office-365-management-activity-api-reference?toc=%2Fmicrosoft-365%2Fcompliance%2Ftoc.json&bc=%2Fmicrosoft-365%2Fbreadcrumb%2Ftoc.json)
+
+## Office 365 PowerShell
+
+## OneDrive
+
+- [【オンライン セミナー】 OneDrive for Business を便利に使うための設定大解説!](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-07-OneDrive-for-Business-Great-commentary-MCW0004581.html)
+
+## Planner
+
+- [【タスク管理】Teams × Planner で実現。簡単！便利！](https://m.youtube.com/watch?v=Tyqit541i2s)
+- [タスク管理の新提案！ Office 365 Planner とは？ (1/4)：CodeZine（コードジン）](https://codezine.jp/article/detail/9467)
+- [Teams アプリ「タスク」 入門: Planner・To Do 統合 AvePoint Blog](https://www.avepoint.com/blog/ja/microsoft-teams-ja/teams-todo-planner/)
+- [Microsoft Planner にて一般ユーザーによるプラン作成を制限する方法について](https://social.msdn.microsoft.com/Forums/ja-JP/92e21369-0f36-40df-8b56-712bc1402c9f/microsoft-planner?forum=sharepointsupportteamja)
+
+
+## ライセンス
+
+- [PowerShell を使用して Microsoft 365 ライセンスをユーザー アカウントに割り当てる](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/assign-licenses-to-user-accounts-with-microsoft-365-powershell?view=o365-worldwide)
+- [Microsoft Graph PowerShell SDK を使用したライセンス管理操作の紹介](https://jpazureid.github.io/blog/azure-active-directory/operating-license-with-microsoft-graph/)
+- [Microsoft Graph PowerShell SDK を使用したライセンス管理操作の紹介 (一括設定編)](https://jpazureid.github.io/blog/azure-active-directory/operating-license-with-microsoft-graph2/)
+
+## セルフサービスサインアップ
+
+- [セルフサービス サインアップで登録されたドメインの対処方法](https://jpmessaging.github.io/blog/%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
+― [セルフサービス サインアップで登録されたドメインの対処方法](https://jpmessaging.github.io/blog/%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
+― [organizationでのセルフサービス サインアップの使用](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide#available-self-service-program)
+
+## 認証関係
+
+- [一番分かりやすい OAuth の説明](https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be)
+- [Azure AD 認証を使って Azure REST API へアクセスする ~Service Bus 編~](https://tech-lab.sios.jp/archives/31473)
+- [Microsoft Graph PowerShell でユーザー作成（MSOnline との比較）](https://tech-lab.sios.jp/archives/29212)
+- [Azure AD アプリ専用を使用してアクセスを許可する](https://learn.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/security-apponly-azuread)
+- [【SharePoint Online】モダン認証で指定のサイトに対してアクセス許可を設定する](https://www.hogehoge-note.com/2022/02/19/post-937/)
+- [AI Builder でのカスタム ドキュメントの処理](https://learn.microsoft.com/ja-jp/training/modules/get-started-with-form-processing/)
+- [PnP PowerShell を任意のアクセス許可で実行する](https://zenn.dev/karamem0/articles/2021_07_02_170000)
+- [PowerShell – Exchange Online に証明書を使用して接続する –](https://tech-lab.sios.jp/archives/24523)
+- [Azure Key Vault を利用して Linux PowerShell から Exchange Online へアクセスする](https://tech-lab.sios.jp/archives/31188)

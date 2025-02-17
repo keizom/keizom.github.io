@@ -1,16 +1,17 @@
 # Bookmarks
 
-- [site](https://keizom.github.io/)
-- [onpremise](https://keizom.github.io/onpremise.html)
+- [index](https://keizom.github.io/)
 - [Adobe](https://keizom.github.io/adobe.html)
 - [Azure](https://keizom.github.io/Azure.html)
 - [develop](https://keizom.github.io/develop.html)
+- [GenerativeAI](https://keizom.github.io/GenerativeAI.html)
 - [intune](https://keizom.github.io/intune.html)
-- [Office365](https://keizom.github.io/Office365.html)
-- [SharePoint](https://keizom.github.io/SharePoint.html)
-- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
-- [web](https://keizom.github.io/web.html)
 - [mac](https://keizom.github.io/mac.html)
+- [Office365](https://keizom.github.io/Office365.html)
+- [onpremise](https://keizom.github.io/onpremise.html)
+- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
+- [SharePoint](https://keizom.github.io/SharePoint.html)
+- [web](https://keizom.github.io/web.html)
 
 # Adobe
 
@@ -37,11 +38,3 @@
 - [Adobe XD の基本的な使い方を解説！専門知識不要で UI・UX デザインが簡単に！ferret](https://ferret-plus.com/13236)
 - [VS Code の Adobe XD 用拡張機能が登場！デザインシステムにもとづきコード出力と補完が可能に](https://ics.media/entry/210107/)
 - [Adobe XD のデザインを「Flutter」のコードに変換するプラグインが一般公開 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1279609.html)
-
-## Figma
-
-- [XDからFigmaへ移行したい人のためにFigmaの機能を紹介](https://stocker.jp/diary/xd-to-figma/)
-- [エンジニア向けFigmaの使い方を徹底解説](https://liginc.co.jp/blog/tech/639546)
-- [Figmaの魅力がすぐわかる、仕事で即使える！おすすめテンプレ、プラグイン、ウィジェット【Figmaワークハック #4】](https://www.lifehacker.jp/article/2312-figma-4/)
-- [生成AIを使用したFigmaのコード変換：Animaの新しいAIカスタマイズコーディングの使用例6選](https://www.animaapp.com/blog/ja/ai/%e7%94%9f%e6%88%90ai%e3%82%92%e4%bd%bf%e7%94%a8%e3%81%97%e3%81%9ffigma%e3%81%ae%e3%82%b3%e3%83%bc%e3%83%89%e5%a4%89%e6%8f%9b%ef%bc%9aanima%e3%81%ae%e6%96%b0%e3%81%97%e3%81%84ai%e3%82%ab%e3%82%b9/)
-- [FigmaのHTMLコードへのエクスポートの仕方](https://www.animaapp.com/blog/ja/%E3%80%8C%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%8B%E3%82%89%E3%82%B3%E3%83%BC%E3%83%89%E3%80%8D/figma%E3%81%AEhtml%E3%82%B3%E3%83%BC%E3%83%89%E3%81%B8%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E4%BB%95%E6%96%B9/)

@@ -1,16 +1,17 @@
 # Bookmarks
 
-- [site](https://keizom.github.io/)
-- [onpremise](https://keizom.github.io/onpremise.html)
+- [index](https://keizom.github.io/)
 - [Adobe](https://keizom.github.io/adobe.html)
 - [Azure](https://keizom.github.io/Azure.html)
 - [develop](https://keizom.github.io/develop.html)
+- [GenerativeAI](https://keizom.github.io/GenerativeAI.html)
 - [intune](https://keizom.github.io/intune.html)
-- [Office365](https://keizom.github.io/Office365.html)
-- [SharePoint](https://keizom.github.io/SharePoint.html)
-- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
-- [web](https://keizom.github.io/web.html)
 - [mac](https://keizom.github.io/mac.html)
+- [Office365](https://keizom.github.io/Office365.html)
+- [onpremise](https://keizom.github.io/onpremise.html)
+- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
+- [SharePoint](https://keizom.github.io/SharePoint.html)
+- [web](https://keizom.github.io/web.html)
 
 # SharePoint Server
 
@@ -72,17 +73,17 @@
 - [SharePoint Server 2016 Prerequisites, Installation and Deployment](https://social.technet.microsoft.com/wiki/contents/articles/32950.sharepoint-server-2016-prerequisites-installation-and-deployment.aspx)
 - [構成キャッシュの再作成](https://social.msdn.microsoft.com/Forums/ja-JP/590627a7-d369-47b2-bfc8-7726d7cf9342/2708325104124611251512483124711251712398208772031625104?forum=sharepointsupportteamja)
 
-> 構成キャッシュが破損すると、以下のような様々な事象が発生する場合があります。
->
-> - SharePoint の各タイマージョブが実行されない
-> - 通知メールが飛ばない
-> - 検索関連の以下の問題が発生する
-> - クロールが開始・完了しない
-> - インデックス リセットが出来ない
-> - トポロジーの変更が出来ない
-> - 管理シェルが実行出来ない
-> - サイトにアクセス出来ない
-> - 新規サイトコレクションが作成出来ない
+  > 構成キャッシュが破損すると、以下のような様々な事象が発生する場合があります。
+  >
+  > - SharePoint の各タイマージョブが実行されない
+  > - 通知メールが飛ばない
+  > - 検索関連の以下の問題が発生する
+  > - クロールが開始・完了しない
+  > - インデックス リセットが出来ない
+  > - トポロジーの変更が出来ない
+  > - 管理シェルが実行出来ない
+  > - サイトにアクセス出来ない
+  > - 新規サイトコレクションが作成出来ない
 
 - [データベースの種類と説明](https://docs.microsoft.com/ja-jp/SharePoint/technical-reference/database-types-and-descriptions)
 
@@ -210,6 +211,12 @@ Add-SPDistributedCacheServiceInstance
  
 (run this command after 1 or 2 minutes).
 ```
+## SharePoint Workflow Manager
+
+- [SharePoint Workflow Manager](https://www.microsoft.com/en-us/download/details.aspx?id=104867)
+- [SharePoint Server のワークフローのインストールと構成](https://learn.microsoft.com/ja-jp/sharepoint/governance/install-and-configure-workflow-for-sharepoint-server)
+- [[SP2013] Workflow Manager 1.0 のインストール](https://shanqiai.lekumo.biz/sharepoint_technical_note/2013/02/sp2013-workflow-manager-1-installation.html)
+- [ビデオ シリーズ: SharePoint Server 2013 でワークフローをインストールおよび構成する](https://learn.microsoft.com/ja-jp/sharepoint/governance/video-series-install-and-configure-workflow-in-sharepoint-server-2013)
 
 ## WorkFlow
 
@@ -217,6 +224,11 @@ Add-SPDistributedCacheServiceInstance
 
 ## Office Online Server
 
+- [SharePoint（HTTP）＋ OfficeWebApps（HTTPS）構成時の設定](https://84log.xii.jp/2016/05/20/412)
+- [Office Online Server を使ってみる](http://sptakesato.blog.fc2.com/blog-entry-20.html?sp)
+- [Office Online Server (OOS) のインストールと構成](https://shanqiai.weblogs.jp/sharepoint_technical_note/2016/02/office-online-server-preview-install-configuration.html)
+- [Office Online Server を使ってみる](http://sptakesato.blog.fc2.com/blog-entry-20.html)
+- [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
 - [Install & Configure Office Online Server](https://social.technet.microsoft.com/wiki/contents/articles/34289.install-configure-office-online-server.aspx)
 - [SharePoint 2016: Installation Of Office Online Server (Part 1)](https://social.technet.microsoft.com/wiki/contents/articles/37303.sharepoint-2016-installation-of-office-online-server-part-1.aspx)
 - [Office Online Server を展開する](https://learn.microsoft.com/ja-jp/officeonlineserver/deploy-office-online-server)
@@ -234,6 +246,7 @@ Add-SPDistributedCacheServiceInstance
 # Windows OS
 
 - [Windows Server Summit 2024で発表されたWindows Server 2025注目の新機能](https://kkamegawa.hatenablog.jp/entry/2024/04/04/081951)
+- [いまさら聞けない「Hyper-Vホスト」の構成と管理機能](https://atmarkit.itmedia.co.jp/ait/articles/2501/10/news005.html)
 - [【Qiita最速】Windows Server 2025を試してみる](https://qiita.com/hidekko/items/a701c55824634d2aac54)
 - [Windowsをクリーンインストールしたら、すぐに済ませておきたい7つのこと：山市良のうぃんどうず日記（272） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2312/20/news008.html)
 - [パスワードより安全？ Windows 11に追加されたパスキー・マネージャーとは](https://www.lifehacker.jp/article/2310microsoft-is-adding-a-passkey-manager-to-windows-11/)
@@ -268,14 +281,24 @@ Add-SPDistributedCacheServiceInstance
 - [WindowsにCopilotが登場したので使ってみよう（1）](https://swri.jp/article/1334)
 - [Copilot in Windows － Windows OSの操作もできる「AI副操縦士」。もう試しました？](https://win-tab.net/opinion/copilot_in_windows_2310022/)
 
+# AD
+
+- [【Windows 検証環境構築】(ほぼ) コマンドのみで AD DS の検証環境を準備する方法](https://qiita.com/sonooh/items/5b519da46be7d7d348ab)
+- [Group Policy Settings Reference Spreadsheet のダウンロード先一覧](https://qiita.com/valpasucucci43/items/2ecdfee224d0b4e573ef)
+- [AD DS Do's and don'ts（べしべからず）- 2](https://www.intellilink.co.jp/column/ms/2024/052400.aspx)
+- [ドメイン コントローラーの構築時に言われないと気付かないこと](https://jpwinsup.github.io/blog/2023/10/23/ActiveDirectory/Authentication/design-consideration/)
+- [いまさら聞けないActive Directoryのデータベース](https://atmarkit.itmedia.co.jp/ait/articles/2412/24/news008.html)
+
 # SQL Server
 
+- [DBeaver](https://dbeaver.io/)
 - [SQL Serverのインデックスの理解を深める](https://qiita.com/fuk101/items/2e6a225a97a14f0f2850)
 - [DO’s&DONT’s #12: やった方がいいこと - max server memory を設定する](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-12-max-server-memory)
 - [DO’s&DONT’s #17: やっておいた方がいいこと - tempdb データファイル数を CPU 数に一致させる](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/dosdonts-17-tempdb-259)
 - [SQL Troubleshooting SQL Server トラブルシューティング 6 回シリーズのご案内](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/sql-troubleshooting-sql-server-6)
 - [クイック スタート:Red Hat に SQL Server をインストールし、データベースを作成する](https://learn.microsoft.com/ja-jp/sql/linux/quickstart-install-connect-red-hat?view=sql-server-ver16&tabs=rhel9)
 - [クイック スタート:Ubuntu に SQL Server をインストールし、データベースを作成する](https://learn.microsoft.com/ja-jp/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16&tabs=ubuntu2204)
+- [SQL Training 2021](https://speakerdeck.com/ymiyake/sql-training-2021)
 
 # VMware
 
@@ -288,6 +311,13 @@ Add-SPDistributedCacheServiceInstance
 - [ESXi のハードウェア要件](https://docs.vmware.com/jp/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-DEB8086A-306B-4239-BF76-E354679202FC.html)
 - [ESXi on AMD版NUC 導入レポ](https://qiita.com/hirosat/items/c6e330212f01f766cc42)
 - [Minisforum EliteMini HX90 を使って、自宅に VMware な仮想環境を作った](https://blog.aimless.jp/archives/2022/07/create-vmware-virtual-platform-with-minisforum-elitemini-hx90/)
+- [VMware Fusion Pro: Now Available Free for Personal Use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
+- [VMware Fusion 13.5で構築、M2 MacにWindows11をインストール](https://www.maclab.tokyo/document/vmware-fusion13_5-windows11/10068/)
+- [VMware Workstation Pro Download](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)
+- [VMware Download](https://support.broadcom.com/group/ecx/downloads)
+- [Mac に VMware 入れたら Homebrew が死んだ](https://qiita.com/taquaki-satwo/items/beae15d30343d5a0a9a8)
+- [Install Ubuntu Desktop 22.04 ARM64 on macOS Apple Silicon (M1/Pro/Max) in Parallels](https://askubuntu.com/questions/1405124/install-ubuntu-desktop-22-04-arm64-on-macos-apple-silicon-m1-pro-max-in-parall)
+
 
 # AWS
 
@@ -296,6 +326,7 @@ Add-SPDistributedCacheServiceInstance
 - [基本的なシステム構成図を理解するためのAWS基礎をまとめてみた](https://qiita.com/g_ayushi/items/0e0f34d19813b8fdc2b8)
 - [PowerShellからAWSを操作するための設定](https://qiita.com/kkksssyyy/items/3e137e89b0fb22aecba5)
 - [【AWS初心者向け】AWS学習方法まとめ【15時間で達成できる】](https://qiita.com/toma_shohei/items/b7a001d26bd988d52021)
+- [東京大学のAWS入門資料がいい感じだったので最新のAWS環境でも実行できるようにしてみた](https://qiita.com/ampspeed/items/94cae966ba2cdc4fac10)
 
 # Ansible
 
@@ -306,14 +337,56 @@ Add-SPDistributedCacheServiceInstance
 - [qiita-cli](https://github.com/increments/qiita-cli)
 - [Qiitaの記事をGitHubリポジトリで管理する方法](https://qiita.com/Qiita/items/32c79014509987541130)
 - [Qiitaで埋め込み可能なコンテンツ一覧](https://qiita.com/Qiita/items/612e2e149b9f9451c144)
-- - [Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。 (github.com)](https://github.com/increments/qiita-cli)
+- [Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。 (github.com)](https://github.com/increments/qiita-cli)
 - [ローカル環境でQiitaが書けちゃう「Qiita CLI」が登場！ GitHub Actionsも早速試してみた ](https://qiita.com/minorun365/items/d1c43f9a7ae63b3321f2)
+
+# ネットワークシミュレーター
+
+-[いざネットワークシミュレーター、仮想的なネットワークをパソコンに再現](https://xtech.nikkei.com/atcl/nxt/column/18/02948/091200001/)
 
 # Linux
 
 - [Windows使いが理解に苦しむ“Linux多過ぎ”問題](https://atmarkit.itmedia.co.jp/ait/articles/2401/14/news002.html)
 - [Linuxでの調査時に高頻度で使用してきたコマンドまとめ](https://qiita.com/hirssk/items/aed3fd28462f5ac245cf)
-- [【永久保存版】シェルスクリプト完全攻略ガイド #初心者 - Qiita](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
-- [Surface Go 3: Windows 11とUbuntu 22.04 LTSのデュアルブート環境を構築する](https://remoteroom.jp/diary/2023-09-03/)
 - [厳選Linuxフリーソフト100](https://xtech.nikkei.com/atcl/nxt/column/18/02713/)
+- [「Linux入門」無料のオンライン講座が提供開始　受講時間は約60時間　初心者も一から学べる](https://www.itmedia.co.jp/news/articles/2410/25/news166.html)
+- [UbuntuでSurface Go 3のファームウェアを更新する](https://qiita.com/bugcity/items/8c934044028d8da5215b)
+
+## Shell
+
 - [シェルスクリプトとjqコマンドでJSONをループして中身を取り出す](https://pakapaka.jp/shell-json-loop/)
+- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
+- [「Linux」でAI搭載ターミナルアプリ「AI Shell」を使うには](https://japan.zdnet.com/article/35222662/)
+- [「Linux」標準「ターミナル」の代替アプリ5選 - (page 2)](https://japan.zdnet.com/article/35223240/2/)
+
+## ubuntu
+
+- [Surface Go 3: Windows 11とUbuntu 22.04 LTSのデュアルブート環境を構築する](https://remoteroom.jp/diary/2023-09-03/)
+- [Ubuntuフレーバー10種類総ざらい](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0808)
+- [Ubuntuインストールしたら行う初期設定チートシート](https://qiita.com/reisuta/items/9fdfb32a4da1bdec1a8e)
+
+## RedHat
+
+- [RedHat Customer Portal](https://access.redhat.com/)
+- [RedHat Developers](https://developers.redhat.com/)
+- [RedHat Console](https://console.redhat.com/)
+- [RHEL7以降の初期設定について](https://qiita.com/ftoshiki/items/f1863cccb14c6ce808bd)
+- [Linux(Cent,RHEL,Alam)のおすすめ初期設定](https://www.kayura-se.com/entry/2022/08/08/024012)
+- [RHEL7 よくある初期構築設定のコマンド詰め合わせ](https://dev.classmethod.jp/articles/ec2-rehl7-first-buildcmd/)
+- [RHELの開発者用サブスクリプションを取得する方法](https://qiita.com/SkyLaptor/items/31eb7b506339718455d4)
+- [Red Hat Developer Programに登録して最大16台までRHELを使おう](https://qiita.com/yamada-hakase/items/dc39d29fda693238d113)
+- [RHEL9での変更点（セキュリティ編：Part1 SELinuxの無効化について）](https://security.sios.jp/security/rhel9-security-part1-selinux/)
+
+## WSL
+
+- [WindowsのWSL2がsystemdに対応したらしいので、Rocky Linux9入れて使ってみる](https://labo.mycabin.net/diary/1574/)
+- [WSLでRed Hat Enterprise Linuxを利用する](https://roy-n-roy.nyan-co.page/Windows/WSL%EF%BC%86%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/rhel/)
+- [Windows Subsystem for Linuxガイド 第41回 WSL GUI設定](https://news.mynavi.jp/article/20241107-3060285/)
+
+## Postfix Dovecot
+
+- [VPSとDockerとPostfixとDovecotで作るメールサーバ](https://zenn.dev/tanukinet/articles/231f3d04c849ad)
+- [自宅サーバー構築譚：DockerコンテナにPostfixをインストール / 全メール受信サーバー](https://qiita.com/katz_engineer/items/8a4e09f6a2de374a5208)
+- [[Raspberry pi4] Docker でメールサーバー(Postfix + Dovecot)を建てる。](https://nosubject.io/raspberry-pi4-docker-mailserver/)
+- [PostfixによるSMTPサーバーの構築](https://zenn.dev/hal_shu_sato/books/misskey-docker-compose-mail/viewer/postfix)
+- [ローカルテスト用SMTPメールサーバは Mailpit がオススメ！](https://qiita.com/ssc-ksaitou/items/e33409ac60235d93130f)

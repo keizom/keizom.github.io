@@ -1,22 +1,28 @@
 # Bookmarks
 
-- [site](https://keizom.github.io/)
-- [onpremise](https://keizom.github.io/onpremise.html)
+- [index](https://keizom.github.io/)
 - [Adobe](https://keizom.github.io/adobe.html)
 - [Azure](https://keizom.github.io/Azure.html)
 - [develop](https://keizom.github.io/develop.html)
+- [GenerativeAI](https://keizom.github.io/GenerativeAI.html)
 - [intune](https://keizom.github.io/intune.html)
-- [Office365](https://keizom.github.io/Office365.html)
-- [SharePoint](https://keizom.github.io/SharePoint.html)
-- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
-- [web](https://keizom.github.io/web.html)
 - [mac](https://keizom.github.io/mac.html)
+- [Office365](https://keizom.github.io/Office365.html)
+- [onpremise](https://keizom.github.io/onpremise.html)
+- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
+- [SharePoint](https://keizom.github.io/SharePoint.html)
+- [web](https://keizom.github.io/web.html)
+
 
 # Develop
+
+
+- [リスト攻撃事案から得られるユーザー周りの設計の学び](https://qiita.com/ritou/items/00990e00151fad46df1a)
 
 ## リーダブルコード
 
 - [リーダブルコードの要点整理と活用法をまとめた](https://qiita.com/KNR109/items/3b14e2e8f89a33c0f959)
+- [コードを書く際の指針として見返すサイトまとめ](https://qiita.com/kenichi_cc/items/c3ecca7b7d5fc5c6bf2e)
 
 ## .NET Core
 
@@ -39,7 +45,7 @@
 
 ## .NET MAUI
 
--[初めての.NET MAUI アプリを作ってみよう マルチプラットフォーム GUI 技術を解説](https://codezine.jp/article/detail/15907)
+- [初めての.NET MAUI アプリを作ってみよう マルチプラットフォーム GUI 技術を解説](https://codezine.jp/article/detail/15907)
 
 ## ASP.NET Identity
 
@@ -73,10 +79,14 @@
 
 - [Bashを学べる全20回の入門動画　MicrosoftがYouTubeで無料公開](https://atmarkit.itmedia.co.jp/ait/articles/2303/11/news027.html)
 
-## CeatSheet
+## CheatSheet
 
 - [エンジニア向けチートシート集](https://qiita.com/KNR109/items/a6b3216552bee53b1724)
 - [2023年版！エンジニア必見のチートシート集](https://qiita.com/hryk_nu/items/d2bd69201778abecedd4)
+
+## CI/CD
+
+- [CI/CDパイプラインで知っておくべき「9つの要素」　一般的な記事のおよそ5倍の大ボリュームで解説](https://atmarkit.itmedia.co.jp/ait/articles/2411/13/news132.html)
 
 ## csharp
 
@@ -103,7 +113,12 @@
 
 ## Cursor
 
+- [AIと個人開発したくなったらまずCursorで要件定義だ](https://zenn.dev/yasuna/articles/9dadbcdc3be48d)
+- [VSCode+ChatGPTより爆速になれるAIエディタ【Cursor】無料プランあり](https://qiita.com/small_island/items/e6cd373ba4f9b124e848)
+- [AI エディター Cursor を試してみる](https://azukiazusa.dev/blog/try-ai-editor-cursor/)
+- [最強神器「Cursor」の本当に使い方を徹底解説【知らないとヤバいレベルです】](https://zenn.dev/aimasaou/articles/f9b19ca901a0cd)
 - [AIエディターCursorを使い始める手順と基本的な使い方を、丁寧にまとめただけの記事。](https://qiita.com/ryamate/items/94a6170c4661242b4c1c)
+- [AIエディターCursor使ってみた！](https://tech-lab.sios.jp/archives/42828)
 - [Cursor Editorというこれまた便利そうなエディタを見つけた](https://qiita.com/ussy_k/items/cfee1b94a10830d7ad86)
 - [【Cursor】AI搭載の最強コードエディタ！日本語の使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
 - [【Cursorのおすすめ活用事例一覧】AI搭載コードエディタのヤバい使い方10選](https://weel.co.jp/media/cursor-case)
@@ -114,10 +129,28 @@
 - [Cursor AIで変わる新しいエディタ](https://qiita.com/omo_taku/items/f9364fb23c0929b5308f)
 - [【Cursor】今話題のAI搭載最強コードエディタ！使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
 - [Cursorエディタで開発を爆速化しよう！](https://qiita.com/railgun-0402/items/717f44df9d68d77309f1)
+- [Cursor の無料版を使い続ける場合の設定](https://qiita.com/7shi/items/2e8e3ed2c39e3dc4ee22)
+
+## Dev Home
+
+- [Dev Home とは](https://learn.microsoft.com/ja-jp/windows/dev-home/)
+- [Windowsが今更（？）開発者に優しくなろうとしている!? 「Dev Home」は開発者にとって使い物になる？](https://ascii.jp/elem/000/004/205/4205741/)
 
 ## Docker
 
-= [Dockerで構築する機械学習環境【2024年版】](https://zenn.dev/mkj/articles/33befbaf38c693)
+- [改めてDockerを理解する①[コンテナのライフサイクル編]](https://qiita.com/ikemura-ren/items/dae9f599254b90167b06)
+- [Windows環境下でDockerを使う場合](https://zenn.dev/relims7165/articles/e81f389c0497b9)
+- [Dockerとは？概念や基本用語をまとめてみた](https://liginc.co.jp/655905)
+- [Dockerがわからない人へ。これ1本で0から学べる丁寧なDocker入門](https://qiita.com/Sicut_study/items/4f301d000ecee98e78c9)
+- [初心者エンジニア必見！Dockerコマンドチートシート&トラブルシューティング&ベストプラクティス](https://qiita.com/K3n_to_n17/items/f61650cf4b9cbba298fd)
+- [ Docker入門資料「入門 Docker」を5年ぶりにアップデートしました。](https://y-ohgi.blog/entry/2024/08/19/Docker%E5%85%A5%E9%96%80%E8%B3%87%E6%96%99%E3%80%8C%E5%85%A5%E9%96%80_Docker%E3%80%8D%E3%82%925%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97)
+- [docker container / image コマンド新旧比較](https://qiita.com/zembutsu/items/6e1ad18f0d548ce6c266)
+- [Web開発において複数人で同じ環境を用意しよう(Dockerの基本)](https://qiita.com/JavaLangRuntimeException/items/6f6d03bd6d1e69c9e67e)
+- [超簡単! Kubernetesデバッグチートシート](https://qiita.com/reoring/items/e82bf912cf76570ed21f)
+- [.NETでDev Containerに入門してみた【初心者向け】](https://tech-lab.sios.jp/archives/40541)
+- [これを知らないともったいない！Kubernetes関連の便利ツール20選](https://qiita.com/suin/items/3c4df13ad3478ffe7b5d)
+- [Dockerコマンドの挙動を図解にして覚えやすくしてみた](https://qiita.com/Tanachu8/items/5e85c75818e499042bfe)
+- [Kubernetes使いになるためにPodをつくってみる　『つくって、壊して、直して学ぶ Kubernetes入門』より](https://codezine.jp/article/detail/19343)
 - [Dockerを少しずつ理解しようっていうお話](https://qiita.com/mr_noppo/items/d921886c5f4d868374ba)
 - [Docker学習　1日目](https://qiita.com/ki_takada/items/679bb0c8f04857c46380)
 - [【永久保存版】0からDockerを勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/a4ba0592142b76223aa0)
@@ -152,7 +185,14 @@
 
 ## git
 
+- [【図解解説】これ1本でGitをマスターできるチュートリアル！【完全版】](https://qiita.com/Sicut_study/items/0318cc136c189b179b7f)
+- [これだけはできてほしいgitとGitHub](https://qiita.com/tomoswifty/items/be3ff39ab3361a8e9c47)
 - [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
+- [【Git中級者への第一歩】自らステップアップする！ チートシートや自分で起こすコンフリクトなど、Git学習のヒント](https://codezine.jp/article/detail/19919)
+- [【Git中級者への第一歩】リリースプロセスの品質を上げるブランチ戦略、開発をもっと便利にするコマンドとは](https://codezine.jp/article/detail/19413)
+- [初めてのGitは電車で例えて学ぼう！初学者向け基本Gitコマンド入門](https://qiita.com/k_uki512/items/7c1856edbade1bc7b98a)
+- [ゼロから学ぶGit/GitHubを勝手に補足](https://zenn.dev/karaage0703/articles/d90c18f65921fc)
+- [いまさらだけどGitを基本から分かりやすくまとめてみた](https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0)
 - [Gitの内部構造をよく理解して、うまく使おう【基本の仕組みを解説】](https://codezine.jp/article/detail/17328)
 - [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
 - [Gitに不慣れな人はとりあえずgit statusを打ちまくっておけば大体なんとかなる説](https://qiita.com/na0y/items/c5554057d8efbf2e0967)
@@ -183,6 +223,19 @@
 
 ## GitHub
 
+- [GitHubをコードで管理 ! Terraformを導入して安全な管理を実現しました](https://tech.route06.co.jp/entry/2024/10/18/153755)
+- [なんとなくから脱却するGitHub Actionsグッドプラクティス11選](https://gihyo.jp/article/2024/10/good-practices-for-github-actions)
+- [【GitHub】初めてのGitHub~GitHubリポジトリ作成まで](https://qiita.com/piromo/items/a45b44d85ad28bf05c02)
+- [「GitHub CI/CD実践ガイド」イベント基調講演ダイジェスト＋FAQ #Forkwell_Library](https://zenn.dev/tmknom/articles/github-cicd-book)
+- [Github Pagesで職務経歴書を作ってみた](https://zenn.dev/choimake/articles/9809c6dbfc43a4)
+- [Git Credential Managerの最新版を取得する](https://kkamegawa.hatenablog.jp/entry/2024/09/21/123821)
+- [実務未経験者の人に読んでほしいGitHubの実務tips](https://qiita.com/yamadagenki/items/5e4ee79a7a680b1675e8)
+- [Gitの仕組みと用語 / GitHub Term](https://speakerdeck.com/kaityo256/github-term)
+- [5分でできる！GitHub README プロフィール](https://qiita.com/mmnn/items/cf465d271171cba8bd51)
+- [Git中級者への第1歩！ レビュー品質向上の秘訣、コミットに便利なコマンドを紹介](https://codezine.jp/article/detail/18937)
+- [GitHubのプッシュ処理を改善した方法](https://github.blog/jp/2024-06-14-how-we-improved-push-processing-on-github/)
+- [開発者が知っておくべき Git コマンド12選](https://github.blog/jp/2024-06-13-top-12-git-commands-every-developer-must-know/)
+- [全エンジニアが知っておくべきGithubレポジトリTop28【2023最新版】](https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3)
 - [GitHub Projects を利用したタスク管理](https://user-first.ikyu.co.jp/entry/2023/11/09/175121)
 - [【入門】Github Gistとは？概要や基本的な使い方をわかりやすく解説](https://www.kagoya.jp/howto/it-glossary/develop/githubgist/)
 - [【入門】Gitとは？できることや使い方、GitHubとの違いをわかりやすく解説](https://www.kagoya.jp/howto/it-glossary/develop/git/)
@@ -193,14 +246,29 @@
 - [GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
 - [GitHub Copilot Chatを触ることでWindows Copilotの後の世界を体感できる](https://logmi.jp/tech/articles/328912)
 - [GitHub - Codespaces](https://github.co.jp/features/codespaces)
+- [GitHub Actionsって何？触ってみて理解しよう！入門・逆引きリファレンス](https://qiita.com/s3i7h/items/b50ceb0008edc3c0312e)
+- [Gitコマンド早見表](https://qiita.com/kohga/items/dccf135b0af395f69144)
+- [GitHub Copilot Workspace：GitHub Copilotネイティブの開発環境へようこそ](https://github.blog/jp/2024-04-30-github-copilot-workspace/)
 
+## GitHub Actions
+
+- [初心者向け！GitHub Actions をはじめる](https://zenn.dev/kiwichan101kg/articles/2d6850ff72bc98)
+- [Digger + GitHub Actionsで作るTerraform/OpenTofuのCI/CD](https://qiita.com/minamijoyo/items/b61806b570d9d1257f0b)
 ## GitHub Copilot
 
+- [いくつ知ってる？ GitHub Copilotの新機能、コーディングにとどまらない進化を解説](https://codezine.jp/article/detail/20065)
+- [AzureについてCopilotが何でも教えてくれる「GitHub Copilot for Azure」発表。操作方法からプログラミング、デプロイの方法まで](https://www.publickey1.jp/blog/24/azurecopilotgithub_copilot_for_azure.html)
+- [OpenAI o1-preview/o1-miniがVS CodeのGitHub Copilot ChatとGitHub Modelsで利用可能に](https://gihyo.jp/article/2024/09/openai-o1-github-copilot)
+- [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
+- [「GitHub Copilot」の機能をより便利に活用するには？ 操作方法やプログラミングなどの活用例をシーン別に紹介](https://codezine.jp/article/detail/19719)
+- [GitHub Copilot Chat 舐めていた](https://blog.nishimu.land/entry/2024/06/12/215706)
+- [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
+- [ChatGPT APIの運用で必須のツール: LangChainの使い方まとめ (2)](https://qiita.com/sakasegawa/items/9b6c79dc11bc3a1bc0ed)
 - [GitHub Copilot Chat の一般提供が開始されました](https://dev.classmethod.jp/articles/github-copilot-chat-generally-available/)
+- [GitHub Copilot Workspaceが利用可能になったのでゼロからアプリを作ってみた](https://aadojo.alterbooth.com/entry/2024/05/13/090000)
 - [GitHub Copilot in VS Code で、作業内容からコミットメッセージを生成可能になりました](https://dev.classmethod.jp/articles/https-code-visualstudio-com-docs-editor-github-copilot/)
 - [【GitHub Copilot Chat】いまさら聞けない？GitHub Copilot Chatの使い方について詳しくご紹介します！](https://aadojo.alterbooth.com/entry/2023/12/13/000000)
 - [GitHub Copilotが便利になったのでターミナルもVSCodeで良いのでは？という話](https://qiita.com/EichiSanden/items/0e4f14c1e4c6e4c61982)
-- [GitHub Copilot開発者が語る最新アップデート ～ コード生成の裏側を知って、より効率的に開発しよう！ (microsoft.com)](https://info.microsoft.com/
 - [CLI 上の操作だけでコマンドの説明や提案をしてもらえる「GitHub Copilot in the CLI」の Public Beta が提供開始されました](https://dev.classmethod.jp/articles/github-copilot-cli-public-beta-launch/)
 - [ブログ執筆時に GitHub Copilot を使って効率化していること3選](https://dev.classmethod.jp/articles/how-github-copilot-is-helping-me-write-blog-posts-more-efficiently-3-examples/)
 - [github copilot事始め](https://qiita.com/GETB/items/0f880b7fb14c6204cad4)
@@ -210,6 +278,10 @@
 - [「GitHub Copilot Chat」ベータ版が個人でも利用可能に ～AIがプログラミングに助言](https://forest.watch.impress.co.jp/docs/news/1532976.html)
 - [【ハイブリッド開催】GitHub Copilotで拓く開発生産性](https://logmi.jp/tech/articles/329426)
 - [コードの解説、ブログの要約、自然言語の翻訳、機能仕様の修正コーディングだけじゃない「Github Copilot」の活用事例](https://logmi.jp/tech/articles/329436)
+
+## GitHub Repository
+
+- [絶対チェックすべきGitHubリポジトリ15選](https://qiita.com/Sicut_study/items/3c063a938f6dbc48bdbd)
 
 ## GoogleApps
 
@@ -221,28 +293,49 @@
 
 ## PowerShell
 
+- [ハッシュテーブルについて知りたかったことのすべて](https://learn.microsoft.com/ja-jp/powershell/scripting/learn/deep-dives/everything-about-hashtable?view=powershell-7.4)
+
+    > 順序付きハッシュテーブル
+    > 既定では、ハッシュテーブルは順序付け (または並べ替え) されていません。 従来のコンテキストでは、常にキーを使用して値にアクセスする場合、順序は重要ではありません。 プロパティを定義した順序で維持する必要が生じる場合があります。 幸いにも、ordered キーワードを使用してこれを行う方法があります。
+
+    ``` PowerShell
+    $person = [ordered]@{
+        name = 'Kevin'
+        age  = 36
+    }
+    ```
+
 - [about_Comment_Based_Help](<https://docs.microsoft.com/ja-jp/previous-versions/windows/powershell-scripting/hh847834(v=wps.640)?redirectedfrom=MSDN>)
 - [【Write-Verbose】スクリプトや関数の詳細を表示する【PowerShell】](https://www.tekizai.net/entry/2021/08/26/063000)
 - [Windows PowerShell 基本 Tips](https://www.atmarkit.co.jp/ait/series/3410/)
 - [PowerShell のデバッグに役立つコマンド設定](https://www.pine4.net/Memo/Article/Archives/207)
 - [Windows PowerShell 入門（10）－デバッグ編](https://codezine.jp/article/detail/3067?p=3)
 
-> $DebugPreference
-> |設定値|Write-Debug の動作|
-> |---|---|
-> |Continue|メッセージを出力する|
-> |SilentlyContinue|メッセージを出力しない|
-> |Stop|メッセージを出力・停止|
-> |Inquire|メッセージを出力・続行|
->
-> Set-PSDebug
->
-> $host.EnterNestedPrompt()
+    > $DebugPreference
+
+    | 設定値           | Write-Debug の動作     |
+    | ---------------- | ---------------------- |
+    | Continue         | メッセージを出力する   |
+    | SilentlyContinue | メッセージを出力しない |
+    | Stop             | メッセージを出力・停止 |
+    | Inquire          | メッセージを出力・続行 |
+
+    > Set-PSDebug
+    >
+    > $host.EnterNestedPrompt()
+
+## .NET Aspire
+
+- [マイクロサービス作らなくても .NET Aspire って便利](https://zenn.dev/microsoft/articles/dotnet-aspire-minimal)
 
 ## Python
 
+- [Python in Excel が GA (General Release)](https://zenn.dev/ymasaoka/articles/trying-out-python-in-excel-it-has-been-ga)
+- [僕の考えた最強の Python 開発環境 (2024)](https://zenn.dev/koki_algebra/articles/cd3341bcba9272)
+- [【2024年版】めっちゃ使いやすいPythonの開発環境をVSCode上で構築する方法](https://zenn.dev/forcia_tech/articles/202409_python_environment_construction)
+- [Python + VSCode の環境構築 20240604](https://zenn.dev/mizchi/articles/setup-python-20240604)
 - [2023年最新版の有名企業のエンジニア向け研修資料をまとめてみた #Python - Qiita](https://qiita.com/eri_issue/items/576acaea7e8235f82d89)
-- [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには | TECH+（テックプラス）](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
+- [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには TECH+（テックプラス）](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
 - [PythonでWeb開発を学ぶ上で確認するべきGitHubリポジトリ 18選 2023年版](https://zenn.dev/nameless_sn/articles/18_awesome_python_repos_2023)
 - [【2023年】プログラミング・Pythonの無料おすすめ学習教材13選](https://qiita.com/skillup_ai/items/75e892e166f41ca85bf8)
 - [冊子「ゼロからはじめるPython」を無料で提供! 人気のプログラミング言語を習得するには](https://news.mynavi.jp/techplus/kikaku/20230320-2631039/)
@@ -251,6 +344,8 @@
 - [オライリー「Think Python」第 2 版 ダウンロード](https://cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython2.pdf)
 - [Python 早見表](https://chokkan.github.io/python/index.html)
 - [主にVSCodeではじめるPython開発環境構築ガイド](https://dev.classmethod.jp/articles/python-vscode-plugin/)
+- [Python環境構築](https://qiita.com/s8ry_mk/items/7bcac9c72bad8db10c39)
+- [Pythonをこれから始める人におすすめの入門書５選](https://techplay.jp/column/1870)
 
 ## swagger
 
@@ -262,6 +357,7 @@
 
 - [開発に使える脆弱性スキャンツール](https://engineers.ntt.com/entry/2022/12/07/113602)
 - [シェル・ワンライナー 160 本ノックを完走した](https://engineers.ntt.com/entry/2022/12/04/071122)
+- [エンジニアのための十徳ナイフ「DevToys」がバージョン２になってクロスプラットフォームやCLI対応しさらに便利すぎる](https://qiita.com/danishi/items/a75ab904da66cecc71b4)
 
 ## TypeScript
 
@@ -269,14 +365,27 @@
 
 ## VisualStudio Code
 
+- [ChatGPTとVSCodeを連携させる方法｜使い方を解説](https://www.onamae.com/business/article/26878/)
+- [ChatGPTがコーディング支援を強化。コードエディタ機能を統合、コードレビューやデバッグ、他言語への移植ツールなどを含む新機能「Canvas」が登場](https://www.publickey1.jp/blog/24/chatgptcanvas.html)
+- [次世代エディタ6選](https://qiita.com/twrcd1227/items/4faccd04f0f19f3fdb5e)
+- [【VSCode】オススメの拡張機能と設定](https://qiita.com/twrcd1227/items/16c685b626ad548810c7)
+- [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
+- [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
+- [VSCode で最高の LaTeX 環境を作る](https://qiita.com/rainbartown/items/d7718f12d71e688f3573)
+- [VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか)](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
+- [Visual Studio CodeでLinux ホストリモート開発](https://qiita.com/whim0321/items/ae72b2dd5fd41beaef04)
+- [ローカルのVSCodeからRemote SSHでLinuxにSSH接続する](https://tekkubu.com/remote-ssh/)
+- [VSCodeでリモート開発環境を整えてみた](https://techblog.gmo-ap.jp/2023/04/11/vscode_remote/)
+- [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
 - [VSCodeでC#開発をする方法](https://zenn.dev/midoliy/articles/9e3cff958ff89ba151de)
+- [【Rye + uv + Ruff】Docker で VS Code の Dev Container 上に快適な Python 環境を構築する](https://zenn.dev/dena/articles/rye_python_in_devcontainer)
 - [チーム開発でVSCodeの拡張機能やフォーマット設定などを統一したい時に便利な設定ファイルについて](https://dev.classmethod.jp/articles/vscode_settings_file_for_team_dev/)
 - [VSCode ではじめる GitHub Copilot 活用術](https://qiita.com/RyoWakabayashi/items/1207128e88669c76bf5f)
 - [HTMLを書いたり、修正する時に役立つVS Codeの機能拡張のまとめ](https://coliss.com/articles/build-websites/operation/work/vs-code-extensions-for-html.html)
 - [VSCodeMeetup20240130](https://www.docswell.com/s/shosuz/58G39X-2024-01-30-203540)
 - [VS Code Meetup #27](https://vscode.connpass.com/event/303633/presentation/)
 - [Visual Studio Code （VSCode）の導入と、おすすめの初期設定をまとめました](https://biz.hpg.co.jp/biz2020/column/755/#render_line)
-- [【GitHub Copoilot】特定のファイルでCopilotを無効にする（VSCode編）](https://techblog.ap-com.co.jp/entry/2023/07/15/110118)
+- [【GitHub Copilot】特定のファイルでCopilotを無効にする（VSCode編）](https://techblog.ap-com.co.jp/entry/2023/07/15/110118)
 - [AIが識別子の名前を考えてくれる機能、「Visual Studio 2022」にテスト導入](https://forest.watch.impress.co.jp/docs/news/1556899.html)
 - [VScodeだけでGit操作を完結させるのだ～～ッ!!](https://zenn.dev/praha/articles/db1c4bcc4ef48c)
 - [Visual Studio Codeに入れるべき拡張機能【2023年最新版】 #VSCode - Qiita](https://qiita.com/midiambear/items/f38686bd4d139e0cd46c)
@@ -298,9 +407,9 @@
 - [Figma for VS Codeを使ってCSS実装する時のおすすめポイント](https://goodpatch-tech.hatenablog.com/entry/figma-for-vscode)
 - [チュートリアル: Visual Studio Code を使用して .NET コンソール アプリケーションを作成する](https://learn.microsoft.com/ja-jp/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-7-0)
 
-> dotnet new console --framework net7.0
+    > dotnet new console --framework net7.0
 
-- [dotnet new <テンプレート>](https://learn.microsoft.com/ja-jp/dotnet/core/tools/dotnet-new)
+- [dotnet new テンプレート](https://learn.microsoft.com/ja-jp/dotnet/core/tools/dotnet-new)
 - [VSCodeをプログラミングエディタとして強化しよう！ 便利な設定や拡張機能を紹介](https://codezine.jp/article/detail/18224)
 - [コードを書くのが楽になる！知っておくと便利な VS Code の機能・設定のまとめ コリス](https://coliss.com/articles/build-websites/operation/work/vs-code-dont-need-extensions.html)
 - [VS Code で HTML を楽々コーディング！ (1/2)](https://www.atmarkit.co.jp/ait/articles/1806/26/news032.html)
@@ -338,9 +447,28 @@
 - [VSCode のオススメ拡張機能 24 選 (と Tips をいくつか) - Qiita](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
 - [Visual Studio Code の拡張機能である「C# Dev Kit」が GA となったので使ってみた](https://dev.classmethod.jp/articles/vscode-csharp-dev-kit/)
 - [VSCodeでC#開発環境を充実させる「C# Dev Kit」正式リリース、ソリューションエクスプローラーやIntelliCodeなど提供](https://www.publickey1.jp/blog/23/vscodecc_dev_kitintellicode.html)
+- [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
+- [AIと共同でプログラミングする新時代へ──AIコーディング支援ツール「GitHub Copilot」へ入門しよう](https://codezine.jp/article/detail/19383?p=2)
+
+### 多段ssh
+
+- [多段sshサーバーにVScodeで接続する(エージェントフォワード)](https://qiita.com/my0shym/items/c5b792cbb0de7531376e)
+- [VSCodeで踏み台サーバ経由で接続したリモートサーバ上のファイルをエクスプローラー表示する](https://qiita.com/keso_keso/items/fee7b6c1be86614bdc65)
+- [VScode Remote-SSHで外部サーバーに 多段SSH接続](https://ichiri.biz/tech/vscode-multihop-remote-ssh/)
+
+### AI Toolkit for VS Code
+
+- [Microsoft、「AI Toolkit for VS Code」を発表](https://forest.watch.impress.co.jp/docs/news/1593578.html)
+- [AI Toolkit for Visual Studio Code Preview](https://github.com/microsoft/vscode-ai-toolkit/blob/main/README.md)
+- [Microsoft、「AI Toolkit for VS Code」を発表](https://forest.watch.impress.co.jp/docs/news/1593578.html)
+- [Visual Studio Code 用 AI Toolkit の概要](https://learn.microsoft.com/ja-jp/windows/ai/toolkit/)
+
+### Cline
+
+- [VS CodeとAIチャットの往復いらず！ 話題の拡張機能Clineで爆速開発してみよう](https://qiita.com/minorun365/items/b2990a7228e8cc4ed025)
 
 
-## Visual Studio Extention
+### Visual Studio Extention
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
@@ -384,6 +512,7 @@
 ## VisualStudio
 
 - [Microsoft、「Visual Studio」でNuGetの依存関係の問題解決を支援するツールを公開](https://atmarkit.itmedia.co.jp/ait/articles/2401/25/news047.html)
+- [もうこれなしでは開発できないVisual Studioの10機能](https://qiita.com/gigadein/items/228305a1cc65651c3c2e)
 - [Visual Studio の GitHub Copilot 拡張機能とは](https://learn.microsoft.com/ja-jp/visualstudio/ide/visual-studio-github-copilot-extension)
 - [Visual StudioでGitHub Copilotが利用できるようになりました](https://aadojo.alterbooth.com/entry/2023/03/05/100000)
 - [Visual Studio 2022の機能でWeb API開発を効率化しよう](https://aadojo.alterbooth.com/entry/2023/06/04/162052)
@@ -403,11 +532,17 @@
 - [GitHub - CenterCLR/ozcodejapantour: OzCode japan tour materials.](https://github.com/CenterCLR/ozcodejapantour)
 - [WSL2、Visual Studio Code、DockerでグッとよくなるWindows開発環境](https://www.youtube.com/watch?v=aL5MlZUvZ4g)
 
+## Windows Copilot Runtime
+
+- [Microsoft、「Windows Copilot Runtime」を発表](https://forest.watch.impress.co.jp/docs/news/1593474.html)
+- [Windows Copilot Runtime の概要](https://learn.microsoft.com/ja-jp/windows/ai/overview)
+
 ## web API
 
-- [今すぐ使える無料WebAPIまとめ【2023年最新版】](https://qiita.com/kazuki_tachikawa/items/7b2fead2a9698d1c15e8)
+- [今すぐ使える無料WebAPIまとめ](https://qiita.com/kazuki_tachikawa/items/7b2fead2a9698d1c15e8)
 - [API初心者が紹介するOpenWeatherMapAPI](https://tech-lab.sios.jp/archives/36777?f)
 - [Strava APIを活用したアプリ開発 ~お試し編~](https://tech-lab.sios.jp/archives/32788)
+- [API開発ツール「Postman」とは？ 導入手順や利用料金について解説](https://envader.plus/article/154)
 
 ## Widnows 11 VHD
 
@@ -417,17 +552,21 @@
 
 - [Microsoft が紹介する「Windows Terminal」のカスタマイズや活用のコツ](https://www.atmarkit.co.jp/ait/articles/2011/04/news052.html)
 - [Azure Cloud Shell をローカルの Visual Studio Code／Windows Terminal に統合する方法：Microsoft Azure 最新機能フォローアップ（89） - ＠IT](https://www.atmarkit.co.jp/ait/articles/1908/27/news017.html)
+- [Vision Pro対抗なるか。Windowsの3DアプリがMeta Questで動く世界 #MicrosoftBuild](https://www.gizmodo.jp/2024/05/windows-volumetric-apps-on-meta-quest.html)
 
 ## WSL
 
+- [WSL2で劇的に変わるあなたのWebアプリケーション開発環境【その2：導入編】](https://tech-lab.sios.jp/archives/18437)
 - [WSL2 による Python3 の環境構築](https://qiita.com/zakoken/items/8ddfda7267e7d95b3c46)
 - [なんかWSL2がインターネットにつながらなくなったときの解決方法](https://qiita.com/kotauchisunsun/items/71fae973afa00ebb871a)
+- [WSL (Windows Subsystem for Linux)の基本メモ](https://qiita.com/rubytomato@github/items/fdfc0a76e848442f374e)
 - [WSLで外のネットワークにアクセスできないときの解決策](https://zenn.dev/rayfiyo/articles/20231205-wsl_cannot_ping_outside)
 - [WSL2 ミラーモードでDocker使えないのは困る](https://qiita.com/shigeokamoto/items/fc9fa1a395f3fd72fafa)
 - [【WSL 入門】第 1 回　 Windows 10 標準 Linux 環境 WSL を始めよう：IT の教室 - ＠IT](https://www.atmarkit.co.jp/ait/articles/1903/18/news031.html)
 - [「Windows×OpenSSH×WSL 2 ＝ほぼほぼネイティブな Linux」に見えてしまう、の作り方](https://www.atmarkit.co.jp/ait/articles/2007/15/news005.html)
 - [WSL2 をインストールして Windows で Ubuntu を使う方法](https://tombomemo.com/wsl2-install-settings/)
 - [Windows WSL2 WSL2 で Docker 開発環境を構築してみる - NicoNico Pun](https://blog.nicopun.com/post/2019-07-02-windows-wsl2/)
+- [グチャグチャになった「Ubuntu on WSL2」のやり直し方](https://qiita.com/PoodleMaster/items/b54db3608c4d343d27c4)
 
 ## YAML
 
@@ -441,14 +580,14 @@
 
 - [第18回　FileSystemObjectオブジェクトを利用する](https://atmarkit.itmedia.co.jp/ait/articles/0906/03/news120_2.html)
 
+## Wireshark
+
+- [Wiresharkで観察して理解するHTTPS（HTTP over TLS）の仕組み](https://tech-blog.rakus.co.jp/entry/20240701/wireshark)
+
 ## 学習サイト
 
-― [どっとインストール](https://microsoft-search.github.io/pnp-modern-search/)
+- [どっとインストール](https://microsoft-search.github.io/pnp-modern-search/)
 
 ## リファクタリング
 
 - [どうやってコード品質を上げるのか？ 実例で学ぶリファクタリング](https://codezine.jp/article/detail/18854)
-
-## Meta Quest 3
-- [「Meta Quest 3」をしばらく使ってみて分かったこと 長所と短所を紹介](https://www.moguravr.com/meta-quest-3-review-2/)
-

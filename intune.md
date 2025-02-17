@@ -1,19 +1,21 @@
 # Bookmarks
 
-- [site](https://keizom.github.io/)
-- [onpremise](https://keizom.github.io/onpremise.html)
+- [index](https://keizom.github.io/)
 - [Adobe](https://keizom.github.io/adobe.html)
 - [Azure](https://keizom.github.io/Azure.html)
 - [develop](https://keizom.github.io/develop.html)
+- [GenerativeAI](https://keizom.github.io/GenerativeAI.html)
 - [intune](https://keizom.github.io/intune.html)
-- [Office365](https://keizom.github.io/Office365.html)
-- [SharePoint](https://keizom.github.io/SharePoint.html)
-- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
-- [web](https://keizom.github.io/web.html)
 - [mac](https://keizom.github.io/mac.html)
+- [Office365](https://keizom.github.io/Office365.html)
+- [onpremise](https://keizom.github.io/onpremise.html)
+- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
+- [SharePoint](https://keizom.github.io/SharePoint.html)
+- [web](https://keizom.github.io/web.html)
 
 # Intune
 
+- [【雑記】GPOなど既存システムのデバイスポリシーを Intune に再現する方法 (Windows)](https://qiita.com/shokolate/items/a0eea9c595fe57bff2e4)
 - [IntuneMaps.com](https://intunemaps.com/)
 - [Export HW/SW Inventory Data from Intune Devices using PowerShell Skatterbrainz Blog](https://skatterbrainz.wordpress.com/2020/01/18/export-hw-sw-inventory-data-from-intune-devices-using-powershell/)
 - [Intune にて PowerShell スクリプトを配布する方法について](https://www.softbanktech.co.jp/special/blog/cloud_blog/2023/0069/)
@@ -37,3 +39,7 @@
 - [Microsoft Intune : Intune による特定の USB デバイスの制限](https://zenn.dev/microsoft/articles/9490c67f3c9574)
 - [IntuneとMDEを利用してUSB利用を制限する](https://azuread.net/archives/13440)
 - [Intune と Microsoft Defender で特定の USB デバイスのみ許可する設定](https://www.zunda.co.jp/blog/intune-microsoft-defender-usb-allowlisting)
+=======
+- [powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples/blob/master/ManagedDevices/ManagedDevices_Hardware_Get.ps1)
+- [Intuneの同期に時間がかかるのはなぜ？](https://azuread.net/archives/14223)
+

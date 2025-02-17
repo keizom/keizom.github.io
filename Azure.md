@@ -1,19 +1,22 @@
 # Bookmarks
 
-- [site](https://keizom.github.io/)
-- [onpremise](https://keizom.github.io/onpremise.html)
+- [index](https://keizom.github.io/)
 - [Adobe](https://keizom.github.io/adobe.html)
 - [Azure](https://keizom.github.io/Azure.html)
 - [develop](https://keizom.github.io/develop.html)
+- [GenerativeAI](https://keizom.github.io/GenerativeAI.html)
 - [intune](https://keizom.github.io/intune.html)
-- [Office365](https://keizom.github.io/Office365.html)
-- [SharePoint](https://keizom.github.io/SharePoint.html)
-- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
-- [web](https://keizom.github.io/web.html)
 - [mac](https://keizom.github.io/mac.html)
+- [Office365](https://keizom.github.io/Office365.html)
+- [onpremise](https://keizom.github.io/onpremise.html)
+- [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
+- [SharePoint](https://keizom.github.io/SharePoint.html)
+- [web](https://keizom.github.io/web.html)
+
 
 # Azure
 
+- [Microsoft デジタル防衛レポート 2024](https://www.microsoft.com/ja-jp/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024)
 - [【必読】Azureエンジニアが教える！AZ−104とAZ−305にほぼ合格できる勉強方法](https://zenn.dev/murakami_koki/articles/e404cb8aa8995b)
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
 - [Azureを勉強したいけど何したらいいかわからない人へ ~ 勉強資料インデックスの紹介 ~](https://qiita.com/aktsmm/items/d0da6b7b245b6a88ef95)
@@ -31,6 +34,7 @@
 
 ## メンテナンス
 
+- [【Azure】まだ使っているのに廃止されてしまうサービスを確認する](https://atmarkit.itmedia.co.jp/ait/articles/2411/06/news033.html)
 - [Azure での仮想マシンのメンテナンス](https://docs.microsoft.com/ja-jp/azure/virtual-machines/maintenance-and-updates)
   > Azure により、都合の良いときに自分でメンテナンスを開始できる時間枠も与えられます。 セルフ メンテナンス期間は、そのメンテナンスが緊急でない限り、通常は 35 日間です (ホスト マシンの場合)。
 
@@ -39,8 +43,10 @@
 - [Azureの「Private Link」「サービスエンドポイント」　どちらを選べばいい？](https://techtarget.itmedia.co.jp/tt/news/2312/20/news06.html)
 
 
-## Azure AD
+## Entra ID
 
+- [Microsoft Entra PowerShell の紹介](https://jpazureid.github.io/blog/azure-active-directory/introducing-entra-powershell/)
+- [いちばんやさしい Azure 認証・認可編 前半](https://qiita.com/KoheiKushida/items/cbf06c17db79d697568f)
 - [Azure AD参加端末におけるPRT (Primary Refresh Token)悪用のリスクと対策について](https://gmo-cybersecurity.com/blog/azuread-prt/)
 - [Arure AD管理者必見　悩みの種になりがちな「ゲストユーザー」を管理する4つの方法](https://kn.itmedia.co.jp/kn/articles/2307/12/news023.html)
 - [フェデレーション認証から Azure AD 認証への移行事例のご紹介](https://www.softbanktech.co.jp/special/blog/cloud_blog/2022/0087/)
@@ -48,7 +54,7 @@
 - [2022 年 6 月末から「セキュリティの既定値群」の有効化が促されます (対象 : 一部のテナント)](https://jpazureid.github.io/blog/azure-active-directory/security-default-2022/)
 - [Conditional Access Workflow - v1.4.pdf](https://github.com/kennethvs/cabaseline202212/blob/main/Conditional%20Access%20Workflow%20-%20v1.4.pdf)
 - [Microsoft Graph PowerShellを利用してユーザーの最終サインイン日時を取得する](https://blog.jbs.co.jp/entry/2023/03/15/124720)
-- [全ての“入り口”はIDから~Microsoft Entraで学ぶ、やさしいID基礎知識 ~：第1回 新しいID管理ソリューションEntraのご紹介と今から始めよう「Azure ADによる脱VPN化」](https://info.microsoft.com/JA-ZTF-VDEO-FY23-09Sep-13-MKTO-FY23-Entra-Webinar-Gated-content-0823-SRGCM7732_LP01-Registration---Form-in-Body.html)
+
 - [Microsoft Entra が Security Service Edge に拡張、Azure AD が Microsoft Entra ID に名称変更](https://news.microsoft.com/ja-jp/2023/07/12/230712-microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id/)
 
 ### 条件付きアクセス
@@ -65,6 +71,10 @@
 
 - [ソフトマッチによる Azure AD (Office 365) 上のユーザーをオンプレミス Active Directory ユーザーと紐付ける方法](https://jpazureid.github.io/blog/azure-active-directory-connect/aboutSoftMatching/)
 - [ハードマッチによる Azure AD (Office 365) 上のユーザーをオンプレミス Active Directory ユーザーと紐付ける方法](https://jpazureid.github.io/blog/azure-active-directory-connect/upn-hard-match/)
+- [AzureADとオンプレADをハードマッチさせてユーザを整合性を保つ方法](https://qiita.com/Itsuki0105/items/96b72061a9f64874fe9e)
+- [ハードマッチによる同期ユーザーの切り替え方法 (AD フォレスト移行 編)](https://jpazureid.github.io/blog/azure-active-directory-connect/aadc_hardmatch/)
+- [How To Convert ImmutableId To ObjectGuid And Back](https://www.easy365manager.com/how-to-convert-immutableid-to-objectguid-and-back/)
+- [Azure AD Connect - ディレクトリ同期の基本的なポイント](https://jpazureid.github.io/blog/azure-active-directory-connect/basic-points-directory-synchronization/)
 - [デバイス ベースのアクセス制御 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/device_access)
 - [登録されたデバイスの管理方法 Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/registerd_device_managemant)
 - [サイトのユーザー情報を強制的に AD と同期させる方法](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/ad)
@@ -81,7 +91,7 @@
 - [Next.js アプリを OpenAI × Vercel から Azure OpenAI × App Service × Azure DevOps へ移行する](https://qiita.com/s_w_high/items/7bf78bae49705690ab12)
 - [生成AIを作れる「Azure AI Studio」とは？　OpenAIの相棒Microsoftの新サービス](https://techtarget.itmedia.co.jp/tt/news/2312/22/news07.html)
 - [チャットで楽々検索！ Azure AI Search と OpenAI を組み合わせた独自ドキュメント検索サンプルのご紹介](https://zenn.dev/microsoft/articles/jp-openai-5v1)
-- [Azure AI Search の概要 - Azure AI Search | Microsoft Learn. ](https://learn.microsoft.com/ja-jp/azure/search/search-what-is-azure-search)
+- [Azure AI Search の概要 - Azure AI Search Microsoft Learn. ](https://learn.microsoft.com/ja-jp/azure/search/search-what-is-azure-search)
 - [Azure Cognitive Searchが改称 「Azure AI Search」に - ITmedia. ](https://www.itmedia.co.jp/news/articles/2311/16/news175.html)
 
 ## Azure API Management
@@ -111,7 +121,7 @@
 - [Enable remote access to SharePoint with Azure Active Directory Application Proxy](https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy-integrate-with-sharepoint-server)
 - [世界一わかりみの深いAzure Application Gateway](https://tech-lab.sios.jp/archives/30628)
 
-> Application Gateway v2 では、NTLM 認証を使用したプロキシ要求をサポートしていません。
+  > Application Gateway v2 では、NTLM 認証を使用したプロキシ要求をサポートしていません。
 
 - [ポータルを使用して Application Gateway での相互認証を構成する](https://docs.microsoft.com/ja-jp/azure/application-gateway/mutual-authentication-portal)
 - [Application Gateway に関してよく寄せられる質問](https://docs.microsoft.com/ja-jp/azure/application-gateway/application-gateway-faq)
@@ -156,6 +166,8 @@
 ## Azure Automation
 
 - [Creating Files in SharePoint Online Using Azure Automation and PowerShell](https://practical365.com/azure-automation-spo-create-files/)
+- [【Azure】Automation RunbookにGitHub上のPowerShellスクリプトをインポートする（ARMテンプレート編）](https://atmarkit.itmedia.co.jp/ait/articles/2405/01/news020.html)
+- [【Azure】AutomationアカウントでVMの起動／停止を定期的に繰り返すスケジュールを組む（PowerShell編）](https://atmarkit.itmedia.co.jp/ait/articles/2407/17/news025.html)
 - [Automation における Runbook の入力パラメーターを構成する](https://learn.microsoft.com/ja-jp/azure/automation/runbook-input-parameters)
 - [PowerShellの操作を自動化！ Azure Automation の Power Shell Runbook を使いこなそう！！](https://tech-blog.cloud-config.jp/2023-01-11-azure-automation-runbook)
 - [Azure Automation と Microsoft Graph を介して Microsoft Entra Identity Governance のタスクを自動化する](https://learn.microsoft.com/ja-jp/azure/active-directory/governance/identity-governance-automation)
@@ -182,10 +194,33 @@
 ## Azure Bastion
 
 - [Azure Bastion 試したよ](https://sshzk.blogspot.com/2019/07/azure-bastion.html)
+- [Azure Bastionとネイティブクライアント接続機能を使ってAzure VMをセキュアに管理](https://licensecounter.jp/azure/blog/howto/azurebastion.html)
+- [Bastion と Linux ネイティブ クライアントを使用して仮想マシンに接続する](https://learn.microsoft.com/ja-jp/azure/bastion/connect-vm-native-client-linux)
+- [az network bastion](https://learn.microsoft.com/ja-jp/cli/azure/network/bastion?view=azure-cli-latest)
+- [Azure Bastion にネイティブクライアントで接続する (ファイル転送、AAD 認証)](https://qiita.com/Isato-Hiyama/items/106504a2ed49a74d990f)
+- [Mac から Azure Bastion 経由で VM へ接続する](https://qiita.com/tbuchi888/items/ba4bca16412f68abfc65)
+- [Azure Bastionを使ってVscode接続・SSH接続](https://www.netmarvs.com/archives/6055)
+- [Visual Studio Code の Tunnel 機能が便利](https://yoh1496.hatenablog.com/entry/2022/12/16/184800)
+- [Remote SSH via Azure Bastion (with AAD auth) #7179](https://github.com/microsoft/vscode-remote-release/issues/7179)
+- [VSCode の Remote Tunnels で「いつもの開発環境へ」お手軽リモート接続](https://zenn.dev/hankei6km/articles/connect-my-machine-via-vscode-remote-tunne)
+- [VSCodeでリモート開発環境を整えてみた](https://techblog.gmo-ap.jp/2023/04/11/vscode_remote/)
+- [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
+
+## Azure Developer CLI
+
+- [Bicepを上手く早く書くコツ](https://zenn.dev/mizti/articles/0c8c5801be46a9)
+- [Azure Developer CLI とは](https://learn.microsoft.com/ja-jp/azure/developer/azure-developer-cli/overview)
 
 ## Azure Bicep
 
+- [Azure Bicep を GitHub Actions で CI/CD する](https://qiita.com/hoisjp/items/9376fcf9831fe542ee20)
 - [AzureでのIaCツール選びに迷ったらこれ！ARMTemplate, Bicep, Terraform, Pulumi 比較ガイド](https://qiita.com/s_w_high/items/534a6add2a37b172a6bb)
+- [【Azure】AlmaLinuxの仮想マシン（VM）を作成する際の注意点（CentOS7代替）](https://atmarkit.itmedia.co.jp/ait/articles/2308/03/news031.html)
+- [Bicepを上手く早く書くコツ](https://zenn.dev/mizti/articles/0c8c5801be46a9)
+- [Azure Developer CLI とは](https://learn.microsoft.com/ja-jp/azure/developer/azure-developer-cli/overview)
+- [Deploy to Azure ボタンで Bicep ファイルからデプロイする (っぽく見せる powered by GitHub Actions )。](https://uncaughtexception.hatenablog.com/entry/2022/05/23/101852)
+- [Bicep の基礎](https://learn.microsoft.com/ja-jp/training/paths/fundamentals-bicep/)
+- [Azure CLIやBicep CLIを最新版にアップデートする方法【Windows OS編】](https://atmarkit.itmedia.co.jp/ait/articles/2406/26/news032.html)
 - [GPT4-Vで構成図からIaCコードを生成させる](https://qiita.com/shyamagu/items/556f08282a91000c6b14)
 - [AzureにおけるIaC　Bicepに入門してみた](https://engineers.fenrir-inc.com/entry/2022/06/30/131400)
 - [VSCodeのTerraform拡張機能にTerraform Cloudビューが追加されました](https://dev.classmethod.jp/articles/vscode-extenstions-tfc-view/)
@@ -233,6 +268,7 @@
 
 ## Azure Cosmos DB
 
+- [【Azure】CosmosDBにおけるパーティション入門ガイド【初心者向け】](https://tech-lab.sios.jp/archives/44573)
 - [Azure Cosmos DB for MongoDB API with Xamarin Quick Start](https://docs.microsoft.com/en-us/samples/azure-samples/azure-cosmos-db-mongodb-xamarin-getting-started/azure-cosmos-db-mongodb-xamarin-getting-started/)
 - [GitHub - DocumentDB-Quickstart-DotNet](https://github.com/dzadnip/DocumentDB-Quickstart-DotNet)
 - [Azure Cosmos DB 自習書 Azure Cosmos DB 入門 SQL API 編](https://www.cloud-for-all.com/resource/azure-cosmos-db-sql-api)
@@ -247,7 +283,6 @@
 - [Microsoft が誰でも簡単に機械学習モデルが作れるツール「Lobe」を公開！ Techable(テッカブル)](https://techable.jp/archives/140757)
 - [AI Builder: AI Embedded in Power Apps- Part 1 - RADACAD](https://radacad.com/ai-builder-power-apps-embed-with-ai-part-1)
 - [非エンジニア向け AI ビジネス スクール - tottokug Microsoft Docs](https://docs.microsoft.com/ja-jp/users/tottokug/collections/2g78i6x8z1nxe)
-- [AI のビジネス活用スタート](https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-AIbusinessutilization-SRGCM1257.pdf)
 - [Cognitive Services Custom Vision から画像解析モデルを Dockerimage に Export して利用する - Qiita](https://qiita.com/annie/items/3c0d0ec517d61526eb63)
 - [Cognitive Services LUIS でノンコーディング自然言語分析始めよう (2019 年 6 月版) - Qiita](https://qiita.com/annie/items/5fdc9030521f8a0ed61c)
 - [Cognitive Services Speech Service ことはじめ\_20190725](https://www.slideshare.net/ayomori/cogbot-cognitive-servicesspeechgettingstarted20190725)
@@ -262,11 +297,12 @@
 ## Azure Cost
 
 - [CSP の Azure 明細を PowerShell で整形する 日々徒然](https://blog.o365mvp.com/2020/04/07/format-csp-reconcile-with-powershell/)
+- [Azure の正しい始め方 - Azure Plan (従量課金) サブスクリプション、Microsoft Entra ID (Azure AD)、課金アカウント (MCA) の全体像](https://qiita.com/YoshiakiOi/items/90d8162fc9fcfc3b01f1)
 
 ## Azure Data Explorer
 
 - [ビッグデータを視覚化し、さらに共有もできる「Azure Data Explorerダッシュボード」とは](https://atmarkit.itmedia.co.jp/ait/articles/2303/03/news011.html)
-- 
+
 ## Azure Databricks
 
 - [はじめに: アカウントとワークスペースのセットアップ](https://learn.microsoft.com/ja-jp/azure/databricks/getting-started/)
@@ -300,9 +336,15 @@
 - [Azure Deployment Environments](https://azure.microsoft.com/ja-jp/products/deployment-environments/#overview)
 - [Azure Deployment Environments で実現する組織における Azure インフラストラクチャー構成管理](https://techblog.ap-com.co.jp/entry/2022/10/19/130457)
 
+## Azure Developer CLI (azd)
+
+- [Azure Developer CLI (azd) – October 2024](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2024/)
+- [Azure/azure-dev](https://github.com/Azure/azure-dev)
+
 ## Azure DevOps
 
 - [Azure DevOps Online Vol.10とCopilotでのサマリー](https://kkamegawa.hatenablog.jp/entry/2024/01/30/204350)
+- [DevOpsの基礎知識：歴史、利点、導入時の障壁とは？](https://tech-lab.sios.jp/archives/41442)
 - [リモートスクラムでも使えるAzure DevOps(Boards)の活用事例](https://qiita.com/motuo/items/029a9f14f5c256bbc258)
 - [Azure DevOpsのGitのマージ方法を強制する](https://kkamegawa.hatenablog.jp/entry/2024/02/10/232313)
 - [【Azure Pipelines】WebAppsへDeployするためのyamlファイルを徹底解説【初心者向け】](https://tech-lab.sios.jp/archives/35848)
@@ -345,10 +387,20 @@
 ## Azure DNS
 
 - [Azure 仮想ネットワーク内のリソースの名前解決](https://docs.microsoft.com/ja-jp/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
+- [Azure DNS セキュリティ ポリシー](https://qiita.com/Isato-Hiyama/items/7bb6483f29e981df9e23)
 
-> Azure DNS IP アドレスは 168.63.129.16 です。これは静的な IP アドレスであり、変更されません。
+  > Azure DNS IP アドレスは 168.63.129.16 です。これは静的な IP アドレスであり、変更されません。
 
 - [IP アドレス 168.63.129.16 とは](https://docs.microsoft.com/ja-jp/azure/virtual-network/what-is-ip-address-168-63-129-16)
+
+## Azure Document Intelligence
+
+- [GraphRAGの簡易検証 ~Azure Document Intelligence, Neo4jを用いて~](https://qiita.com/Ruuchami/items/294d797798d4fca346ad)
+- [Azure AI Document Intelligence入門【Resultパラメータ解説付き！】](https://tech-lab.sios.jp/archives/41739)
+
+## Entra ID
+
+- [Entra ID 初学者向けシリーズ第 1 弾 - 条件付きアクセス 入門](https://jpazureid.github.io/blog/azure-active-directory/starter-series-conditional-access/)
 
 ## Azure Front Door
 
@@ -361,7 +413,7 @@
 - [Azure Functions(v4) で.NETの関数を分離ワーカーモデルで動かす時のログレベルの設定について](https://aadojo.alterbooth.com/entry/2024/01/25/110038)
 - [Azure Functions バインド拡張機能を登録する](https://github.com/MicrosoftDocs/azure-docs.ja-jp/blob/master/articles/azure-functions/functions-bindings-register.md)
 - [Azure Functions - C# で Nuget パッケージを利用してみた](https://tech.guitarrapc.com/entry/2016/04/05/043723)
-- [Azure Functions (Node.JS) からの http リクエスト (GET|POST) で async/await を適用する](https://qiita.com/annie/items/538e4410ac16fe75e745)
+- [Azure Functions (Node.JS) からの http リクエスト (GET/POST) で async/await を適用する](https://qiita.com/annie/items/538e4410ac16fe75e745)
 - [AZURE Function AppでSendGridを使ってメール送信する](https://qiita.com/sunack/items/98a4ed71eea88ee5e119)
 - [Azure Function からSendGridバインドを使ってメールを送る](https://qiita.com/sato_ryu/items/30267d709d42b1d69aa4)
 - [Azure Functionsで環境変数を設定する方法【サーバーとローカルで必要】](https://playfab-master.com/azure-environment-variable)
@@ -476,6 +528,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [初めてのAzure Log AnalyticsとKQL クエリ](https://www.tama-negi.com/2021/08/04/azure-loganalytics-begin/)
 - [Azure MonitorとLogAnalyticsについて](https://www.guri2o1667.work/entry/2020/03/21/Azure_Monitor%E3%81%A8LogAnalytics%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 - [【Azure】Log Analytics単体では不可能なクエリをPowerShellで補完する](https://atmarkit.itmedia.co.jp/ait/articles/2401/31/news038.html)
+- [The Definitive Guide to KQL: Using Kusto Query Language for Operations, Defending and Threat Hunting](https://github.com/KQLMSPress/definitive-guide-kql)
 
 ## Azure Logic Apps
 
@@ -488,6 +541,13 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 
 ## Azure Open AI
 
+- [AzureServerlessで作るコスパ最強RAGシステム構築](https://speakerdeck.com/teshi22/serverlessmeetuposaka-number-2-azureserverlessdezuo-rukosupazui-qiang-ragsisutemugou-zhu)
+- [【Azure OpenAI Service】Streamlit×LangChainでAIアプリ開発に入門してみた](https://tech-lab.sios.jp/archives/41574)
+- [AOAI Dev Day LLMシステム開発 Tips集](https://speakerdeck.com/hirosatogamo/aoai-dev-day-llmsisutemukai-fa-tipsji)
+- [Azure OpenAI Service Dev Day / LLMでできる！使える！生成AIエージェント](https://speakerdeck.com/masahiro_nishimi/llmdedekiru-shi-eru-sheng-cheng-aieziento)
+- [【HeyGen】ホリエモン(堀江貴文さん)のAI動画はどうやって作られている？](https://romptn.com/article/44268)
+- [Canva×HeyGen講座～ホリエモンAIってどうやって作るの?応用して英語のプレゼン作成してみた](https://www.youtube.com/watch?v=d6l0A3nuBfk)
+- [RAG構築のためのAzure OpenAI Serviceリファレンスアーキテクチャ詳解](https://tech-lab.sios.jp/archives/38900)
 - [ChatGPTなどのチャットAIがどんな風に文章をトークンとして認識しているのかが一目で分かる「Tokenizer」](https://gigazine.net/news/20230407-tokenizer-open-ai/)
 - [Copilot に Intune の PowerShell を書かせたらマジでビビった話](https://zenn.dev/microsoft/articles/9e48fe6f2b5633)
 - [「ChatGPT」ユーザー登録なしで誰でも使えるように](https://ascii.jp/elem/000/004/192/4192024/)
@@ -539,75 +599,12 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Azure OpenAI Service を検証目的で使い始めるまでにやったことまとめ](https://dev.classmethod.jp/articles/usage-rules-for-azure-openai-service/)
 - [「プロンプトエンジニアリング」の“教科書”、日本語版が登場　無償でAIの上手な使い方を解説](https://www.itmedia.co.jp/news/articles/2304/05/news175.html)
 - [約1時間でAzure FunctionsとChatGPT APIを使った簡易のBotを作成してみた](https://zenn.dev/jtechjapan/articles/5eb5d879088c23)
-- [【緊急企画】話題の ChatGPT 。Microsoft の担当者が登場！まだ序章！今話せること全部お話します！ビジネスで使える IT ネタをお届けする「ネタバース」 | 日本マイクロソフト](https://www.youtube.com/watch?v=wsQruf1KEJE)
+- [【緊急企画】話題の ChatGPT 。Microsoft の担当者が登場！まだ序章！今話せること全部お話します！ビジネスで使える IT ネタをお届けする「ネタバース」 日本マイクロソフト](https://www.youtube.com/watch?v=wsQruf1KEJE)
 - [削除された Azure AI サービス リソースの復旧または消去](https://learn.microsoft.com/ja-jp/azure/ai-services/recover-purge-resources)
 
-### Local LLM
+## Azure OpenAI Whisper
 
-- [LLM開発のための環境構築](https://zenn.dev/elith/articles/e4dbbb62752e04)
-
-### Open Interpreter
-
-- [話題のOpen Interpreterを使ってみた、そして、驚いた](https://qiita.com/yanagih/items/466a5560bd771e2b9030)
-- [【実例】ChatGPTでコード生成～Code interpreterも解説](https://book.st-hakky.com/business/chatgpt-code-generation/)
-- [凄すぎると話題の「Open Interpreter」の始め方・使い方まとめ](https://qiita.com/ot12/items/d2672144b914cb6f252f)
-- [今さら聞けないChatGPT「Code Interpreter」、データ分析能力が飛躍的向上のワケ](https://www.sbbit.jp/article/cont1/120122)
-- [チャット形式でプログラミングが可能なローカルで動作するオープンソースなAIツール「Open Interpreter」を使ってみた](https://gigazine.net/news/20231119-open-interpreter/)
-- [Open Interpreter](https://qiita.com/fuyu_quant/items/e531b5d1f87a8640d10e)
-- [Open Interpreterがついに画像出力にも対応！使い方から実践までを解説【画像付き】](https://weel.co.jp/media/tech/open-interpreter/)
-
-### Chat GPT
-
-- [ChatGPT-Prompt-Sample-Japanese/Workshop at main ? dahatake/ChatGPT-Prompt-Sample-Japanese ? GitHub](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/tree/main/Workshop)
-- [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese)
-- [【決定版】GPTs開発の教科書](https://chatgpt-lab.com/n/n43cc9a028aac)
-- [データ分析もChatGPTの機能（旧Code Interpreter）でできるか、やったみた【番外編】](https://atmarkit.itmedia.co.jp/ait/articles/2312/14/news013.html)
-- [冊子「ChatGPT for Excel活用術」を無料提供! ExcelとChatGPTで何ができるのか](https://news.mynavi.jp/techplus/kikaku/20230929-2769187/)
-- [ChatGPTを使いこなすにはたった４つのことを覚えるだけでいい？　「プロンプト思考」を身につけよう。](https://iam-iam.jp/31919/)
-- [OpenAI「GPTs」がもたらす革命　誰でも「自分のコパイロット」時代へ](https://www.watch.impress.co.jp/docs/series/nishida/1546335.html)
-- [「ねこGPT」GPTsのActionsを理解して、外部APIをコールする](https://qiita.com/kuromiya123/items/fd1db6bfc55c68add0c8)
-- [My GPTsを使ってドキュメント読まれない問題を解決する](https://zenn.dev/aics/articles/0a21cee7940e5f)
-- [あなたの開発生産性を爆上げする、エンジニア向けAIツール22個](https://note.com/shiba_program/n/n78601735db9a)
-- [【ChatGPT「GPTs（GPT Builder）」のおすすめ活用事例一覧】猛者達が開発した最強GPTsの使い方25選](https://weel.co.jp/media/gpts-case)
-- [いまさらだけどChatGPT 契約！](https://tech-lab-engineer.sios.jp/archives/log/20231120_ryu/)
-- [生成AI（ジェネレーティブAI）とは？ChatGPTとの違いや仕組み・種類・活用事例](https://www.brainpad.co.jp/doors/news_trend/about_generative_ai/)
-- [【OpenGPT】GPTsのリスクを全て克服した無料オープンソース版GPTsを実際に使ってみた](https://weel.co.jp/media/opengpt)
-- [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集 -2023年12月バージョン-](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji-2023nian-12yue-baziyon)
-- [【ChatGPTのおすすめプラグイン一覧】猛者達が選んだ最強プラグインの使い方39選](https://weel.co.jp/media/plugin-list)
-- [ついに日本で利用可能になったChatGPTの強力ライバル「Claude」使用レビュー、テキストファイルやPDFファイルの認識も可能でランチの相談からコーディング補助までサクサク応答](https://gigazine.net/news/20231019-claude-chatgpt-rival-chat-ai/)
-- [ChatGPTでは的確な“指示出し”が大切！ セントラルオフィスが「プロンプト」のコツをまとめた資料を公開](https://www.mdn.co.jp/news/6580)
-- [ChatGPT/Co-Pilotで改めてわかる「プログラミング」とはどんな作業だったのか｜shi3z (note.com)](https://note.com/shi3zblog/n/ndc6834fefb75)
-- [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
-- [ChatGPT使い方総まとめ](https://qiita.com/sakasegawa/items/82069c97a1ee011c2d1e)
-- [ChatGPTに関するチートシート](https://zenn.dev/nameless_sn/articles/chatgpt_cheat_sheet)
-- [ChatGPT にコードをレビューして貰う](https://zenn.dev/vim_jp/articles/26eb77fea1e9a4)
-- [話題爆発中のAI「ChatGPT」の仕組みにせまる](https://qiita.com/omiita/items/c355bc4c26eca2817324)
-- [VSCodeにChatGPTの拡張機能を入れてコードレビューやバグを発見してもらう](https://qiita.com/tak001/items/c3000b3ce9b6e72b2ae5)
-- [ChatGPTをコマンドラインから使うためのCLIツールを作る](https://zenn.dev/ryo_kawamata/articles/2269fc3ad0d375)
-- [ChatGPT相当モデルを使ったチャットボットを簡単に作れるツールを開発した話](https://zenn.dev/makunugi/articles/001ac46ff35718)
-- [Google SheetでchatGPTを使って一度に質問を沢山しようぜ](https://qiita.com/styu214/items/2aac57b3c8aaf7d335cd)
-- [ChatGPTによるプログラム生成の可能性と限界（前編）](https://qiita.com/autotaker1984/items/5b5ac8c01d11fbbbc4a7)
-- [ChatGPTによるプログラム生成の可能性と限界（後編）](https://qiita.com/autotaker1984/items/c6769f9ea7f2df1fdeb5)
-- [【ChatGPT脱獄編】ChatGPTを悪用できる！？ プロンプトインジェクションとは【悪用厳禁記事】](https://saasis.jp/2023/03/13/%E3%80%90chatgpt%E8%84%B1%E7%8D%84%E7%B7%A8%E3%80%91chatgpt%E3%82%92%E6%82%AA%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%81%EF%BC%9F-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A4%E3%83%B3/)
-- [ChatGPT Hack 要件定義から設計・モデリング・プロトタイプ作成。そして Azure への Deploy までを。ChatGPT に作らせた](https://qiita.com/dahatake/items/54588139062b641cc96f)
-- [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji?slide=66)
-- [「自社製品にチャットAIを組み込みたい」　企業が取るべきセキュリティ対策とは？　“プロンプトインジェクション”の基本手口](https://www.itmedia.co.jp/news/articles/2308/10/news101.html)
-
-## プロンプトエンジニアリング
-
-- [プロンプトエンジニアリングの基本と応用](https://blog.brainpad.co.jp/entry/2023/12/19/153000)
-- [生成 AI アプリケーションの開発を始めるために必要な全知識を学べる 12 講座](https://microsoft.github.io/generative-ai-for-beginners/#/translations/ja-jp/)
-
-- [Build better apps, faster: Copilot in Power Apps is now generally available](https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/)
-- [Windowsで使える生成AI活用のアシスタント機能「Copilot in Windows」を解説Tips連載をスタート](https://www.itmedia.co.jp/pcuser/articles/2312/29/news068.html)
-- [AI コパイロットの概要](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/ai-overview?s=09#prerequisites-for-the-ai-features-in-power-apps)
-- [コパイロット プラグインの作成 - 概要 (プレビュー) - Microsoft Copilot Studio | Microsoft Learn<](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/copilot-plugins-overview)
-- [Microsoft Copilot Studio を触ってみました！](https://aadojo.alterbooth.com/entry/2023/12/09/113106)
-
-- [「Copilot、Copilot...」と連呼する前に、Power BIでは...](https://qiita.com/ishiayaya/items/15b6f28e3245137b5d6f)
-- [Microsoft Copilot Studio を触ってみました！ - Alternative Architecture DOJO](https://aadojo.alterbooth.com/entry/2023/12/09/113106)
-JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0602-SRGCM10625_LP01-Registration---Form-in-Body.html)
-- [Celebrating the first year of Copilot with significant new innovations - The Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/12/05/celebrating-the-first-year-of-copilot-with-significant-new-innovations/)
+- [Azure OpenAI Whisper の申請から利用までの手順をまとめた](https://qiita.com/y__saito/items/13586b2d4959858853db)
 
 ## Azure PowerShell
 
@@ -661,6 +658,7 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 - [Azure 使いだすときに Sentinel でやっておくべきこと](https://zenn.dev/tomot/articles/79aeae00252ba6)
 - [Office 365 の監査ログを Microsoft Sentinel に格納する - Office 365 Management API と Data Collector API (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/8fde7595042f0f281de8)
 - [Azure使いだすときにSentinelでやっておくべきこと](https://zenn.dev/tomot/articles/79aeae00252ba6)
+- [Microsoft Sentinel で検出内容をメール通知する方法](https://www.softbanktech.co.jp/special/cve/2024/0008/)
 
 ## Azure Stack HCI
 
@@ -672,10 +670,10 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 - [Azure Stack HCI に含まれないもの、それはゲスト OS のライセンス](https://atmarkit.itmedia.co.jp/ait/articles/2110/13/news006.html)
 - [Azure Stack Hub Development Kit とは](https://blog.aimless.jp/archives/2018-12-04-what-is-asdk/)
 - [Azure Stack HCI 単一ノードクラスターの評価環境を作成して ESU の検証環境を作成する](https://blog.engineer-memo.com/2022/07/05/azure-stack-hci-%E5%8D%98%E4%B8%80%E3%83%8E%E3%83%BC%E3%83%89%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE%E8%A9%95%E4%BE%A1%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6-esu/)
-- [Azure Stack HCI 評価ガイド - Part 1 「Azure Stack HCI の基礎と展開」 編](https://info.microsoft.com/JA-HCS-CNTNT-FY23-10Oct-12-Azure-Stack-HCI-Assessment-Guide-Part-1-Azure-Stack-HCI-Fundamentals-and-Deployment-SRGCM7946_LP01-Registration---Form-in-Body.html)
 
 ## Azure Static Web Apps
 
+- [GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する](https://tech-lab.sios.jp/archives/43562)
 - [Azure Static Web Apps を構成する](https://learn.microsoft.com/ja-jp/azure/static-web-apps/configuration)
 - [Azure Static Web Apps のローカル実行方法まとめ ＃Azureリレー](https://tech-blog.cloud-config.jp/2021-11-23-azure-static-web-apps-local/)
 - [SPAをStatic Web Appsにデプロイ、本番環境で使ってみた](https://qiita.com/keiotoi/items/d019303d10b11ccf568e)
@@ -709,6 +707,7 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 
 ## SQL Managed Instance
 
+- [Azure SQL Managed Instance を無料で試す (プレビュー)](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/free-offer?view=azuresql)
 - [Azure SQL Managed Instance の接続の種類](https://docs.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connection-types-overview)
 
   > リダイレクト (推奨): クライアントは、データベースをホストしているノードへの直接接続を確立します。 リダイレクトを使用して接続を有効にするには、ファイアウォールとネットワーク セキュリティ グループ (NSG) を開き、ポート 1433 と 11000 から 11999 でのアクセスを許可する必要があります。
@@ -725,20 +724,20 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 
   > 仮想クラスターに対する操作は、所要時間がさまざまですが、通常かなり時間がかかります。
 
-| 手順                              | 推定所要時間                                      |
-| --------------------------------- | ------------------------------------------------- |
-| 仮想クラスターの作成              | 操作の 90% は 4 時間以内に完了                    |
-| 仮想クラスターのサイズ変更        | クラスター拡張の 90% は 2.5 時間未満で完了        |
-| 仮想クラスターの削除              | クラスターの削除の 90% は 1.5 時間以内に完了      |
-| データベース ファイルのシード処理 | これらの操作の 90% は毎時 220 GB 以上で実行される |
+  | 手順                              | 推定所要時間                                      |
+  | --------------------------------- | ------------------------------------------------- |
+  | 仮想クラスターの作成              | 操作の 90% は 4 時間以内に完了                    |
+  | 仮想クラスターのサイズ変更        | クラスター拡張の 90% は 2.5 時間未満で完了        |
+  | 仮想クラスターの削除              | クラスターの削除の 90% は 1.5 時間以内に完了      |
+  | データベース ファイルのシード処理 | これらの操作の 90% は毎時 220 GB 以上で実行される |
 
 - [Azure SQL Managed Instance の接続アーキテクチャ](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/connectivity-architecture-overview?view=azuresql)
 - [Azure SQL Managed Instance に必要なサブネット サイズおよび範囲を決める](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/vnet-subnet-determine-size?view=azuresql)
 
-| レベル | IP アドレス個数 |
-| ------ | --------------- |
-| GP     | 14              |
-| BC     | 16              |
+  | レベル | IP アドレス個数 |
+  | ------ | --------------- |
+  | GP     | 14              |
+  | BC     | 16              |
 
 - [SQL Server から Azure SQL Managed Instance へオンライン移行するためのカスタム ロール](https://learn.microsoft.com/ja-jp/azure/dms/resource-custom-roles-sql-db-managed-instance)
 - [リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルをポータルで作成する](https://learn.microsoft.com/ja-jp/azure/active-directory/develop/howto-create-service-principal-portal)
@@ -772,24 +771,40 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 
 - [Microsoft Azure Red Hat OpenShift (ARO) その１ - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/2021/06/30/Microsoft_Azure_Red_Hat_OpenShift_%28ARO%29_%E3%81%9D%E3%81%AE%EF%BC%91)
 
+## Azure Traffic Manager
+
+- [【Azure】Traffic Managerのトラフィック切り替えをPowerShellで自動化する](https://atmarkit.itmedia.co.jp/ait/articles/2407/31/news049.html)
+- [Azure Traffic Managerプロファイルを生成する方法（ARMテンプレート編）](https://atmarkit.itmedia.co.jp/ait/articles/2409/18/news039.html)
+
 ## Azure Virtual Desktop
 
 - [今話題の Windows Virtual Desktop が大型アップデート！](https://licensecounter.jp/azure/blog/trend/windows-virtual-desktop-update.html)
 - [【Windows Virtual Desktop のディープな技術情報を解説】 #1 新しい管理ポータル](https://zine.qiita.com/topics/202010-wvd-1/)
 - [【Windows Virtual Desktop のディープな技術情報を解説】WVD におけるネットワークセキュリティ - Qiita Zine](https://zine.qiita.com/topics/202010-wvd-2/)
 - [IT リソース キット Windows Virtual Desktop の使用を開始する](https://clouddamcdnprodep.azureedge.net/gdc/gdcamLwLh/original)
-- [Windows Virtual Desktop Event](https://info.microsoft.com/ww-landing-windows-virtual-desktop.html)
 - [Windows Virtual Desktop 最短構築方法解説](https://www.gmo.jp/report/single/?art_id=261)
+
+## Azure WAF
+
+- [Webアプリケーションを保護する「Azure WAF」の導入](https://www.lac.co.jp/lacwatch/service/20241008_004135.html)
+- [【Azure WAF】 WAF を調べたので吐き出す 【Application Gateway】](https://qiita.com/ATL_Villas/items/802a1dcd753906038007)
 
 ## Azure Monitor
 
 - [Azure Monitor エージェントの概要](https://learn.microsoft.com/ja-jp/azure/azure-monitor/agents/agents-overview)
 - [Microsoft Sentinel とは](https://learn.microsoft.com/ja-jp/azure/sentinel/overview)
+- [【Azure】「アクショングループ」を新規作成して通知先を設定する（ポータル編）](https://atmarkit.itmedia.co.jp/ait/articles/2411/27/news059.html)
+
+## Azure Update Manager
+
+- [Azure Update Manager でパッチ管理を試す！](https://www.cloudou.net/virtual-machines/vm022/)
 
 ## Azure VM
 
+- [パスワードレスを含む Microsoft Entra ID を使用して Azure の Windows 仮想マシンにサインインする](https://learn.microsoft.com/ja-jp/entra/identity/devices/howto-vm-sign-in-azure-ad-windows)
 - [Azure VM の送信接続 (SNAT) オプション まとめ](https://jpaztech.github.io/blog/network/snat-options-for-azure-vm/)
-- [Azureのデフォルトoutbound廃止に伴うSelf-hosted Agentへの影響]([)](https://kkamegawa.hatenablog.jp/entry/2023/10/07/185453)
+- [VM(Windows 11) の日本語化の方法](https://office365labo.com/2024/06/21/vmwindows-11-%e3%81%ae%e6%97%a5%e6%9c%ac%e8%aa%9e%e5%8c%96%e3%81%ae%e6%96%b9%e6%b3%95/)
+- [Azureのデフォルトoutbound廃止に伴うSelf-hosted Agentへの影響](https://kkamegawa.hatenablog.jp/entry/2023/10/07/185453)
 - [Azure: VMのカスタムのスクリプト拡張機能をARMテンプレートで使用する際の設定方法について](https://tech-lab.sios.jp/archives/36757)
 - [「トラステッド起動」が既定になり、Azure VMはデプロイ時点で“安全”に](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news003.html)
 - [【Azure】Linux VMのSSHの公開鍵認証をデプロイ時に有効化する方法](https://atmarkit.itmedia.co.jp/ait/articles/2307/19/news022.html)
@@ -798,12 +813,12 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 - [チュートリアル - Azure PowerShell を使用して Windows VM を作成および管理する](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/tutorial-manage-vm)
 - [複数の NIC を持つ Windows 仮想マシンの作成と管理](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/multiple-nics#configure-guest-os-for-multiple-nics)
 
-> route print
-> Interface List  
-> 3...00 0d 3a 10 92 ce ......Microsoft Hyper-V Network Adapter #3  
-> 7...00 0d 3a 10 9b 2a ......Microsoft Hyper-V Network Adapter #4
->
-> route add -p 0.0.0.0 MASK 0.0.0.0 デフォルトゲートウェイ IP METRIC 5015 IF インターフェース No.
+  > route print
+  > Interface List  
+  > 3...00 0d 3a 10 92 ce ......Microsoft Hyper-V Network Adapter #3  
+  > 7...00 0d 3a 10 9b 2a ......Microsoft Hyper-V Network Adapter #4
+  >
+  > route add -p 0.0.0.0 MASK 0.0.0.0 デフォルトゲートウェイ IP METRIC 5015 IF インターフェース No.
 
 ## Azure vNET
 
@@ -814,16 +829,26 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 
 ## SendGrid
 
+- [ステップごとに解説！SPF/DKIM/DMARC設定をチェックする方法](https://sendgrid.kke.co.jp/blog/?p=18093)
+- [新しくなったActivityを使いこなそう〜Web API編](https://sendgrid.kke.co.jp/blog/?p=18235)
+- [Appleのメールプライバシー保護機能の影響と対策](https://sendgrid.kke.co.jp/blog/?p=18306)
+- [スロットリングの原因と対策](https://sendgrid.kke.co.jp/blog/?p=489)
+- [どんな時にAMPメールを送るべきか](https://sendgrid.kke.co.jp/blog/?p=12806)
+- [GlockAppsで迷惑メール度を判定する](https://sendgrid.kke.co.jp/blog/?p=8210)
+- [Webhookとは？](https://sendgrid.kke.co.jp/blog/?p=1851)
 - [Twilio SendGridユーザがGmailのガイドラインに対応する具体的な方法](https://sendgrid.kke.co.jp/blog/?p=17611)
+- [新機能「Email Address Validation API」のご紹介](https://sendgrid.kke.co.jp/blog/?p=17715)
+- [送信ドメインを認証するためのSPFレコードに詳しくなろう](https://sendgrid.kke.co.jp/blog/?p=3509)
+- [SMTP API（X-SMTPAPI）入門](https://sendgrid.kke.co.jp/blog/?p=4232)
 - [バウンスメールとその対策](https://sendgrid.kke.co.jp/blog/?p=17622)
 - [Twilio SendGridの契約先による、機能面やサポート面での違い](https://sendgrid.kke.co.jp/blog/?p=10084)
 - [『List-Unsubscribe』ヘッダとは？](https://sendgrid.kke.co.jp/blog/?p=1822)
 - [C#でメール送信！Twilio SendGridを使って簡単に実装する方法](https://sendgrid.kke.co.jp/blog/?p=1075)
-- [『List-Unsubscribe』ヘッダとは？ | SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=1822)
+- [『List-Unsubscribe』ヘッダとは？ SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=1822)
 - [GASを利用してEvent WebhookのデータをGoogle スプレッドシートに出力する](https://sendgrid.kke.co.jp/blog/?p=17140)
-- [専門家が解説！DMARCの重要性 | SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=16911)
+- [専門家が解説！DMARCの重要性 SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=16911)
 - [メール到達性入門 〜メールマーケター向け〜](https://sendgrid.kke.co.jp/blog/?p=16157)
-- [セミナー「Gmail新ガイドラインのポイントを解説！メール送信者が今やるべきこと」を開催しました！（前編） | SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=17213)
+- [セミナー「Gmail新ガイドラインのポイントを解説！メール送信者が今やるべきこと」を開催しました！（前編） SendGridブログ](https://sendgrid.kke.co.jp/blog/?p=17213)
 - [まず最初にすることシリーズ：アカウントをセキュアに利用するためにするべきこと](https://sendgrid.kke.co.jp/blog/?p=10516)
 - [Twilio SendGridでできること・できないこと](https://sendgrid.kke.co.jp/blog/?p=14634)
 - [GmailとYahoo!がメール送信者に義務づける新しい要件](https://sendgrid.kke.co.jp/blog/?p=17005)
@@ -865,11 +890,11 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 ## Terraform
 
 - [GitHub Copilot ChatでAzureのインフラを爆速実装しよう](https://techblog.ap-com.co.jp/entry/2024/01/26/184440)
+- [5分で分かるTerraform（Infrastructure as Code）](https://www.lac.co.jp/lacwatch/service/20200903_002270.html)
 
 ## Migration
 
 - [What is Azure Resource Mover?](https://docs.microsoft.com/en-us/azure/resource-mover/overview)
-- [徹底解説！できる Azure Migrate](https://info.microsoft.com/JA-AzureMig-CNTNT-FY20-03Mar-18-Thoroughcommentary-SRGCM3343_01Registration-ForminBody.html)
 
 ## Microsoft Operations Management Suite
 
@@ -886,8 +911,3 @@ JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0
 - [OneLake File Explorer](https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric1](https://marshal115.hatenablog.com/entry/2023/06/19/230347)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric3](https://marshal115.hatenablog.com/entry/2023/07/16/233247)
-
-## Windows 365
-
-- [Windows 365 ウェビナー 第1弾　新登場！Windows 365 Frontline](https://info.microsoft.com/JA-MODEND-VDEO-FY24-09Sep-05-Windows-365-Webinar-Vol-1-New-Windows-365-Frontline-SRGCM10973_LP01-Registration---Form-in-Body.html)
-- 
