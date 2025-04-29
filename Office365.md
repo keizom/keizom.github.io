@@ -85,7 +85,10 @@
 
 ## Copilot
 
+- [MicrosoftのAIアシスタント「Copilot Pro」とは？活用方法や無料版・有料版の違いを解説](https://www.lifehacker.jp/article/what_is_microsofts_ai_assistant_copilot_pro/)
+- [「Microsoft 365 Copilot Wave 2」の最新機能--AIエージェントに重点](https://japan.zdnet.com/article/35232218/)
 - [Microsoft Copilot導入キット](https://adoption.microsoft.com/ja-jp/copilot-enterprise-data-protection/adoption-kit/)
+- [Microsoft Copilotで何ができる？ 初心者でもわかる特徴や使い方を解説](https://biz.techvan.co.jp/tech-microsoft/blog/contents/microsoft_copilot.html)
 - [Microsoft Copilot のヘルプとラーニング](https://support.microsoft.com/ja-jp/copilot-skilling)
 - [『 Microsoft 365 Copilot クイックガイド』PowerPoint編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-07-Copilot-for-Microsoft-365-Quick-Guide-PowerPoint-Edition-SRGCM12966_LP01-Registration---Form-in-Body.html?sccid=fb_scl_spl_soc_20250109&ocid=AID3062894_FACEBOOK_oo_spl100007053797207)
 - [『Microsoft 365 Copilotクイックガイド』Teams編](https://info.microsoft.com/JA-T2C-CNTNT-FY25-10Oct-04-Copilot-for-Microsoft-365-Quick-Guide-for-Teams-SRGCM12965_LP01-Registration---Form-in-Body.html)
@@ -202,6 +205,9 @@
 
 - [無料で使えるMicrosoftの生成AI「Microsoft Designer」で始める画像生成](https://forest.watch.impress.co.jp/docs/serial/offitech/1609858.html)
 
+## SSecurity
+
+- [Microsoft 365 環境におけるOAuthアプリのリスクと対策](https://zenn.dev/hirotomotaguchi/articles/202504_m365-oauth-security)
 
 ## Teams
 

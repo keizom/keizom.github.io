@@ -90,6 +90,7 @@
 
 ## csharp
 
+- [【QuickGrid】Blazorで簡単に表形式のUIを作成する](https://blog.jbs.co.jp/entry/2025/04/24/110002)
 - [Windows App SDKでデスクトップアプリを作る](https://qiita.com/hayashida-katsutoshi/items/ccd91e69543e6da188c3)
 - [.NET 8 と GitHub、そして Azure による開発者エクスペリエンスの向上 ～ 最新開発プラッ](https://speakerdeck.com/chack411/dot-net-8-to-github-sosite-azure-niyorukai-fa-zhe-ekusuperiensunoxiang-shang-zui-xin-kai-fa-puratutohuomu-demonsutoresiyon)
 - [【Ｃ＃】完璧で幸福にアプリケーションの二重起動を防止してすでに起動しているアプリを前面に表示する](https://qiita.com/Subara3/items/50da6ee5885d576b429b)
@@ -129,7 +130,12 @@
 - [Cursor AIで変わる新しいエディタ](https://qiita.com/omo_taku/items/f9364fb23c0929b5308f)
 - [【Cursor】今話題のAI搭載最強コードエディタ！使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
 - [Cursorエディタで開発を爆速化しよう！](https://qiita.com/railgun-0402/items/717f44df9d68d77309f1)
-- [Cursor の無料版を使い続ける場合の設定](https://qiita.com/7shi/items/2e8e3ed2c39e3dc4ee22)
+- [Cursor の無料版を使い続ける場合の設定](https://qiita.com/7shi/items/2e8e3ed2c39e3dc4ee22
+
+### Claude Code
+
+- [Claude Code + MCPの関係図解：2025年3月版](https://zenn.dev/delisit/articles/20b4d8fecb4aa7)
+
 
 ## Dev Home
 
@@ -254,9 +260,13 @@
 
 - [初心者向け！GitHub Actions をはじめる](https://zenn.dev/kiwichan101kg/articles/2d6850ff72bc98)
 - [Digger + GitHub Actionsで作るTerraform/OpenTofuのCI/CD](https://qiita.com/minamijoyo/items/b61806b570d9d1257f0b)
+
 ## GitHub Copilot
 
 - [いくつ知ってる？ GitHub Copilotの新機能、コーディングにとどまらない進化を解説](https://codezine.jp/article/detail/20065)
+- [GitHub Copilot を完全に使いこなす会](https://zenn.dev/microsoft/articles/github_copilot_intro)
+- [VS CodeのCopilotとCopilot Chatの機能と活用方法](https://dev.classmethod.jp/articles/vs-code-copilot-features/)
+- [知っておきたいGitHub Copilotの新料金体系 - プレミアムリクエストって何？](https://zenn.dev/dehio3/articles/202504_github_copilot_plan)
 - [AzureについてCopilotが何でも教えてくれる「GitHub Copilot for Azure」発表。操作方法からプログラミング、デプロイの方法まで](https://www.publickey1.jp/blog/24/azurecopilotgithub_copilot_for_azure.html)
 - [OpenAI o1-preview/o1-miniがVS CodeのGitHub Copilot ChatとGitHub Modelsで利用可能に](https://gihyo.jp/article/2024/09/openai-o1-github-copilot)
 - [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
@@ -365,6 +375,8 @@
 
 ## VisualStudio Code
 
+- [VSCodeの拡張機能を使ってリモート開発しよう](https://codezine.jp/article/detail/21241)
+- [コードをコピペしたあとの雑務をAIが肩代わりする「Visual Studio」新機能がテスト開始](https://forest.watch.impress.co.jp/docs/news/2009711.html)
 - [ChatGPTとVSCodeを連携させる方法｜使い方を解説](https://www.onamae.com/business/article/26878/)
 - [ChatGPTがコーディング支援を強化。コードエディタ機能を統合、コードレビューやデバッグ、他言語への移植ツールなどを含む新機能「Canvas」が登場](https://www.publickey1.jp/blog/24/chatgptcanvas.html)
 - [次世代エディタ6選](https://qiita.com/twrcd1227/items/4faccd04f0f19f3fdb5e)

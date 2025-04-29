@@ -276,10 +276,12 @@ Add-SPDistributedCacheServiceInstance
 - [iSCSI ターゲット サーバーの概要](https://docs.microsoft.com/ja-jp/windows-server/storage/iscsi/iscsi-target-server)
 - [winget を使おう 前編：winget のインストールと基本操作](https://astherier.com/blog/2021/08/winget-usage-1/)
 
-# Copilot
+# Copilot+ PC
 
 - [WindowsにCopilotが登場したので使ってみよう（1）](https://swri.jp/article/1334)
 - [Copilot in Windows － Windows OSの操作もできる「AI副操縦士」。もう試しました？](https://win-tab.net/opinion/copilot_in_windows_2310022/)
+- [Windows 11 2024 Updateの更新で「Copilot+ PC」に機能追加　操作履歴をたどれる「リコール」のプレビュー版も一般公開](https://www.itmedia.co.jp/pcuser/articles/2504/28/news129.html)
+- [Copilot+ PCで利用できる「Windows Copilot Runtime」を試す　ローカル推論用モデル「Phi Silica」とは？](https://ascii.jp/elem/000/004/266/4266047/)
 
 # AD
 
@@ -302,6 +304,8 @@ Add-SPDistributedCacheServiceInstance
 
 # VMware
 
+- [vSphere Hypervisor (無償版 ESXi) の提供再開と入手方法、通常版との比較](https://kwmtlog.blogspot.com/2025/04/free-vsphere-hypervisor.html)
+- [無償版 ESXi こと vSphere Hypervisor が 8 になって帰ってきた！](https://vhoge.hateblo.jp/entry/2025/04/14/010700)
 - [おうちクラウド 第 3 回 "仮想化基盤を作ってみよう" サンプルコード・参考情報集](https://github.com/tuna-jp/ouchi-cloud/blob/main/vol3/README.md)
 - [ESXi on Intel NUC 13 Pro (Arena Canyon)](https://williamlam.com/2023/03/esxi-on-intel-nuc-13-pro-arena-canyon.html)
 - [ESXiをIntel NUC上に構築する](https://qiita.com/h_tyokinuhata/items/d9544bdd5f7223e60ac1)

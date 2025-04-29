@@ -128,6 +128,8 @@
 
 ## Power Apps
 
+- [#MSIgnite 2022 Power Platform CLI 周り (Learn Live) セッションの参考リンク集](https://qiita.com/chomado/items/3a2493e49cb201f72b52)
+- [Microsoft Power Platform CLI とは?](https://learn.microsoft.com/ja-jp/power-platform/developer/cli/introduction?tabs=windows)
 - [App in a Day @Home ― お家で Power Apps ハンズ](https://www.youtube.com/playlist?list=PL1RqQ3kddIpa0plPbFZ2ExF-hCnazx-Rd)
 - [PowerApps-Sample-Apps-Japan](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main)
 - [365ユーザー向け、キャンバスアプリの作り方](https://learn.microsoft.com/ja-jp/collections/j0xzun463pkrng?sharingId=M365-MVP-5000493)

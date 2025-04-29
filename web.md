@@ -27,6 +27,10 @@
 - [ツール・ド・フロントエンド2024（フロントエンド班の開発環境や興味のある技術を調査してみた）](https://zenn.dev/teamlab_fe/articles/8f5ff75885a868)
 
 
+## AI
+
+- [生成AIを使ってどこまでサイト制作ができるのか試してみた](https://qiita.com/kazunoriboy/items/3842580e7d702f1b2f10)
+
 ## Bootstrap
 
 - [初心者でも Web 制作ができる！CSS フレームワーク「Bootstrap」入門編](https://ferret-plus.com/5129)
@@ -44,6 +48,8 @@
 
 ## css
 
+- [ブックマークしておくと便利！ よく見かけるUIコンポーネントやUI要素を実装するCSSのまとめ -CSSnippets](https://coliss.com/articles/build-websites/operation/css/cssnippets-by-shefali.html)
+- [【CSS】CSSだけで作るカルーセル](https://qiita.com/degudegu2510/items/e106cadc2fd1d14525f3)
 - [Web制作者は要チェック！ 2025年、Webサイトやスマホアプリの実装に役立つモダンCSSのスニペットのまとめ](https://coliss.com/articles/build-websites/operation/css/modern-css-snippets-for-2025.html)
 - [すべての主要ブラウザで利用可能になったアットルール@staring-styleとは](https://zenn.dev/cybozu_frontend/articles/20240812_starting-style)
 - [2024年、Web制作者がチェックしておきたいCSSの新機能のまとめ](https://coliss.com/articles/build-websites/operation/css/css-in-2024.html)
@@ -97,17 +103,20 @@
 ## figma
 
 - [プロダクトを横断したFigmaコンポーネント構築 〜「インスタンスガイドライン」を策定した話〜](https://zenn.dev/levtech/articles/0271c278f88584)
+- [FigmaデザインをHTMLコードへ自動変換する方法](https://recruit.gmo.jp/engineer/jisedai/blog/figma-design-to-html-using-figma-mcp-and-roo-code/)
 - [FigmaのAIによる学習「コンテンツのトレーニング」をオフにする方法、独自性・機密性の高いデザインを扱っている場合は注意が必要です](https://coliss.com/articles/build-websites/operation/work/figma-ai-will-use-your-content-to-train.html)
 - [Figmaの実践的な使い方がこれでよく分かる！ UIコンポーネントの作り方にフォーカスされた解説書 -Figmaで作るUIデザインアイデア集](https://coliss.com/articles/book-review/isbn-9784295019084.html)
 - [Figmaでちょっとしたデザインをつくるときに使っているプラグイン8選](https://ics.media/entry/240603/)
 - [Figma初心者でも大丈夫！ レスポンシブWebデザインをFigmaで作るための3つのポイント](https://stocker.jp/diary/figma-rwd-point/)
+- [ Figma MCP × Cursorで加速するUI実装とその先の工夫](https://zenn.dev/superstudio/articles/91ceb2f2f1d784)
 - [XDからFigmaへ移行したい人のためにFigmaの機能を紹介](https://stocker.jp/diary/xd-to-figma/)
 - [エンジニア向けFigmaの使い方を徹底解説](https://liginc.co.jp/blog/tech/639546)
 - [Figmaの魅力がすぐわかる、仕事で即使える！おすすめテンプレ、プラグイン、ウィジェット【Figmaワークハック #4】](https://www.lifehacker.jp/article/2312-figma-4/)
 - [生成AIを使用したFigmaのコード変換：Animaの新しいAIカスタマイズコーディングの使用例6選](https://www.animaapp.com/blog/ja/ai/%e7%94%9f%e6%88%90ai%e3%82%92%e4%bd%bf%e7%94%a8%e3%81%97%e3%81%9ffigma%e3%81%ae%e3%82%b3%e3%83%bc%e3%83%89%e5%a4%89%e6%8f%9b%ef%bc%9aanima%e3%81%ae%e6%96%b0%e3%81%97%e3%81%84ai%e3%82%ab%e3%82%b9/)
 - [FigmaのHTMLコードへのエクスポートの仕方](https://www.animaapp.com/blog/ja/%E3%80%8C%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%8B%E3%82%89%E3%82%B3%E3%83%BC%E3%83%89%E3%80%8D/figma%E3%81%AEhtml%E3%82%B3%E3%83%BC%E3%83%89%E3%81%B8%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E4%BB%95%E6%96%B9/)
 - [Figmaでちょっとしたデザインをつくるときに使っているプラグイン8選](https://ics.media/entry/240603/)
-
+- [【Cursor】FigmaにアクセスしてUIコードを自動生成！](https://zenn.dev/oke331/articles/97d5de75f06fb3)
+- [Figmaプレゼン資料を爆速で作る！時系列デザインサンプル｜カラーコード付き](https://tech-lab.sios.jp/archives/46841)
 
 ## html
 
@@ -231,6 +240,7 @@
 ## JavaScript
 
 - [JavaScript エンジンの高速化](https://zenn.dev/acd1034/articles/240726-accelerating-javascript-engine)
+- [【JavaScript】MDNが推奨する最強の書き方](https://qiita.com/TechForGood/items/0cc492ea3f8f3d6638e7)
 - [JavaScriptの便利な記法や関数の紹介およびそれらの注意点について](https://qiita.com/umiushi_1/items/487fdcfcf5caf7a9a3c0)
 - [[javascript] カラフルなconsole.log](https://qiita.com/oharu121/items/446027d9e4a494455555)
 - [「JavaScriptで要素をドラッグして移動する簡単な方法」という記事が初耳だらけだった件](https://qiita.com/www-tacos/items/5614b61d3742d6db34b7)

@@ -50,6 +50,7 @@
 ## Chat GPT
 
 - [【世界が10年進んだ】OpenAI怒涛の12日連続発表総まとめ。知っておくべきポイントを抜粋解説《$200プラン、o1、o3、Sora、ビデオ通話 などなど》](https://note.com/chaen_channel/n/n59eef96a01d2)
+- [ChatGPT と外部サービスを接続する GPTs 開発ガイド](https://zenn.dev/openaidevs/articles/70f093c260672f)
 - [ChatGPTライクなUIのローカルLLMを構築できるGPT4Allとは？](https://atmarkit.itmedia.co.jp/ait/articles/2501/06/news024.html)
 - [Windows版ChatGPTアプリが公開](https://pc.watch.impress.co.jp/docs/news/1632455.html)
 - [早速「ChatGPT search」のお試し【OpenAI】](https://qiita.com/youtoy/items/be294a7e8f9fec75fde9)
@@ -160,6 +161,7 @@
 ## Dify
 
 - [会社の資料を今すぐDifyで要約しよう！](https://qiita.com/ogi_kimura/items/d13631b3a77e18023ef9)
+- [ノーコードで高度な生成AIアプリをつくれる「Dify」、ChatGPTと何が違う？](https://xtech.nikkei.com/atcl/nxt/column/18/03136/032500001/)
 - [Dify入門ガイド：5分で作れる簡単アプリまとめ](https://tech-lab.sios.jp/archives/45860)
 - [Difyとは｜話題のノーコード生成AIアプリ開発プラットフォーム](https://ledge.ai/articles/dify)
 - [超簡単に、Windows11にDifyをインストールする手順](https://qiita.com/daishiro_jp/items/de2b59b4081ead2161fe)
@@ -211,6 +213,9 @@
 - [【GraphRAG プロジェクトを立ち上げます】ナレッジグラフとLLMで「発想力を持つAI」の実現へ](https://note.com/stockmark/n/n34f4c2cf3559)
 - [GraphRAGを使った生成AIチャットアプリを作ってみた](https://qiita.com/ssfujita/items/65a952f299190f4c1e6a)
 
+## Langfuse
+
+- [LLMアプリ開発の必須ツール？！Langfuseがすごい！](https://qiita.com/moritalous/items/76ba9f2ad200df335d07)
 
 ## Local LLM
 
@@ -234,6 +239,7 @@
 
 ### Phi
 
+- [Phi-4 を一番楽に自分の PC で動かす](https://qiita.com/tokawa-ms/items/ffcf11dfacd2190df1de)
 - [【ollama / Phi-3】ニュースで話題のLLMをローカルPC上で動かしてみる](https://zenn.dev/tanny/articles/705682d88e254e)
 - [僅か2.3GBで日本語可能な超高性能ローカルLLMのPhi-3 MINIをllama.cppとCPUで動かしてみた。スマホでも可。従来のコンパクトLLMと比較して超越した性能で未来を感じさせるMicroSoft寄付ありがとう](https://togetter.com/li/2355369)
 - [Welcome to Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)
@@ -255,6 +261,40 @@
 - [GPT-4超えの日本語性能？ 話題のELYZA製LLMをBedrockにインポート！ サーバーレス化してみよう](https://qiita.com/minorun365/items/eadb4e818f71a802f0e7)
 - [LLMアプリケーションの評価入門〜基礎から運用まで徹底解説〜](https://zenn.dev/pharmax/articles/df59290ba875ff)
 - [ローカルLLMの実行ツールであるOllamaをUbuntuで動かす](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0825)
+
+## MCP Server
+
+- [VS Codeにもついに「持ち込みAI」時代が来た？──バージョン 1.99での変更点を紹介](https://atmarkit.itmedia.co.jp/ait/articles/2504/23/news056.html)
+- [Playwright MCP を使ってAIにブラウザ操作をさせてみる（GitHub Copilot / Cline 環境構築手順付）](https://qiita.com/t-kurasawa/items/fc47a9133dd6cfe1ae7b)
+- [シンプルな自作MCPサーバーを VS Code に設定して GitHub Copilot の Agent mode で利用（Node.js で TypeScript を直接扱う）](https://qiita.com/youtoy/items/1d46724e40ab96607b18)
+- [Model Context Protocol(MCP)の基礎に関して、社内勉強会で使用したスライド資料を公開します！](https://dev.classmethod.jp/articles/shuntaka-mcp-study/)
+- [MCPサーバーを自作する中でつまずいたポイント](https://zenn.dev/moneyforward/articles/6deaa22428a109)
+- [Visual Studio CodeのAgent modeとは？有効化の方法と活用のヒント](https://zenn.dev/kenshintatsumi/articles/d4f7d3f3cfc691)
+- [Windows の Claude Desktop から WSL2 の Claude Code を mcp server として使う](https://zenn.dev/kariya_mitsuru/articles/5ed08d1afe658b)
+- [Azure Functions で MCP サーバーが作れるようになりました！](https://zenn.dev/microsoft/articles/mcp-azurefunctions)
+- [Azure FunctionsでMCPサーバーを作る！](https://zenn.dev/microsoft/articles/azure-function-mcp)
+- [Playwright MCP技術解説 〜次世代ブラウザ自動化の可能性〜](https://qiita.com/cr_murai/items/13e55eab7e21f6f29619)
+- [簡易な自作MCPサーバーをお試しで実装する方法](https://zenn.dev/smartround_dev/articles/02af1058e9f80f)
+- [Claude Code + MCPの関係図解：2025年3月版](https://zenn.dev/delisit/articles/20b4d8fecb4aa7)
+- [CursorからMCPで社内のドキュメントや仕様書を参照する方法](https://zenn.dev/kadoya/articles/872f4dac6d8bcc)
+- [Playwright MCP を使ってAIにUXを評価してもらう](https://qiita.com/Takenoko4594/items/cc36ca3043f11ca175c1)
+- [AIコードエディタCursor大活用！ ── Cursor Rules、MCP、エラー調査](https://tech.smarthr.jp/entry/2025/04/09/193526)
+- [Azure Functionsで30分でMCPサーバーを構築する](https://tech.algomatic.jp/entry/2025/04/09/193632)
+- [MCPを超理解する](https://qiita.com/ak-sasaki0919/items/b216a06b0ef33536fc3b)
+- [MCP入門](https://zenn.dev/kazuwombat/articles/d8789724f10092)
+- [Azure MCP Server がパブリックプレビューになったので試してみた](https://techblog.ap-com.co.jp/entry/2025/04/18/120000)
+- [【Microsoft×生成AI連載】Copilot Studio エージェントビルダーでエージェントを作成してみた](https://blog.jbs.co.jp/entry/2025/04/23/130615)
+- [MCP概要説明](https://zenn.dev/mkj/articles/0ed4d02ef3439c)
+- [明日からできる！GitHub Copilot + GitHub MCP Serverで始めるAI駆動開発](https://zenn.dev/10q89s/articles/ecb9d205f4dbec)
+- [ Figma MCP × Cursorで加速するUI実装とその先の工夫](https://zenn.dev/superstudio/articles/91ceb2f2f1d784)
+- [【Cursor】FigmaにアクセスしてUIコードを自動生成！](https://zenn.dev/oke331/articles/97d5de75f06fb3)
+- [プログラマー必見！FastAPI-MCPでAI時代のAPI開発を加速する方法（初心者向けコード付き）](https://qiita.com/takuya77088/items/4db3bcaedd8ad721b077)
+- [Web開発者のための便利ツールを集めたMCPサーバーを作って公開した](https://zenn.dev/noboru_i/articles/4940febcafc7dd)
+- [やさしいMCP入門](https://speakerdeck.com/minorun365/yasasiimcpru-men)
+- [最小限のMCP Host/Client/Serverをスクラッチで実装する](https://zenn.dev/razokulover/articles/9a0aee8ceb9f3f)
+- [今更MCPサーバー入門してみた](https://zenn.dev/amana/articles/9d13d133a9cd22)
+- [VS Code の設定から MCPサーバーを追加して GitHub Copilot agent mode で利用してみる（安定版でも利用可能に）](https://qiita.com/youtoy/items/adfeedeedf1309f194ce)
+- [Visual Studio CodeでMCP Serverを使えるようにしてみた](https://zenn.dev/kenshintatsumi/articles/9250aa8303a72f?redirected=1)
 
 ## Napkin AI
 
@@ -290,6 +330,7 @@
 ## Prompt
 
 - [Google製プロンプト活用法100選](https://docs.google.com/spreadsheets/d/1Ti13QWfBzXpurHxgVyaTTd9XuzrJqYL9HRgg7blVXac/edit?gid=0#gid=0)
+- [Google Prompting Essentials](https://grow.google/prompting-essentials/)
 - [各種Prompt Engineeringの日本語実例集（Zero-CoT、mock、ReAct、ToT、Metacog、Step Back、IEPなど）](https://qiita.com/YutaroOgawa2/items/aca32f8fd7d551596cf8)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
 - [マーケティングプロンプト50選(前編) 後編は公式LINEで配布中](https://docs.google.com/spreadsheets/d/18EC9WV_AIBR4m5xXk-YV5UJY9jcWe7_ei-N47zUb-Fc/edit?pli=1&gid=0#gid=0)

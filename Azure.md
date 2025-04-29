@@ -911,3 +911,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [OneLake File Explorer](https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric1](https://marshal115.hatenablog.com/entry/2023/06/19/230347)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric3](https://marshal115.hatenablog.com/entry/2023/07/16/233247)
+
+## Windows 365
+
+- [ナガシヨミ Windows - Windows 365 概要](https://www.docswell.com/s/takuyaot/ZQRJ6R-w365#p40)
