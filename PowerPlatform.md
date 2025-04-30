@@ -16,6 +16,10 @@
 
 # Microsoft 365
 
+## Event
+
+- [Global Power Platform Bootcamp 2025 in Japan](https://www.youtube.com/@gppb2025jp)
+
 ## AI Builder Lobe
 
 - [Automate Document Processing end-to-end with AI Builder](https://powerautomate.microsoft.com/en-us/blog/automate-document-processing-end-to-end-with-ai-builder/)
@@ -129,6 +133,7 @@
 ## Power Apps
 
 - [#MSIgnite 2022 Power Platform CLI 周り (Learn Live) セッションの参考リンク集](https://qiita.com/chomado/items/3a2493e49cb201f72b52)
+- [Power Apps や Power Automate で以前作成したものを使って効率よく作成する](https://qiita.com/Takashi_Masumori/items/21a35eea397f99184d06)
 - [Microsoft Power Platform CLI とは?](https://learn.microsoft.com/ja-jp/power-platform/developer/cli/introduction?tabs=windows)
 - [App in a Day @Home ― お家で Power Apps ハンズ](https://www.youtube.com/playlist?list=PL1RqQ3kddIpa0plPbFZ2ExF-hCnazx-Rd)
 - [PowerApps-Sample-Apps-Japan](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main)

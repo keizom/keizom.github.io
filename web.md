@@ -49,8 +49,8 @@
 ## css
 
 - [ブックマークしておくと便利！ よく見かけるUIコンポーネントやUI要素を実装するCSSのまとめ -CSSnippets](https://coliss.com/articles/build-websites/operation/css/cssnippets-by-shefali.html)
-- [::scroll-button と ::scroll-marker を使って CSS だけでカルーセルを作る](https://azukiazusa.dev/blog/css-only-carousel/)
 - [Web制作者はダウンロードしておきたい！ CSS関連の最新版チートシートのまとめ](https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-2025.html)
+- [::scroll-button と ::scroll-marker を使って CSS だけでカルーセルを作る](https://azukiazusa.dev/blog/css-only-carousel/)
 - [HTMLは非常にシンプル！ 圧倒的な速さでMaterial Design 3のUIを実装できるCSSの超軽量フレームワーク -Beer CSS](https://coliss.com/articles/build-websites/operation/css/material-design-interfaces-beer-css.html)
 - [【CSS】CSSだけで作るカルーセル](https://qiita.com/degudegu2510/items/e106cadc2fd1d14525f3)
 - [Web制作者は要チェック！ 2025年、Webサイトやスマホアプリの実装に役立つモダンCSSのスニペットのまとめ](https://coliss.com/articles/build-websites/operation/css/modern-css-snippets-for-2025.html)
@@ -123,6 +123,7 @@
 
 ## html
 
+- [AIなら超簡単で早い！ Webサイトの構造を視覚化し、サイトマップを生成できる無料ツール -AI Sitemap Generator](https://coliss.com/articles/build-websites/operation/work/ai-sitemap-website-content-generator.html)
 - [【保存版】Webフロントエンド基礎力（初心者向け）](https://qiita.com/teradonburi/items/43c52d7cffc318e9b1e9)
 - [【保存版】フロントエンド初心者がまず読むべき資料まとめ【2024年最新】](https://qiita.com/nuco_YM/items/b4259d838be53a6f44ee)
 - [【最新版】エンジニア向けおすすめの学習サービスまとめ](https://qiita.com/KNR109/items/ff0699e67a5740eeaaa8)
@@ -313,3 +314,4 @@
 -[Vue.jsとjQueryの違いは メリット・デメリットを歴史的に比較](https://runteq.jp/blog/programming-school/other/2774/)
 - [【他のSPAでも】Vue3でアプリ作るならこれを入れろ！2023 ver【使えるよ】](https://qiita.com/k2-kanda/items/42e7df9a578495a5a215)
 - [【Vue.js】今、ゼロから Vue を学び始めるならこうやるといいんじゃないか (2024) 【初学者向け】](https://zenn.dev/comm_vue_nuxt/articles/start-to-learn-vue-2024)
+- [Vue.js 3 をつくって学ぶ リアクティブシステム](https://qiita.com/hareku/items/41c42554e7718aa17483)

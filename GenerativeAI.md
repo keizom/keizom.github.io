@@ -163,6 +163,7 @@
 - [会社の資料を今すぐDifyで要約しよう！](https://qiita.com/ogi_kimura/items/d13631b3a77e18023ef9)
 - [【発売前レビュー】Difyで作る生成AIアプリ完全入門](https://qiita.com/minorun365/items/15527ec7ffe8804ce290)
 - [ノーコードで高度な生成AIアプリをつくれる「Dify」、ChatGPTと何が違う？](https://xtech.nikkei.com/atcl/nxt/column/18/03136/032500001/)
+- [世界一わかりみの深いDify](https://tech-lab.sios.jp/archives/46102)
 - [Dify入門ガイド：5分で作れる簡単アプリまとめ](https://tech-lab.sios.jp/archives/45860)
 - [なぜ、Difyなのか](https://tech.algomatic.jp/entry/2025/03/31/192241)
 - [Difyとは｜話題のノーコード生成AIアプリ開発プラットフォーム](https://ledge.ai/articles/dify)
@@ -202,6 +203,7 @@
 ## GraphRAG
 
 - [MicrosoftのGraphRAG+Neo4jで簡単にKnowledge Graphを可視化する](https://acro-engineer.hatenablog.com/entry/2024/11/19/120000)
+- [ナレッジグラフを活用するGraphRAGを俯瞰する](https://zenn.dev/zenkigen_tech/articles/0a25b2eaefb304)
 - [Microsoft⁠⁠、GraphRAG 1.0をリリース](https://gihyo.jp/article/2024/12/graphrag-1-0)
 - [Moving to GraphRAG 1.0 – Streamlining ergonomics for developers and users](https://www.microsoft.com/en-us/research/blog/moving-to-graphrag-1-0-streamlining-ergonomics-for-developers-and-users/)
 - [Project GraphRAG](https://www.microsoft.com/en-us/research/project/graphrag/)
@@ -310,6 +312,7 @@
 - [【MCPのトリセツ #1】MCPの概要と導入方法](https://zenn.dev/takna/articles/mcp-server-tutorial-01-install)
 - [MCPに1mmだけ入門](https://zenn.dev/ks0318/articles/053b5bc1701c31)
 - [【AI開発】VSCode拡張機能「Cline」とは？使い方やCusorとの違いを徹底解説](https://www.ai-souken.com/article/what-is-cline#google_vignette)
+- [.NET AIテンプレートのプレビュー版リリース　AIチャットアプリ開発はどう簡単になるのか](https://atmarkit.itmedia.co.jp/ait/articles/2503/12/news080.html)
 
 ### Figma
 
@@ -318,6 +321,7 @@
 - [デザイン→実装を瞬時に！Figma-MCPが消す開発現場のストレス](https://qiita.com/Nakamura-Kaito/items/bda2003313fa33f4d818)
 - [【MCPのトリセツ #6】Figma MCP：デザインとコードを効率的に連携](https://zenn.dev/takna/articles/mcp-server-tutorial-06-figma)
 - [【Cursor】FigmaにアクセスしてUIコードを自動生成！](https://zenn.dev/oke331/articles/97d5de75f06fb3)
+- [FigmaデザインをHTMLコードへ自動変換する方法](https://recruit.gmo.jp/engineer/jisedai/blog/figma-design-to-html-using-figma-mcp-and-roo-code/)
 
 ### Playwright MCP
 

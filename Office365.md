@@ -105,8 +105,6 @@
 - [Copilot for Microsoft 365 ゴールデンプロンプト ~ 話題の生成 AI カンタン使いこなし術 ~ 2024年6月更新版](https://info.microsoft.com/JA-T2C-CNTNT-FY24-05May-22-Copilot-for-Microsoft-365-Golden-Prompt-Easy-way-to-use-AI-to-generate-topics-SRGCM12256_LP01-Registration---Form-in-Body.html)
 - [できる Microsoft 365 Copilot スタートガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-05-Copilot-for-Microsoft-365-Getting-Started-Guide-SRGCM11972_LP01-Registration---Form-in-Body.html)
 - [Copilot for Microsoft 365 職種別活用ケース シナリオガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-23-Copilot-for-Microsoft-365-Job-Use-Case-Scenario-Guide-SRGCM12055_LP01-Registration---Form-in-Body.html)
-- []()
-- []()
 
 ## Developer Subscription
 

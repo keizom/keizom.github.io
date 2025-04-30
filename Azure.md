@@ -812,6 +812,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [仮想マシンでサーバごと管理する](https://news.mynavi.jp/techplus/article/zeroazure-6/)
 - [Azure Monitor エージェントによる Windows 仮想マシンの監視](https://cloudsteady.jp/post/50812/)
 - [チュートリアル - Azure PowerShell を使用して Windows VM を作成および管理する](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/tutorial-manage-vm)
+- [【Azure】App Service on LinuxでディレクトリごとにクライアントIP制限を実装する方法と注意点（NGINX編）](https://atmarkit.itmedia.co.jp/ait/articles/2503/05/news055.html)
 - [複数の NIC を持つ Windows 仮想マシンの作成と管理](https://docs.microsoft.com/ja-jp/azure/virtual-machines/windows/multiple-nics#configure-guest-os-for-multiple-nics)
 
   > route print
