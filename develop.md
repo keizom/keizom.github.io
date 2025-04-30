@@ -130,7 +130,8 @@
 - [Cursor AIで変わる新しいエディタ](https://qiita.com/omo_taku/items/f9364fb23c0929b5308f)
 - [【Cursor】今話題のAI搭載最強コードエディタ！使い方や料金体系、できることを解説](https://weel.co.jp/media/cursor)
 - [Cursorエディタで開発を爆速化しよう！](https://qiita.com/railgun-0402/items/717f44df9d68d77309f1)
-- [Cursor の無料版を使い続ける場合の設定](https://qiita.com/7shi/items/2e8e3ed2c39e3dc4ee22
+- [Cursor の無料版を使い続ける場合の設定](https://qiita.com/7shi/items/2e8e3ed2c39e3dc4ee22)
+- [[Cursorエディター導入/第一歩] Cursorエディターを触ってみました](https://qiita.com/h-sakamoto/items/90df3ada565cc10e1e99)
 
 ### Claude Code
 
@@ -264,6 +265,7 @@
 ## GitHub Copilot
 
 - [いくつ知ってる？ GitHub Copilotの新機能、コーディングにとどまらない進化を解説](https://codezine.jp/article/detail/20065)
+- [GitHub Copilotを最強にする拡張機能4選](https://zenn.dev/sqer/articles/1535f0a7d2a9b8)
 - [GitHub Copilot を完全に使いこなす会](https://zenn.dev/microsoft/articles/github_copilot_intro)
 - [VS CodeのCopilotとCopilot Chatの機能と活用方法](https://dev.classmethod.jp/articles/vs-code-copilot-features/)
 - [知っておきたいGitHub Copilotの新料金体系 - プレミアムリクエストって何？](https://zenn.dev/dehio3/articles/202504_github_copilot_plan)
@@ -376,6 +378,8 @@
 ## VisualStudio Code
 
 - [VSCodeの拡張機能を使ってリモート開発しよう](https://codezine.jp/article/detail/21241)
+- [VSCodeのプロファイル機能を解説！プロジェクトごとの環境を簡単に切り替えよう](https://qiita.com/kazushi_ohata/items/bc308b223c367cb5fbb4)
+- [VSCodeでドキュメント作成するならまずこれを入れよう](https://qiita.com/tossie85/items/c8aef027cb6acba3b437)
 - [コードをコピペしたあとの雑務をAIが肩代わりする「Visual Studio」新機能がテスト開始](https://forest.watch.impress.co.jp/docs/news/2009711.html)
 - [ChatGPTとVSCodeを連携させる方法｜使い方を解説](https://www.onamae.com/business/article/26878/)
 - [ChatGPTがコーディング支援を強化。コードエディタ機能を統合、コードレビューやデバッグ、他言語への移植ツールなどを含む新機能「Canvas」が登場](https://www.publickey1.jp/blog/24/chatgptcanvas.html)

@@ -41,6 +41,7 @@
 - [Apple M4やM4 Pro/Maxチップを搭載したiMacやMac mini、MacBook Proの温度センサーやファン制御に対応したシステムモニタアプリ「TG Pro v2.93」がリリース。](https://applech2.com/archives/20241117-tg-pro-support-apple-m4-imac-mac-mini-and-macbook-pro.html)
 - [【shell】Oh My Zshのおすすめプラグイン you-should-use を紹介!](https://zenn.dev/ring_belle/books/mac-environment/viewer/shell-oh-my-zsh-you-should-use)
 - [【shell】zshをカスタマイズして使いやすくするためにOh My Zshを導入する](https://zenn.dev/ring_belle/books/mac-environment/viewer/shell-oh-my-zsh)
+- [macOS 15.4 Sequoiaではシステム設定の「ソフトウェアアップデート」パネルが改善され最新のアップデートがより分かりやすく。](https://applech2.com/archives/20250403-macos-154-sequoia-new-update-panel.html#google_vignette)
 
 ### Setup
 

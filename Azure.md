@@ -515,6 +515,7 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [3分で分かった気になる、Kubernetes とは？](https://qiita.com/r548/items/e6d1e4dcfdd9f8a7874d)
 - [ローカルマシンにコンテナとKubernetes環境などを構築する「Podman Desktop 1.5」リリース。導入設定が容易に、コマンドパレットも使いやすく](https://www.publickey1.jp/blog/23/kubernetespodman_desktop_15.html)
 - [エンジニアは全員おうちKubernetesをやるべし【Part 2：どうやるのか】](https://qiita.com/takumi3488/items/8cf6e52408fcec5631ec)
+- [自宅Kubernetesを本格運用するためのツールとノウハウ](https://zenn.dev/kznrluk/articles/0cc24e14fec36b)
 
 ## Azure Load Test
 
@@ -820,6 +821,11 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
   >
   > route add -p 0.0.0.0 MASK 0.0.0.0 デフォルトゲートウェイ IP METRIC 5015 IF インターフェース No.
 
+
+### Security
+
+- [Azure 上の Windows Server の守り方 - Azure の Windows Server 向けのセキュリティ機能まとめ](https://qiita.com/YoshiakiOi/items/fb75f27043dddcb2724f)
+
 ## Azure vNET
 
 - [Azure SQLDabase にプライベートなネットワークからアクセスしてみよう](https://blog.nextscape.net/archives/Date/2018/02/serviceendpointsqldb)
@@ -911,6 +917,8 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [OneLake File Explorer](https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric1](https://marshal115.hatenablog.com/entry/2023/06/19/230347)
 - [セルフサービスBIユーザーのためのMicrosoft Fabric3](https://marshal115.hatenablog.com/entry/2023/07/16/233247)
+- [Microsoft Fabric を利用して Blob ストレージに格納された Azure ログを分析する](https://qiita.com/YoshiakiOi/items/3386a34bf41bcb72678b)
+- [Microsoft Fabric - Next Generation Cloud Data Analytics Solution](https://qiita.com/yangjiayi/items/605d9679e1e35d391a1a)
 
 ## Windows 365
 

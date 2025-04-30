@@ -161,8 +161,10 @@
 ## Dify
 
 - [会社の資料を今すぐDifyで要約しよう！](https://qiita.com/ogi_kimura/items/d13631b3a77e18023ef9)
+- [【発売前レビュー】Difyで作る生成AIアプリ完全入門](https://qiita.com/minorun365/items/15527ec7ffe8804ce290)
 - [ノーコードで高度な生成AIアプリをつくれる「Dify」、ChatGPTと何が違う？](https://xtech.nikkei.com/atcl/nxt/column/18/03136/032500001/)
 - [Dify入門ガイド：5分で作れる簡単アプリまとめ](https://tech-lab.sios.jp/archives/45860)
+- [なぜ、Difyなのか](https://tech.algomatic.jp/entry/2025/03/31/192241)
 - [Difyとは｜話題のノーコード生成AIアプリ開発プラットフォーム](https://ledge.ai/articles/dify)
 - [超簡単に、Windows11にDifyをインストールする手順](https://qiita.com/daishiro_jp/items/de2b59b4081ead2161fe)
 - [Difyで社内ナレッジFAQボットを作成し、GASでSlackと連携する方法](https://chatgpt-lab.com/n/n9cc7dea56ee8)
@@ -186,9 +188,11 @@
 ## Google Notebook LLM
 
 - [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
+- [NotebookLMで社内向け製品ボットを作成しよう！](https://qiita.com/sasajimay/items/fd99a903382afba00a34)
 - [超長くてたくさんの資料も放り込めば、まとめてブレストにも付き合ってくれる有能助手「NotebookLM」の始め方（Google Tales）](https://www.techno-edge.net/article/2024/06/10/3446.html)
 - [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
 - [Google NotebookLMとは？ 試してわかった「独自チャットボット」作成ツールの凄い実力](https://www.sbbit.jp/article/cont1/146140)
+- [NotebookLM「マインドマップ」機能 3 分解説：情報を視覚化して理解を加速する](https://note.com/komzweb/n/n4a1052078d48)
 - [NotebookLMとは？使い方や料金・活用事例5選を詳しく解説](https://aismiley.co.jp/ai_news/what-is-notebooklm-5/)
 
 ## GPTs
@@ -264,8 +268,9 @@
 
 ## MCP Server
 
+- [Visual Studio CodeでMCP Serverを使えるようにしてみた](https://zenn.dev/kenshintatsumi/articles/9250aa8303a72f)
 - [VS Codeにもついに「持ち込みAI」時代が来た？──バージョン 1.99での変更点を紹介](https://atmarkit.itmedia.co.jp/ait/articles/2504/23/news056.html)
-- [Playwright MCP を使ってAIにブラウザ操作をさせてみる（GitHub Copilot / Cline 環境構築手順付）](https://qiita.com/t-kurasawa/items/fc47a9133dd6cfe1ae7b)
+- [.NET で MCP サーバー・クライアントを試してみよう その 3](https://zenn.dev/microsoft/articles/semantickernel-mcp3)
 - [シンプルな自作MCPサーバーを VS Code に設定して GitHub Copilot の Agent mode で利用（Node.js で TypeScript を直接扱う）](https://qiita.com/youtoy/items/1d46724e40ab96607b18)
 - [Model Context Protocol(MCP)の基礎に関して、社内勉強会で使用したスライド資料を公開します！](https://dev.classmethod.jp/articles/shuntaka-mcp-study/)
 - [MCPサーバーを自作する中でつまずいたポイント](https://zenn.dev/moneyforward/articles/6deaa22428a109)
@@ -273,28 +278,63 @@
 - [Windows の Claude Desktop から WSL2 の Claude Code を mcp server として使う](https://zenn.dev/kariya_mitsuru/articles/5ed08d1afe658b)
 - [Azure Functions で MCP サーバーが作れるようになりました！](https://zenn.dev/microsoft/articles/mcp-azurefunctions)
 - [Azure FunctionsでMCPサーバーを作る！](https://zenn.dev/microsoft/articles/azure-function-mcp)
-- [Playwright MCP技術解説 〜次世代ブラウザ自動化の可能性〜](https://qiita.com/cr_murai/items/13e55eab7e21f6f29619)
 - [簡易な自作MCPサーバーをお試しで実装する方法](https://zenn.dev/smartround_dev/articles/02af1058e9f80f)
 - [Claude Code + MCPの関係図解：2025年3月版](https://zenn.dev/delisit/articles/20b4d8fecb4aa7)
 - [CursorからMCPで社内のドキュメントや仕様書を参照する方法](https://zenn.dev/kadoya/articles/872f4dac6d8bcc)
-- [Playwright MCP を使ってAIにUXを評価してもらう](https://qiita.com/Takenoko4594/items/cc36ca3043f11ca175c1)
 - [AIコードエディタCursor大活用！ ── Cursor Rules、MCP、エラー調査](https://tech.smarthr.jp/entry/2025/04/09/193526)
 - [Azure Functionsで30分でMCPサーバーを構築する](https://tech.algomatic.jp/entry/2025/04/09/193632)
 - [MCPを超理解する](https://qiita.com/ak-sasaki0919/items/b216a06b0ef33536fc3b)
 - [MCP入門](https://zenn.dev/kazuwombat/articles/d8789724f10092)
 - [Azure MCP Server がパブリックプレビューになったので試してみた](https://techblog.ap-com.co.jp/entry/2025/04/18/120000)
 - [【Microsoft×生成AI連載】Copilot Studio エージェントビルダーでエージェントを作成してみた](https://blog.jbs.co.jp/entry/2025/04/23/130615)
+- [Cursorエージェント講座 超入門＋実践編](https://www.docswell.com/s/miyatti/Z6VDGV-2025-03-30-192815#p1)
+- [MCPサーバー入門＆社内サービス連携で日常業務を圧縮する](https://zenn.dev/akizarashi/articles/02783c2b0133f5)
+- [AIツール「Onlook」x「Cursor」を使ったLP制作！AI活用したLPデザインを完全攻略ガイド](https://note.com/asako_h946/n/nff13d4941088)
+- [Cline / Roo-Codeにおけるコード理解と新規・保守タスクの現状](https://zenn.dev/tesla/articles/33d196d17bf3bb)
 - [MCP概要説明](https://zenn.dev/mkj/articles/0ed4d02ef3439c)
 - [明日からできる！GitHub Copilot + GitHub MCP Serverで始めるAI駆動開発](https://zenn.dev/10q89s/articles/ecb9d205f4dbec)
-- [ Figma MCP × Cursorで加速するUI実装とその先の工夫](https://zenn.dev/superstudio/articles/91ceb2f2f1d784)
-- [【Cursor】FigmaにアクセスしてUIコードを自動生成！](https://zenn.dev/oke331/articles/97d5de75f06fb3)
 - [プログラマー必見！FastAPI-MCPでAI時代のAPI開発を加速する方法（初心者向けコード付き）](https://qiita.com/takuya77088/items/4db3bcaedd8ad721b077)
+
 - [Web開発者のための便利ツールを集めたMCPサーバーを作って公開した](https://zenn.dev/noboru_i/articles/4940febcafc7dd)
 - [やさしいMCP入門](https://speakerdeck.com/minorun365/yasasiimcpru-men)
 - [最小限のMCP Host/Client/Serverをスクラッチで実装する](https://zenn.dev/razokulover/articles/9a0aee8ceb9f3f)
 - [今更MCPサーバー入門してみた](https://zenn.dev/amana/articles/9d13d133a9cd22)
 - [VS Code の設定から MCPサーバーを追加して GitHub Copilot agent mode で利用してみる（安定版でも利用可能に）](https://qiita.com/youtoy/items/adfeedeedf1309f194ce)
 - [Visual Studio CodeでMCP Serverを使えるようにしてみた](https://zenn.dev/kenshintatsumi/articles/9250aa8303a72f?redirected=1)
+- [Azure OpenAIでMCPを使ったデモアプリを試す](https://zenn.dev/headwaters/articles/223f212b4c1cd6)
+- [apidog](https://apidog.com/blog/)
+- [いつのまにか「Claude CodeをMCPサーバー化」してClaude Desktopから利用できる神機能が生えてた件について](https://zenn.dev/kazuph/articles/5a6cc61ae21940)
+- [https://www.kaggle.com/whitepaper-agents](https://www.kaggle.com/whitepaper-agents)
+- [VSCodeにChatGPTの拡張機能を入れてコードレビューやバグを発見してもらう](https://qiita.com/tak001/items/c3000b3ce9b6e72b2ae5)
+- [MCPサーバーで開発効率が3倍に！2025年必須の10大ツール](https://qiita.com/takuya77088/items/58fd06fb46cecdd957d8)
+- [【MCPのトリセツ #1】MCPの概要と導入方法](https://zenn.dev/takna/articles/mcp-server-tutorial-01-install)
+- [MCPに1mmだけ入門](https://zenn.dev/ks0318/articles/053b5bc1701c31)
+- [【AI開発】VSCode拡張機能「Cline」とは？使い方やCusorとの違いを徹底解説](https://www.ai-souken.com/article/what-is-cline#google_vignette)
+
+### Figma
+
+- [Figma MCP × Cursorで加速するUI実装とその先の工夫](https://zenn.dev/superstudio/articles/91ceb2f2f1d784)
+- [【Cursor】FigmaにアクセスしてUIコードを自動生成！](https://zenn.dev/oke331/articles/97d5de75f06fb3)
+- [デザイン→実装を瞬時に！Figma-MCPが消す開発現場のストレス](https://qiita.com/Nakamura-Kaito/items/bda2003313fa33f4d818)
+- [【MCPのトリセツ #6】Figma MCP：デザインとコードを効率的に連携](https://zenn.dev/takna/articles/mcp-server-tutorial-06-figma)
+- [【Cursor】FigmaにアクセスしてUIコードを自動生成！](https://zenn.dev/oke331/articles/97d5de75f06fb3)
+
+### Playwright MCP
+
+- [Playwright MCP を使ってAIにブラウザ操作をさせてみる（GitHub Copilot / Cline 環境構築手順付）](https://qiita.com/t-kurasawa/items/fc47a9133dd6cfe1ae7b)
+- [Microsoftが発表したPlaywright MCPとは？― AIとウェブ自動化の“次の一手”をわかりやすく解説！](https://note.com/kyutaro15/n/n39c858e8f65c)
+- [なるべくWSL側に寄せつつplaywright-mcpをClaude Desktopで使えるようにする](https://zenn.dev/magurotuna/articles/playwright-mcp-setup-in-wsl)
+- [Playwright MCPとは？Playwright MCPとMastraを連携する方法もご紹介](https://chatgpt-lab.com/n/ne4b1710c0086)
+- [Playwright MCP セットアップガイド: バージョン不一致問題の解決法](https://qiita.com/Maki-HamarukiLab/items/a10917ffc9c63f447319)
+- [Playwright MCP技術解説 〜次世代ブラウザ自動化の可能性〜](https://qiita.com/cr_murai/items/13e55eab7e21f6f29619)
+- [Playwright MCP を使ってAIにUXを評価してもらう](https://qiita.com/Takenoko4594/items/cc36ca3043f11ca175c1)
+- [PlaywrightのVSCode拡張を使って効率的にテストを書く](https://zenn.dev/cybozu_frontend/articles/6c2a54196f056d)
+- [VSCodeとPlaywrightで始めるウェブサイトテスト自動化：初心者向け完全ガイド](https://sqripts.com/2024/08/06/103307/)
+- [【Claude】Playwright-MCPで変わるテスト自動化の世界！初心者でも使えるE2Eテスト入門](https://qiita.com/Nakamura-Kaito/items/0e24e5a4e62a77647acc)
+- [ClaudeでPlaywright MCPを使う（Windows）](https://zenn.dev/coco9122/articles/claude-playwright-mcp-coco9122)
+- [VS CodeとPlaywrightを使ったE2Eテストの実施](https://heartbeats.jp/hbblog/2024/11/vscodeplaywrighte2e.html)
+- [Microsoft Playwright MCPが切り拓くLLMとブラウザの新たな統合](https://zenn.dev/kimkiyong/articles/679faf454b0ee0)
+
 
 ## Napkin AI
 

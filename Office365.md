@@ -86,6 +86,9 @@
 ## Copilot
 
 - [MicrosoftのAIアシスタント「Copilot Pro」とは？活用方法や無料版・有料版の違いを解説](https://www.lifehacker.jp/article/what_is_microsofts_ai_assistant_copilot_pro/)
+- [Microsoft 365「浸透しない」問題、ガートナー流「5分類」はなぜ効果的？](https://www.sbbit.jp/article/cont1/159260)
+- [「知らなきゃ損」のM365 Copilot導入術、ガートナー流「費用とリスク」低減法とは](https://www.sbbit.jp/article/cont1/159867)
+- [【Copilot最新機能】Word・Excel・PowerPointの日常業務はこう変わる、Pythonも超簡単](https://www.sbbit.jp/article/cont1/161168?)
 - [「Microsoft 365 Copilot Wave 2」の最新機能--AIエージェントに重点](https://japan.zdnet.com/article/35232218/)
 - [Microsoft Copilot導入キット](https://adoption.microsoft.com/ja-jp/copilot-enterprise-data-protection/adoption-kit/)
 - [Microsoft Copilotで何ができる？ 初心者でもわかる特徴や使い方を解説](https://biz.techvan.co.jp/tech-microsoft/blog/contents/microsoft_copilot.html)

@@ -49,6 +49,9 @@
 ## css
 
 - [ブックマークしておくと便利！ よく見かけるUIコンポーネントやUI要素を実装するCSSのまとめ -CSSnippets](https://coliss.com/articles/build-websites/operation/css/cssnippets-by-shefali.html)
+- [::scroll-button と ::scroll-marker を使って CSS だけでカルーセルを作る](https://azukiazusa.dev/blog/css-only-carousel/)
+- [Web制作者はダウンロードしておきたい！ CSS関連の最新版チートシートのまとめ](https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-2025.html)
+- [HTMLは非常にシンプル！ 圧倒的な速さでMaterial Design 3のUIを実装できるCSSの超軽量フレームワーク -Beer CSS](https://coliss.com/articles/build-websites/operation/css/material-design-interfaces-beer-css.html)
 - [【CSS】CSSだけで作るカルーセル](https://qiita.com/degudegu2510/items/e106cadc2fd1d14525f3)
 - [Web制作者は要チェック！ 2025年、Webサイトやスマホアプリの実装に役立つモダンCSSのスニペットのまとめ](https://coliss.com/articles/build-websites/operation/css/modern-css-snippets-for-2025.html)
 - [すべての主要ブラウザで利用可能になったアットルール@staring-styleとは](https://zenn.dev/cybozu_frontend/articles/20240812_starting-style)
