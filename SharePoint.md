@@ -16,6 +16,17 @@
 
 # SharePoint
 
+## Setting URL
+
+| 設定               | URL                                                                                   |
+| ------------------ | ------------------------------------------------------------------------------------- |
+| Classic Settings   | https://example-admin.sharepoint.com/_layouts/15/online/TenantSettings.aspx           |
+| ユーザー情報リスト | https://example.sharepoint.com/sites/classic/_catalogs/users/detail.aspx              |
+| ユーザー情報リスト | https://example.sharepoint.com/sites/classic/_catalogs/users/simple.aspx              |
+| ユーザー情報リスト | https://example.sharepoint.com/sites/classic/_catalogs/users/allgroups.aspx           |
+| 第二段階のごみ箱   | https://example.sharepoint.com/sites/classic/_layouts/15/AdminRecycleBin.aspx?view=13 |
+https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
+
 ## copilot
 
 - [Copilot Studio のチャットボットから SharePoint のナレッジを参照するための設定](https://qiita.com/sonooh/items/5a05355d4e137b95ce39)

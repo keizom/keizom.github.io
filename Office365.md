@@ -44,6 +44,7 @@
 
 ## Audit Log
 
+- [Microsoft 365 利用状況分析](https://learn.microsoft.com/ja-jp/microsoft-365/admin/usage-analytics/usage-analytics?view=o365-worldwide)
 - [Microsoft 365 の監査ログを長期保存しよう！Microsoft Sentinel](https://live-style.jp/azure-sentinel/)
 - [監査ログ アクティビティ](https://learn.microsoft.com/ja-jp/purview/audit-log-activities)
 
@@ -83,9 +84,18 @@
 
 - [Microsoftのビデオ・エディター「Clipchamp」がかなり便利だった【入門＆基礎活用術】](https://www.lifehacker.jp/article/2403-how-to-use-clipchamp-in-windows-11/)
 
-## Copilot
+## Microsoft Copilot
 
 - [MicrosoftのAIアシスタント「Copilot Pro」とは？活用方法や無料版・有料版の違いを解説](https://www.lifehacker.jp/article/what_is_microsofts_ai_assistant_copilot_pro/)
+- [「SharePointエージェント」で業務を刷新、メリットを活かす3つのコツ](https://www.sbbit.jp/article/cont1/154511)
+- [Microsoft 365 Copilot「Researcher」「Analyst」とは｜業務に特化したAIエージェントを解説](https://www.ai-souken.com/article/m365-copilot-researcher-analyst)
+- [Microsoft Copilot Studioとは？できることや使い方、料金体系を解説！](https://www.ai-souken.com/article/microsoft-copilot-studio)
+- [Microsoft 365 Copilot の Researcher エージェント](https://blogs.windows.com/japan/2025/04/14/researcher-agent-in-microsoft-365-copilot/)
+- [Microsoft 365 Copilot に Researcher と Analyst が登場](https://blogs.windows.com/japan/2025/04/14/introducing-researcher-and-analyst-in-microsoft-365-copilot/)
+- [【Copilot】Outlook・Teamsなどの日常業務はこう変わる、“時短すぎる機能”一挙公開](https://www.sbbit.jp/article/cont1/163174)
+- [【Copilot Chat】はこう使う！進化した“最強エージェント”との組み合わせを徹底解説](https://www.sbbit.jp/article/cont1/164960)
+- [Copilotに対して多分みんなが思っていることへのカウンター](https://zenn.dev/headwaters/articles/20250602-copilot)
+- [たくさんあるマイクロソフトの「Copilot」、Windowsで使える機能を比較](https://xtech.nikkei.com/atcl/nxt/column/18/03211/052100002/)
 - [Microsoft 365「浸透しない」問題、ガートナー流「5分類」はなぜ効果的？](https://www.sbbit.jp/article/cont1/159260)
 - [「知らなきゃ損」のM365 Copilot導入術、ガートナー流「費用とリスク」低減法とは](https://www.sbbit.jp/article/cont1/159867)
 - [【Copilot最新機能】Word・Excel・PowerPointの日常業務はこう変わる、Pythonも超簡単](https://www.sbbit.jp/article/cont1/161168?)

@@ -115,6 +115,15 @@
 ## Cursor
 
 - [AIと個人開発したくなったらまずCursorで要件定義だ](https://zenn.dev/yasuna/articles/9dadbcdc3be48d)
+- [「Cursorで要件定義をめっちゃ簡単に」を「rules」にしてさらに簡単にした](https://qiita.com/WdknWdkn/items/535c597f968a7c987d5b)
+- [私のシンプルCursor活用方法](https://note.com/nike_cha_n/n/nd0f7566019ae)
+- [【Obsidian×Cursor】AI時代の知的生産術！使い方や活用事例まで徹底解説](https://chatgpt-lab.com/n/na996f091ff75)
+- [ObsidianのノートをVS CodeのAI（Cline）を通して活用する](https://gihyo.jp/article/2025/05/obsidian-06)
+- [ObsidianをCMSにしたら、思ったより本格的だった話](https://qiita.com/nasubi_dev/items/2237101b170f7327e4a0)
+- [Obsidian・Cursorをフル活用してAI駆動でアウトプットしていく](https://note.com/shu127/n/n61115b0b8c64)
+- [Obsidian × Cursor で “良質メモ → 記事執筆” を実現する徹底フロー](https://note.com/iam_shin/n/n9bbb5e189902)
+- [Obsidian × Cursor 活用の真髄─LLMを “推論エンジン” として使え](https://note.com/iam_shin/n/ndb8c5c49e09a)
+- [Cursor1.0を触った。ただのEditorじゃなくてAIコントローラになってた](https://note.com/shuzon__/n/n91d0ecb5dc22)
 - [VSCode+ChatGPTより爆速になれるAIエディタ【Cursor】無料プランあり](https://qiita.com/small_island/items/e6cd373ba4f9b124e848)
 - [AI エディター Cursor を試してみる](https://azukiazusa.dev/blog/try-ai-editor-cursor/)
 - [最強神器「Cursor」の本当に使い方を徹底解説【知らないとヤバいレベルです】](https://zenn.dev/aimasaou/articles/f9b19ca901a0cd)
@@ -132,6 +141,8 @@
 - [Cursorエディタで開発を爆速化しよう！](https://qiita.com/railgun-0402/items/717f44df9d68d77309f1)
 - [Cursor の無料版を使い続ける場合の設定](https://qiita.com/7shi/items/2e8e3ed2c39e3dc4ee22)
 - [[Cursorエディター導入/第一歩] Cursorエディターを触ってみました](https://qiita.com/h-sakamoto/items/90df3ada565cc10e1e99)
+- [Obsidianとは？使い方やプラグイン、Cursor連携の手順を解説](https://www.ai-souken.com/article/what-is-obsidian)
+- [Obsidianとは？使い方やLLMとの親和性について](https://zenn.dev/chameleonmeme/articles/d469215e586444)
 
 ### Claude Code
 
@@ -190,6 +201,14 @@
 - [Docker 入門（第一回）～ Docker とは何か、何が良いのか～](https://knowledge.sakura.ad.jp/13265/)
 - [イラストではじめる「Kubernetes」](https://codezine.jp/article/corner/917)
 - [Dockerのボリューム](https://zenn.dev/fdnsy/articles/e2024d73ec2bda)
+
+### Podman
+
+- [Podman Desktop を使ってみる](https://zenn.dev/robon/articles/676736b9468719)
+- [Podman Desktopを使ってみる](https://qiita.com/ynagashi/items/3d853c5189383dc98270)
+- [Podman Desktopを使って、商用無償なコンテナ環境を作ろう](https://qiita.com/kitfactory/items/57e1c6bb9b0229bba3df)
+- [Podman Desktop を使ってみる](https://zenn.dev/robon/articles/676736b9468719)
+- [“脱Docker”として注目の「Podman」と無料の管理ツール「Podman Desktop」とは　Dockerとの違いは？](https://atmarkit.itmedia.co.jp/ait/articles/2412/03/news001.html)
 
 ## git
 
@@ -266,6 +285,8 @@
 ## GitHub Copilot
 
 - [いくつ知ってる？ GitHub Copilotの新機能、コーディングにとどまらない進化を解説](https://codezine.jp/article/detail/20065)
+- [GitHub Copilot Coding Agent がやばすぎて共有し隊](https://www.kentsu.website/ja/posts/2025/copilot_coding/)
+- [Issue作成だけで後の工程は全てお任せ！GitHub Copilot Workspaceのテクニカルプレビューを触ってみた](https://dev.classmethod.jp/articles/github-copilot-workspace-tech-preview/)
 - [GitHub Copilotを最強にする拡張機能4選](https://zenn.dev/sqer/articles/1535f0a7d2a9b8)
 - [GitHub Copilot を完全に使いこなす会](https://zenn.dev/microsoft/articles/github_copilot_intro)
 - [VS CodeのCopilotとCopilot Chatの機能と活用方法](https://dev.classmethod.jp/articles/vs-code-copilot-features/)
@@ -379,6 +400,7 @@
 ## VisualStudio Code
 
 - [VSCodeの拡張機能を使ってリモート開発しよう](https://codezine.jp/article/detail/21241)
+- [Claude Code Chat](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat)
 - [VSCodeのプロファイル機能を解説！プロジェクトごとの環境を簡単に切り替えよう](https://qiita.com/kazushi_ohata/items/bc308b223c367cb5fbb4)
 - [VSCodeでドキュメント作成するならまずこれを入れよう](https://qiita.com/tossie85/items/c8aef027cb6acba3b437)
 - [コードをコピペしたあとの雑務をAIが肩代わりする「Visual Studio」新機能がテスト開始](https://forest.watch.impress.co.jp/docs/news/2009711.html)

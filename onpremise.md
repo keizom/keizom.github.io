@@ -246,6 +246,7 @@ Add-SPDistributedCacheServiceInstance
 # Windows OS
 
 - [Windows Server Summit 2024で発表されたWindows Server 2025注目の新機能](https://kkamegawa.hatenablog.jp/entry/2024/04/04/081951)
+- [いまさら聞けないHyper-V仮想マシンの「構成バージョン」](https://atmarkit.itmedia.co.jp/ait/articles/2505/20/news013.html)
 - [いまさら聞けない「Hyper-Vホスト」の構成と管理機能](https://atmarkit.itmedia.co.jp/ait/articles/2501/10/news005.html)
 - [【Qiita最速】Windows Server 2025を試してみる](https://qiita.com/hidekko/items/a701c55824634d2aac54)
 - [Windowsをクリーンインストールしたら、すぐに済ませておきたい7つのこと：山市良のうぃんどうず日記（272） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2312/20/news008.html)
@@ -384,6 +385,7 @@ Add-SPDistributedCacheServiceInstance
 ## WSL
 
 - [WindowsのWSL2がsystemdに対応したらしいので、Rocky Linux9入れて使ってみる](https://labo.mycabin.net/diary/1574/)
+- [WSL上のLinuxで日本語環境を整える、日本語入力環境を構築しよう](https://atmarkit.itmedia.co.jp/ait/articles/2506/06/news013.html)
 - [WSLでRed Hat Enterprise Linuxを利用する](https://roy-n-roy.nyan-co.page/Windows/WSL%EF%BC%86%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/rhel/)
 - [Windows Subsystem for Linuxガイド 第41回 WSL GUI設定](https://news.mynavi.jp/article/20241107-3060285/)
 

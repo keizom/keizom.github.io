@@ -46,6 +46,7 @@
 ## Entra ID
 
 - [Microsoft Entra PowerShell の紹介](https://jpazureid.github.io/blog/azure-active-directory/introducing-entra-powershell/)
+- [開発者のための Azure AD 情報まとめ](https://qiita.com/kenakamu/items/a509780d85b113a1ddf3)
 - [いちばんやさしい Azure 認証・認可編 前半](https://qiita.com/KoheiKushida/items/cbf06c17db79d697568f)
 - [Azure AD参加端末におけるPRT (Primary Refresh Token)悪用のリスクと対策について](https://gmo-cybersecurity.com/blog/azuread-prt/)
 - [Arure AD管理者必見　悩みの種になりがちな「ゲストユーザー」を管理する4つの方法](https://kn.itmedia.co.jp/kn/articles/2307/12/news023.html)
@@ -101,6 +102,7 @@
 ## Azure App Service
 
 - [【Azure】App Serviceのアクセスログを自動かつ永続的に保存する](https://atmarkit.itmedia.co.jp/ait/articles/2404/03/news029.html)
+- [【Azure】App Service on LinuxのWebサーバ「NGINX」をカスタマイズする方法](https://atmarkit.itmedia.co.jp/ait/articles/2502/20/news055.html)
 - [推しの Azure リソース「App Service」について語り尽くしました](https://tech-lab.sios.jp/archives/25879)
 - [AzurePaaS 研究サイト](https://www.azureportal-site.com/appservice-functions-portal)
 - [Azure App Service の VNet 統合](https://tech-lab.sios.jp/archives/22563)
@@ -263,6 +265,7 @@
 ## Azure Copilot
 
 - [Microsoft Copilot for Azure (プレビュー) 機能](https://learn.microsoft.com/ja-jp/azure/copilot/capabilities)
+- [Microsoft Copilot in Azure を使用してクラウド コストを分析、見積もり、最適化する](https://learn.microsoft.com/ja-jp/azure/copilot/analyze-cost-management)
 - [Azure PortalもAIにお任せ！Microsoft Copilot for Azureを試してみた](https://aadojo.alterbooth.com/entry/2023/12/15/235629)
 - [Microsoft Copilot for Azureを試してみた（後編）](https://zenn.dev/tomot/articles/992d5925d17301)
 
@@ -293,6 +296,7 @@
 
 - [Datadog による Azure コンテナ環境のモニタリング](https://lp.datadoghq.com/rs/875-UVY-685/images/Content-eBookAzureContainersJP.pdf)
 - [Azure クラウドモニタリング eBook](https://www.datadoghq.com/ja/resources/azure-ebook/)
+- [チュートリアル: 初めてのコンテナー アプリをデプロイする](https://learn.microsoft.com/ja-jp/azure/container-apps/tutorial-deploy-first-app-cli?tabs=bash)
 
 ## Azure Cost
 
@@ -559,7 +563,6 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 - [Azure OpenAI Service #AOAIドーナツ本 第3章 勉強メモ](https://qiita.com/chomado/items/3098ce48e06b63143bfc)
 - [Dockerで構築する機械学習環境【2024年版】](https://zenn.dev/mkj/articles/33befbaf38c693)
 - [話題のチャットAI「Claude 3」のプロンプト集、公式が公開中　「Excelの数式作って」など64種](https://www.itmedia.co.jp/news/articles/2403/11/news182.html)
-- [Google NotebookLMを使ってみた - もしかしたらかなり使えるかも！](https://note.com/ippei_suzuki_us/n/ncbc2e184c72b)
 - [Azure OpenAI Service を監視するための第一歩 (Azure OpenAI Insights)](https://blog.beachside.dev/entry/2024/02/27/180000)
 - [アクセンチュア流「AIとの8つの融合スキル」とは？ トップが示す生成AI仕事術](https://www.sbbit.jp/article/cont1/132844)
 - [Azure OpenAI Service 入門ハンズオンラボ](https://dev-lab-io.github.io/aoai/scenario1/home)

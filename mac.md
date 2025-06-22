@@ -42,6 +42,8 @@
 - [【shell】Oh My Zshのおすすめプラグイン you-should-use を紹介!](https://zenn.dev/ring_belle/books/mac-environment/viewer/shell-oh-my-zsh-you-should-use)
 - [【shell】zshをカスタマイズして使いやすくするためにOh My Zshを導入する](https://zenn.dev/ring_belle/books/mac-environment/viewer/shell-oh-my-zsh)
 - [macOS 15.4 Sequoiaではシステム設定の「ソフトウェアアップデート」パネルが改善され最新のアップデートがより分かりやすく。](https://applech2.com/archives/20250403-macos-154-sequoia-new-update-panel.html#google_vignette)
+- [システム情報表示ツール「fastfetch」がmacOS 26 Tahoeをサポート。](https://applech2.com/archives/20250621-fastfetch-support-macos-26-tahoe.html#google_vignette)
+- [WindowsユーザーがmacOSに移行して覚えておくこと](https://kkamegawa.hatenablog.jp/entry/2025/02/17/123000)
 
 ### Setup
 

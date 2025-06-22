@@ -110,6 +110,7 @@
 ## Microsoft Copilot Studio
 
 - [Microsoft Copilot Studio をユーザー部門向けに開放する際、考慮、検討、実施すること](https://qiita.com/Takashi_Masumori/items/fce74bc38ce0451a629e)
+- [【Copilot Studio】複雑なアクションはエージェントフローにおまかせ](https://mofumofupower.hatenablog.com/entry/2025/06/11/112456)
 - [Microsoft copilot studioを使ってみた-②【SharePoint編】](https://zenn.dev/headwaters/articles/ed1176d7487c2a)
 - [【Power Platform】Copilot Studioでチャットボットを作ってみる](https://www.qes.co.jp/media/powerplatform/CopilotStudio/a383)
 - [Microsoft Copilot Studio による カスタムCopilot の作成](https://note.com/npaka/n/n3fcc8060955b)
@@ -188,6 +189,7 @@
 
 - [Copilot in Power Automate でフローを作成してみた](https://www.illuminate-j.jp/blog/automate-copilot)
 - [Power Automate 更新者・最終更新日時列に任意の値をセットする](https://www.illuminate-j.jp/blog/flow002_validateupdatelistitem)
+- [Power Automate: モダンデザイナーとクラシックデザイナーとでポーリングトリガーが異なる](https://shanqiai.lekumo.biz/sharepoint_technical_note/2025/02/power-automate-2a59.html)
 - [画面に話しかけながら操作すると生成AIがRPAフローを自動生成する「Record with Copilot in Power Automate Desktop」がパブリックプレビュー](https://www.publickey1.jp/blog/24/airparecord_with_copilot_in_power_automate_desktop.html)
 - [Outlook予定表を大人数に共有する操作をPower Automate Desktopで実行する](https://aliss.jp/?p=2354)
 - [Power AutomateでOutlook予定表のイベント情報を取得する方法](https://www.teijitaisya.com/pa-outlookevents/)

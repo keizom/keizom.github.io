@@ -18,6 +18,7 @@
 ## フロントエンド
 
 - [2023年度版フロントエンド開発環境構築徹底解説](https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf)
+- [エンジニアがやりがちなUIデザインの失敗15選とその回避法](https://qiita.com/K3n_to_n17/items/17585fb03c819e0b9485)
 - [Webの次世代アーキテクチャ - PESPA](https://qiita.com/takagimeow/items/ac814c1e5b5d9e8a76e1)
 - [世界一わかりみが深いかもしれないフロントエンドのビルド周り](https://tech-lab.sios.jp/archives/41659)
 - [これだけ守れば見やすくなるデザインの基礎](https://speakerdeck.com/kinakobooster/koredakeshou-rebajian-yasukunarudezainfalseji-chu)
@@ -25,10 +26,17 @@
 - [Webエンジニアの学習ロードマップが知れるサイト](https://qiita.com/hirokazu_nakao/items/26d90b2e8a582a474df3)
 - [はじめに教わるデザインの基本。気をつけるべき28のポイント](https://liginc.co.jp/535365)
 - [ツール・ド・フロントエンド2024（フロントエンド班の開発環境や興味のある技術を調査してみた）](https://zenn.dev/teamlab_fe/articles/8f5ff75885a868)
+- [Web制作者はチェックしておきたい！ モダンCSSやデベロッパーツールなど、これからの実装に役立つ新機能のまとめ](https://coliss.com/articles/build-websites/operation/work/10-innovations-for-build-modern-web.html)
+- [#意識低いAICodingチュートリアル #01 インターネット老人会のサイトを作ろう [GitHub Copilot Agent mode 版]](https://qiita.com/chomado/items/acaf251a2f6bf984a3df)
+- [つくるを早めるAI活用術 実務で活かせるUI生成サービス5選](https://note.com/gakudesu/n/n06dd6f90e62c)
+- [Visual Studio Code、Web標準の「Baseline」チェックに対応。コード内のHTMLやCSSにカーソルを合わせれば説明表示](https://www.publickey1.jp/blog/25/visual_studio_codewebbaselinehtmlcss.html)
+- [壊滅的な自分のUIデザインをAIにいい感じにしてもらう](https://qiita.com/uttiduck/items/c43180805fa6584a798d)
+- [Adobeユーザーはダウンロードしておこう！ Adobe Fontsで使用できる日本語フォントすべてを一覧できるPDF 2025年最新版](https://coliss.com/articles/build-websites/operation/work/adobe-fonts-pdf-202502.html)
 
 
 ## AI
 
+- [つくるを早めるAI活用術 実務で活かせるUI生成サービス5選](https://note.com/gakudesu/n/n06dd6f90e62c)
 - [生成AIを使ってどこまでサイト制作ができるのか試してみた](https://qiita.com/kazunoriboy/items/3842580e7d702f1b2f10)
 
 ## Bootstrap
@@ -39,6 +47,9 @@
 - [Bootstrap Carousel in SPFX (ReactJS)](https://www.c-sharpcorner.com/article/bootstrap-carousel-in-spfxreactjs/)
 - [新しくなった Bootstrap 5 を使用して、管理画面の UI を実装する方法を解説 コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-dashboard-tutorial.html)
 - [Bootstrap 5 の作業環境の構築方法、jQuery を使用しない JavaScript での実装方法を解説 コリス](https://coliss.com/articles/build-websites/operation/work/bootstrap-5-tutorial-without-jquery.html)
+- [【最新版】ブクマすべきGitHubリポジトリまとめ](https://qiita.com/KNR109/items/f9920ecae43296e355c3)
+- [【最新版】フロントエンドを学べる最高の教材集](https://qiita.com/KNR109/items/528cbcaafb84aa57553d)
+- [サイト構築からデプロイまで。AIが変えるフロントエンド開発](https://levtech.jp/media/article/column/detail_615/)
 
 ## Carousel
 
@@ -49,6 +60,13 @@
 ## css
 
 - [ブックマークしておくと便利！ よく見かけるUIコンポーネントやUI要素を実装するCSSのまとめ -CSSnippets](https://coliss.com/articles/build-websites/operation/css/cssnippets-by-shefali.html)
+- [モダンCSSへのアップデート（実践編）](https://qiita.com/k__watanabe/items/8544d16a29f9e2f6f62b)
+- [JavaScript不要! HTMLとCSSでつくるカルーセルUI](https://ics.media/entry/250516/)
+- [標準のHTML+CSSでスコープ化が可能に！@scope入門](https://ics.media/entry/250520/)
+- [アクセシビリティを重視した新時代のリセットCSS、ベースとなるより良いスタイルシートを求める人に最適 -UA+](https://coliss.com/articles/build-websites/operation/css/user-agent-plus-css.html)
+- [このアイデアはすごい！ テーブルでセルの行を強調表示、さらにそれ以外の部分はぼかして目立たせるCSSのテクニック](https://coliss.com/articles/build-websites/operation/css/highlight-the-row-and-blur-out-the-distractions.html)
+- [ページにもともと読み込まれているCSS由来のスタイルを打ち消して、しがらみのない開発をするのにall:unset, all:revertを使えそう](https://blog.sushi.money/entry/2025/06/16/235900)
+- [CSSのreading-flowプロパティが便利！ CSS GridやFlexboxで見た目とDOMツリー内の順序を一致させることができます](https://coliss.com/articles/build-websites/operation/css/css-reading-flow.html)
 - [Web制作者はダウンロードしておきたい！ CSS関連の最新版チートシートのまとめ](https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-2025.html)
 - [::scroll-button と ::scroll-marker を使って CSS だけでカルーセルを作る](https://azukiazusa.dev/blog/css-only-carousel/)
 - [HTMLは非常にシンプル！ 圧倒的な速さでMaterial Design 3のUIを実装できるCSSの超軽量フレームワーク -Beer CSS](https://coliss.com/articles/build-websites/operation/css/material-design-interfaces-beer-css.html)
@@ -102,10 +120,13 @@
 - [2020 年の CSS のまとめ、Flexbox や CSS Grid の使用状況、よく使用するプロパティや単位、人気のフレームワークやツールなど](https://coliss.com/articles/build-websites/operation/css/the-state-of-css-2020.html)
 - [CSSのsubgridがすべてのブラウザにサポートされたので、カード内の見出しやテキストを簡単に揃えることができます](https://coliss.com/articles/build-websites/operation/css/use-subgrid-give-child-elements-access-to-a-parents-grid.html)
 - [ターミナルのシンプルなUIが好きな人に！ モダンでミニマルなCSSの超軽量フレームワーク -Terminal CSS](https://coliss.com/articles/build-websites/operation/css/terminal-css.html)
+- [これは覚えておきたい！ モダンCSSで実装する、記事は中央に画像は幅いっぱいにフルブリードレイアウトを実装するテクニック](https://coliss.com/articles/build-websites/operation/css/full-bleed-layout-with-modern-css.html)
 
 ## figma
 
 - [プロダクトを横断したFigmaコンポーネント構築 〜「インスタンスガイドライン」を策定した話〜](https://zenn.dev/levtech/articles/0271c278f88584)
+- [Figmaのデザインシステムの理解と実践【その2】](https://thinkit.co.jp/article/37915)
+- [Figmaが新機能4つ発表、ノーコード＆ワンクリックでWebサイトを即公開「Config 2025」現地レポ（前編）](https://webtan.impress.co.jp/e/2025/06/17/49464)
 - [FigmaデザインをHTMLコードへ自動変換する方法](https://recruit.gmo.jp/engineer/jisedai/blog/figma-design-to-html-using-figma-mcp-and-roo-code/)
 - [FigmaのAIによる学習「コンテンツのトレーニング」をオフにする方法、独自性・機密性の高いデザインを扱っている場合は注意が必要です](https://coliss.com/articles/build-websites/operation/work/figma-ai-will-use-your-content-to-train.html)
 - [Figmaの実践的な使い方がこれでよく分かる！ UIコンポーネントの作り方にフォーカスされた解説書 -Figmaで作るUIデザインアイデア集](https://coliss.com/articles/book-review/isbn-9784295019084.html)
@@ -124,6 +145,9 @@
 ## html
 
 - [AIなら超簡単で早い！ Webサイトの構造を視覚化し、サイトマップを生成できる無料ツール -AI Sitemap Generator](https://coliss.com/articles/build-websites/operation/work/ai-sitemap-website-content-generator.html)
+- [現場で使えるAI UI生成ツール「v0」入門～基本機能とローカル開発環境への組み込み方法～](https://dev.classmethod.jp/articles/v0-introduction-and-local-setup/)
+- [手軽にインタラクション！アコーディオンを試そう](https://news.mynavi.jp/techplus/article/htmljavascriptapi-1/)
+- [HTMLでモーダルUIを作るときに気をつけたいこと](https://ics.media/entry/220620/)
 - [【保存版】Webフロントエンド基礎力（初心者向け）](https://qiita.com/teradonburi/items/43c52d7cffc318e9b1e9)
 - [【保存版】フロントエンド初心者がまず読むべき資料まとめ【2024年最新】](https://qiita.com/nuco_YM/items/b4259d838be53a6f44ee)
 - [【最新版】エンジニア向けおすすめの学習サービスまとめ](https://qiita.com/KNR109/items/ff0699e67a5740eeaaa8)
