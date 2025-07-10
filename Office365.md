@@ -17,6 +17,15 @@
 # Microsoft 365
 
 - [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
+- [https://qiita.com/yaegashi/items/64cbbb13e950385b8dcb](最新の Azure アイコンの見つけかた)
+- [https://learn.microsoft.com/ja-jp/azure/architecture/icons/](アーキテクチャの図とドキュメントで使用する Azure アイコンをダウンロードする)
+- [https://learn.microsoft.com/ja-jp/microsoft-365/solutions/architecture-icons-templates?view=o365-worldwide](Microsoft 365 アーキテクチャのアイコンとテンプレート)
+- [https://learn.microsoft.com/en-us/dynamics365/get-started/icons](Microsoft Dynamics 365 アイコン)
+- [https://learn.microsoft.com/ja-jp/entra/architecture/architecture-icons](Microsoft Entra ID アーキテクチャ アイコン)
+- [https://learn.microsoft.com/ja-jp/fabric/fundamentals/icons](Microsoft Fabric の製品、ワークロード、項目のアイコン)
+- [https://learn.microsoft.com/ja-jp/power-platform/guidance/icons](Microsoft Power Platform アイコン)
+- [https://github.com/microsoft/PowerBI-Icons](Microsoft/PowerBI-Icons)
+
 - [ライセンス](https://m365maps.com/matrix.htm)
 - [Test Base for Microsoft 365とは何か、使ってみてわかった｢完全自動化｣の利点と課題](https://www.sbbit.jp/article/cont1/127133)
 - [自分のMicrosoft 365 環境を作ってみる](https://office365labo.com/2023/06/05/%e8%87%aa%e5%88%86%e3%81%a0%e3%81%91%e3%81%aemicrosoft-365-%e7%92%b0%e5%a2%83%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/)
@@ -216,50 +225,6 @@
 
 - [無料で使えるMicrosoftの生成AI「Microsoft Designer」で始める画像生成](https://forest.watch.impress.co.jp/docs/serial/offitech/1609858.html)
 
-## SSecurity
-
-- [Microsoft 365 環境におけるOAuthアプリのリスクと対策](https://zenn.dev/hirotomotaguchi/articles/202504_m365-oauth-security)
-
-## Teams
-
-- [Teams 会議の参加リンクや会議 ID から meetingId を取得する方法](https://zenn.dev/ymasaoka/articles/how-to-get-teamsmeeting-id-by-joinweburl)
-- [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
-- [Microsoft Teamsの表示をカスタマイズ、既定のリアクションを変更しよう](https://active.nikkeibp.co.jp/atcl/act/19/00390/061300092/)
-- [TeamsのIncomming Webhookコネクタが廃止されるようなのでPowerAutomateのワークフローに移行してみる](https://qiita.com/fukasawah/items/896c3638c203a973c2f0)
-- [【Sampleアプリ】Teams用の組織階層アドレス帳](https://qiita.com/Nagaaki_Iwata/items/0860c79bb958ab152af0)
-- [ChatGPTをMicrosoft Teamsから使う仕組みをノーコードで作ろう](https://ascii.jp/elem/000/004/146/4146380/)
-- [「Microsoft Teams」の「Project」「Roadmap」アプリ発表 - CNET Japan](https://japan.cnet.com/article/35161885/)
-- [【Teams】すべての Teams から情報を取得する【PowerShell】   ほげふがな日常](https://www.hogehoge-note.com/2019/08/16/post-300/)
-- [【オンライン セミナー】 Microsoft Teams を使いこなす! 活用事例の紹介](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-02Feb-23-Online-Seminar-Master-the-Microsoft-Teams-MCW0004285.html)
-- [【タスク管理】Teams × Planner で実現。簡単！便利！](https://m.youtube.com/watch?v=Tyqit541i2s)
-- [ASCII.jp：本日 18 時から日本.NET 界レジェンドたちの Teams 会議を生公開！「その.NET アプリ、クラウドどうモダナイズするの？」](https://ascii.jp/elem/000/001/905/1905256)
-- [Microsoft Lists とは & Teams 接続方法  AvePoint Japan Blog](https://www.avepoint.com/blog/ja/office-365-ja/microsoft-lists/)
-- [Microsoft Teams ：TIPS を色々詰め込んだ資料を公開しました！  Art-Break : Tech ;](https://art-break.net/tech/?p=7743)
-- [Microsoft Teams 「ブレークアウトルーム」操作マニュアル](https://blogs.windows.com/japan/2020/12/18/microsoft-teams-breakoutroom-manual/)
-- [Microsoft Teams でイベントの監査ログを検索する](https://docs.microsoft.com/ja-jp/microsoftteams/audit-log-events)
-- [Microsoft Teams で共有されたファイルや IM を確認する方法  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/teamsjp/teams-inplace)
-- [Microsoft Teams のチャット履歴を管理者が確認できるか？  idea.toString();](https://idea.tostring.jp/?p=2913)
-- [Microsoft Teams の新機能  2020 年 5 月 - Windows Blog for Japan](https://blogs.windows.com/japan/2020/06/25/what-s-new-in-microsoft-teams-may-2020/)
-- [Microsoft Teams リソース - Microsoft for business](https://www.microsoft.com/ja-jp/biz/wsi/teams-remote-work.aspx)
-- [Microsoft Teams 管理ドキュメント - Microsoft Teams  Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoftteams/)
-- [Microsoft Teams 他が 1 年間試用できるようになるそうです - kazuakix の日記](https://blog.kazuakix.jp/entry/2018/05/03/182242)
-- [Microsoft Teams 日本語カタログ 第 2 版と徹底活用ブック](https://blogs.windows.com/japan/2020/11/11/teams-catalog-booklet/)
-- [Power Automate : Teams 上で承認を行う](https://zezeze.hateblo.jp/entry/2019/11/29/040113)
-- [Power Automate（旧 Microsoft Flow）から Microsoft Teams へ Bot で投稿する方法 3 種をまとめてみた - Qiita](https://qiita.com/tfunakoshi/items/76029bcc8ac1d4d9bd71)
-- [PowerShell から Teams の Adaptive Card](https://qiita.com/syamamotorhead/items/5062cdcaaafc6740c0b2)
-- [Skype for Business から Teams への移行](https://blog.kazuakix.jp/entry/2018/11/08/234326)
-- [Teams クイックガイド](http://msft.it/6183TlOqZ)
-- [Teams 関連のマニュアル](https://www.yammer.com/japanoffice365users/#/threads/show?threadId=281992120745984)
-- [Teams の Adaptive Card にプロフィール画像を埋め込んでみた](https://qiita.com/syamamotorhead/items/5062cdcaaafc6740c0b2)
-- [Teams の Web 会議、上級活用法](https://xtech.nikkei.com/atcl/nxt/column/18/01362/)
-- [Teams のチームとチャネルの構成はこうせい！](https://blog.trainocate.co.jp/blog/teams01_020)
-- [Teams の会話を PST ファイルとしてエクスポートが可能！ExchangeOnline ライセンスが必要](https://1manit.work/windows/office365/teams/exportdata-pst/)
-- [ノンコーディングで Microsoft Teams のチームをすべて取得する](https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
-
-### Microsoft Mesh
-
-- [Microsoft Mesh](https://www.microsoft.com/en-us/microsoft-teams/microsoft-mesh)
-- [Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/)
 
 ## Microsoft Graph Tools
 
@@ -374,6 +339,50 @@
 - [Teams アプリ「タスク」 入門: Planner・To Do 統合 AvePoint Blog](https://www.avepoint.com/blog/ja/microsoft-teams-ja/teams-todo-planner/)
 - [Microsoft Planner にて一般ユーザーによるプラン作成を制限する方法について](https://social.msdn.microsoft.com/Forums/ja-JP/92e21369-0f36-40df-8b56-712bc1402c9f/microsoft-planner?forum=sharepointsupportteamja)
 
+## Security
+
+- [Microsoft 365 環境におけるOAuthアプリのリスクと対策](https://zenn.dev/hirotomotaguchi/articles/202504_m365-oauth-security)
+
+## Teams
+
+- [Teams 会議の参加リンクや会議 ID から meetingId を取得する方法](https://zenn.dev/ymasaoka/articles/how-to-get-teamsmeeting-id-by-joinweburl)
+- [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
+- [Microsoft Teamsの表示をカスタマイズ、既定のリアクションを変更しよう](https://active.nikkeibp.co.jp/atcl/act/19/00390/061300092/)
+- [TeamsのIncomming Webhookコネクタが廃止されるようなのでPowerAutomateのワークフローに移行してみる](https://qiita.com/fukasawah/items/896c3638c203a973c2f0)
+- [【Sampleアプリ】Teams用の組織階層アドレス帳](https://qiita.com/Nagaaki_Iwata/items/0860c79bb958ab152af0)
+- [ChatGPTをMicrosoft Teamsから使う仕組みをノーコードで作ろう](https://ascii.jp/elem/000/004/146/4146380/)
+- [「Microsoft Teams」の「Project」「Roadmap」アプリ発表 - CNET Japan](https://japan.cnet.com/article/35161885/)
+- [【Teams】すべての Teams から情報を取得する【PowerShell】   ほげふがな日常](https://www.hogehoge-note.com/2019/08/16/post-300/)
+- [【オンライン セミナー】 Microsoft Teams を使いこなす! 活用事例の紹介](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-02Feb-23-Online-Seminar-Master-the-Microsoft-Teams-MCW0004285.html)
+- [【タスク管理】Teams × Planner で実現。簡単！便利！](https://m.youtube.com/watch?v=Tyqit541i2s)
+- [ASCII.jp：本日 18 時から日本.NET 界レジェンドたちの Teams 会議を生公開！「その.NET アプリ、クラウドどうモダナイズするの？」](https://ascii.jp/elem/000/001/905/1905256)
+- [Microsoft Lists とは & Teams 接続方法  AvePoint Japan Blog](https://www.avepoint.com/blog/ja/office-365-ja/microsoft-lists/)
+- [Microsoft Teams ：TIPS を色々詰め込んだ資料を公開しました！  Art-Break : Tech ;](https://art-break.net/tech/?p=7743)
+- [Microsoft Teams 「ブレークアウトルーム」操作マニュアル](https://blogs.windows.com/japan/2020/12/18/microsoft-teams-breakoutroom-manual/)
+- [Microsoft Teams でイベントの監査ログを検索する](https://docs.microsoft.com/ja-jp/microsoftteams/audit-log-events)
+- [Microsoft Teams で共有されたファイルや IM を確認する方法  Microsoft Docs](https://docs.microsoft.com/ja-jp/archive/blogs/teamsjp/teams-inplace)
+- [Microsoft Teams のチャット履歴を管理者が確認できるか？  idea.toString();](https://idea.tostring.jp/?p=2913)
+- [Microsoft Teams の新機能  2020 年 5 月 - Windows Blog for Japan](https://blogs.windows.com/japan/2020/06/25/what-s-new-in-microsoft-teams-may-2020/)
+- [Microsoft Teams リソース - Microsoft for business](https://www.microsoft.com/ja-jp/biz/wsi/teams-remote-work.aspx)
+- [Microsoft Teams 管理ドキュメント - Microsoft Teams  Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoftteams/)
+- [Microsoft Teams 他が 1 年間試用できるようになるそうです - kazuakix の日記](https://blog.kazuakix.jp/entry/2018/05/03/182242)
+- [Microsoft Teams 日本語カタログ 第 2 版と徹底活用ブック](https://blogs.windows.com/japan/2020/11/11/teams-catalog-booklet/)
+- [Power Automate : Teams 上で承認を行う](https://zezeze.hateblo.jp/entry/2019/11/29/040113)
+- [Power Automate（旧 Microsoft Flow）から Microsoft Teams へ Bot で投稿する方法 3 種をまとめてみた - Qiita](https://qiita.com/tfunakoshi/items/76029bcc8ac1d4d9bd71)
+- [PowerShell から Teams の Adaptive Card](https://qiita.com/syamamotorhead/items/5062cdcaaafc6740c0b2)
+- [Skype for Business から Teams への移行](https://blog.kazuakix.jp/entry/2018/11/08/234326)
+- [Teams クイックガイド](http://msft.it/6183TlOqZ)
+- [Teams 関連のマニュアル](https://www.yammer.com/japanoffice365users/#/threads/show?threadId=281992120745984)
+- [Teams の Adaptive Card にプロフィール画像を埋め込んでみた](https://qiita.com/syamamotorhead/items/5062cdcaaafc6740c0b2)
+- [Teams の Web 会議、上級活用法](https://xtech.nikkei.com/atcl/nxt/column/18/01362/)
+- [Teams のチームとチャネルの構成はこうせい！](https://blog.trainocate.co.jp/blog/teams01_020)
+- [Teams の会話を PST ファイルとしてエクスポートが可能！ExchangeOnline ライセンスが必要](https://1manit.work/windows/office365/teams/exportdata-pst/)
+- [ノンコーディングで Microsoft Teams のチームをすべて取得する](https://qiita.com/yugoes1021/items/e042f793e5056591dfa2)
+
+### Microsoft Mesh
+
+- [Microsoft Mesh](https://www.microsoft.com/en-us/microsoft-teams/microsoft-mesh)
+- [Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/)
 
 ## ライセンス
 
