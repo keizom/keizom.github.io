@@ -17,14 +17,14 @@
 # Microsoft 365
 
 - [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
-- [https://qiita.com/yaegashi/items/64cbbb13e950385b8dcb](最新の Azure アイコンの見つけかた)
-- [https://learn.microsoft.com/ja-jp/azure/architecture/icons/](アーキテクチャの図とドキュメントで使用する Azure アイコンをダウンロードする)
-- [https://learn.microsoft.com/ja-jp/microsoft-365/solutions/architecture-icons-templates?view=o365-worldwide](Microsoft 365 アーキテクチャのアイコンとテンプレート)
-- [https://learn.microsoft.com/en-us/dynamics365/get-started/icons](Microsoft Dynamics 365 アイコン)
-- [https://learn.microsoft.com/ja-jp/entra/architecture/architecture-icons](Microsoft Entra ID アーキテクチャ アイコン)
-- [https://learn.microsoft.com/ja-jp/fabric/fundamentals/icons](Microsoft Fabric の製品、ワークロード、項目のアイコン)
-- [https://learn.microsoft.com/ja-jp/power-platform/guidance/icons](Microsoft Power Platform アイコン)
-- [https://github.com/microsoft/PowerBI-Icons](Microsoft/PowerBI-Icons)
+- [最新の Azure アイコンの見つけかた](https://qiita.com/yaegashi/items/64cbbb13e950385b8dcb)
+- [アーキテクチャの図とドキュメントで使用する Azure アイコンをダウンロードする](https://learn.microsoft.com/ja-jp/azure/architecture/icons/)
+- [Microsoft 365 アーキテクチャのアイコンとテンプレート](https://learn.microsoft.com/ja-jp/microsoft-365/solutions/architecture-icons-templates?view=o365-worldwide)
+- [Microsoft Dynamics 365 アイコン](https://learn.microsoft.com/en-us/dynamics365/get-started/icons)
+- [Microsoft Entra ID アーキテクチャ アイコン](https://learn.microsoft.com/ja-jp/entra/architecture/architecture-icons)
+- [Microsoft Fabric の製品、ワークロード、項目のアイコン](https://learn.microsoft.com/ja-jp/fabric/fundamentals/icons)
+- [Microsoft Power Platform アイコン](https://learn.microsoft.com/ja-jp/power-platform/guidance/icons)
+- [Microsoft/PowerBI-Icons](https://github.com/microsoft/PowerBI-Icons)
 
 - [ライセンス](https://m365maps.com/matrix.htm)
 - [Test Base for Microsoft 365とは何か、使ってみてわかった｢完全自動化｣の利点と課題](https://www.sbbit.jp/article/cont1/127133)
