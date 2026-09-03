@@ -17,6 +17,7 @@
 
 ## フロントエンド
 
+- [【2026年版】フロントエンド技術選定：React・Vue・Angularの現在地と「AI時代の生存戦略」](https://zenn.dev/nijima/articles/651ed3c1f2ded5)
 - [2023年度版フロントエンド開発環境構築徹底解説](https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf)
 - [エンジニアがやりがちなUIデザインの失敗15選とその回避法](https://qiita.com/K3n_to_n17/items/17585fb03c819e0b9485)
 - [Webの次世代アーキテクチャ - PESPA](https://qiita.com/takagimeow/items/ac814c1e5b5d9e8a76e1)
@@ -124,6 +125,10 @@
 
 ## figma
 
+- [Pencil vs Figma ? 設計と実装の往復をなくした](https://zenn.dev/gakken_leap/articles/ad1c3db1025353)
+- [Figma Community ファイル](https://www.figma.com/ja-jp/community/file/1623166086522295408/ver0-9-7-4)
+- [『Figma入門 基本操作編』をリリースしました｜ドットインストール](https://note.com/dotinstall/n/n4a550d30706b)
+- [v0を使ったFigmaデザインのインポートとコード生成：ステップバイステップ解説 - HelloCraftAI](https://hellocraftai.com/blog/1121/)
 - [プロダクトを横断したFigmaコンポーネント構築 〜「インスタンスガイドライン」を策定した話〜](https://zenn.dev/levtech/articles/0271c278f88584)
 - [Figmaのデザインシステムの理解と実践【その2】](https://thinkit.co.jp/article/37915)
 - [Figmaが新機能4つ発表、ノーコード＆ワンクリックでWebサイトを即公開「Config 2025」現地レポ（前編）](https://webtan.impress.co.jp/e/2025/06/17/49464)
@@ -144,6 +149,30 @@
 
 ## html
 
+- [dialogタグで見直したいハンバーガーメニューの作り方](https://ics.media/entry/260527/)
+- [そのCSSの書き方は古すぎる！ モダンCSSとTailwind CSSでどのように記述するのかが分かる](https://coliss.com/articles/build-websites/operation/css/modern-css-code.html)
+- [【HTML/CSS】模写コーディングで学んだこと #HTML - Qiita](https://qiita.com/rei-dev99/items/20f3a8f2d52e5831b016)
+- [現在のGoogle HTML/CSS Guide コーディング規約/日本語訳 - FUERU(フエル)](https://fueru.info/design/html-css/google-styleguide/)
+- [CSSだけで作れる“ちょっと楽しい”アコーディオンメニューの実装と応用【初心者向けまとめ】 #初心者 - Qiita](https://qiita.com/suzukielecs/items/bcd619d613ca35a327bd)
+- [  「まだそんな古いCSSを使ってるの？」現在では必要のない古いCSSを見つけて、仕様に準拠したCSSを提案してくれるツール -ReliCSS | コリス](https://coliss.com/articles/build-websites/operation/css/detect-css-hacks-relicss.html)
+- [  2026年、現在の環境に適したリセットCSSのまとめ | コリス](https://coliss.com/articles/build-websites/operation/css/css-reset-for-modern-browser.html)
+- [実務ですぐに使える！HTML/CSSの小ネタ集](https://zenn.dev/imaihayato/articles/2025-12-26-html-css-tips)
+- [CSSマスターへの道「レスポンシブデザイン」 #CSS - Qiita](https://qiita.com/saka2jp/items/fb5412cd4c1a8f69ee57)
+- [CSSマスターへの道「インタラクティブな仕掛け」 #CSS - Qiita](https://qiita.com/saka2jp/items/4006f22abb98c51e7a32)
+- [2025年版、CSSまったく追えてなかったので一気に勉強した](https://zenn.dev/uemuragame5683/articles/3747cd1d55abf7)
+- [Tailwind CSSは本当に便利？](https://zenn.dev/crebo_tech/articles/article-0018-20251026)
+- [HTML・CSSだけで作れる！リストのホバー演出アイデア集 - ICS MEDIA](https://ics.media/entry/251010/)
+- [進化したHTMLとCSSで実装できるさまざまなUIコンポーネントのまとめ、JavaScriptはなし、もしくは最小限 - NoLoJS | コリス](https://coliss.com/articles/build-websites/operation/work/reduce-the-js-workload-ui-component.html)
+- [Vue Nuxt React Next.js の特徴・役割・使いどころを整理する #Vue.js - Qiita](https://qiita.com/Yasushi-Mo/items/6d08422936bbc9d5c5b3)
+- [JavaScriptをTypeScriptへ移行する実践ガイド - CodeZine](https://codezine.jp/article/detail/21598)
+- [ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた #TypeScript - Qiita](https://qiita.com/miruky/items/b892d9ff73495ca4b68d)
+- [CSS Code Quality Analyzer - コリス](https://coliss.com/articles/build-websites/operation/css/css-code-quality-analyzer.html)
+- [CSS大解剖 4日目: 閲覧環境 2/3 - Zenn](https://zenn.dev/qnighy/articles/f426f260aa0952)
+- [静的サイトジェネレータでMarkdownをそのままHTML化する](https://zenn.dev/booost/articles/c46965700864a6)
+- [Chrome 141で追加されたCSSとUI機能 - コリス](https://coliss.com/articles/build-websites/operation/work/chrome-141-adds-3-new-css-feature.html)
+- [HTMLを愛する人のためのUIライブラリ、シンプルなHTMLでさまざまなレイアウトやUIコンポーネントを実装 - Kelp](https://coliss.com/articles/build-websites/operation/work/ui-library-for-people-who-love-html.html)
+- [【UI】ドロップダウンはいつ、どのように使うべきなのか #HTML - Qiita](https://qiita.com/kobayashimakoto/items/926b9f1b4ffff1a1a296)
+- [  2025年、Web制作者がチェックしておきたいCSSの新機能のまとめ: 進化しているインタラクション編 | コリス](https://coliss.com/articles/build-websites/operation/css/css-in-2025-interactions.html)
 - [AIなら超簡単で早い！ Webサイトの構造を視覚化し、サイトマップを生成できる無料ツール -AI Sitemap Generator](https://coliss.com/articles/build-websites/operation/work/ai-sitemap-website-content-generator.html)
 - [現場で使えるAI UI生成ツール「v0」入門～基本機能とローカル開発環境への組み込み方法～](https://dev.classmethod.jp/articles/v0-introduction-and-local-setup/)
 - [手軽にインタラクション！アコーディオンを試そう](https://news.mynavi.jp/techplus/article/htmljavascriptapi-1/)
@@ -313,6 +342,7 @@
 
 ## react
 
+- [0からReactを勉強するならこのロードマップに従え！ - Qiita](https://qiita.com/Sicut_study/items/6adaeb14abfe022e689c)
 - [【2024年最新版】0からReactを勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/7d8c6f309dddda1a3961)
 
 ## STUDIO
@@ -325,7 +355,7 @@
 
 - [TypeScript入門 2024](https://speakerdeck.com/recruitengineers/typescriptru-men-2024)
 - [40代エンジニア志望、TypeScript はじめの一歩](https://qiita.com/nyakako13/items/6251e58a129f6d455dfb)
-- - [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
+- [TypeScriptの変更点まとめ ──新しい演算子・トップレベルawait・usingについて](https://codezine.jp/article/detail/18805)
 - [TypeScript未経験でもスムーズに業務に取り組める、最強の学習用コンテンツを作った話](https://engineers.ntt.com/entry/2023/12/19/090007)
 - [TypeScriptとも相性抜群なライブラリ──Vue.jsで状態管理を行う新定番「Pinia」を解説！ (2/3) CodeZine（コードジン）](https://codezine.jp/article/detail/18727?p=2)
 - [新しいチームでTypeScriptに素早くキャッチアップするためにやったこと](https://kakehashi-dev.hatenablog.com/entry/2024/09/04/110000)

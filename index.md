@@ -7,6 +7,7 @@
 - [GenerativeAI](https://keizom.github.io/GenerativeAI.html)
 - [intune](https://keizom.github.io/intune.html)
 - [mac](https://keizom.github.io/mac.html)
+- [MicrosoftLearn](https://keizom.github.io/MicrosoftLearn.html)
 - [Office365](https://keizom.github.io/Office365.html)
 - [onpremise](https://keizom.github.io/onpremise.html)
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
@@ -39,9 +40,6 @@
 - [tome](https://tome.app/)
 - [Dify](https://dify.ai/jp)
 - [bolt](https://bolt.new/)
-
-
-
 - [perplexity.ai/](https://www.perplexity.ai/)
 - [Perplexity Pro](https://www.perplexity.ai/pro)
 

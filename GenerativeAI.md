@@ -15,6 +15,35 @@
 
 # Generative AI
 
+- [AIにサイトの見た目を伝えるなら、まず「名前のあるデザインスタイル」を使おう](https://ai.itokoba.com/archives/232/)
+- [【神機能満載】最高性能“Google AI Studio”の活用術7選、完全公開 ｜ビジネス+IT](https://www.sbbit.jp/article/cont1/172436)
+- [「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう - Togetter](https://togetter.com/li/2718162)
+- [Xユーザーのふじくるり｜AI×スライド制作さん](https://x.com/fujikururi/status/2074411516045267438?s=12)
+- [Fable時代のAI活用法を、Anthropicの開発者が公開](https://zenn.dev/knowledgesense/articles/283244af941a2d)
+- [【Ignite 2025 速報】Foundry IQ 発表：エージェント向け“統合ナレッジレイヤー”がついに登場！ #AI - Qiita](https://qiita.com/nohanaga/items/1534230957534601269d)
+- [Googleに課金するときどれ選べばいいんだよ問題・AI対応 2026年版)Google One / Google AI / Google Workspace の比較）](https://nomolk.hatenablog.com/entry/2026/04/07/211801)
+- [「新人がAIに聞いたまま資料を出して来る」ことに嘆いている40代社員に対して、「ワークスロップ」という概念を紹介する人が登場する](https://togetter.com/li/2690339)
+- [Agent Shadow AI を管理する](https://learn.microsoft.com/ja-jp/microsoft-365/admin/manage/agent-shadow-ai?view=o365-worldwide&WT.mc_id=DX-MVP-5005281)
+- [AIコーディングとは？2026年版・非エンジニア向けの始め方とツール選び](https://www.playpark.co.jp/blog/ai-coding-introduction)
+- [【GitHub Copilotを“使いこなす”ためのプロンプト設計ガイド】GitHub Copilot プロンプトリファレンス [2026年7月公開版]](https://info.microsoft.com/JA-InnAI-WHTPP-FY26-01Jan-29-Prompt-Design-Guide-to-Master-GitHub-Copilot-GitHub-Copilot-Prompt-Reference-January-2026-Edition-SRGCM15881_LP01-Registration---Form-in-Body.html?sccid=tw_scl_spl_soc_20260821&ocid=AID3062894_TWITTER_oo_spl100011065953212)
+- [いま話題のAI IDE「Kiro」で仕様駆動開発を試してみた](https://qiita.com/hirokiii27/items/d3d1ac5995ea08a40787)
+- [品質を担保した AI 駆動開発セッション受講メモ - Qiita](https://qiita.com/chomado/items/764e67e104843a22bcde)
+- [フォームを数回のクリックで実装できるAIツール Formcn - コリス](https://coliss.com/articles/build-websites/operation/work/build-forms-with-a-few-clicks.html)
+- [素人がAIで誤りを量産し、プロが後始末する地獄絵図](https://note.com/rk611/n/nf22e638593aa)
+- [GPT-5が公開されたが、このAIは明らかに汎用人工知能でも人工超知能でもない | Forbes JAPAN](https://forbesjapan.com/articles/detail/81227)
+- [ここから始めるAIのビジネス活用スタートブック](https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-AIbusinessutilization-SRGCM1257.pdf)
+- [Microsoft AI Tour Osaka](https://share.google/biurcNFi6ElQQ9Ow7)
+- [【無料】グーグル神AIツール5選 「Google AI Studio」はこれがやばい](https://ascii.jp/elem/000/004/286/4286792/4/)
+- [AIが崩す「日本語の壁」、外国人に日本人が淘汰される悲劇](https://diamond.jp/articles/-/344770?page=3)
+- [Xユーザーのこすもす｜AIで起業しろさん](https://x.com/cosmos_hzokujin/status/2074617045321396711?s=12)
+- [DeNA×AIでは、GO株式会社と共同でAI技術に関する情報を共有するための勉強会を開催しています。使われた資料は社外秘を除き積極的に公開しています。](https://dena.ai/community/)
+- [Xユーザーの西田貴彦@AI×業務変革)@takanishi12）さん](https://x.com/takanishi12/status/2078449777344467152?s=12)
+- [Xユーザーのたく｜AI活用×実践ノウハウさん: 「https://t.co/oJg5Nlkut5」 / X](https://x.com/taku_ai_case/status/2093823845883154557?s=12&t=cDWRGzJI8Bpro1A4vS3pog)
+- [Xユーザーのたく｜AI活用×実践ノウハウさん: 「https://t.co/PTUi3NthiM」 / X](https://x.com/taku_ai_case/status/2092007780152688709?s=12&t=cDWRGzJI8Bpro1A4vS3pog)
+- [[レポート公開] そのAIツール、すでに情報を抜かれています。実在インシデントで判明したセキュリティ事故 8選](https://prtimes.jp/main/html/rd/p/000000068.000118521.html)
+- [AIエージェントで良いコードを書く！品質向上ルール - Qiita](https://qiita.com/tomada/items/df5d3e0f611860bc2740)
+
+
 ## 資料
 
 - [AI SKILLS NAVIGATOR](https://aiskillsnavigator.microsoft.com/ja-jp)
@@ -24,16 +53,13 @@
 - [2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊](https://qiita.com/aokikenichi/items/0e064ecd3824fab9424d)
 - [【教材まとめ】これ全部やったら流石に誰でもつよつよAIエンジニアになれる](https://qiita.com/eureka-ai/items/6c55e3b6d9617ae58afa)
 
-## misc
+## Agent
 
-- [2025年さらに熱くなるであろうローカルLLMのためのm4mac購入検討](https://zenn.dev/afk2777/articles/localllm-mac)
-- [【生成AIの学習ロードマップ】最近やたら羽振りのいいやつが生成AIを極めてた件について。](https://qiita.com/Nicola_GenAI/items/04e2babe86291fc4483b)
-- [12 Days of OpenAIの発表内容まとめ【生成AIエンジニア必見】](https://zenn.dev/galirage/articles/openai-12-days)
-- [世界経済の潮流](https://www5.cao.go.jp/j-j/sekai_chouryuu/sh24-01/index-pdf.html)
-- [GPT-3.5 Turbo終了で戸惑う金融各社、国内データセンター限定方針に限界](https://xtech.nikkei.com/atcl/nxt/column/18/00001/09626/)
-- [AIで仕事が奪われるエンジニアの特徴](https://qiita.com/Sicut_study/items/66a0b326402896e6c50b)
-- [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
-- [3割超の企業がやっている…生成AIのアプリ開発、新時代の当たり前とは？](https://www.sbbit.jp/article/cont1/143365)
+- [コーディングAIをもっと使いやすく、新標準「AGENTS.md」公開 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2508/26/news011.html)
+- [Agent Skills 入門 - サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/claude-code-agent-skills-guide)
+- [AI エージェントを仕組みから理解する](https://zenn.dev/dinii/articles/ai-agent-demystified)
+- [Agent Development Kit によるエージェント開発入門](https://speakerdeck.com/enakai00/agent-development-kit-niyoruezientokai-fa-ru-men)
+- [MCP Servers for agent mode](https://code.visualstudio.com/mcp)
 
 ## AI Shell
 
@@ -53,6 +79,11 @@
 
 ## Chat GPT
 
+- [生成AIマスターになるための便利サービス50選 #ChatGPT - Qiita](https://qiita.com/keiichileograph/items/3f40dac476718828e826)
+- [ChatGPTおよびAPI統合のためのMCPサーバ構築](https://note.com/npaka/n/n04ea574b6934)
+- [ローカルPCで動くAI「gpt-oss-20b」とは？ #ChatGPT - Qiita](https://qiita.com/shota0616/items/06ba1bc00df1fc04944e)
+- [「ChatGPT、俺的にはイマイチなんだよね」と発言する人の残念な末路](https://diamond.jp/articles/-/344769)
+- [ChatGPTに「作業だけさせる人」と「成長に繋げる人」を分けるたった1つの習慣](https://diamond.jp/articles/-/344771?page=4)
 - [【世界が10年進んだ】OpenAI怒涛の12日連続発表総まとめ。知っておくべきポイントを抜粋解説《$200プラン、o1、o3、Sora、ビデオ通話 などなど》](https://note.com/chaen_channel/n/n59eef96a01d2)
 - [ChatGPT料金プラン徹底比較！無料・有料版の違いと選び方【2025年最新】](https://www.ai-souken.com/article/chatgpt-price-guide)
 - [初心者向け！ChatGPTのAPIを使ったアプリ開発入門](https://zenn.dev/fuya777/articles/f898bb2159d163)
@@ -141,6 +172,80 @@
 
 ## Claude Code
 
+- [【2026/7/11最新版】天才が使うClaude Code全機能解説](https://x.com/ai_ai_ailover/status/2075584469294284829?s=12)
+- [ClaudeのMaxプランによって変わった個人開発のスタイル](https://zenn.dev/ryosuke_horie/articles/24768b727ff27c)
+- [Claude Opus4.8で画像付きの手順書を動く手順書に変換してみた](https://zenn.dev/acntechjp/articles/a935ec3b82084d)
+- [ClaudeでAdobeツールを使える！「Adobe for creativity connector」でできることまとめ＋試してみた](https://t.co/LZyLXeZGqW?ssr=true)
+- [Claudeが発表したCoworkを試してみた #Claude - Qiita](https://qiita.com/wozisagi/items/29786bd289ff39f62be6)
+- [re-introduction-to-claude-code](https://speakerdeck.com/schroneko/re-introduction-to-claude-code)
+- [Claude Desktop の初期エクステンションを試す｜npaka](https://note.com/npaka/n/n8c3a1932324a)
+- [Claude、コーディング不要のAIアプリ開発・共有プラットフォームへと進化](https://news.livedoor.com/article/detail/29040716/)
+- [Claude in Excel の導入メリットと活用術](https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news021.html)
+- [Claude Designが来た日 ─ Webデザイナーとフロントエンドの仕事はどこまで削られるのか](https://zenn.dev/akasara/articles/ab24affd00d788)
+- [Claude Code実用する上で最低限やると良いこと](https://zenn.dev/dala/articles/claude-code-efficiency)
+- [Claude Code ユーザーに Cowork は必要か](https://zenn.dev/marvelousu/articles/claude-code-covers-cowork)
+- [Claude Code時代のソフトウェアエンジニア生存戦略](https://note.com/suthio/n/n4f79fbe4efda)
+- [これを読めば分かるClaude Code完全攻略ガイド](https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d)
+- [Claude Code を Pro プランで2週間使ってみた](https://qiita.com/wataru86/items/116ba416d2ebd3f28bbd)
+- [Claude Code Desktopアプリ完全解説マニュアル](https://note.com/chaen_channel/n/n8a93a5e955f8)
+- [ちゃんと知ってる？Claude Codeの料金の話](https://note.com/workwithai/n/n8e996678ae66)
+- [Claude Code のベストプラクティス](https://code.claude.com/docs/ja/best-practices)
+- [【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド](https://qiita.com/yamamoto0/items/17817dc09a78078fa132)
+- [【入門記事】ClaudeCodeの中級者になりたい人は集合してください #ClaudeCode - Qiita](https://qiita.com/K5K/items/72cc4282819ace823524)
+- [複数リポジトリでClaude Codeのルール・スキルを一元管理する | DevelopersIO](https://dev.classmethod.jp/articles/async-claude-code-rules-and-skills/)
+- [初心者向け Claude Code 設定・用語理解 #ClaudeCode - Qiita](https://qiita.com/westtail/items/15767bbabf15a6db381d)
+- [[翻訳] Anthropic ハッカソン優勝者による Claude Code 完全ガイド【基礎編】](https://zenn.dev/studypocket/articles/claude-code-complete-guide)
+- [Claude Codeの料金体系とインストールからセットアップまで | gihyo.jp](https://gihyo.jp/article/2025/11/get-started-claude-code-02)
+- [Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説](https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide)
+- [Claude Code チュートリアル](https://zenn.dev/pepabo/articles/898cdc4839acb8)
+- [俺が3人分になる... ClaudeCode開発環境構築方法 - Qiita](https://qiita.com/MLLB/items/f4ff2e27e1973b43b728)
+- [Claude Codeとは？インストールから使い方まで徹底解説 - Zenn](https://zenn.dev/takuh/articles/b846841c67f55d)
+- [Claude Code をインストールして使ってみた！ - Qiita](https://qiita.com/wooooo/items/679aff2580d26f6e95df)
+- [Claude Codeの料金体系ガイド - AI総合研究所](https://www.ai-souken.com/article/claude-code-pricing)
+- [Claude Codeで開発効率85%UP！AIとの往復を20回→3回に減らす実践テクニック](https://zenn.dev/sakupanda/articles/ecb4ae7e9a240e)
+- [Claude Code のコンテキスト残量を常に表示する](https://zenn.dev/pnd/articles/claude-code-statusline)
+- [Claude Codeの料金体系とは？無料で使える範囲と有料プランを解説 - HelloCraftAI](https://hellocraftai.com/blog/946/)
+- [Claude Codeを徹底解説してみた)前編） | DevelopersIO](https://dev.classmethod.jp/articles/get-started-claude-code-1/)
+- [九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO](https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/)
+- [【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選 #AWS - Qiita](https://qiita.com/miruky/items/51db293a7a7d0d277a5d)
+- [10か月CLIで使ってきたClaude CodeをDesktopメインに移行した12の理由](https://zenn.dev/canly/articles/428767121d7dc2)
+- [『実践Claude Code入門』を読みながらDev Container環境でClaude Codeを動かしてみた](https://zenn.dev/unsoluble_sugar/articles/4878a6d01b7305)
+- [Gemini CLIの"強み"を知る！ Gemini CLIとClaude Codeを比較してみた #AIエージェント - Qiita](https://qiita.com/kyuko/items/b7f7336057859f5c9b4f)
+- [Gemini CLI と Claude Code の生成コードを比較してみた](https://tech.naturalmindo.com/notwork_comp_geminicli_claudecode/)
+- [Gemini CLIとは？使い方や料金Claude Codeとの違いをわかりやすく解説！ | AI総合研究所](https://www.ai-souken.com/article/what-is-gemini-cli)
+- [Gemini CLI×Claude Code MCPで便利に使おう | ドクセル](https://www.docswell.com/s/karaage0703/KYER3L-2025-07-13-212147)
+- [Claude Code x Gemini CLI x OpenAI o3 x 人間による、四位一体開発術](https://zenn.dev/tksfjt1024/articles/ec2b985fc32c93)
+- [Claude CodeをローカルLLMで (1)](https://zenn.dev/tmiya/articles/733001998d4b9e)
+- [Claude Code の CLAUDE.mdは設定した方がいい](https://syu-m-5151.hatenablog.com/entry/2025/06/06/190847)
+- [Claude Codeとplaywright mcpを連携させる](https://zenn.dev/sesere/articles/4c0b55102dcc84)
+- [Claude Code プラグインおすすめ 2026 ? 公式マーケットプレイスから入れるべきプラグイン & MCP サーバー](https://zenn.dev/ino_h/articles/2026-04-23-claude-code-plugins-ranking)
+- [【保存版】Claude Code完全設定ガイド2026 - Hooks/Skills/MCP/権限を全部入りで本番運用する](https://qiita.com/emi_ndk/items/56b2fc8bf4e7ed5ba7f3)
+- [【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ #AI - Qiita](https://qiita.com/shatolin/items/ca1810e419fee5fd963b)
+- [MCPツール棚卸しによるClaude Codeのコンテキスト最適化 - Zenn](https://zenn.dev/medley/articles/optimizing-claude-code-context-with-mcp-tool-audit)
+- [Claude Codeにコマンド一発でMCPサーバを簡単設定](https://zenn.dev/karaage0703/articles/3bd2957807f311)
+- [Claude Codeは「コードを書くAI」で終わらせるな：公式 document-skills でPDF・Excel・Word・PowerPointまで自動化する #ClaudeCode - Qiita](https://qiita.com/4q_sano/items/2c9d2686bdbc5e085191)
+- [構成図を中心に据える、Obsidian × Claude Code ナレッジベース](https://zenn.dev/archicraft_dev/articles/bcd9c3075c5d08)
+- [【Claude Code】Claude CodeがOllamaと連携できるようになったらしい #初心者 - Qiita](https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40)
+- [Claude CodeとCodexの設定ファイルを同期させる](https://zenn.dev/explaza/articles/20f7f41cff8428)
+- [Claude Code と Codex の主要機能を比較する](https://qiita.com/nogataka/items/545148471e8f2b63c9a6)
+- [Claude Code vs Codex](https://zenn.dev/dely_jp/articles/cfac9a04904113)
+- [XユーザーのTaiyo Kimuraさん: 「PC上のどこでもCodexとClaudeCode利用制限がみれるこれ便利。 OpenClaw開発者の@steipeteさんが作ったやつ? https://t.co/cIfiM5u8h3」 / X](https://x.com/taiyo_ai_gakuse/status/2073401043975913683?s=12)
+- [Claude CodeとCodex簡単に比較してみた](https://zenn.dev/open_developers/articles/de31d7edb9411e)
+- [【Claude Codeのライバル】Codex)コーデックス)入門ガイド｜導入方法・使い方・重要機能)MCP、スキル、プラグイン、Hooks、Subagents)をやさしく解説！ - ライブドアニュース](https://news.livedoor.com/article/detail/31152459/)
+- [Claude CodeやCodexに機密情報入れて大丈夫？セキュリティを軽くまとめ](https://zenn.dev/acntechjp/articles/a1e95959858c1c)
+- [Claude Code to Figmaを試して、UI/UXデザイナーの役割について考えたこと｜ミテ](https://note.com/miteo/n/n91b288c75214)
+- [Cursorから乗り換えた人向け VSCode版Claude Code設定](https://zenn.dev/sonicgarden/articles/1eefee01ee555b)
+- [Anthropic、「Claude Code for VS Code」の一般提供を開始 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/2079499.html)
+- [Claude Code for VS Code を確認してみる - Qiita](https://qiita.com/ryu-ki/items/49023459c67f0348e3ee)
+- [Claude Codeで課題解決！従来のWebサイト開発環境をまるっと刷新してみた | DevelopersIO](https://dev.classmethod.jp/articles/replaced-old-website-environment-using-claude-code/)
+- [Claude CodeがついにWindowsサポート！](https://zenn.dev/acntechjp/articles/34bfa025051867)
+- [Claude Code Windows版完全ガイド ? PowerShellプレビューとネイティブインストール](https://qiita.com/kai_kou/items/2e33c169a9e297fe71c1)
+- [Claude CodeがWindows)WSLなし)で使えるようになりました - DevelopersIO](https://dev.classmethod.jp/articles/claude-code-windows-wsl/)
+- [【小ネタ】GitとVSCodeがあればWindowsでもClaude Codeを使えるぅ！)WSLもいらない） - Qiita](https://qiita.com/moritalous/items/cc0dbe71b36f6b108614)
+- [メルカリのClaude Codeセキュリティ設定の組織配布戦略 - Claude Code Meetup Japan #4](https://speakerdeck.com/hi120ki/claude-code-organization-settings)
+- [Claude Codeのサブエージェントを可視化できる便利ツール5選](https://qiita.com/kamome_susume/items/7c459b63b9e5bde2ea8e)
+- [Desktop application - Claude Code Docs](https://code.claude.com/docs/ja/desktop)
+- [【15分で追いつく！】今のClaude Codeができることをざっくり解説 #生成AI - Qiita](https://qiita.com/kyuko/items/77e9e022860b57e4bd4d)
 - [「Claude Code」導入をめっちゃスムーズにする「ドキュメントの下地」を作るプロンプト](https://qiita.com/WdknWdkn/items/2755301aebff878e0075)
 - [Claude Code の使い方](https://note.com/npaka/n/n3d754c78f439)
 - [Claude CodeをWindows上で使う方法](https://zenn.dev/acntechjp/articles/eb5d6c8e71bfb9)
@@ -159,6 +264,7 @@
 
 ## Claude
 
+- [Claude Academy へようこそ](https://academy.claude.com/ja)
 - [チャットAI「Claude」人気機能「Artifacts」が誰でも使えるようになった](https://ascii.jp/elem/000/004/218/4218138/)
 - [うさぎでもわかる🐰ヤバすぎclaude-bridgeでClaude CodeにGPT、Gemini、ローカルLLMを接続！無料でエージェント機能使い放題の革命的ツール](https://note.com/taku_sid/n/n189f2696a30e)
 - [Claude 4プロンプトエンジニアリング完全ガイド：初心者から上級者まで](https://qiita.com/syukan3/items/70ed29a4403b83b35add)
@@ -187,6 +293,7 @@
 
 ## Dify
 
+- [【これ1本でわかる】Difyを“まるっと理解する” - Qiita](https://qiita.com/yushibats/items/80fde659be7425872a8f)
 - [会社の資料を今すぐDifyで要約しよう！](https://qiita.com/ogi_kimura/items/d13631b3a77e18023ef9)
 - [【発売前レビュー】Difyで作る生成AIアプリ完全入門](https://qiita.com/minorun365/items/15527ec7ffe8804ce290)
 - [ノーコードで高度な生成AIアプリをつくれる「Dify」、ChatGPTと何が違う？](https://xtech.nikkei.com/atcl/nxt/column/18/03136/032500001/)
@@ -210,6 +317,26 @@
 
 ## Gemini
 
+- [大学生とともに作った「Gemini 活用事例集」を公開](https://blog.google/intl/ja-jp/feed/gemini/)
+- [「Gemini in Chrome」の導入から活用まで知っておくべきこと - ZDNET Japan](https://japan.zdnet.com/article/35235612/)
+- [【無料公開】Googleの新AIエージェント「Gemini CLI」登場！](https://chatgpt-lab.com/n/n4ccc9d035cab)
+- [無料で「Gemini 2.5 Pro」が使える！グーグル「Gemini CLI」の使い方を簡単解説](https://ascii.jp/elem/000/004/297/4297141/)
+- [プログラミング1ミリも分からない人がGemini CLI始めるまでの全手順)Win篇）｜ミヤマ](https://note.com/mmmiyama/n/n9fa6839beb06)
+- [Gemini CLI 入門 )4) - Gemini CLIツール｜npaka](https://note.com/npaka/n/ne00a12e921de)
+- [Gemini CLI 入門 )2) - クイックスタート｜npaka](https://note.com/npaka/n/n36f1968dda9b)
+- [Gemini CLI の簡単チュートリアル](https://zenn.dev/schroneko/articles/gemini-cli-tutorial)
+- [Google Gemini CLIをセットアップして最強のターミナルAIアシスタントを手に入れる](https://zenn.dev/owayo/articles/a9254d5e65641b)
+- [Gemini CLIを触った。これは実質"Google2"だ！](https://zenn.dev/acntechjp/articles/4e601d6379255b)
+- [Gemini CLI をさっそく試してみた！ #Google - Qiita](https://qiita.com/youtoy/items/fa5b696b055ed4a992ec)
+- [Gemini CLIを会社で使う場合のプラン選択方針](https://zenn.dev/hololab/articles/geminicli-001-75046b80817049)
+- [Gemini CLI の使い方](https://zenn.dev/mafukuda/articles/gemini-cli-usage)
+- [Gemini CLI GitHub Actions](https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-gemini-cli-github-actions)
+- [ゼロからはじめるJavaScript)35) Gemini CLIで日々の作業を自動化してみよう | TECH+](https://news.mynavi.jp/techplus/article/zerojavascript-35/)
+- [【Obsidianの使い方が変わる】Gemini CLIは、あなたの思考に寄り添う「無料の執事」](https://note.com/chankostin/n/nb33ca6e289fa)
+- [Gemini CLI、VS Codeとの連携強化](https://gihyo.jp/article/2025/08/gemini-cli-vs-code-integration)
+- [Gemini CLI : オープンソース AI エージェント | Google Cloud 公式ブログ](https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-gemini-cli/)
+- [Excel手作業終了のお知らせ！Gemini CLI + MCPでExcel生成時代到来](https://zenn.dev/acntechjp/articles/77a521ec0ac654)
+- [Gemini Code Assist によるコード | Cloud Code for VS Code](https://cloud.google.com/code/docs/vscode/write-code-gemini?hl=ja)
 - [初心者でも簡単！ 生成 AI から欲しい回答を引き出すプロンプト術](https://note.com/google_gemini/n/n60a9c426694e)
 - [Gemini for Google Workspace Prompt Guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
 - [GoogleのAI「Gemini」って、何ができるの？知っておきたい基礎知識まとめました](https://www.lifehacker.jp/article/2406-difference-between-google-gemini-apps-and-models/)
@@ -224,7 +351,7 @@
 - [Google NotebookLMとは？ 試してわかった「独自チャットボット」作成ツールの凄い実力](https://www.sbbit.jp/article/cont1/146140)
 - [NotebookLM「マインドマップ」機能 3 分解説：情報を視覚化して理解を加速する](https://note.com/komzweb/n/n4a1052078d48)
 - [NotebookLMとは？使い方や料金・活用事例5選を詳しく解説](https://aismiley.co.jp/ai_news/what-is-notebooklm-5/)
-- - [NotebookLMの最新動向と活用事例](https://zenn.dev/tsuruo/articles/9057ee40f89bda)
+- [NotebookLMの最新動向と活用事例](https://zenn.dev/tsuruo/articles/9057ee40f89bda)
 - [Google NotebookLMを使ってみた - もしかしたらかなり使えるかも！](https://note.com/ippei_suzuki_us/n/ncbc2e184c72b)
 
 ## GPTs
@@ -256,6 +383,19 @@
 
 ## Local LLM
 
+- [商用利用も無料、サーバに依存しないローカルAIを作る「LM Studio」入門：Tech TIPS - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2508/01/news014.html)
+- [【特集】無料で使える「LM Studio」でローカルLLM入門。導入から性能比較まで](https://pc.watch.impress.co.jp/docs/topic/feature/2090806.html)
+- [WindowsのGUIでローカルAIを構築できる無料ツール「LM Studio」 ～インストールと基本的なチャットのつかいかた - ローカルAIの杜 - 窓の杜](https://forest.watch.impress.co.jp/docs/review/localai/2133501.html)
+- [あなたのボトルネックはどれ？ ? ローカルLLMを速くする手段の早見表)RTX 4070 実測） #vLLM - Qiita](https://qiita.com/Marron-chan/items/8dafc00a3acd33a6b434)
+- [大規模言語モデル入門 / LLM introduction )SES2023](https://speakerdeck.com/kyoun/llm-introduction-ses2023)
+- [ローカル LLM 環境を構築する - Qiita](https://qiita.com/kkawaharanet/items/b80d7cde49364aa94963)
+- [【脱・従量課金】CPUローカルLLM×Microsoft Agent Frameworkで始める次世代マルチエージェント開発 )Vol.1 導入](https://qiita.com/KazutoMakino/items/b7664ec375d6c9014350)
+- [Microsoft製ローカルLLM実行環境の「Foundry Local」が一般提供](https://news.mynavi.jp/techplus/article/20260410-foundrylocalga/)
+- [Mac miniで完全ローカルのLLM + RAG環境を構築してみた](https://qiita.com/y-okayama-tb/items/0127a7c5203f44507474)
+- [MCPとRAGの違いをわかりやすく - LLM実装での使い分け完全ガイド](https://zenn.dev/yamitake/articles/mcp-vs-rag-llm-implementation)
+- [GPUを使わずにWindowsでローカルLLMを動かす](https://zenn.dev/nwth/articles/202511-local-llm)
+- [Local LLMでのデータ分析を試してみた](https://zenn.dev/aishift/articles/5a5383987efee6)
+- [LLMのプロンプトエンジニアリングに登場するプロンプト - GIGAZINE](https://gigazine.net/news/20250819-prompt-engineering-for-llms/)
 - [ローカルLLM活用徹底解説：rClineとLM Studio、Ollamaを使いこなす](https://note.com/life_to_ai/n/nfc3cea295e34)
 - [翻訳LLMで1年間開発して学んだこと〜LLMプロダクト開発を成功に導くための実践的ガイド〜](https://zenn.dev/seya/articles/12c67b5d80670a)
 - [LLM開発のための環境構築](https://zenn.dev/elith/articles/e4dbbb62752e04)
@@ -301,8 +441,40 @@
 
 ## MCP Server
 
+- [モデル コンテキスト プロトコルを使用してエージェントを拡張する](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/agent-extend-action-mcp)
+- [MCPサーバーって結局何？理解のついでに作ってみる](https://zenn.dev/rakuten_tech/articles/mcp-server-explained)
+- [Chrome DevTools MCP の全ツールをまとめて理解する](https://qiita.com/softbase/items/fe445a318846fd6a364d)
+- [MCP Apps標準化でWeb業界が一変。MCPクライアントとMCPサーバで対応した経験をもとに解説](https://zenn.dev/takeshy/articles/f88ee9325720b4)
+- [Google Chromeに開発者ツール用のMCPサーバーが登場](https://codezine.jp/news/detail/22791)
+- [Chrome DevTools MCP 登場 - Qiita](https://qiita.com/masakinihirota/items/a925a2b68ab8374c7fd0)
+- [Playwright MCP を試す](https://note.com/npaka/n/n29182ae4fd27)
+- [MCPサーバーとMCPクライアントを作る](https://gihyo.jp/article/2025/08/start-java-ai-programming-04)
+- [開発の手動構築を「AWS MCP Server」でサッとIaC 管理へ移行しよう - asken テックブログ](https://tech.asken.inc/entry/20251212)
+- [Azure × MCP 入門 - Speaker Deck](https://speakerdeck.com/ry0y4n/azure-x-mcp-ru-men)
+- [Azure MCP サーバーの使用を開始する - Azure MCP Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/azure-mcp-server/get-started)
+- [Microsoft、Azure DevOps向けローカルMCPサーバー提供開始 - CodeZine](http://codezine.jp/article/detail/22397)
+- [MCP 基礎知識 & MCP 公式の MCP サーバ自作チュートリアル )C#) やってみた #MCPサーバー - Qiita](https://qiita.com/chomado/items/968eca2a96873ccad938)
+- [Playwright MCP に CLI モードが追加されたので試す](https://zenn.dev/andynuma/articles/1f6232efcee67a)
+- [初めて MCP を使うなら Docker MCP Toolkit がおすすめ](https://qiita.com/falya128/items/23020ddba7a7d1ce2e1f)
+- [Figma MCPを使ったWebページの初期AI実装フロー](https://zenn.dev/yuichiroharai/articles/22c28f4c6af0ec)
+- [Figma MCPの構造化問題を改善！「Layermate」でデザイン再現率を向上させた話](https://zenn.dev/canly/articles/a40805a70ad59f)
+- [FigmaがMCPサーバーを導入しました。使い方はこちらです。](https://apidog.com/jp/blog/figma-mcp-jp/)
+- [GitHub MCP Registryが公開 - gihyo.jp](https://gihyo.jp/article/2025/09/github-mcp-registry)
+- [GitHub MCP Registry 公開 - Publickey](https://www.publickey1.jp/blog/25/githubmcpgithub_mcp_registry.html)
+- [GitHub - microsoft/mcp](https://github.com/microsoft/mcp)
+- [GitHub - microsoft/skills: Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents ? GitHub](https://techfeed.io/e?id=6984097edec0a44b7da552a8&commentId=699e87ecf60f12283ee8c92d)
+- [Playwright MCPでCSSの修正が楽になった](https://zenn.dev/silverbirder/articles/5bba8251cea74a)
+- [Anthropic の MCP の クイックスタート 1 - PythonによるMCPサーバの開発｜npaka](https://note.com/npaka/n/n8d4ab42ace71)
+- [APIM で REST API / MCP サーバーを MCP として公開する](https://zenn.dev/microsoft/articles/012-model-context-protocol)
+- [Visual Studio 2026 MCPがついに標準化！ - Qiita](https://qiita.com/Sakai_path/items/8e4f317acb3490099dea)
+- [VSCodeでPlaywright MCPを触ってみる](https://zenn.dev/whshido/articles/bf3974f8ecb544)
+- [開発者必見：VSCode MCPサーバーの導入と実践方法](https://apidog.com/jp/blog/vscode-mcp-server-jp/)
+- [Discover and install MCP Servers in VS Code](https://code.visualstudio.com/mcp)
+- [Figma MCPサーバーのVSCodeでの導入 | iret.media](https://iret.media/168778)
+- [Google Analytics MCPサーバー、オープンソースとしてリリース](https://gihyo.jp/article/2025/07/google-analytics-mcp-server)
+- [デザイナーがClaudeとFigma MCPで試したこと（VibeCoding実践記）｜yiping](https://note.com/20191201yiping/n/ne38e9bd31786)
 - [MCPを理解する](https://speakerdeck.com/yudai00/mcpwoli-jie-suru)
-- [AI エージェントを仕組みから理解する](https://zenn.dev/dinii/articles/ai-agent-demystified)
+- [Google Analytics MCP を最短導入する手順)Claude / Gemini 対応）](https://zenn.dev/yamitake/articles/google-analytics-mcp-setup)
 - [Visual Studio CodeでMCP Serverを使えるようにしてみた](https://zenn.dev/kenshintatsumi/articles/9250aa8303a72f)
 - [GPT-4.1、Claude 3.7 Sonnet、Gemini 2.5 Pro、Grok 3、用途別で見るベストLLMとは？]()
 - [初めて MCP を使うなら Docker MCP Toolkit がおすすめ](https://qiita.com/falya128/items/23020ddba7a7d1ce2e1f)
@@ -310,11 +482,9 @@
 - [MCPに入門する](https://speakerdeck.com/shuntaka/introduction-to-mcp)
 - [ローカルRAGを手軽に構築できるMCPサーバを作りました](https://zenn.dev/mkj/articles/30eeb69bf84b3f)
 - [MCP入門 〜面倒なことはAIエージェントにやらせよう〜 by からあげ を聞きながら](https://qiita.com/kaizen_nagoya/items/54b648c838fae8d57e38)
-- [Agent Development Kit によるエージェント開発入門](https://speakerdeck.com/enakai00/agent-development-kit-niyoruezientokai-fa-ru-men)
 - [VSCodeでAIエージェントとMCPが使えるようになったので試してみた](https://cdle.jp/blogs/332cfe125fc6)
 - [VSCode MCPサーバーの使い方](https://apidog.com/jp/blog/vscode-mcp-server-jp/)
 - [【丁寧解説】結局MCPサーバーって何？Cursorで活躍する機能でもあります](https://zenn.dev/aimasaou/articles/96182d46ae6ad2)
-- [MCP Servers for agent mode](https://code.visualstudio.com/mcp)
 - [Visual Studio Code⁠⁠、厳選したMCPサーバーの一覧ページを公開](https://gihyo.jp/article/2025/06/mcp-server-lists-for-vscode)
 - [Claude Codeの公式VSCode拡張が拡張機能ストアで検索可能な形で公開されたので改めて触ってみた](https://dev.classmethod.jp/articles/claude-code-vscode-extension-review/)
 - [GitHub Copilotの「Agent mode」が正式リリース、MCPはプレビュー版提供開始](https://codezine.jp/article/detail/21768)
@@ -410,6 +580,30 @@
 - [VS CodeとPlaywrightを使ったE2Eテストの実施](https://heartbeats.jp/hbblog/2024/11/vscodeplaywrighte2e.html)
 - [Microsoft Playwright MCPが切り拓くLLMとブラウザの新たな統合](https://zenn.dev/kimkiyong/articles/679faf454b0ee0)
 
+## Microsoft Agent Framework
+
+- [Agent Framework RC版公開).NET と Python対応）](https://atmarkit.itmedia.co.jp/ait/articles/2603/27/news057.html)
+- [Microsoft Agent Framework HarnessAgent を試す](https://zenn.dev/microsoft/articles/agent-framework-harness-intro)
+- [【Microsoft Agent Framework】クライアント生成を理解したい](https://zenn.dev/headwaters/articles/8ae0a928cafe3e)
+- [【Microsoft Agent Framework】workflow を 1 つの agent として扱うには](https://zenn.dev/headwaters/articles/3bba6f48b62e43)
+- [Microsoft Agent Framework を使用してマルチエージェント ソリューションを調整する](https://learn.microsoft.com/ja-jp/training/modules/orchestrate-semantic-kernel-multi-agent-solution/)
+- [Microsoft Agent Framework開発入門](https://qiita.com/matayuuu/items/e028904453dded34d18f)
+- [Microsoft Agent Framework プレビュー公開 - Publickey](https://www.publickey1.jp/blog/25/mcpa2aaimicrosoft_agent_framewok.html)
+- [V1 リリース！ - Microsoft Agent Framework )C#) V1 その1](https://zenn.dev/microsoft/articles/agentframework-v1-001)
+- [新しいワークフローの勉強1 - Microsoft Agent Framework )C#) その18](https://zenn.dev/microsoft/articles/agent-framework-018)
+- [Microsoft Agent Framework )C#) を見てみよう その1「雑感」とハローワールド](https://zenn.dev/microsoft/articles/agent-framework-001)
+- [Microsoft Foundry Localをお試しする)C#編その１](https://qiita.com/kashin777/items/0878a6f2c1412402d065)
+
+## misc
+
+- [2025年さらに熱くなるであろうローカルLLMのためのm4mac購入検討](https://zenn.dev/afk2777/articles/localllm-mac)
+- [【生成AIの学習ロードマップ】最近やたら羽振りのいいやつが生成AIを極めてた件について。](https://qiita.com/Nicola_GenAI/items/04e2babe86291fc4483b)
+- [12 Days of OpenAIの発表内容まとめ【生成AIエンジニア必見】](https://zenn.dev/galirage/articles/openai-12-days)
+- [世界経済の潮流](https://www5.cao.go.jp/j-j/sekai_chouryuu/sh24-01/index-pdf.html)
+- [GPT-3.5 Turbo終了で戸惑う金融各社、国内データセンター限定方針に限界](https://xtech.nikkei.com/atcl/nxt/column/18/00001/09626/)
+- [AIで仕事が奪われるエンジニアの特徴](https://qiita.com/Sicut_study/items/66a0b326402896e6c50b)
+- [生成AI活用の取り組み](https://www.nissin.com/jp/ir/library/event/pdf/20240314_2.pdf)
+- [3割超の企業がやっている…生成AIのアプリ開発、新時代の当たり前とは？](https://www.sbbit.jp/article/cont1/143365)
 
 ## Napkin AI
 
@@ -470,6 +664,7 @@
 
 ## RAG
 
+- [RAGの精度向上手法、がっつりまとめ【2025年】](https://zenn.dev/knowledgesense/articles/148dfe2ca1d146)
 - [RAGが「複雑な質問に弱い問題」を解決する「Plan×RAG」](https://zenn.dev/knowledgesense/articles/5e0e0f623e1c83)
 - [RAGとは？回答精度向上のためのテクニック集（基礎編）](https://zenn.dev/knowledgesense/articles/47de9ead8029ba)
 - [【2025年5月完全版】RAG の教科書](https://zenn.dev/microsoft/articles/rag_textbook)
@@ -506,6 +701,7 @@
 
 ## プロンプトエンジニアリング
 
+- [ChatGPTなどの使い方がわかる！プロンプト文例集](https://prompt.quel.jp/)
 - [プロンプトエンジニアリングの基本と応用](https://blog.brainpad.co.jp/entry/2023/12/19/153000)
 - [生成 AI アプリケーションの開発を始めるために必要な全知識を学べる 12 講座](https://microsoft.github.io/generative-ai-for-beginners/#/translations/ja-jp/)
 - [Copilot for Microsoft 365 ゴールデンプロンプト ~ 話題の生成 AI カンタン使いこなし術 ~ 2024年6月更新版](https://info.microsoft.com/JA-T2C-CNTNT-FY24-05May-22-Copilot-for-Microsoft-365-Golden-Prompt-Easy-way-to-use-AI-to-generate-topics-SRGCM12256_LP02-Thank-You---Standard-Hero.html)

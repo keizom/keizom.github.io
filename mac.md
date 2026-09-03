@@ -16,6 +16,10 @@
 
 ## mac
 
+- [Mac 環境構築2026](https://zenn.dev/mizchi/scraps/8b1f2789a94c43)
+- [ターミナルベースのApple Silicon用システム・モニタリングツール「mactop」にApple Neural Engine使用率の表示が復活。 | AAPL Ch.](https://applech2.com/archives/20251207-mactop-for-apple-silicon-back-in-neural-engine-usage.html)
+- [Mac初心者に優しいターミナルにする)iTerm2／Oh My Zsh） #新人プログラマ応援 - Qiita](https://qiita.com/ryamate/items/075c34fcf29d0889c15a?utm_source=dlvr.it\&utm_medium=facebook\&sfnsn=mo)
+- [Macで公開鍵と秘密鍵を生成する方法 #新人プログラマ応援 - Qiita](https://qiita.com/wakahara3/items/52094d476774f3a2f619)
 - [Appleシリコン搭載Macで「Windows 11」を無料で動かす方法](https://www.lifehacker.jp/article/2306-you-can-run-windows-11-on-your-apple-silicon-mac-for-fr/)
 - [元Appleエンジニア作！注目のGmail専用メールアプリ「Mimestream」がすごい](https://pc.watch.impress.co.jp/docs/column/macinfo/1525500.html)
 - [【TIPS】MacBookのCommandとControlを入れ替える方法(Windowsユーザーおすすめ)](https://engineer-lifestyle-blog.com/lifestyle/mac/control-command-key-bind-swap/)

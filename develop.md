@@ -26,6 +26,7 @@
 
 ## .NET Core
 
+- [ASP.NETアプリケーションのモダナイズインフラ編](https://zenn.dev/tomokusaba/articles/56bcbbc2a38780)
 - [.NET 8 の Blazor にオレオレ ログイン機能を付けよう](https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet8-tryaddauth)
 - [.NET 8 の ASP.NET Core Blazor で二度押しを抑止したい](https://zenn.dev/microsoft/articles/blazor-dotnet8-do-not-double-click)
 - [ASP.NET Core MVCを新人に説明してみよう](https://qiita.com/saxxos/items/f8bdf3a0a9d6b8e3cfef)
@@ -46,6 +47,7 @@
 ## .NET MAUI
 
 - [初めての.NET MAUI アプリを作ってみよう マルチプラットフォーム GUI 技術を解説](https://codezine.jp/article/detail/15907)
+- [.NET 9のテンプレート「.NET MAUI Blazor」を学ぼう | CodeZine](https://codezine.jp/article/detail/22093)
 
 ## ASP.NET Identity
 
@@ -90,6 +92,14 @@
 
 ## csharp
 
+- [【保存版】C#基礎100本ノック ? GitHub Codespacesで学ぶC# - Qiita](https://qiita.com/Sakai_path/items/2138c9cf6b0d4b9d124e)
+- [初めての C# 非同期処理：実務で使う async/await の基本と注意点](https://qiita.com/hiroki_notes/items/9733cd3214355e0c3e4d)
+- [【C#】これからはTcpClient/UdpClientをやめてSocketを直接使おう](https://zenn.dev/nuskey/articles/csharp-dont-use-tcpclient)
+- [C#だけでWebゲームを1時間で作る - Qiita](https://qiita.com/masayahak/items/0e6c82497ad63c856e3f)
+- [レガシーC#コード対比集 - Qiita](https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8)
+- [C#の理解が10年古い、と言われたのでCloud Runにデプロイしてみた - Zenn](https://zenn.dev/koduki/articles/dotnet20250920)
+- [「モダンC#」に入門しよう！2025【.NET10/C#14】](https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10)
+- [C# で Single Page Web Application が書ける Blazor が凄かった件 #ASP.NET_Core - Qiita](https://qiita.com/jsakamoto/items/20d4893f6c8cdb0356f6)
 - [【QuickGrid】Blazorで簡単に表形式のUIを作成する](https://blog.jbs.co.jp/entry/2025/04/24/110002)
 - [Windows App SDKでデスクトップアプリを作る](https://qiita.com/hayashida-katsutoshi/items/ccd91e69543e6da188c3)
 - [.NET 8 と GitHub、そして Azure による開発者エクスペリエンスの向上 ～ 最新開発プラッ](https://speakerdeck.com/chack411/dot-net-8-to-github-sosite-azure-niyorukai-fa-zhe-ekusuperiensunoxiang-shang-zui-xin-kai-fa-puratutohuomu-demonsutoresiyon)
@@ -156,6 +166,27 @@
 
 ## Docker
 
+- [Docker container 内で日本語が文字化けする時の対策](https://qiita.com/siruku6/items/8583a672ce2146ae2244)
+- [Docker コンテナ内で日本語を表示すると文字化けする時の対策 #locale - Qiita](https://qiita.com/siruku6/items/8583a672ce2146ae2244)
+```bash
+# locales を install
+RUN apt-get update && \
+    apt-get -y install locales
+# 日本語 locale を生成
+RUN echo "ja_JP UTF-8" > /etc/locale.gen && locale-gen
+# 生成した locale をセット
+ENV LANG=ja_JP.UTF-8
+```
+- [入門 Docker](https://y-ohgi.com/introduction-docker/)
+- [そのDockerfile、卒業しよう](https://zenn.dev/isawa/articles/a721641613f013)
+- [Docker以外のコンテナエンジン完全ガイド - Qiita](https://qiita.com/keitah/items/fb7fc280e49f4408ca63)
+- [Docker入門【サイボウズ新人研修2025】](https://speakerdeck.com/cybozuinsideout/introduction-to-docker)
+- [Dockerとは何か)Dockerの概要と主要目標） #Linux - Qiita](https://qiita.com/mooreyxia/items/4afab46d20618880f574)
+- [【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】 #Docker - Qiita](https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8)
+- [Visual StudioでDockerを簡単に体験する記事](https://qiita.com/EndOfData/items/e08e687216f6420206bd)
+- [Windows 上の Visual Studio コンテナー ツールと Docker - Visual Studio  | Microsoft Learn](https://learn.microsoft.com/ja-jp/visualstudio/containers/overview?view=vs-2022)
+- [Docker Desktop を使わないで Docker を使う方法 #WSL2 - Qiita](https://qiita.com/oya_tadashi/items/3e3b026c161658484aba)
+- [WSL Containers)wslc）入門｜Docker Desktop不要](https://zenn.dev/var/articles/wsl-containers-windows-wslc-hands-on)
 - [改めてDockerを理解する①[コンテナのライフサイクル編]](https://qiita.com/ikemura-ren/items/dae9f599254b90167b06)
 - [DockerでローカルHTTPS通信を実現](https://qiita.com/li_beiyao/items/fc5720cb053d2b4ba531)
 - [Windows環境下でDockerを使う場合](https://zenn.dev/relims7165/articles/e81f389c0497b9)
@@ -247,9 +278,28 @@
 - [ポインタ嫌いでも分かる Git ブランチの基本――作成、確認、切り替え、master にマージ、削除 (1/3)](https://www.atmarkit.co.jp/ait/articles/1606/10/news022.html)
 - [初めての GitHub](https://xtech.nikkei.com/atcl/nxt/column/18/00528/)
 - [サル先生の Git 入門【プロジェクト管理ツール Backlog】](https://backlog.com/ja/git-tutorial/)
+- [Git のマージ方法について改めて整理する](https://zenn.dev/okuda0715tech/articles/bdab4588d93286)
+- [Git の学びなおし: ほんの少しだけでも、git を便利に使いたい](https://zenn.dev/t0mmy/articles/git-small-teckniques)
+- [「エクスプローラー」の「Git」統合などが実現へ ～Microsoftが開発者向け新機能 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/2015419.html)
+- [Gitのコミットメッセージの書き方)2023年ver.）](https://zenn.dev/itosho/articles/git-commit-message-2023)
 
 ## GitHub
 
+- [GitHubを活用したナレッジ管理運用ガイド](https://qiita.com/CodeTea_Ping999/items/a3a0a0422263ca97eb47)
+- [GitHubに機密情報をpushしてしまった日のために ? 無効化、履歴除去、多層防御の組み立て方](https://zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense)
+- [Qiitaの記事をGitHubリポジトリで管理する方法](https://qiita.com/Qiita/items/32c79014509987541130)
+- [【冷や汗】「あ、それ上げちゃダメ！」GitHubに絶対pushしてはいけないファイル10選＆対策](https://zenn.dev/kewa8579/articles/4aa92ec168313a)
+- [１つのPCで複数のGithubアカウントを使う方法](https://qiita.com/k__m/items/6e60393113127a4dccd2)
+- [複数のGitHubアカウントを使い分けたい時の設定方法とTips](https://zenn.dev/taichifukumoto/articles/how-to-use-multiple-github-accounts)
+- [GitHub.com で複数アカウントの利用がサポートされ、簡単に切り替えできるようになりました](https://dev.classmethod.jp/articles/multiple-account-support-on-github-com-for-easy-switching/)
+- [非開発者のためのGitHub入門&ハンズオン | ドクセル](https://www.docswell.com/s/yuma/ZLVNPG-2025-08-15-vibebeginners#p42)
+- [GitHub - pnp/sp-starter-kit](https://github.com/pnp/sp-starter-kit?sfns=mo)
+- [GitHub - The-Japan-DataScientist-Society/100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
+- [全エンジニアが知っておくべきGitHubリポジトリ42選](https://qiita.com/kjm_nuco/items/92b0aa084f528d5dd25e)
+- [GitHub - ugurkocde/IntuneDocumentation](https://github.com/ugurkocde/IntuneDocumentation?utm_content=buffer658db&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [GitHubでssh接続する手順 ～ 公開鍵・秘密鍵の生成から](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
+- [CI/CD入門第3回：GitHub Actionsを利用したCIワークフローの構築～パイプラインの全体像～](https://zenn.dev/oasys/articles/ci-cd-intro-4-github-actions-workflow)
+- [GitHub Actions を使用して継続的インテグレーション ワークフローを構築する - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/github-actions-ci/)
 - [GitHubをコードで管理 ! Terraformを導入して安全な管理を実現しました](https://tech.route06.co.jp/entry/2024/10/18/153755)
 - [なんとなくから脱却するGitHub Actionsグッドプラクティス11選](https://gihyo.jp/article/2024/10/good-practices-for-github-actions)
 - [【GitHub】初めてのGitHub~GitHubリポジトリ作成まで](https://qiita.com/piromo/items/a45b44d85ad28bf05c02)
@@ -284,6 +334,53 @@
 
 ## GitHub Copilot
 
+- [GitHub Copilotを最強にする拡張機能4選](https://zenn.dev/sqer/articles/1535f0a7d2a9b8)
+- [GitHub と GitHub Copilot の課金を改めて理解する](https://idea.tostring.jp/?p=8157)
+- [Microsoft Build 2026で発表されたGitHub・GitHub Copilotのまとめ](https://zenn.dev/headwaters/articles/microsoft-build-2026-github)
+- [管理者目線でGitHub Copilotの方が優れていること](https://zenn.dev/ncdc/articles/ee35ef7974d279)
+- [GitHub Copilot のツールは必要なものだけONにしよう](https://zenn.dev/gyory/articles/cd425bc30c9201)
+- [GitHub Copilot を極める会](https://zenn.dev/microsoft/articles/github_copilot_advanced)
+- [素敵なWebページをAIに作ってもらう方法 #GitHubCopilot - Qiita](https://qiita.com/shyamagu/items/94547e7f7e88ddf9a25e)
+- [コーディング支援だけじゃない　「GitHub Copilot」をレガシーコードの文書化や説明に役立てる方法をGitHubが解説：将来のリファクタリングや開発の効率化、高信頼化へ - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2501/21/news055.html)
+- [個人的GitHub Copilotの使い方メモ](https://qiita.com/Nozomuts/items/430261fa996cba5fd466)
+- [GitHub Copilotとは？使い方や料金、Agentについて解説 | AI総合研究所](https://www.ai-souken.com/article/github-copilot-overview)
+- [GitHub Copilotとは)基礎から学ぶ）](https://www.ai-souken.com/article/github-copilot-complete-guide#github-copilot%E3%82%92%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6)
+- [GitHub Copilot Pro の月300回で何ができるか 2025](https://zenn.dev/kkzk/articles/2025-08-12_use-github-copilot-agent)
+- [GitHub Copilot入門～Microsoft50周年で発表された最新機能まで！ | ドクセル](https://www.docswell.com/s/yuma/K3GD9E-2025-04-05-aidd#p4)
+- [GitHub Copilot coding agent を推したい / AIDD Nagoya #1](https://speakerdeck.com/tnir/aidd-nagoya-number-1)
+- [GitHub Copilot の課金について - GitHub Docs](https://docs.github.com/ja/billing/managing-billing-for-your-products/about-billing-for-github-copilot)
+- [Proプランでも使えるようになった「GitHub Copilot coding agent」を試してみた - Qiita](https://qiita.com/youtoy/items/519ce094e794248673a9)
+- [GitHub と GitHub Copilot の課金を改めて理解する #GitHubCopilot - Qiita](https://qiita.com/aktsmm/items/7ccd1c2b5b35dda9b8f2)
+- [Let's Learn GitHub Copilot App )日本語](https://www.youtube.com/live/-ZBf4wpLZKg)
+- [日本のお客様向け Azure Policy 実践ガイド ～Built-in だけで始めるガバナンス～ #GitHubCopilot - Qiita](https://qiita.com/ManabuYamamoto/items/2ebd3670261449364b1e)
+- [Azure Skills Plugin 公開)Claude Code / GitHub Copilot連携）](https://www.publickey1.jp/blog/26/claude_codegithub_copilotaiazure_skills_plugin.html)
+- [GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第1章/7章) 基本コマンド編 #GitHubCopilot - Qiita](https://qiita.com/chomado/items/51d0727a80a14826e036)
+- [GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第0章/7章) 環境構築編 #GitHubCopilot - Qiita](https://qiita.com/chomado/items/6d26b6ffc11d163dfd71)
+- [GitHub Copilot CLIが公開プレビューに - gihyo.jp](https://gihyo.jp/article/2025/09/github-copilot-cli-public-preview)
+- [GitHub Copilot SDK の GitHub Models を使ってLLMを呼びたい](https://zenn.dev/nomhiro/articles/questara-github-models-rpg-learning)
+- [GitHub CopilotのAgentモードとローカルLLM - CodeZine](https://codezine.jp/article/detail/22217)
+- [GitHub Copilot カスタムエージェントのための agents.md 作成ベストプラクティス](https://zenn.dev/studypocket/articles/github-copilot-agents-md-best-practices)
+- [GitHub Copilotを使っている人は全員 "copilot-instructions.md" を作成してください](https://qiita.com/TooMe/items/873540da84567733d16b)
+- [【最新版】GitHub Copilotを使っている人は全員"SKILL.md"も導入してください #AI - Qiita](https://qiita.com/TooMe/items/230a730ce0387c77e822)
+- [GitHub Copilot Coding agent に Azure MCP Server の設定をする #VibeCoding - Qiita](https://qiita.com/dahatake/items/3230a92532c35fec7599)
+- [Microsoft Learn Docs の MCP Server で GitHub Copilot が Azure 超詳しいマンになる](https://zenn.dev/microsoft/articles/mslearn-mcp-server-copilot)
+- [GitHub Copilot エージェントモード × MCP × Microsoft Learn で技術的調査をする](https://qiita.com/komiyasa/items/6f014ed92b70dbf3247e)
+- [Microsoft Learn Docs MCP Server で GitHub Copilot を Microsoft の製品のことなんでも知ってるマンにする #githubcopilot - Qiita](https://qiita.com/tokawa-ms/items/2292be40b330fbad5c12)
+- [GitHub Copilot Coding agent に Microsoft Learn Docs MCP Server の設定をする](https://qiita.com/dahatake/items/4f6f0deb53333c0200ef)
+- [GitHub Copilot + Playwright MCP による UI/UX レビュー&修正自動化の試みで学んだこと](https://zenn.dev/nttdata_tech/articles/4a76fdf4495b85)
+- [Playwright MCPとQAエージェントによるGitHub Copilot活用](https://zenn.dev/nttdata_tech/articles/6b8c05267d3fd9)
+- [Microsoft Fabric にも Github Copilot エージェントがあるよ！](https://zenn.dev/headwaters/articles/459d6984bde62a)
+- [GitHub Copilotの使い始め方 - Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/get-started-github-copilot/?sccid=tw_scl_spl_soc_20260728&ocid=AID3062894_TWITTER_oo_spl100010902203513)
+- [ChatGPT Pro は高いので Codex + GitHub Copilot でお小遣いを守りたい](https://qiita.com/faunsu/items/f6edd279d32102e6f5a8)
+- [Visual Studio 2026 で GitHub Copilot 用の設計ドキュメントを整備するときの注意点](https://zenn.dev/microsoft/articles/github-copilot-vs2026)
+- [全てのVisual Studioユーザーが無料版「GitHub Copilot」を利用可能に　Visual Studioでの開発体験はどう変わる？：マルチファイル編集や開発環境と連携したチャット機能を搭載 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2502/14/news059.html)
+- [Visual Studio 2026 で GitHub Copilot 用の設計ドキュメントを整備するときの注意点 その 2](https://zenn.dev/microsoft/articles/github-copilot-vs2026-2)
+- [GitHub Copilot in VSCode で AI コーディングに入門してみよう！](https://qiita.com/wataru86/items/293dcbfc6180844bb454)
+- [VS Code + GitHub Copilot で並列タスクが快適になったので、やり方を整理する](https://zenn.dev/shinkawa/articles/d9f260627ee4b8)
+- [VS Code の GitHub Copilot 設定、多すぎて分からない？? settings.json 完全ガイド? #VSCode - Qiita](https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d)
+- [システムテストを GitHub Copilot に全て委ねたら、Software Engineer歴30年の私を一瞬で抜き去った話。私の品質管理のベストプラクティスが遺物になった瞬間 #AI駆動開発 - Qiita](https://qiita.com/dahatake/items/a56f793e3f1ae64673ea)
+- [これがいいとは言わないが。私が普段 Vibe Coding で実際に投入しているPromptを晒す #GitHubCopilot - Qiita](https://qiita.com/dahatake/items/ef5cb2ad8d0e27dd976a)
+- [GitHub Copilot プロンプトリファレンス(PDF)  - Microsoft Learn](https://info.microsoft.com/rs/157-GQE-382/images/GitHub%20Copilot%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%20%5B2026%E5%B9%B41%E6%9C%88%E7%89%88%5D.pdf?version=0)
 - [いくつ知ってる？ GitHub Copilotの新機能、コーディングにとどまらない進化を解説](https://codezine.jp/article/detail/20065)
 - [GitHub Copilot Coding Agent がやばすぎて共有し隊](https://www.kentsu.website/ja/posts/2025/copilot_coding/)
 - [Issue作成だけで後の工程は全てお任せ！GitHub Copilot Workspaceのテクニカルプレビューを触ってみた](https://dev.classmethod.jp/articles/github-copilot-workspace-tech-preview/)
@@ -324,6 +421,11 @@
 ## Markdown
 
 - [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+- [pre-design-md](https://pre-design-md.dev/)
+- [マークダウン記法は奥深く、楽しい ? テキストだけで「伝わるドキュメント」を作る技術](https://qiita.com/teppei19980914/items/36404f9ec9c786cde671)
+- [MarkItDown](https://github.com/microsoft/markitdown)
+
+- [PMActivities/Webinar/Schedule.md](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)
 
 ## PowerShell
 
@@ -365,6 +467,7 @@
 ## Python
 
 - [Python in Excel が GA (General Release)](https://zenn.dev/ymasaoka/articles/trying-out-python-in-excel-it-has-been-ga)
+- [「Pythonを抜いた」から「ローカルAI活用術」まで　AIによる言語や環境の変化に注目：2025年「開発」よく読まれた記事“10選” - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2512/30/news017.html)
 - [僕の考えた最強の Python 開発環境 (2024)](https://zenn.dev/koki_algebra/articles/cd3341bcba9272)
 - [【2024年版】めっちゃ使いやすいPythonの開発環境をVSCode上で構築する方法](https://zenn.dev/forcia_tech/articles/202409_python_environment_construction)
 - [Python + VSCode の環境構築 20240604](https://zenn.dev/mizchi/articles/setup-python-20240604)
@@ -389,6 +492,7 @@
 
 ## Tool
 
+- [もしプログラミング初心者に戻れたら、初めから使っておきたかったツール36個](https://zenn.dev/shiba_program/articles/82a40f9d046b45)
 - [開発に使える脆弱性スキャンツール](https://engineers.ntt.com/entry/2022/12/07/113602)
 - [シェル・ワンライナー 160 本ノックを完走した](https://engineers.ntt.com/entry/2022/12/04/071122)
 - [エンジニアのための十徳ナイフ「DevToys」がバージョン２になってクロスプラットフォームやCLI対応しさらに便利すぎる](https://qiita.com/danishi/items/a75ab904da66cecc71b4)
@@ -578,7 +682,10 @@
 
 - [今すぐ使える無料WebAPIまとめ](https://qiita.com/kazuki_tachikawa/items/7b2fead2a9698d1c15e8)
 - [API初心者が紹介するOpenWeatherMapAPI](https://tech-lab.sios.jp/archives/36777?f)
+- [Postman入門してみた：GUIで快適にAPIリクエストを確認する | DevelopersIO](https://dev.classmethod.jp/articles/postman-gui-api/)
 - [Strava APIを活用したアプリ開発 ~お試し編~](https://tech-lab.sios.jp/archives/32788)
+- [Strava APIを活用したアプリ開発 ~実践編~](https://tech-lab.sios.jp/archives/32946)
+
 
 ## Postman
 
@@ -599,6 +706,14 @@
 
 ## WSL
 
+- [WindowsのWSL2がsystemdに対応したらしいので、Rocky Linux9入れて使ってみる](https://labo.mycabin.net/diary/1574/)
+- [WSL上のLinuxで日本語環境を整える、日本語入力環境を構築しよう](https://atmarkit.itmedia.co.jp/ait/articles/2506/06/news013.html)
+- [WSLでRed Hat Enterprise Linuxを利用する](https://roy-n-roy.nyan-co.page/Windows/WSL%EF%BC%86%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/rhel/)
+- [Windows Subsystem for Linuxガイド 第41回 WSL GUI設定](https://news.mynavi.jp/article/20241107-3060285/)
+- [「WSLg」を使ってWindows上でLinuxのGUIアプリを動かしてみよう | Think IT](https://thinkit.co.jp/article/37792)
+- [WSL上のUbuntu 24.04の開発環境構築手順](https://zenn.dev/uchidaryo/articles/2026-01-wsl-ubuntu2404-dev-environment-setup)
+- [WindowsユーザーのためのWSL2で始めるLinux環境構築術](https://thinkit.co.jp/corner/11545)
+- [Windows上でLinuxコンテナを実行できるWSL containers](https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html)
 - [WSL2で劇的に変わるあなたのWebアプリケーション開発環境【その2：導入編】](https://tech-lab.sios.jp/archives/18437)
 - [WSL2 による Python3 の環境構築](https://qiita.com/zakoken/items/8ddfda7267e7d95b3c46)
 - [なんかWSL2がインターネットにつながらなくなったときの解決方法](https://qiita.com/kotauchisunsun/items/71fae973afa00ebb871a)

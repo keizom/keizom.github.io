@@ -49,6 +49,37 @@
 - [SharePoint Server の障害復旧のための SQL Server Always On および Microsoft Azure の計画](https://learn.microsoft.com/ja-jp/sharepoint/administration/plan-for-sql-server-always-on-and-microsoft-azure-disaster-recovery)
 - [Azure で SharePoint Server と SQL Server の Always On 可用性グループを展開する](https://learn.microsoft.com/ja-jp/sharepoint/administration/deploying-sharepoint-server-with-sql-server-alwayson-availability-groups-in)
 - [SharePoint Server 2013 の言語パック - [日本語]](https://www.microsoft.com/ja-jp/download/details.aspx?id=37140)
+- [Suite ナビゲーション バーでのカスタム ブランド化 - SharePoint Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/sharepoint/sites/custom-branding-in-suite-bar)
+
+``` PowerShell
+1. 次のコマンド構文の例に示すように、すべてのオプションを設定します。
+PowerShellコピー
+   $webapp.SuiteNavBrandingText = "Suite Bar Branding"
+   $webapp.SuiteNavBrandingLogoUrl = " http://spwfe/Photos/IMG_5004-1-scaled.jpg"
+   $webapp.SuiteNavBrandingLogoTitle = "Logo Branding"
+   $webapp.SuiteNavBrandingLogoNavigationUrl = " https://www.microsoft.com/"
+   $webapp.SuiteBarBackground = '#eed5b7'
+   $webapp.SuiteNavAccentColor = '#7fffd4'
+   $webapp.SuiteBarText = '#000000'$webapp.update)
+   $webapp = Get-SPWebApplication http://spwfe
+   $webapp.SuiteNavAllowCustom = $true$webapp.Update)
+```
+
+- [SharePoint 2013 左上の製品ロゴを変更する | idea.toString)](https://idea.tostring.jp/?p=508)
+
+``` PowerShell
+$webapp = Get-SPWebApplication http://spwfe
+   $webapp.SuiteNavAllowCustom = $true
+   $webapp.Update)
+$webapp.SuiteNavBrandingText = "Suite Bar Branding"
+   $webapp.SuiteNavBrandingLogoUrl = "http://spwfe/Photos/IMG_5004-1-scaled.jpg"
+   $webapp.SuiteNavBrandingLogoTitle = "Logo Branding"
+   $webapp.SuiteNavBrandingLogoNavigationUrl = "https://www.microsoft.com/"
+   $webapp.SuiteBarBackground = '#eed5b7'           
+   $webapp.SuiteNavAccentColor = '#7fffd4'
+   $webapp.SuiteBarText = '#000000'
+   $webapp.update)
+```
 
 ## install
 
@@ -284,8 +315,10 @@ Add-SPDistributedCacheServiceInstance
 - [Windows 11 2024 Updateの更新で「Copilot+ PC」に機能追加　操作履歴をたどれる「リコール」のプレビュー版も一般公開](https://www.itmedia.co.jp/pcuser/articles/2504/28/news129.html)
 - [Copilot+ PCで利用できる「Windows Copilot Runtime」を試す　ローカル推論用モデル「Phi Silica」とは？](https://ascii.jp/elem/000/004/266/4266047/)
 
-# AD
+# Active Directory
 
+- [コマンド一発で AD 検証環境を即構築してみた | DevelopersIO](https://dev.classmethod.jp/articles/command-ad-env-quick-build/)
+- [Active Directory 環境を縮小していくには](https://zenn.dev/microsoft/articles/active-directory-security-advent-calendar-2025-2)
 - [【Windows 検証環境構築】(ほぼ) コマンドのみで AD DS の検証環境を準備する方法](https://qiita.com/sonooh/items/5b519da46be7d7d348ab)
 - [Group Policy Settings Reference Spreadsheet のダウンロード先一覧](https://qiita.com/valpasucucci43/items/2ecdfee224d0b4e573ef)
 - [AD DS Do's and don'ts（べしべからず）- 2](https://www.intellilink.co.jp/column/ms/2024/052400.aspx)
@@ -326,6 +359,9 @@ Add-SPDistributedCacheServiceInstance
 
 # AWS
 
+- [AWSによるクラウド入門](https://tomomano.gitlab.io/intro-aws/#_%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)
+- [NoteBookLMを使ったら勉強がめちゃくちゃ捗った話 #AWS - Qiita](https://qiita.com/hiroki2712/items/a6786232ccff689da825)
+- [ローカル AWS エミュレータで Terraform を検証する](https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751)
 - [【永久保存版】0からAWSを勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/6238413b66e274bccd7b)
 - [遊びながらAWSを学べる“AWSクエスト”日本語対応　クラウドで街を救うRPG　プレイ無料](https://www.itmedia.co.jp/news/articles/2310/05/news183.html)
 - [基本的なシステム構成図を理解するためのAWS基礎をまとめてみた](https://qiita.com/g_ayushi/items/0e0f34d19813b8fdc2b8)
@@ -356,6 +392,11 @@ Add-SPDistributedCacheServiceInstance
 - [厳選Linuxフリーソフト100](https://xtech.nikkei.com/atcl/nxt/column/18/02713/)
 - [「Linux入門」無料のオンライン講座が提供開始　受講時間は約60時間　初心者も一から学べる](https://www.itmedia.co.jp/news/articles/2410/25/news166.html)
 - [UbuntuでSurface Go 3のファームウェアを更新する](https://qiita.com/bugcity/items/8c934044028d8da5215b)
+- [Ubuntu 26.04 LTS を1ヶ月使って感じたメリット6選](https://zenn.dev/zundamon_it/articles/8ed8520c0bc837)
+- [LPI-Japan、無償のLinux学習用教材「Linuxシステム管理標準教科書」最新版を公開 - ZDNET Japan](https://japan.zdnet.com/article/35238032/)
+- [第873回 sosコマンドでUbuntuシステムの情報をあらいざらい収集しよう](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0873)
+- [ubuntuをインストールしたときにしている環境構築メモ](https://zenn.dev/ame_b/articles/da0f86077fddad)
+
 
 ## Shell
 
@@ -381,13 +422,6 @@ Add-SPDistributedCacheServiceInstance
 - [RHELの開発者用サブスクリプションを取得する方法](https://qiita.com/SkyLaptor/items/31eb7b506339718455d4)
 - [Red Hat Developer Programに登録して最大16台までRHELを使おう](https://qiita.com/yamada-hakase/items/dc39d29fda693238d113)
 - [RHEL9での変更点（セキュリティ編：Part1 SELinuxの無効化について）](https://security.sios.jp/security/rhel9-security-part1-selinux/)
-
-## WSL
-
-- [WindowsのWSL2がsystemdに対応したらしいので、Rocky Linux9入れて使ってみる](https://labo.mycabin.net/diary/1574/)
-- [WSL上のLinuxで日本語環境を整える、日本語入力環境を構築しよう](https://atmarkit.itmedia.co.jp/ait/articles/2506/06/news013.html)
-- [WSLでRed Hat Enterprise Linuxを利用する](https://roy-n-roy.nyan-co.page/Windows/WSL%EF%BC%86%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/rhel/)
-- [Windows Subsystem for Linuxガイド 第41回 WSL GUI設定](https://news.mynavi.jp/article/20241107-3060285/)
 
 ## Postfix Dovecot
 

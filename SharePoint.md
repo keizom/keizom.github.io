@@ -16,6 +16,39 @@
 
 # SharePoint
 
+- [SharePoint ナレッジエージェントからAI in SharePointへ](https://shanqiai.lekumo.biz/sharepoint_technical_note/2026/05/sharepoint-ai-i-776b.html)
+- [SharePoint ：新しい SharePoint 体験)ガラっと変わってビックリ？） ? Art-Break .log : Taichi Nakamura](https://art-break.net/tech/?p=25607)
+- [SharePoint Technical Note](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2026/05/sharepoint-ai-i-776b.html)
+- [Download SharePoint Server サブスクリプション エディション](https://www.microsoft.com/ja-jp/download/details.aspx?id=103599)
+- [SharePoint Server Subscription Edition ダウンロード](https://www.microsoft.com/en-us/download/details.aspx?id=103599)
+- [これで完璧！SharePoint Embedded解説](https://zenn.dev/nttdata_tech/articles/b2781277159951)
+- [Create bulk dummy documents in SharePoint Document library | PnP Samples ](https://pnp.github.io/script-samples/create-dummy-docs-in-library/README.html?tabs=pnpps)
+- [【SharePoint】ER図やテーブル設計書を自動作成！SharePoint ERD Generatorを公開しました！【拡張機能】 #Microsoft - Qiita](https://qiita.com/reire/items/5c0d306a7cfc821ebda6)
+- [SharePoint Technical Notes : SharePoint のファイル管理機能をどう使っていくべきか？](https://shanqiai.lekumo.biz/sharepoint_technical_note/2022/04/sharepoint-filemanagement-from-my-point-of-view.html)
+- [SharePoint Technical Notes : Microsoft Agent 365 とは?](https://shanqiai.lekumo.biz/sharepoint_technical_note/2025/11/microsoft-agent-ed5a.html)
+- [SharePoint クライアント側オブジェクト モデル )CSOM) から PnP ライブラリへのコードのアップグレード](https://learn.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins-modernize/from-csom-to-pnp-libraries)
+- [SharePoint Online の所定のサイトのリストにあるファイルを列挙したい](https://zenn.dev/microsoft/articles/pnp-core-sdk-get-files)
+- [SharePoint再入門０１](https://www.docswell.com/s/mokudai/5QXWPE-2025-11-29-134140#p15)
+- [SharePoint の新機能 Knowledge agents の登場](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2025/09/sharepoint-076d.html)
+- [SharePoint の自動ドキュメント翻訳機能 )Microsoft Syntex) を試す - Qiita](https://qiita.com/aktsmm/items/a89218af1f49c2fc5596)
+- [AIでドキュメントの分類を簡単に！SharePoint Syntexを使ってみた - 株式会社ディープコム](https://deepcom.co.jp/sharepoint_syntex_introduction/)
+- [SharePoint Online モダン ページのページ ヘッダーを非表示にする](https://idea.tostring.jp/?p=2512)
+
+- [XユーザーのHIRANO Ai | MVP  SharePointさん](https://x.com/ai_yamasaki/status/2072165830389805294?s=12)
+- [XユーザーのHIRANO Ai | MVP  SharePoint)@ai_yamasaki）さん](https://x.com/ai_yamasaki/status/2077159839835488612?s=12)
+- [Useful CSS Classes in SharePoint 2013](https://joshmccarty.com/useful-css-classes-sharepoint-2013/)
+- [Microsoft 365 SharePoint ワンタイムパスコードでのアクセスが廃止され Entra B2B 経由でのアクセスに置き換わることになりました](https://mitomoha.hatenablog.com/entry/2026/04/03/141912)
+- [Microsoft 365 SharePoint 共有の日付に有効期限ポリシーが追加されます](https://mitomoha.hatenablog.com/entry/2026/04/05/044839)
+- [M365勉強会_デモ追加版_SharePointのCopilot_20251129](https://www.docswell.com/s/oyu3m/ZPG118-2025-11-29-233325#p7)
+- [Microsoft 365 SharePoint 勉強会 No3 | ドクセル](https://www.docswell.com/s/ai_yamasaki/K7NN2N-2026-07-03-090733#p15)
+- [スキルを使用して SharePoint で AI を拡張する - SharePoint in Microsoft 365 | Microsoft Learn](https://learn.microsoft.com/ja-jp/sharepoint/ai-in-sharepoint-skills)
+
+- [SharePoint Online で調整またはブロックを回避する | Microsoft Learn](https://learn.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [SharePoint のサイト テンプレートとサイト スクリプトの作成を開始する | Microsoft Learn](https://learn.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/get-started-create-site-design)
+- [OneDrive または SharePoint のショートカットを作成する](https://learn.microsoft.com/ja-jp/fabric/onelake/create-onedrive-sharepoint-shortcut)
+- [Microsoft 365 SharePoint 勉強会 No2: OneDrive の基礎をばっちり把握しよう | ドクセル](https://www.docswell.com/s/ai_yamasaki/KLVD9G-2025-12-09-190701#p23)
+
+
 ## Setting URL
 
 | 設定               | URL                                                                                   |
