@@ -16,7 +16,11 @@
 
 # Develop
 
+## API 
 
+- [セキュアなWeb APIの作り方 / Secure Web API](https://speakerdeck.com/oracle4engineer/secure-web-api)
+- [今すぐ使える無料WebAPIまとめ - Qiita](https://qiita.com/kazuki_tachikawa/items/7b2fead2a9698d1c15e8)
+- [Webhookとは？仕組みや利用時の注意点を解説！](https://sendgrid.kke.co.jp/blog/?p=1851
 - [リスト攻撃事案から得られるユーザー周りの設計の学び](https://qiita.com/ritou/items/00990e00151fad46df1a)
 
 ## リーダブルコード
@@ -127,12 +131,6 @@
 - [AIと個人開発したくなったらまずCursorで要件定義だ](https://zenn.dev/yasuna/articles/9dadbcdc3be48d)
 - [「Cursorで要件定義をめっちゃ簡単に」を「rules」にしてさらに簡単にした](https://qiita.com/WdknWdkn/items/535c597f968a7c987d5b)
 - [私のシンプルCursor活用方法](https://note.com/nike_cha_n/n/nd0f7566019ae)
-- [【Obsidian×Cursor】AI時代の知的生産術！使い方や活用事例まで徹底解説](https://chatgpt-lab.com/n/na996f091ff75)
-- [ObsidianのノートをVS CodeのAI（Cline）を通して活用する](https://gihyo.jp/article/2025/05/obsidian-06)
-- [ObsidianをCMSにしたら、思ったより本格的だった話](https://qiita.com/nasubi_dev/items/2237101b170f7327e4a0)
-- [Obsidian・Cursorをフル活用してAI駆動でアウトプットしていく](https://note.com/shu127/n/n61115b0b8c64)
-- [Obsidian × Cursor で “良質メモ → 記事執筆” を実現する徹底フロー](https://note.com/iam_shin/n/n9bbb5e189902)
-- [Obsidian × Cursor 活用の真髄─LLMを “推論エンジン” として使え](https://note.com/iam_shin/n/ndb8c5c49e09a)
 - [Cursor1.0を触った。ただのEditorじゃなくてAIコントローラになってた](https://note.com/shuzon__/n/n91d0ecb5dc22)
 - [VSCode+ChatGPTより爆速になれるAIエディタ【Cursor】無料プランあり](https://qiita.com/small_island/items/e6cd373ba4f9b124e848)
 - [AI エディター Cursor を試してみる](https://azukiazusa.dev/blog/try-ai-editor-cursor/)
@@ -151,8 +149,6 @@
 - [Cursorエディタで開発を爆速化しよう！](https://qiita.com/railgun-0402/items/717f44df9d68d77309f1)
 - [Cursor の無料版を使い続ける場合の設定](https://qiita.com/7shi/items/2e8e3ed2c39e3dc4ee22)
 - [[Cursorエディター導入/第一歩] Cursorエディターを触ってみました](https://qiita.com/h-sakamoto/items/90df3ada565cc10e1e99)
-- [Obsidianとは？使い方やプラグイン、Cursor連携の手順を解説](https://www.ai-souken.com/article/what-is-obsidian)
-- [Obsidianとは？使い方やLLMとの親和性について](https://zenn.dev/chameleonmeme/articles/d469215e586444)
 
 ### Claude Code
 
@@ -503,6 +499,23 @@ ENV LANG=ja_JP.UTF-8
 
 ## VisualStudio Code
 
+- [VSCode に必ず入れておきたい拡張機能](https://qiita.com/ucan-lab/items/e85931bf8276da43cc97)
+- [快適なVSCode生活を!!](https://trap.jp/post/2909/)
+- [【新人・未経験】凡ミスを減らして開発を楽しく。実務で1年間使って本当に役立った VS Code 拡張機能７選](https://qiita.com/keishin_nishiura/items/a8247fa7f74bd60b65d7)
+- [VSCode卒業？次世代エディタ「Zed」を触って感じた、エンジニアとしての思考の速度](https://zenn.dev/yuukikawabata/articles/zed-editor-impression)
+- [チーム開発でVSCodeの拡張機能やフォーマット設定などを統一したい時に便利な設定ファイルについて](https://dev.classmethod.jp/articles/vscode_settings_file_for_team_dev/)
+- [VS Code で拡張機能の有効/無効をワークスペース単位で設定する](https://blog.logical.co.jp/entry/2022/07/25/130000)
+- [君には1時間でGitについて知ってもらう)with VSCode](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
+- [VSCodeでのGitの基本操作まとめ](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
+- [VSCode の設定を整える｜エディタ・Markdown・Git 連携まで](https://share.google/DEs6AcXUVlcx3F3mN)
+- [VSCode標準のMarkdownビューワーはCSSで表示を調整できる](https://zenn.dev/oubakiou/articles/3309ceed0b90be)
+- [VS CodeがAGENTS.mdに対応 - Publickey](https://www.publickey1.jp/blog/25/vs_codeaiagentsmdai20258.html)
+- [【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう - CodeZine](https://codezine.jp/article/detail/21947)
+- [Dev Containerで最強のPython開発環境を作る ?その1・Pythonスクリプトを動かす? #VSCode - Qiita](https://qiita.com/im-dev/items/a2eb4ebba6b6df1e0521)
+- [Visual Studio Code 2025年9月版アップデート - gihyo.jp](https://gihyo.jp/article/2025/10/vscode-updates-september-2025)
+- [Visual Studio CodeのAgent modeとは？](https://zenn.dev/kenshintatsumi/articles/d4f7d3f3cfc691)
+- [人気のC#/.NET開発向け拡張機能「ReSharper」が非営利目的では無償に／「Visual Studio Code」とその互換エディターで](https://forest.watch.impress.co.jp/docs/news/2102074.html)
+- [Visual Studio CodeでGitHubの複数アカウントを使い分ける](https://qiita.com/ykoizumi0903/items/44e24d4180ae931552ce)
 - [VSCodeの拡張機能を使ってリモート開発しよう](https://codezine.jp/article/detail/21241)
 - [Claude Code Chat](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat)
 - [VSCodeのプロファイル機能を解説！プロジェクトごとの環境を簡単に切り替えよう](https://qiita.com/kazushi_ohata/items/bc308b223c367cb5fbb4)
@@ -652,6 +665,7 @@ ENV LANG=ja_JP.UTF-8
 
 ## VisualStudio
 
+- [Visual Studio で C# の命名規則をチェックする](https://qiita.com/Z0E/items/965fb38563dc836a7dc8)
 - [Microsoft、「Visual Studio」でNuGetの依存関係の問題解決を支援するツールを公開](https://atmarkit.itmedia.co.jp/ait/articles/2401/25/news047.html)
 - [もうこれなしでは開発できないVisual Studioの10機能](https://qiita.com/gigadein/items/228305a1cc65651c3c2e)
 - [Visual Studio の GitHub Copilot 拡張機能とは](https://learn.microsoft.com/ja-jp/visualstudio/ide/visual-studio-github-copilot-extension)
@@ -706,6 +720,8 @@ ENV LANG=ja_JP.UTF-8
 
 ## WSL
 
+- [WSL Containersに触れてみた](https://zenn.dev/user_thebigslee/articles/wsl-container-trial)
+- [RHEL 10 on WSL2 #redhat - Qiita](https://qiita.com/Yuhkih/items/f0b6eeed0ac728f1c2e5)
 - [WindowsのWSL2がsystemdに対応したらしいので、Rocky Linux9入れて使ってみる](https://labo.mycabin.net/diary/1574/)
 - [WSL上のLinuxで日本語環境を整える、日本語入力環境を構築しよう](https://atmarkit.itmedia.co.jp/ait/articles/2506/06/news013.html)
 - [WSLでRed Hat Enterprise Linuxを利用する](https://roy-n-roy.nyan-co.page/Windows/WSL%EF%BC%86%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/rhel/)

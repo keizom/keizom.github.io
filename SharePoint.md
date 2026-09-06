@@ -16,6 +16,7 @@
 
 # SharePoint
 
+- [SharePoint 2016 How to Change SuitBar’s Text PowerShell - Microsoft Learn](https://learn.microsoft.com/en-us/archive/technet-wiki/34202.sharepoint-2016-how-to-change-suitbars-text-powershell)
 - [SharePoint ナレッジエージェントからAI in SharePointへ](https://shanqiai.lekumo.biz/sharepoint_technical_note/2026/05/sharepoint-ai-i-776b.html)
 - [SharePoint ：新しい SharePoint 体験)ガラっと変わってビックリ？） ? Art-Break .log : Taichi Nakamura](https://art-break.net/tech/?p=25607)
 - [SharePoint Technical Note](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2026/05/sharepoint-ai-i-776b.html)
@@ -66,6 +67,9 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [Copilot Studio 使ってみた② -SharePoint篇-](https://www.softbank.jp/biz/blog/cloud-technology/articles/202406/copilot-studio-2/)
 - [生成型の回答に SharePoint コンテンツを使用する](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/nlu-generative-answers-sharepoint-onedrive)
 
+## AI for ShaerPoint
+
+- [最短で知る SharePoint エージェント：権限・参照範囲・使い分けガイド #生成AI - Qiita](https://qiita.com/TND_AYN/items/6675a81c2334b11f7f45)
 
 ## Graph
 

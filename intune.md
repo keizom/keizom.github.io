@@ -15,6 +15,7 @@
 
 # Intune
 
+- [Microsoft Intune でOSの管理方針を決める | Microsoft 365 実験室](https://office365labo.com/2025/10/31/microsoft-intune-%e3%81%a7os%e3%81%ae%e7%ae%a1%e7%90%86%e6%96%b9%e9%87%9d%e3%82%92%e6%b1%ba%e3%82%81%e3%82%8b/)
 - [【雑記】GPOなど既存システムのデバイスポリシーを Intune に再現する方法 (Windows)](https://qiita.com/shokolate/items/a0eea9c595fe57bff2e4)
 - [IntuneMaps.com](https://intunemaps.com/)
 - [Export HW/SW Inventory Data from Intune Devices using PowerShell Skatterbrainz Blog](https://skatterbrainz.wordpress.com/2020/01/18/export-hw-sw-inventory-data-from-intune-devices-using-powershell/)

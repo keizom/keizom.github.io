@@ -17,6 +17,12 @@
 
 # site
 
+## デジタル庁
+
+- [デジタルスキル標準 ver.2.0](https://www.ipa.go.jp/jinzai/skill-standard/dss/rcu1hd000000j76k-att/dss_ver2.0.pdf)
+- [データマネジメント研修)デジタル庁） - Speaker Deck](https://speakerdeck.com/haseryo/datamanagementkenshu-digital-agency-japan)
+
+
 ## 資格
 
 - [MS資格](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
@@ -51,6 +57,11 @@
 - [ReSharper](https://account.jetbrains.com/)
 - [postman](https://www.postman.com/)
 - [sendgrid](https://sendgrid.kke.co.jp)
+
+## DX
+
+- [「デジタル経済レポート：データに飲み込まれる世界、聖域なきデジタル市場の生存戦略」を公表しました](https://www.meti.go.jp/press/2025/04/20250430004/20250430004.html)
+- [経済産業省デジタルプラットフォーム構築事)アクセンチュア](https://www.meti.go.jp/meti_lib/report/2022FY/000517.pdf)
 
 ## ドライバ
 
@@ -210,6 +221,8 @@
 
 # Security
 
+- [セキュリティ研修【MIXI 25新卒技術研修】](https://speakerdeck.com/mixi_engineers/2025_new_grad_training_security_day1)
+- [セキュリティの勉強になるサイト138選 2026年版 #Security - Qiita](https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00)
 - [AWS 環境の公開サーバに対する セキュリティ検討ガイド トレンドマイクロ](https://resources.trendmicro.com/jp-docdownload-form-m294-social-2020-awssecurityreport.html)
 - [実際の標的型攻撃の事例を基にした「インシデント対応ハンズオン」コンテンツを JPCERT／CC が公開：標的型攻撃を受けたときの Windows ログ調査方法を学べる - ＠IT](https://www.atmarkit.co.jp/ait/articles/2007/30/news025.html)
 - [JPCERT／CC がイベントログ分析支援ツール「LogonTracer v1.5.0」を公開](https://www.atmarkit.co.jp/ait/articles/2011/04/news028.html)
@@ -218,6 +231,7 @@
 
 # 資料
 
+- [IPAが公開している資料が有益すぎる](https://qiita.com/KNR109/items/1fa6d697a936c54329c6)
 - [【2024年度】エンジニア向け研修資料まとめ](https://qiita.com/nucomiya/items/29965f1915436f2cfc79)
 - [Microsoft 365 Virtual Marathon 2022 Japanese Track](https://connpass.com/event/243871/presentation/)
 - [【まとめ】大学が公開している有益な資料](https://qiita.com/KNR109/items/02e08d17dba01d9c2fd6)

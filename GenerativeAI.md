@@ -60,6 +60,10 @@
 - [AI エージェントを仕組みから理解する](https://zenn.dev/dinii/articles/ai-agent-demystified)
 - [Agent Development Kit によるエージェント開発入門](https://speakerdeck.com/enakai00/agent-development-kit-niyoruezientokai-fa-ru-men)
 - [MCP Servers for agent mode](https://code.visualstudio.com/mcp)
+- [Playwright MCP触ってみた #生成AI - Qiita](https://qiita.com/resound/items/7bd263f2da57297c34c2)
+- [ブラウザ操作不要！Playwright MCPでテスト仕様書からE2Eテストコードを自動生成してみた #生成AI - Qiita](https://qiita.com/ntaka329/items/e3f47c36c980f49381d6)
+- [最短で知る SharePoint エージェント：権限・参照範囲・使い分けガイド #生成AI - Qiita](https://qiita.com/TND_AYN/items/6675a81c2334b11f7f45)
+
 
 ## AI Shell
 
@@ -170,6 +174,22 @@
 - [ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集](https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji?slide=66)
 - [「自社製品にチャットAIを組み込みたい」　企業が取るべきセキュリティ対策とは？　“プロンプトインジェクション”の基本手口](https://www.itmedia.co.jp/news/articles/2308/10/news101.html)
 
+## Ollama
+
+- [【Claude Code】Claude CodeがOllamaと連携できるようになったらしい #初心者 - Qiita](https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40)
+- [ローカルLLM活用徹底解説：rClineとLM Studio、Ollamaを使いこなす](https://note.com/life_to_ai/n/nfc3cea295e34)
+- [M1MacでOllamaを試したら爆速で驚いた](https://zenn.dev/yasuna/articles/284aa6bbf6124e)
+- [ローカルLLMの実行ツールであるOllamaをUbuntuで動かす](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0825)
+- [Open WebUI (Formerly Ollama WebUI) がすごい](https://qiita.com/moritalous/items/1cad6878ea750d18747c)
+- [「よーしパパ、Ollama で Llama-3-ELYZA-JP-8B 動かしちゃうぞー」](https://qiita.com/s3kzk/items/3cebb8d306fb46cabe9f)
+- [最新 LLM をお手軽に実行！ollamaを使おう](https://qiita.com/hiyoko1729/items/4fa92e1e88ddd68d4e30)
+- [Azure×Dify×OllamaでローカルLLM RAG環境を構築する手順](https://zenn.dev/akkodis_jp/articles/a5939edf73a954)
+- [LM StudioとOllamaを導入](https://xtech.nikkei.com/atcl/nxt/column/18/03600/042100002/)
+- [「LM Studio」と「Ollama」を導入、パソコンの性能に応じてパラメータを決定)2ページ目） | 日経クロステック)xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/03600/042100002/?P=2)
+- [VSCode + Continue + Ollama で構築するローカルMCP開発環境)その１）](https://zenn.dev/usagi1975/articles/2026-06-21-000_mcp1)
+- [【脱・従量課金】Microsoft Agent Framework を Ollama でローカル運用する Vol.2 ?02-agents/ 厳選ハンズオン?](https://qiita.com/KazutoMakino/items/e092d562686159f18f33)
+- [Ollamaでローカルで動かすLLMを選ぶ：Llama 3.2・Gemma 3・Qwen 3をOpenAI互換APIで比較する](https://zenn.dev/libercraft/articles/20260615-ollama-local-llm-comparison)
+
 ## Claude Code
 
 - [【2026/7/11最新版】天才が使うClaude Code全機能解説](https://x.com/ai_ai_ailover/status/2075584469294284829?s=12)
@@ -224,8 +244,6 @@
 - [MCPツール棚卸しによるClaude Codeのコンテキスト最適化 - Zenn](https://zenn.dev/medley/articles/optimizing-claude-code-context-with-mcp-tool-audit)
 - [Claude Codeにコマンド一発でMCPサーバを簡単設定](https://zenn.dev/karaage0703/articles/3bd2957807f311)
 - [Claude Codeは「コードを書くAI」で終わらせるな：公式 document-skills でPDF・Excel・Word・PowerPointまで自動化する #ClaudeCode - Qiita](https://qiita.com/4q_sano/items/2c9d2686bdbc5e085191)
-- [構成図を中心に据える、Obsidian × Claude Code ナレッジベース](https://zenn.dev/archicraft_dev/articles/bcd9c3075c5d08)
-- [【Claude Code】Claude CodeがOllamaと連携できるようになったらしい #初心者 - Qiita](https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40)
 - [Claude CodeとCodexの設定ファイルを同期させる](https://zenn.dev/explaza/articles/20f7f41cff8428)
 - [Claude Code と Codex の主要機能を比較する](https://qiita.com/nogataka/items/545148471e8f2b63c9a6)
 - [Claude Code vs Codex](https://zenn.dev/dely_jp/articles/cfac9a04904113)
@@ -332,7 +350,6 @@
 - [Gemini CLI の使い方](https://zenn.dev/mafukuda/articles/gemini-cli-usage)
 - [Gemini CLI GitHub Actions](https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-gemini-cli-github-actions)
 - [ゼロからはじめるJavaScript)35) Gemini CLIで日々の作業を自動化してみよう | TECH+](https://news.mynavi.jp/techplus/article/zerojavascript-35/)
-- [【Obsidianの使い方が変わる】Gemini CLIは、あなたの思考に寄り添う「無料の執事」](https://note.com/chankostin/n/nb33ca6e289fa)
 - [Gemini CLI、VS Codeとの連携強化](https://gihyo.jp/article/2025/08/gemini-cli-vs-code-integration)
 - [Gemini CLI : オープンソース AI エージェント | Google Cloud 公式ブログ](https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-gemini-cli/)
 - [Excel手作業終了のお知らせ！Gemini CLI + MCPでExcel生成時代到来](https://zenn.dev/acntechjp/articles/77a521ec0ac654)
@@ -341,8 +358,29 @@
 - [Gemini for Google Workspace Prompt Guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
 - [GoogleのAI「Gemini」って、何ができるの？知っておきたい基礎知識まとめました](https://www.lifehacker.jp/article/2406-difference-between-google-gemini-apps-and-models/)
 
+## Obsidian
+
+- [Obsidianとは？使い方やプラグイン、Cursor連携の手順を解説](https://www.ai-souken.com/article/what-is-obsidian)
+- [Obsidianとは？使い方やLLMとの親和性について](https://zenn.dev/chameleonmeme/articles/d469215e586444)
+- [【Obsidian×Cursor】AI時代の知的生産術！使い方や活用事例まで徹底解説](https://chatgpt-lab.com/n/na996f091ff75)
+- [ObsidianのノートをVS CodeのAI（Cline）を通して活用する](https://gihyo.jp/article/2025/05/obsidian-06)
+- [ObsidianをCMSにしたら、思ったより本格的だった話](https://qiita.com/nasubi_dev/items/2237101b170f7327e4a0)
+- [Obsidian・Cursorをフル活用してAI駆動でアウトプットしていく](https://note.com/shu127/n/n61115b0b8c64)
+- [Obsidian × Cursor で “良質メモ → 記事執筆” を実現する徹底フロー](https://note.com/iam_shin/n/n9bbb5e189902)
+- [Obsidian × Cursor 活用の真髄─LLMを “推論エンジン” として使え](https://note.com/iam_shin/n/ndb8c5c49e09a)
+- [構成図を中心に据える、Obsidian × Claude Code ナレッジベース](https://zenn.dev/archicraft_dev/articles/bcd9c3075c5d08)
+- [仕事でObsidianをどのように使っているか](https://zenn.dev/gatechnologies/articles/8f73b2d6e4f136)
+- [Obsidian活用術](https://www.sbbit.jp/article/cont1/173482)
+- [Obsidian 初学者 勉強会 資料や動画まとめ](https://note.com/currypurin/n/n22773356f04b)
+- [第3回｜最低限でOK！Obsidianおすすめプラグイン3選+α](https://note.com/n_t7627/n/n2112b193faf1)
+- [ゼロイチObsidian｜ゼロからはじめるObsidian案内 #Markdown - Qiita](https://qiita.com/hann-solo/items/22bcaa81b695ddb47238)
+- [【Obsidianの使い方が変わる】Gemini CLIは、あなたの思考に寄り添う「無料の執事」](https://note.com/chankostin/n/nb33ca6e289fa)
+
 ## Google Notebook LLM
 
+- [NotebookLMを解説](https://note.com/google_gemini/n/n75516598b159?sub_rt=share_b)
+- [Google NotebookLM の便利すぎる活用術3選](https://www.sbbit.jp/article/cont1/170616?page=3)
+- [NotebookLM で URL の一括アップロードをする](https://dev.classmethod.jp/articles/notebooklm-bulk-url-upload/)
 - [無料で使える最高のAIノート『NotebookLM』使い方と活用事例](https://note.com/doerstokyo_kb/n/n7edcc6bd70bf)
 - [NotebookLM を解説！情報整理をAIで簡単にしよう](https://note.com/google_gemini/n/n75516598b159)
 - [NotebookLMで社内向け製品ボットを作成しよう！](https://qiita.com/sasajimay/items/fd99a903382afba00a34)
@@ -396,7 +434,6 @@
 - [GPUを使わずにWindowsでローカルLLMを動かす](https://zenn.dev/nwth/articles/202511-local-llm)
 - [Local LLMでのデータ分析を試してみた](https://zenn.dev/aishift/articles/5a5383987efee6)
 - [LLMのプロンプトエンジニアリングに登場するプロンプト - GIGAZINE](https://gigazine.net/news/20250819-prompt-engineering-for-llms/)
-- [ローカルLLM活用徹底解説：rClineとLM Studio、Ollamaを使いこなす](https://note.com/life_to_ai/n/nfc3cea295e34)
 - [翻訳LLMで1年間開発して学んだこと〜LLMプロダクト開発を成功に導くための実践的ガイド〜](https://zenn.dev/seya/articles/12c67b5d80670a)
 - [LLM開発のための環境構築](https://zenn.dev/elith/articles/e4dbbb62752e04)
 - [LLMプロダクト開発とはどういうものなのか？](https://note.com/erukiti/n/ne901fbb08145)
@@ -411,7 +448,7 @@
 - [いちばんやさしいローカル LLM](https://note.com/schroneko/n/n8b1a5bbc740b)
 - [LLMアプリ開発の必須ツール？！Langfuseがすごい！](https://qiita.com/moritalous/items/76ba9f2ad200df335d07)
 - [RAGの性能を高める「Self-RAG」を3分で理解する](https://zenn.dev/knowledgesense/articles/67dd2a41fc4d0b)
-- [M1MacでOllamaを試したら爆速で驚いた](https://zenn.dev/yasuna/articles/284aa6bbf6124e)
+
 - [Surface で NPU を活用する:「Hello World」モデルの実行例](https://blogs.windows.com/japan/2024/07/11/unlocking-the-power-of-npu-on-surface-our-hello-world-journey/)
 
 ### Phi
@@ -432,12 +469,9 @@
 - [Llama3.2 をローカルで動かしてみる](https://qiita.com/coitate/items/0ab96c3f092e4f8b1fa0)
 - [ChatGPT - LLMシステム開発大全](https://speakerdeck.com/hirosatogamo/chatgpt-azure-openai-da-quan)
 - [GPTCacheでのLLMのレスポンスキャッシュを試してみる](https://zenn.dev/gaudiy_blog/articles/e0d7c940a01bcb)
-- [Open WebUI (Formerly Ollama WebUI) がすごい](https://qiita.com/moritalous/items/1cad6878ea750d18747c)
-- [「よーしパパ、Ollama で Llama-3-ELYZA-JP-8B 動かしちゃうぞー」](https://qiita.com/s3kzk/items/3cebb8d306fb46cabe9f)
 - [おすすめLLM（大規模言語モデル）比較11選｜各LLMの特徴や活用分野を詳しく紹介](https://furusatohonpo.jp/saas/generation-ai-llm/)
 - [GPT-4超えの日本語性能？ 話題のELYZA製LLMをBedrockにインポート！ サーバーレス化してみよう](https://qiita.com/minorun365/items/eadb4e818f71a802f0e7)
 - [LLMアプリケーションの評価入門〜基礎から運用まで徹底解説〜](https://zenn.dev/pharmax/articles/df59290ba875ff)
-- [ローカルLLMの実行ツールであるOllamaをUbuntuで動かす](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0825)
 
 ## MCP Server
 
@@ -609,11 +643,27 @@
 
 - [【無料・日本語対応】Napkin AIとは？使い方や料金、商用利用について解説！](https://www.ai-souken.com/article/what-is-napkin-ai)
 
+## Open AI
+
+- [OpenAI AgentKit を発表 - gihyo.jp](https://gihyo.jp/article/2025/10/openai-agentkit)
+- [OpenAI Agent Builderを触ってみた - Qiita](https://qiita.com/akira_papa_AI/items/7344e21b9204526e5127)
+- [OpenAIのAIエージェント開発キットをアプリに組み込んでみた - Zenn](https://zenn.dev/forward/articles/cd0e0453822f7e)
+- [OpenAI AgentKit入門：ノーコードでAIエージェントを作ろう](https://chatgpt-lab.com/n/n164d6c4bef08)
+- [OpenAI、16GBメモリのMacでも使えるオープンウェイトの言語モデル「gpt-oss-20b」を公開。](https://applech2.com/archives/20250806-openai-gpt-oss-120b-and-20b.html)
+
 ## OpenAI Codex
 
 - [OpenAI Codex のクイックスタート](https://note.com/npaka/n/n955421dfe2d2)
 - [AIお任せでプログラム開発。ChatGPTの新機能｢Codex｣を試してみた](https://www.gizmodo.jp/2025/05/chatgpt_codex_handson.html)
 - [OpenAI Codex の使い方](https://note.com/npaka/n/nf5b3e06eb895)
+- [.codexとは？](https://zenn.dev/kodak_diary/articles/6dd0ab3d5aa5da)
+- [Codex を完全に理解する会](https://zenn.dev/microsoft/articles/codex_fully_understood)
+- [Codexを使うあなたへ。おすすめ設定&MCP集 - Zenn](https://zenn.dev/chiji/articles/57cb52773391ab)
+- [今さらながら OpenAI の「Codex IDE extension」を VS Code で少し試してみる #VSCode - Qiita](https://qiita.com/youtoy/items/e5c8732340a483633257)
+
+### Azure Open AI
+
+- [VS Code で Azure OpenAI の Codex を使う #VSCode - Qiita](https://qiita.com/jerrywdlee/items/b273a9d19ffabe660486)
 
 ## OpenAI Deep Research
 
@@ -648,6 +698,14 @@
 
 ## Prompt
 
+- [dahatake/GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/GenerativeAI-Prompt-Sample-Japanese/)
+- [一発OK!! 市民も使える！生成AI活用実例集（プロンプト集）](http://www.city.nanyo.yamagata.jp/dxchosei/5793)
+- [【実案件使用】Cursorプロンプト × コード公開！①リファクタリング編](https://qiita.com/ShotaFukuyama/items/c14204f760a87e04b39f)
+- [GPT-5.2 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5-2_prompting_guide)
+- [プロンプトエンジニアリングを終わらせるDSPy](https://zenn.dev/cybernetics/articles/39fb763aca746c)
+- [Prompt Coachとは？](https://zenn.dev/headwaters/articles/131b428ada41f4)
+- [【必見】"改良版"まじん式プロンプト](https://note.com/majin_108/n/nd11d1f88a939)
+- [【プロンプト一挙公開】初心者でも「GPTs」マスターに！](https://www.sbbit.jp/article/cont1/169649)
 - [Google製プロンプト活用法100選](https://docs.google.com/spreadsheets/d/1Ti13QWfBzXpurHxgVyaTTd9XuzrJqYL9HRgg7blVXac/edit?gid=0#gid=0)
 - [Google Prompting Essentials](https://grow.google/prompting-essentials/)
 - [各種Prompt Engineeringの日本語実例集（Zero-CoT、mock、ReAct、ToT、Metacog、Step Back、IEPなど）](https://qiita.com/YutaroOgawa2/items/aca32f8fd7d551596cf8)

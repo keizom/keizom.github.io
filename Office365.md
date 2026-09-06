@@ -29,9 +29,23 @@
 - [ライセンス](https://m365maps.com/matrix.htm)
 - [Test Base for Microsoft 365とは何か、使ってみてわかった｢完全自動化｣の利点と課題](https://www.sbbit.jp/article/cont1/127133)
 - [自分のMicrosoft 365 環境を作ってみる](https://office365labo.com/2023/06/05/%e8%87%aa%e5%88%86%e3%81%a0%e3%81%91%e3%81%aemicrosoft-365-%e7%92%b0%e5%a2%83%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/)
+- [Microsoft 365を狙う新型フィッシングに注意](https://atmarkit.itmedia.co.jp/ait/articles/2605/21/news034.html)
+- [Microsoft 365 の生産性図](https://learn.microsoft.com/ja-jp/microsoft-365/solutions/productivity-illustrations?view=o365-worldwide)
+- [Microsoft 365 for enterprise のドキュメントとリソース](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/?view=o365-worldwide)
+- [Microsoft 365のログ、本当にすべて収集できていますか](https://x.com/sans_japan/status/2094349474545950737?s=12)
+
+## Skill Recorder
+
+- [Skill Recorder + Scout で日常業務を自動化 #SkillRecorder - Qiita](https://qiita.com/FukuharaYohei/items/5cb04384a1b38deeff61)
+- [Microsoft Skill Recorder を公開](https://forest.watch.impress.co.jp/docs/news/2130221.html)
+- [Microsoft 謹製デスクトップアプリ「Skill Recorder」で業務効率化スキルの作成が捗る？](https://zenn.dev/benjuwan/articles/c2ba48e7662f92)
+- [[Microsoft Scout] 完全ガイド ?導入から実践まで? #tips - Qiita](https://qiita.com/phamxuanquyen22/items/5411c3c826af7a80da55)
+
 
 ## Advanced Threat Protection
 
+- [攻撃シミュレーション トレーニングの使用を開始する - Microsoft Defender for Office 365 | Microsoft Learn](https://learn.microsoft.com/ja-jp/defender-office-365/attack-simulation-training-get-started?view=o365-worldwide)
+- [【公式ガイド解説】 Microsoft Entra Global Secure Access )GSA) 「導入」から「安定運用」へ引き上げる運用設計モデル ― 公式ガイドを読み解き実務に落とし込む ― #Microsoft365 - Qiita](https://qiita.com/carol0226/items/5fab9f08978d78605a68)
 - [Microsoft Defender for Endpoint - デモ シナリオ](https://learn.microsoft.com/ja-jp/microsoft-365/security/defender-endpoint/defender-endpoint-demonstrations?view=o365-worldwide)
 - [五味ちゃんが徹底解説！テレワーク時代のセキュリティ対策編](https://licensecounter.jp/microsoft365/download/gomichan-microsoft365-security/)
 - [Office 365 の ATP (Advanced Threat Protection) を使ってみる - kazuakix の日記](https://blog.kazuakix.jp/entry/2017/12/05/000100)
@@ -245,6 +259,7 @@
 
 ## Exchange Online
 
+- [Exchange Online でやってはいけない 10 のこと | Outlook 研究所](https://outlooklab.wordpress.com/2017/01/21/Exchange-Online-%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84-10-%E3%81%AE%E3%81%93%E3%81%A8/)
 - [Exchange Online canceling the Mailbox External Recipient Rate Limit](https://techcommunity.microsoft.com/blog/exchange/exchange-online-canceling-the-mailbox-external-recipient-rate-limit/4483498)
 - [Exchange Online テナントの外部送信メール制限の導入](https://jpmessaging.github.io/blog/introducing-exchange-online-tenant-outbound-email-limits/)
 - [Exchange Server Subscription Edition RTM )KB5047155](https://www.microsoft.com/en-us/download/details.aspx?id=108244)
@@ -437,14 +452,18 @@
 - [【Microsoft 365】取得できる監査ログと管理方法を解説](https://symphonict.nesic.co.jp/workingstyle/microsoft365/checking_log/)
 - [Office 365 マネージメント アクティビティ API のリファレンス](https://learn.microsoft.com/ja-jp/office/office-365-management-api/office-365-management-activity-api-reference?toc=%2Fmicrosoft-365%2Fcompliance%2Ftoc.json&bc=%2Fmicrosoft-365%2Fbreadcrumb%2Ftoc.json)
 
-## Office 365 PowerShell
-
 ## OneDrive
 
 - [【オンライン セミナー】 OneDrive for Business を便利に使うための設定大解説!](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-07-OneDrive-for-Business-Great-commentary-MCW0004581.html)
 
+## OneNote
+
+- [OneNoteで完結させる高速タスク管理術3選](https://www.lifehacker.jp/article/2511-matome-onenote/)
+
+
 ## Planner
 
+- [Microsoft Planner 使い方・活用事例ガイド](https://pochisma.jp/blog/We9rIigJ)
 - [【タスク管理】Teams × Planner で実現。簡単！便利！](https://m.youtube.com/watch?v=Tyqit541i2s)
 - [タスク管理の新提案！ Office 365 Planner とは？ (1/4)：CodeZine（コードジン）](https://codezine.jp/article/detail/9467)
 - [Teams アプリ「タスク」 入門: Planner・To Do 統合 AvePoint Blog](https://www.avepoint.com/blog/ja/microsoft-teams-ja/teams-todo-planner/)
@@ -456,6 +475,14 @@
 
 ## Teams
 
+- [Teams の「外部アクセス」のログを Purview で監査する（メモ） #Security - Qiita](https://qiita.com/hirotomotaguchi/items/ce4a8cf48f201f5c5671)
+- [Teams の「外部アクセス」のログを Purview で監査する（メモ） #Security - Qiita](https://qiita.com/hirotomotaguchi/items/ce4a8cf48f201f5c5671)
+- [Teamsユーザー必携の10の裏技](https://www.lifehacker.jp/article/260510-hacks-every-microsoft-teams-user-should-know/)
+- [【Teams】TeamsのチャットデータをeDiscoveryで監査・保全するコンプライアンス手順 - 超解決](https://funshitsu.com/teams-chat-data-audit-preservation-ediscovery/#google_vignette)
+- [Microsoft、「Slack」から「Teams」へのデータ移行ツールを発表 ～3月初旬までに展開 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/2078717.html)
+- [TeamsのAIワークフローって何？ - Qiita](https://qiita.com/Oyu3m/items/b9c3ac3efb6f7cd6ebaf)
+- [Microsoft Teams連携アプリおすすめ9選｜面倒なタスク管理・ファイル共有が驚くほど楽になる方法](https://www.lifehacker.jp/article/top_9_recommended_apps_for_microsoft_teams_integration_easy_task_management/)
+- [Microsoft Teamsの便利な機能・活用術6選｜日報や議事録まで効率化、ルーティンワークを時短する使い方](https://www.lifehacker.jp/article/6_useful_microsoft_teams_features_and_tips/)
 - [Teams 会議の参加リンクや会議 ID から meetingId を取得する方法](https://zenn.dev/ymasaoka/articles/how-to-get-teamsmeeting-id-by-joinweburl)
 - [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
 - [Microsoft Teamsの表示をカスタマイズ、既定のリアクションを変更しよう](https://active.nikkeibp.co.jp/atcl/act/19/00390/061300092/)

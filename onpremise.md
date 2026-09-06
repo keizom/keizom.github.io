@@ -276,6 +276,25 @@ Add-SPDistributedCacheServiceInstance
 
 # Windows OS
 
+- [イベントログ ファイルの最大サイズ増強よりもアーカイブが効果的](https://jpwinsup.github.io/blog/2026/04/02/UserInterfaceAndApps/EventLog/EventLogMaxSizeAndArchive/)
+- [Microsoft Build 2026 キーノート詳解 #Windows - Qiita](https://qiita.com/lowgain/items/8fda190146e55e958f42)
+- [Windows has a better Notepad hiding on the Microsoft Store ? and it's free](https://www.makeuseof.com/windows-has-better-notepad-hiding-on-microsoft-store-its-free/)
+- [初期設定のままはダメ！ Windows 11を買ったらすぐ消すべき「おせっかいな初期設定」5選](https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news009.html)
+- [Windows の機能が利用するプロキシ設定とは？ | Microsoft Japan Windows Technology Support Blog](https://jpwinsup.github.io/blog/2024/12/04/Networking/Proxy/Proxy-settings-used-by-Windows-features/)
+- [【上級者向け】Windows 11のSSD性能を最大80％高める（？）隠し機能「ネイティブNVMe」を有効にする：Tech TIPS - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2601/09/news018.html)
+- [それ最適ですか？　もっと見やすく疲れにくい、Windows 11ディスプレイ設定を探る：Tech TIPS - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2512/10/news016.html)
+- [Meta QuestでWindows PCを使う「Mixed Reality Link」一般提供開始 - マイナビニュース](https://news.mynavi.jp/article/20251031-3606974/)
+- [今すぐ便利に使える！太古より引き継がれしWindows フリーソフト8選](https://win-tab.net/misc/windows-freesoft-osusume-2508172/)
+- [グループ ポリシーの適用 | Microsoft Japan Windows Technology Support Blog](https://jpwinsup.github.io/blog/2022/03/15/ActiveDirectory/GroupPolicy/Applying-Group-Policy/)
+- [NUC7i7DNHE に Windows Server 2019 をインストールしてみる](https://blog.engineer-memo.com/2018/09/02/nuc7i7dnhe-%e3%81%ab-windows-server-2019-%e3%82%92%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%81%97%e3%81%A6%e3%81%BF%e3%82%8B/)
+- [Windows LAPS の概要 | Microsoft Learn](https://learn.microsoft.com/ja-jp/windows-server/identity/laps/laps-overview)
+- [PowerShell だけで動く、時計を表示しながら画面を連写するツール #Windows - Qiita](https://qiita.com/ytsuda/items/1c6bf5d4285a649457ff)
+- [「Windows PowerShell 5.1」に「IE」要素排除のための仕様変更 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/2070166.html)
+- [Windows版Zedを試してみたらVSCodeより使うことになりそう - Zenn](https://zenn.dev/amenaruya/articles/66b7ee7540703c)
+- [君たちはどうWindowsイベントログを調査するか](https://sumeshi.github.io/posts/knowledges/windows-eventlog-analysis-101)
+- [Windows セキュリティ アプリのセキュア ブート証明書の更新状態](https://support.microsoft.com/ja-jp/topic/windows-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2-%E3%83%96%E3%83%BC%E3%83%88%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%85%8B-5ce39986-7dd2-4852-8c21-ef30dd04f046)
+- [Windows デバイスを Entra の パスキーにする方法](https://qiita.com/carol0226/items/394d6a795be116853771)
+- [第6回：Kerberos 認証の仕組み ── AD 環境における「チケット」の流れを解剖する](https://qiita.com/555hamano/items/d18c05532afbd4929123)
 - [Windows Server Summit 2024で発表されたWindows Server 2025注目の新機能](https://kkamegawa.hatenablog.jp/entry/2024/04/04/081951)
 - [いまさら聞けないHyper-V仮想マシンの「構成バージョン」](https://atmarkit.itmedia.co.jp/ait/articles/2505/20/news013.html)
 - [いまさら聞けない「Hyper-Vホスト」の構成と管理機能](https://atmarkit.itmedia.co.jp/ait/articles/2501/10/news005.html)
@@ -307,6 +326,10 @@ Add-SPDistributedCacheServiceInstance
 - [第 1 回 Active Directory の必要性【Microsoft の MVP 解説！第二弾 Active Directory のハウツー読本】](https://blogs.manageengine.jp/needs_of_ad/)
 - [iSCSI ターゲット サーバーの概要](https://docs.microsoft.com/ja-jp/windows-server/storage/iscsi/iscsi-target-server)
 - [winget を使おう 前編：winget のインストールと基本操作](https://astherier.com/blog/2021/08/winget-usage-1/)
+
+## P2V
+- [Disk2vhd ツールを利用した P2V 化](https://jpwinsup.github.io/mslog/other/tips-and-tricks/p2v/)
+
 
 # Copilot+ PC
 

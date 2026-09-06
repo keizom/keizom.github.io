@@ -50,6 +50,9 @@
 
 ## Entra ID
 
+- [Microsoft Graph API を利用して Azure AD のサインイン アクティビティ レポートをファイルに出力する PowerShell スクリプト](https://jpazureid.github.io/blog/azure-active-directory/microsoft-graph-api-signin-activity-reports/)
+- [Entra IDとGraph APIを使ってOAuth 2.0の認可コードフローを試してみる](https://zenn.dev/habuuuuu/articles/b100d7146a1c27)
+- [Entra ID 初学者向けシリーズ第 1 弾 - 条件付きアクセス 入門](https://jpazureid.github.io/blog/azure-active-directory/starter-series-conditional-access/)
 - [Microsoft Entra External IDを活用した無償でセキュアですぐできる組織間コラボレーション！](https://techblog.ap-com.co.jp/entry/2023/12/02/134227)
 - [招待を許可またはブロックする - Microsoft Entra External ID | Microsoft Learn](https://learn.microsoft.com/ja-jp/entra/external-id/allow-deny-list)
 - [Microsoft Entra ID Protection 導入ガイド](https://qiita.com/carol0226/items/047470408a14240adb22)
@@ -86,9 +89,16 @@
 
 - [Microsoft Entra が Security Service Edge に拡張、Azure AD が Microsoft Entra ID に名称変更](https://news.microsoft.com/ja-jp/2023/07/12/230712-microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id/)
 
+### テナント間同期
+- [【Microsoft365参考書】Entra IDのテナント間同期とは？ - 社畜の所業](https://it-bibouroku.hateblo.jp/entry/Crosstenantsynchronization)
+- [Microsoft 365 のマルチテナント組織のユーザーを同期する - Microsoft 365 Enterprise | Microsoft Learn](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/sync-users-multi-tenant-orgs)
+
+
+
 ### 条件付きアクセス
 
 - [条件付きアクセスの基本的な考え方](https://jpazureid.github.io/blog/azure-active-directory/conditional-access-basic/)
+- [条件付きアクセスポリシーのインポート/エクスポート](https://azuread.net/archives/11676)
 
 ## Azure AD B2C
 
@@ -384,6 +394,7 @@
 
 ## Azure DevOps
 
+- [ExcelマクロのVBAソースコードをAzure DevOpsでバージョン管理する方法 | Medium](https://medium.com/@saso_33429/excel%E3%83%9E%E3%82%AF%E3%83%AD%E3%81%AEvba%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92azure-devops%E3%81%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-d20b751ddc30)
 - [これからはじめるAzure Pipelines](https://kkamegawa.hatenablog.jp/entry/2020/07/04/174915)
 - [タスク管理をスプレッドシートからAzure Boardsにしたい人向けの話](https://kkamegawa.hatenablog.jp/entry/2020/10/03/133802)
 - [Azureで AI エージェントを使用して DevOps を最適化する](https://learn.microsoft.com/ja-jp/training/paths/optimize-devops-ai-agents-azure/)
@@ -447,9 +458,10 @@
 - [GraphRAGの簡易検証 ~Azure Document Intelligence, Neo4jを用いて~](https://qiita.com/Ruuchami/items/294d797798d4fca346ad)
 - [Azure AI Document Intelligence入門【Resultパラメータ解説付き！】](https://tech-lab.sios.jp/archives/41739)
 
-## Entra ID
+## Azure Faabric
 
-- [Entra ID 初学者向けシリーズ第 1 弾 - 条件付きアクセス 入門](https://jpazureid.github.io/blog/azure-active-directory/starter-series-conditional-access/)
+- [OneLakeのショートカット機能：データ統合と活用の新常識](https://qiita.com/stanaka2222/items/a3acb3c165010e7da7d0)
+- [OneLake ショートカットでデータ ソースを統合する](https://learn.microsoft.com/ja-jp/fabric/onelake/onelake-shortcuts)
 
 ## Azure Front Door
 
@@ -659,6 +671,8 @@ New-AzRoleAssignment -RoleDefinitionName Reader -ServicePrincipalName $sp.AppId
 ## Azure OpenAI Whisper
 
 - [Azure OpenAI Whisper の申請から利用までの手順をまとめた](https://qiita.com/y__saito/items/13586b2d4959858853db)
+- [VibeVoice-ASRを試す](https://zenn.dev/kun432/scraps/98c5183492ab09)
+
 
 ## Azure PowerShell
 
