@@ -14,9 +14,7 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [web](https://keizom.github.io/web.html)
 
-## Azure
-
-### ライセンス
+## ライセンス
 
 - [Power Platform ライセンスガイド 日本語版](https://aka.ms/pplicjp)
 - [Copilot Studio ライセンスガイド 日本語版](https://aka.ms/MCSLicJP)
@@ -27,7 +25,7 @@
 - [MS公式サイトのライセンスガイド](https://www.microsoft.com/licensing/docs/?msockid=1fc5d3d1fcd6632f3f80c52efd4462d5)
 - [Power BI](https://go.microsoft.com/fwlink/?linkid=2286169&clcid=0x409&culture=en-us&country=us)
 
-### 自習書
+## 自習書
 
 - [Microsoft Azure 自習書一式](https://www.microsoft.com/ja-jp/download/details.aspx?id=43120)
 - [Microsoft デジタル防衛レポート 2024](https://www.microsoft.com/ja-jp/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024)
@@ -114,6 +112,8 @@
 ## 資格
 
 - [MS資格](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
+
+## Azure
 
 ### AWS 比較
 
