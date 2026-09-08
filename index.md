@@ -22,11 +22,6 @@
 - [デジタルスキル標準 ver.2.0](https://www.ipa.go.jp/jinzai/skill-standard/dss/rcu1hd000000j76k-att/dss_ver2.0.pdf)
 - [データマネジメント研修)デジタル庁） - Speaker Deck](https://speakerdeck.com/haseryo/datamanagementkenshu-digital-agency-japan)
 
-
-## 資格
-
-- [MS資格](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
-
 ## Service URL
 
 - [GitGHub Copilot](https://github.com/settings/copilot)
@@ -104,94 +99,16 @@
 
 - [ICI リスクアセスメントツール公開の背景](https://blog.itochuci.co.jp/entry/2024/07/31/160000)
 
-## Microsoft 365 Day 2024
-
-- [パート3 Microsoft 365 Day 2024 ~ Copilot と始めるビジネス変革 ~](https://info.microsoft.com/JA-MODEND-VDEO-FY24-05May-16-Part-3-Microsoft-365-Day-2024-Business-transformation-with-Copilot-SRGCM12253_LP01-Registration---Form-in-Body.html)
-
-## Microsoft Ignite
-
-- [マイクロソフトイグナイト BOOK OF NEWS](https://news.microsoft.com/ignite-2022-book-of-news/ja/)
-- [Ignite 2020](https://www.microsoft.com/ja-jp/events/top/ignite-recap-day.aspx)
-
-## Microsoft 資料
-
-- [Azure 技術資料インデックス Azure/jp-techdocs](https://github.com/Azure/jp-techdocs/)
-- [Microsoft (有志)](https://zenn.dev/p/microsoft)
-- [Microsoft AI ＆ Innovation Center](https://www.microsoft.com/ja-jp/maic)
-- [Microsoft Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
-- [Microsoft Azure](https://docs.microsoft.com/ja-jp/learn/azure/)
-- [Home - Power Platform Community](https://powerusers.microsoft.com/)
-- [コード サンプルを参照 Microsoft Docs](https://docs.microsoft.com/ja-jp/samples/browse/?products=azure)
-- [Power Apps Community Plan](https://powerapps.microsoft.com/ja-jp/communityplan/)
-- [Microsoft Japan Code Labs](https://microsoft.github.io/code-labs-jp/)
-- [Microsoft の認定資格](https://docs.microsoft.com/ja-jp/learn/certifications/)
-- [Windows 10 で開発環境を設定する](https://docs.microsoft.com/ja-jp/windows/dev-environment/overview)
-- [mstep オンライン Microsoft Azure / サーバー製品](https://partner.microsoft.com/ja-jp/training/mstep-platform)
-- [オンデマンドで学ぶクラウド アプリケーション開発](https://www.microsoft.com/ja-jp/biz/cloud-platform/apps-innovation-ondemand.aspx)
-- [Microsoft Security Forum 2020 オンライン](https://www.microsoft.com/ja-jp/biz/security/forum-online.aspx)
-- [Azure Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
-- [Microsoft Partner blog](https://blogs.partner.microsoft.com/mpn/)
-- [Azure のイベントとウェビナー](https://azure.microsoft.com/ja-jp/resources/events/)
-
 ## ウェビナーやワークショップ
 
 - [Internet Week 2025プレゼンテーション - JPNIC](https://www.nic.ad.jp/ja/materials/iw/2025/proceedings/)
 - [有名企業のエンジニア向け研修資料まとめ](https://qiita.com/KNR109/items/f3268b311e11d5b821c0)
-- [ウェビナーやワークショップ](https://www.microsoft.com/ja-jp/biz/cloud-platform)
 - [Azure Advisor を読み解いて Azure のコストを最適化- Azure ベストプラクティス 第 6 回](https://mktoevents.com/Microsoft+Event/335135/157-GQE-382?aaid=azureinfrajp)
 - [EoS を契機にしたクラウドシフトと Azure VMwareSolution の利用シナリオと最新動向ご紹介](https://mktoevents.com/Microsoft+Event/333494/157-GQE-382?aaid=azureinfrajp)
 - [IaC with HashiCorp Terraform on Microsoft Azure -DevOps を成功に導くインフラ効率のデファクトスタンダード](https://mktoevents.com/Microsoft+Event/334376/157-GQE-382?aaid=azureinfrajp)
 - [事例で解説！失敗しない Azure VMware Solution 導入のポイントとは？](https://mktoevents.com/Microsoft+Event/332522/157-GQE-382?aaid=azureinfrajp)
 - [Azure ＆ Azure Stack HCI 徹底解説](https://mktoevents.com/Microsoft+Event/332796/157-GQE-382?aaid=azureinfrajp)
 - [イマドキのマルチクラウドセキュリティ対策とは？](https://mktoevents.com/Microsoft+Event/324987/157-GQE-382?aaid=azureinfrajp)
-- [全ての“入り口”はIDから~Microsoft Entraで学ぶ、やさしいID基礎知識 ~：第1回 新しいID管理ソリューションEntraのご紹介と今から始めよう「Azure ADによる脱VPN化」](https://info.microsoft.com/JA-ZTF-VDEO-FY23-09Sep-13-MKTO-FY23-Entra-Webinar-Gated-content-0823-SRGCM7732_LP01-Registration---Form-in-Body.html)
-- [AI のビジネス活用スタート](https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-AIbusinessutilization-SRGCM1257.pdf)
-- [Azure Stack HCI 評価ガイド - Part 1 「Azure Stack HCI の基礎と展開」 編](https://info.microsoft.com/JA-HCS-CNTNT-FY23-10Oct-12-Azure-Stack-HCI-Assessment-Guide-Part-1-Azure-Stack-HCI-Fundamentals-and-Deployment-SRGCM7946_LP01-Registration---Form-in-Body.html)
-- [Windows Virtual Desktop Event](https://info.microsoft.com/ww-landing-windows-virtual-desktop.html)
-- [徹底解説！できる Azure Migrate](https://info.microsoft.com/JA-AzureMig-CNTNT-FY20-03Mar-18-Thoroughcommentary-SRGCM3343_01Registration-ForminBody.html)
-- [Windows 365 ウェビナー 第1弾　新登場！Windows 365 Frontline](https://info.microsoft.com/JA-MODEND-VDEO-FY24-09Sep-05-Windows-365-Webinar-Vol-1-New-Windows-365-Frontline-SRGCM10973_LP01-Registration---Form-in-Body.html)
-- [GitHub Copilot開発者が語る最新アップデート ～ コード生成の裏側を知って、より効率的に開発しよう！](https://info.microsoft.com/JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0602-SRGCM10625_LP01-Registration---Form-in-Body.html)
-- [できる Copilot for Microsoft 365 スタートガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-05-Copilot-for-Microsoft-365-Getting-Started-Guide-SRGCM11972_LP01-Registration---Form-in-Body.html)
-- [Microsoft 365 Copilot カタログ 2023年9月更新](https://info.microsoft.com/JA-T2C-CNTNT-FY24-08Aug-18-Microsoft-365-Copilot-Catalog-SRGCM10917_LP01-Registration---Form-in-Body.html)
-- [できるMicrosoft Viva【改訂版】](https://info.microsoft.com/JA-EMPEX-CNTNT-FY23-02Feb-27-Microsoft-Viva-Revised-Edition-SRGCM9341_LP01-Registration---Form-in-Body.html)
-- [ノンコーディングで業務アプリ開発！「PowerApps」と「Microsoft Flow」とは](https://info.microsoft.com/JA-DynOps-WBNR-FY18-06Jun-14-Businessappdevelopment-MCW0006792_02OnDemandRegistration-ForminBody.html)
-- [ウェビナー Power BI を使う時の基本～最初に考えること～](https://info.microsoft.com/JA-SQLDB-WBNR-FY18-06Jun-21-PowerBI-MCW0006279_02OnDemandRegistration-ForminBody.html)
-
-
-## MicrosoftSupportTeamsBlog
-
-- [日本マイクロソフト サポート情報](https://cssjpn.github.io/)
-- [突然消滅した Microsoft TechNet／MSDN ブログ（日本語）の捜索](https://atmarkit.itmedia.co.jp/ait/articles/1906/04/news004.html)
-- [docs.microsoft.com チーム ブログ](https://docs.microsoft.com/ja-jp/teamblog/)
-- [Japan Exchange & Outlook Support Blog](https://jpmessaging.github.io/blog/)
-- [Japan Microsoft Endpoint Manager Support Blog](https://jpmem.github.io/blog/)
-- [Japan Developer Support Internet Team Blog](https://jpdsi.github.io/blog/)
-- [Tech Community](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
-- [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/)
-- [Microsoft Japan Blog](https://news.microsoft.com/ja-jp/category/blog/)
-- [Japan SCCM & WSUS Support Team](https://social.msdn.microsoft.com/Forums/ja-JP/home?forum=jpsccmwsus)
-- [Microsoft Security Response Center](https://msrc-blog.microsoft.com/)
-- [Exchange Team Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)
-- [Exchange_Outlook サポートチーム](https://social.msdn.microsoft.com/Forums/sqlserver/ja-JP/home?forum=exchangeteamjp)
-- [Japan SharePoint Support Team](https://social.msdn.microsoft.com/Forums/ja-JP/home?forum=sharepointsupportteamja)
-- [Japan Azure Identity Support Blog](https://jpazureid.github.io/blog/)
-
-## MicrosoftSupportTeamsBlog(Archive)
-
-- [Japan WSUS Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpwsus/)
-- [Japan System Center Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/systemcenterjp/)
-- [Cloud and Server Product Japan Blog](https://docs.microsoft.com/ja-jp/archive/blogs/mssvrpmj/)
-- [Japan SharePoint Support Team Blog archive](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/)
-- [Japan Microsoft Intune & MDM for Office 365 Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpintune/)
-- [Japan Azure Identity Support Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpazureid/)
-- [Cloud Solution Architect チームブログ](https://docs.microsoft.com/ja-jp/archive/blogs/azure-sa-members/)
-- [フィールド SE あがりの安納です](https://docs.microsoft.com/ja-jp/archive/blogs/junichia/)
-
-## Microsoft Support Teams Post
-
-- [FAQ よくある質問事項について Azure SQL Database](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/faq-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F%E4%BA%8B%E9%A0%85%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-azure-sql-database)
-- [リスト ビューのしきい値によって発生する現象と対処策](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/31574)
-- [Microsoft SQL Server Japan Support Team Blog](https://docs.microsoft.com/ja-jp/archive/blogs/jpsql/?s=SQL+Troubleshooting)
 
 ## blog
 
