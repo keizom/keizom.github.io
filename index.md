@@ -211,6 +211,7 @@
 
 ## Web
 
+- [私が独学をして、マジ神だと思うサイトおよび他 #初心者 - Qiita](https://qiita.com/chi1180/items/d945f5507f546bffa610)
 - [紙書籍を「自炊」している人に福音？　スキャンデータを徹底的に読みやすくする最強ツール - やじうまの杜 - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2079829.html)
 - [ASCII × FIXER](https://ascii.jp/azure-fixer/)
 - [ゼロからはじめる Azure Mynavi](https://news.mynavi.jp/techplus/series/zeroazure/)
