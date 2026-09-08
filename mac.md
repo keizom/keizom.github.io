@@ -16,6 +16,9 @@
 
 ## mac
 
+- [Panic、ワークスペースを改善し新しいテキスト操作アクションを搭載したMacネイティブなウェブコードエディタ「Nova v13」をリリース。](https://applech2.com/archives/20250711-nova-v13-for-mac.html)
+- [M4 MacBook Airを買いました | 開封と初期設定](https://note.com/mudailog/n/n04a59b1ec55c)
+- [値段以上の価値あり。MacのFinderアプリに戻れなくなる最強の代替ツール3選](https://www.lifehacker.jp/article/2601-macos-finder-alternatives/)
 - [Mac 環境構築2026](https://zenn.dev/mizchi/scraps/8b1f2789a94c43)
 - [ターミナルベースのApple Silicon用システム・モニタリングツール「mactop」にApple Neural Engine使用率の表示が復活。 | AAPL Ch.](https://applech2.com/archives/20251207-mactop-for-apple-silicon-back-in-neural-engine-usage.html)
 - [Mac初心者に優しいターミナルにする)iTerm2／Oh My Zsh） #新人プログラマ応援 - Qiita](https://qiita.com/ryamate/items/075c34fcf29d0889c15a?utm_source=dlvr.it\&utm_medium=facebook\&sfnsn=mo)

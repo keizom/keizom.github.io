@@ -207,6 +207,7 @@
 
 ## Power Automate
 
+- [Office 365 ユーザーコネクタを利用したExcel出力 #Microsoft - Qiita](https://qiita.com/DEmodoriGatsuO/items/37c0b80cc86f5cbaaf91)
 - [Copilot in Power Automate でフローを作成してみた](https://www.illuminate-j.jp/blog/automate-copilot)
 - [Power Automateでエラー発生時にエラー情報を送信する - コルネの進捗や備忘録が記されたなにか](https://koruneko.hatenablog.com/entry/2024/10/30/005649)
 - [Power Automate 利用者が把握しておくべき公式ドキュメントリンク集](https://qiita.com/YurimyMiyu/items/fa748fae721551fe6e03)

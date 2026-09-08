@@ -96,6 +96,7 @@
 
 ## csharp
 
+- [Learning PnP Core SDK - Authentication Section](https://zenn.dev/ymasaoka/articles/learning-pnp-core-sdk-authentication-section)
 - [【保存版】C#基礎100本ノック ? GitHub Codespacesで学ぶC# - Qiita](https://qiita.com/Sakai_path/items/2138c9cf6b0d4b9d124e)
 - [初めての C# 非同期処理：実務で使う async/await の基本と注意点](https://qiita.com/hiroki_notes/items/9733cd3214355e0c3e4d)
 - [【C#】これからはTcpClient/UdpClientをやめてSocketを直接使おう](https://zenn.dev/nuskey/articles/csharp-dont-use-tcpclient)
@@ -154,6 +155,12 @@
 
 - [Claude Code + MCPの関係図解：2025年3月版](https://zenn.dev/delisit/articles/20b4d8fecb4aa7)
 
+## Dev Container
+
+- [Dev Containerについて基礎を学習する #devcontainer - Qiita](https://qiita.com/smr1/items/137b912de86c4947ead0)
+- [.NETでDev Containerに入門してみた【初心者向け】](https://tech-lab.sios.jp/archives/40541)
+- [「Visual Studio Code」の「Dev Containers」でコンテナ実行環境を構築してみよう](https://thinkit.co.jp/article/23003)
+
 
 ## Dev Home
 
@@ -162,6 +169,8 @@
 
 ## Docker
 
+- [今さら聞けないDocker入門 〜 Dockerfileのベストプラクティス編](https://speakerdeck.com/devops_vtj/jin-sarawen-kenaidockerru-men-dockerfilenobesutopurakuteisubian)
+- [Docker環境をガチで軽量化するための鉄板設定まとめ](https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069)
 - [Docker container 内で日本語が文字化けする時の対策](https://qiita.com/siruku6/items/8583a672ce2146ae2244)
 - [Docker コンテナ内で日本語を表示すると文字化けする時の対策 #locale - Qiita](https://qiita.com/siruku6/items/8583a672ce2146ae2244)
 ```bash
@@ -178,7 +187,6 @@ ENV LANG=ja_JP.UTF-8
 - [Docker以外のコンテナエンジン完全ガイド - Qiita](https://qiita.com/keitah/items/fb7fc280e49f4408ca63)
 - [Docker入門【サイボウズ新人研修2025】](https://speakerdeck.com/cybozuinsideout/introduction-to-docker)
 - [Dockerとは何か)Dockerの概要と主要目標） #Linux - Qiita](https://qiita.com/mooreyxia/items/4afab46d20618880f574)
-- [【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】 #Docker - Qiita](https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8)
 - [Visual StudioでDockerを簡単に体験する記事](https://qiita.com/EndOfData/items/e08e687216f6420206bd)
 - [Windows 上の Visual Studio コンテナー ツールと Docker - Visual Studio  | Microsoft Learn](https://learn.microsoft.com/ja-jp/visualstudio/containers/overview?view=vs-2022)
 - [Docker Desktop を使わないで Docker を使う方法 #WSL2 - Qiita](https://qiita.com/oya_tadashi/items/3e3b026c161658484aba)
@@ -193,7 +201,6 @@ ENV LANG=ja_JP.UTF-8
 - [docker container / image コマンド新旧比較](https://qiita.com/zembutsu/items/6e1ad18f0d548ce6c266)
 - [Web開発において複数人で同じ環境を用意しよう(Dockerの基本)](https://qiita.com/JavaLangRuntimeException/items/6f6d03bd6d1e69c9e67e)
 - [超簡単! Kubernetesデバッグチートシート](https://qiita.com/reoring/items/e82bf912cf76570ed21f)
-- [.NETでDev Containerに入門してみた【初心者向け】](https://tech-lab.sios.jp/archives/40541)
 - [これを知らないともったいない！Kubernetes関連の便利ツール20選](https://qiita.com/suin/items/3c4df13ad3478ffe7b5d)
 - [Dockerコマンドの挙動を図解にして覚えやすくしてみた](https://qiita.com/Tanachu8/items/5e85c75818e499042bfe)
 - [Kubernetes使いになるためにPodをつくってみる　『つくって、壊して、直して学ぶ Kubernetes入門』より](https://codezine.jp/article/detail/19343)
@@ -238,6 +245,7 @@ ENV LANG=ja_JP.UTF-8
 - [“脱Docker”として注目の「Podman」と無料の管理ツール「Podman Desktop」とは　Dockerとの違いは？](https://atmarkit.itmedia.co.jp/ait/articles/2412/03/news001.html)
 
 ## git
+
 
 - [【図解解説】これ1本でGitをマスターできるチュートリアル！【完全版】](https://qiita.com/Sicut_study/items/0318cc136c189b179b7f)
 - [これだけはできてほしいgitとGitHub](https://qiita.com/tomoswifty/items/be3ff39ab3361a8e9c47)
@@ -330,6 +338,8 @@ ENV LANG=ja_JP.UTF-8
 
 ## GitHub Copilot
 
+- [GitHub Copilot プロンプトリファレンス](https://t.co/7ZfvMqjT1X)
+- [GitHub Copilotのリファレンス](https://docs.github.com/ja/copilot/reference)
 - [GitHub Copilotを最強にする拡張機能4選](https://zenn.dev/sqer/articles/1535f0a7d2a9b8)
 - [GitHub と GitHub Copilot の課金を改めて理解する](https://idea.tostring.jp/?p=8157)
 - [Microsoft Build 2026で発表されたGitHub・GitHub Copilotのまとめ](https://zenn.dev/headwaters/articles/microsoft-build-2026-github)
@@ -425,6 +435,7 @@ ENV LANG=ja_JP.UTF-8
 
 ## PowerShell
 
+- [SamErde/PowerShell PowerShellのサンプル](https://github.com/SamErde/PowerShell/tree/main)
 - [ハッシュテーブルについて知りたかったことのすべて](https://learn.microsoft.com/ja-jp/powershell/scripting/learn/deep-dives/everything-about-hashtable?view=powershell-7.4)
 
     > 順序付きハッシュテーブル
@@ -757,6 +768,8 @@ ENV LANG=ja_JP.UTF-8
 ## Wireshark
 
 - [Wiresharkで観察して理解するHTTPS（HTTP over TLS）の仕組み](https://tech-blog.rakus.co.jp/entry/20240701/wireshark)
+- - [WiresharkでHTTPS通信を復号する方法｜TLS1.3対応・パケット解析](https://eeengineer.com/description-by-wireshark/)
+- [無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー](https://forest.watch.impress.co.jp/docs/news/2137283.html)
 
 ## 学習サイト
 

@@ -135,6 +135,7 @@
 
 ## ウェビナーやワークショップ
 
+- [Internet Week 2025プレゼンテーション - JPNIC](https://www.nic.ad.jp/ja/materials/iw/2025/proceedings/)
 - [有名企業のエンジニア向け研修資料まとめ](https://qiita.com/KNR109/items/f3268b311e11d5b821c0)
 - [ウェビナーやワークショップ](https://www.microsoft.com/ja-jp/biz/cloud-platform)
 - [Azure Advisor を読み解いて Azure のコストを最適化- Azure ベストプラクティス 第 6 回](https://mktoevents.com/Microsoft+Event/335135/157-GQE-382?aaid=azureinfrajp)
@@ -160,7 +161,8 @@
 ## MicrosoftSupportTeamsBlog
 
 - [日本マイクロソフト サポート情報](https://cssjpn.github.io/)
-- [突然消滅した Microsoft TechNet／MSDN ブログ（日本語）の捜索](https://atmarkit.itmedia.co.jp/ait/articles/1906/04/news004.html)\* [docs.microsoft.com チーム ブログ](https://docs.microsoft.com/ja-jp/teamblog/)
+- [突然消滅した Microsoft TechNet／MSDN ブログ（日本語）の捜索](https://atmarkit.itmedia.co.jp/ait/articles/1906/04/news004.html)
+- [docs.microsoft.com チーム ブログ](https://docs.microsoft.com/ja-jp/teamblog/)
 - [Japan Exchange & Outlook Support Blog](https://jpmessaging.github.io/blog/)
 - [Japan Microsoft Endpoint Manager Support Blog](https://jpmem.github.io/blog/)
 - [Japan Developer Support Internet Team Blog](https://jpdsi.github.io/blog/)
@@ -209,6 +211,7 @@
 
 ## Web
 
+- [紙書籍を「自炊」している人に福音？　スキャンデータを徹底的に読みやすくする最強ツール - やじうまの杜 - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2079829.html)
 - [ASCII × FIXER](https://ascii.jp/azure-fixer/)
 - [ゼロからはじめる Azure Mynavi](https://news.mynavi.jp/techplus/series/zeroazure/)
 - [ASP.NET 入門](https://aspnet.keicode.com/)
@@ -231,7 +234,9 @@
 
 # 資料
 
+― [サイバーセキュリティ報告書](https://www.global.toshiba/jp/cybersecurity/corporate/report.html)
 - [IPAが公開している資料が有益すぎる](https://qiita.com/KNR109/items/1fa6d697a936c54329c6)
+- [新たな時代のネットトラブルに備え、「情報リテラシー啓発のための羅針盤」第3.0版を公開 | LAC WATCH](https://www.lac.co.jp/lacwatch/media/20260126_004595.html)
 - [【2024年度】エンジニア向け研修資料まとめ](https://qiita.com/nucomiya/items/29965f1915436f2cfc79)
 - [Microsoft 365 Virtual Marathon 2022 Japanese Track](https://connpass.com/event/243871/presentation/)
 - [【まとめ】大学が公開している有益な資料](https://qiita.com/KNR109/items/02e08d17dba01d9c2fd6)
@@ -261,6 +266,12 @@
 
 - [7sPro MAX、それは分割HHKBの新たな選択肢](https://jun3010.me/7spromax-prototype-23076.html)
 - [HHKB Studioの特殊なキー形状に対応する互換キーキャップ「HHKB Studio Kit」](https://ascii.jp/elem/000/004/225/4225945/)
+
+## ハードウェア
+
+- [【保存版】STREAM DECK MK.2を購入後、最初にやるべき8つの設定](https://note.com/aoukiwa/n/nde257eefa72b)
+- [2台のPC間でデュアルディスプレイを共有できるKVM切替器、サンワサプライが発売](https://internet.watch.impress.co.jp/docs/news/2102753.html)
+
 
 # Darkweb
 

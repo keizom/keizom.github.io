@@ -46,6 +46,8 @@
 
 ## 資料
 
+- [microsoft/AIAgentsforITOps](https://github.com/microsoft/AIAgentsforITOps)
+- [AI系の情報収集手法を紹介（ビジネス・開発・研究）【2025年版】](https://zenn.dev/mkj/articles/1357a7ea2970c4)
 - [AI SKILLS NAVIGATOR](https://aiskillsnavigator.microsoft.com/ja-jp)
 - [初心者向けの生成 AI](https://learn.microsoft.com/ja-jp/shows/generative-ai-for-beginners/)
 - [【入門】生成AI関連を学べる資料まとめ](https://qiita.com/KNR109/items/57b680e1eaab4d744d68)
@@ -83,6 +85,7 @@
 
 ## Chat GPT
 
+- [ChatGPT禁止、Copilot許可の会社で最初の１週間にやること](https://x.com/tamehey/status/2095093912503554551?s=12)
 - [生成AIマスターになるための便利サービス50選 #ChatGPT - Qiita](https://qiita.com/keiichileograph/items/3f40dac476718828e826)
 - [ChatGPTおよびAPI統合のためのMCPサーバ構築](https://note.com/npaka/n/n04ea574b6934)
 - [ローカルPCで動くAI「gpt-oss-20b」とは？ #ChatGPT - Qiita](https://qiita.com/shota0616/items/06ba1bc00df1fc04944e)
@@ -335,6 +338,7 @@
 
 ## Gemini
 
+- [Gemini CLI + VS Code: Native diffing and context-aware workflows](https://developers.googleblog.com/en/gemini-cli-vs-code-native-diffing-context-aware-workflows/)
 - [大学生とともに作った「Gemini 活用事例集」を公開](https://blog.google/intl/ja-jp/feed/gemini/)
 - [「Gemini in Chrome」の導入から活用まで知っておくべきこと - ZDNET Japan](https://japan.zdnet.com/article/35235612/)
 - [【無料公開】Googleの新AIエージェント「Gemini CLI」登場！](https://chatgpt-lab.com/n/n4ccc9d035cab)
@@ -755,10 +759,13 @@
 
 - [Exploring the Advanced RAG (Retrieval Augmented Generation) Service](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/exploring-the-advanced-rag-retrieval-augmented-generation/ba-p/4197836)
 
+## コンテキストエンジニアリング
 
+- [コンテキストエンジニアリングがなぜ重要なのか](https://zenn.dev/knowledgesense/articles/47afd29ecfc3bb)
 
 ## プロンプトエンジニアリング
 
+- [プロンプトサンプル（直リンク）](https://t.co/UlCfFAtK5A)
 - [ChatGPTなどの使い方がわかる！プロンプト文例集](https://prompt.quel.jp/)
 - [プロンプトエンジニアリングの基本と応用](https://blog.brainpad.co.jp/entry/2023/12/19/153000)
 - [生成 AI アプリケーションの開発を始めるために必要な全知識を学べる 12 講座](https://microsoft.github.io/generative-ai-for-beginners/#/translations/ja-jp/)

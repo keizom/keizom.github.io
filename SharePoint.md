@@ -16,6 +16,8 @@
 
 # SharePoint
 
+- [ここまでできるSharePoint。申請管理の設計術](https://x.com/yugen_matuni/status/2094718684195405957?s=12)
+- [Upcoming changes to classic publishing sites, classic pages, and custom scripting in SharePoint Online](https://learn.microsoft.com/en-us/sharepoint/classic-user-created-page-deprecation)
 - [SharePoint 2016 How to Change SuitBar’s Text PowerShell - Microsoft Learn](https://learn.microsoft.com/en-us/archive/technet-wiki/34202.sharepoint-2016-how-to-change-suitbars-text-powershell)
 - [SharePoint ナレッジエージェントからAI in SharePointへ](https://shanqiai.lekumo.biz/sharepoint_technical_note/2026/05/sharepoint-ai-i-776b.html)
 - [SharePoint ：新しい SharePoint 体験)ガラっと変わってビックリ？） ? Art-Break .log : Taichi Nakamura](https://art-break.net/tech/?p=25607)
@@ -69,6 +71,8 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 
 ## AI for ShaerPoint
 
+- [What's New in Copilot in SharePoint: September 2026](https://techcommunity.microsoft.com/blog/spblog/whats-new-in-copilot-in-sharepoint-september-2026/4535422)
+- [AI in SharePoint の有効化手順 (M365 Copilot ライセンス向け)](https://www.illuminate-j.jp/blog/ai-in-sharepoint-setup)
 - [最短で知る SharePoint エージェント：権限・参照範囲・使い分けガイド #生成AI - Qiita](https://qiita.com/TND_AYN/items/6675a81c2334b11f7f45)
 
 ## Graph
@@ -250,6 +254,7 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 
 ## SharePoint Online
 
+- [Fiddler を使って HTTPS トラフィックを確認する](https://idea.tostring.jp/?p=1077)
 - [SharePoint Online 利用しない標準 Web パーツを無効化する](https://www.illuminate-j.jp/blog/spo_hiddenwebpart)
 - [Practical Purview: Why a Flat SharePoint Architecture Matters to Microsoft Purview](https://practical365.com/practical-purview-why-a-flat-sharepoint-architecture-matters-to-microsoft-purview/)
 - [SharePoint ブランドセンター (プレビュー)](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2024/05/sharepoint-79bf.html?s=09)

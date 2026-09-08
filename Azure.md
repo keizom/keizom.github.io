@@ -16,6 +16,7 @@
 
 # Azure
 
+- [Azure と Copilot を、アニメーションで学ぼう](https://azureanimations.github.io/?lang=ja)
 - [Microsoft Azure 自習書一式](https://www.microsoft.com/ja-jp/download/details.aspx?id=43120)
 - [Introducing Azure Container Apps Express!](https://techcommunity.microsoft.com/blog/appsonazureblog/introducing-azure-container-apps-express/4519150)
 - [Azure を勉強したいけど何したらいいかわからない人へ](https://qiita.com/aktsmm/items/d0da6b7b245b6a88ef95)
@@ -50,6 +51,8 @@
 
 ## Entra ID
 
+-[Identity & Access with Microsoft Entra — ID](https://www.youtube.com/playlist?app=desktop&list=PLZDsUsqHaHWw)
+- [workshop-entra-as-code-interactive](https://github.com/mjendza/workshop-entra-as-code-interactive)
 - [Microsoft Graph API を利用して Azure AD のサインイン アクティビティ レポートをファイルに出力する PowerShell スクリプト](https://jpazureid.github.io/blog/azure-active-directory/microsoft-graph-api-signin-activity-reports/)
 - [Entra IDとGraph APIを使ってOAuth 2.0の認可コードフローを試してみる](https://zenn.dev/habuuuuu/articles/b100d7146a1c27)
 - [Entra ID 初学者向けシリーズ第 1 弾 - 条件付きアクセス 入門](https://jpazureid.github.io/blog/azure-active-directory/starter-series-conditional-access/)

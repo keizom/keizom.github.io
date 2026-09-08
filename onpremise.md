@@ -154,6 +154,10 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
 
 - [SPFarmInfo.ps1](https://github.com/acasilla/SPFarmInfo)
 
+## IIS
+
+- [IIS の調査に必要な通信系のログ情報について | Japan Developer Support Internet Team Blog](https://microsoft.github.io/jpwebapps/web-apps/LogCollection2/)
+
 ## Kerberos
 
 - [Enabling Kerberos on SharePoint](https://thesharepointfarm.com/2017/10/enabling-kerberos-sharepoint/)
@@ -293,14 +297,12 @@ Add-SPDistributedCacheServiceInstance
 - [Windows版Zedを試してみたらVSCodeより使うことになりそう - Zenn](https://zenn.dev/amenaruya/articles/66b7ee7540703c)
 - [君たちはどうWindowsイベントログを調査するか](https://sumeshi.github.io/posts/knowledges/windows-eventlog-analysis-101)
 - [Windows セキュリティ アプリのセキュア ブート証明書の更新状態](https://support.microsoft.com/ja-jp/topic/windows-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2-%E3%83%96%E3%83%BC%E3%83%88%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%85%8B-5ce39986-7dd2-4852-8c21-ef30dd04f046)
-- [Windows デバイスを Entra の パスキーにする方法](https://qiita.com/carol0226/items/394d6a795be116853771)
 - [第6回：Kerberos 認証の仕組み ── AD 環境における「チケット」の流れを解剖する](https://qiita.com/555hamano/items/d18c05532afbd4929123)
 - [Windows Server Summit 2024で発表されたWindows Server 2025注目の新機能](https://kkamegawa.hatenablog.jp/entry/2024/04/04/081951)
 - [いまさら聞けないHyper-V仮想マシンの「構成バージョン」](https://atmarkit.itmedia.co.jp/ait/articles/2505/20/news013.html)
 - [いまさら聞けない「Hyper-Vホスト」の構成と管理機能](https://atmarkit.itmedia.co.jp/ait/articles/2501/10/news005.html)
 - [【Qiita最速】Windows Server 2025を試してみる](https://qiita.com/hidekko/items/a701c55824634d2aac54)
 - [Windowsをクリーンインストールしたら、すぐに済ませておきたい7つのこと：山市良のうぃんどうず日記（272） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2312/20/news008.html)
-- [パスワードより安全？ Windows 11に追加されたパスキー・マネージャーとは](https://www.lifehacker.jp/article/2310microsoft-is-adding-a-passkey-manager-to-windows-11/)
 - [IISでhttpsのサイトを作成する - SSLサイトの構成 (IIS - Internet Information Service Tips)](https://www.ipentec.com/document/windows-windows-server-iis-setup-https-site)
 - [「Windows Server コンテナ」「Hyper-V コンテナ」「Linux コンテナ」「Docker」の違いとは？](https://atmarkit.itmedia.co.jp/ait/articles/1611/04/news028.html)
 - [Windows Server 2016 に Windows コンテナ機能をインストールする](https://atmarkit.itmedia.co.jp/ait/articles/1610/26/news042.html)

@@ -33,6 +33,7 @@
 - [Microsoft 365 の生産性図](https://learn.microsoft.com/ja-jp/microsoft-365/solutions/productivity-illustrations?view=o365-worldwide)
 - [Microsoft 365 for enterprise のドキュメントとリソース](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/?view=o365-worldwide)
 - [Microsoft 365のログ、本当にすべて収集できていますか](https://x.com/sans_japan/status/2094349474545950737?s=12)
+- [M365Pwned](https://github.com/OtterHacker/M365Pwned)
 
 ## Skill Recorder
 
@@ -109,6 +110,10 @@
 
 ## Microsoft Copilot
 
+- [2026年9月最新版｜Copilotはここまで進化した。仕事が動く新機能12分野を徹底解説](https://x.com/taku_ai_case/status/2095274101464244445?s=12)
+- [Copilot Studio完全版｜会社のタスクをAI社員に全任せする方法](https://x.com/MakeAI_CEO/status/2092449791192310064?s=12)
+- [爆速検証！Copilot Coworkが出たので検証してみた。](https://x.com/kasada0901/status/2038186317075665311?s=12)
+- [Copilot in Excel 実務プロンプト20選｜2026年7月最新版・そのまま使える業務シーン別」](https://x.com/Sokichi_Hoshino/status/2074704821098291621?s=12)
 - [誰でもすぐにできる！Microsoft Copilot エージェントの作り方](https://info.microsoft.com/JA-CAW-VDEO-FY26-10Oct-17-Anyone-Can-Do-It-Right-Away-How-to-Create-a-Microsoft-Copilot-Agent-SharePoint-Agent-Copilot-Studio-Lite-SRGCM15524_LP01-RegistrationForm-in-Body2.html)
 - [Copilotとは? 初心者でもわかる種類・料金・使い方](https://note.com/ai__worker/n/nd945556c7139)
 - [Copilot Notebooks とは？](https://qiita.com/aktsmm/items/4577857b6c440c3f8b23)
@@ -259,6 +264,10 @@
 
 ## Exchange Online
 
+- [Microsoft Smart Network Data Services（SNDS）とは？利用開始までの流れも解説！ | SendGrid](https://sendgrid.kke.co.jp/blog/?p=20232)
+- [SPFとDKIMとDMARCの役割の違いを整理する](https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles)
+- [【Microsoft365参考書】Exchange Online Protection (EOP) の仕組みを理解する:接続フィルターからスパムフィルターまで完全ガイド](https://it-bibouroku.hateblo.jp/entry/eop)
+- [パブリック フォルダーから SharePoint へ ― 共有連絡先管理の新しいかたち](https://jpmessaging.github.io/blog/from-public-folders-to-sharepoint-a-modern-approach-to-shared-contact-management/)
 - [Exchange Online でやってはいけない 10 のこと | Outlook 研究所](https://outlooklab.wordpress.com/2017/01/21/Exchange-Online-%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84-10-%E3%81%AE%E3%81%93%E3%81%A8/)
 - [Exchange Online canceling the Mailbox External Recipient Rate Limit](https://techcommunity.microsoft.com/blog/exchange/exchange-online-canceling-the-mailbox-external-recipient-rate-limit/4483498)
 - [Exchange Online テナントの外部送信メール制限の導入](https://jpmessaging.github.io/blog/introducing-exchange-online-tenant-outbound-email-limits/)
@@ -318,6 +327,11 @@
 
 ## Microsoft 365 Copilot
 
+- [【Copilot】Microsoft Copilot Cowork の課金設定](https://flali.hatenablog.com/entry/MicrosoftCopilotCowork)
+- [Microsoft 365 Copilot のリリース ノート](https://learn.microsoft.com/ja-jp/microsoft-365/copilot/release-notes?tabs=all)
+- [Microsoft 365 Copilot トレーニング](https://www.microsoft.com/ja-jp/events/category/microsoft-365-copilot-training)
+- [Microsoft 365 Copilot トレーニング: Microsoft 365 Copilot とエージェントの利用を開始する](https://msevents.microsoft.com/event?id=1403362038)
+- [エクセルのCopilotは何ができるのか、2026年9月時点の全部をまとめました](https://x.com/haruki_copilot/status/2094543807144739086)
 - [「Microsoft Copilot」活用法](https://www.youtube.com/watch?v=DTCwUOd08-I)
 - [Microsoft Copilotはここから使え　初心者のための活用講座](https://kn.itmedia.co.jp/kn/articles/2407/17/news023.html)
 - [Copilot Proの実力を探る](https://xtech.nikkei.com/atcl/nxt/column/18/02856/)
@@ -471,6 +485,7 @@
 
 ## Security
 
+- [Microsoft 365 セキュリティ強化チェックシート【入門編】](https://www.lanscope.jp/security-auditor/form-documents/m365_checksheet_02_ad/)
 - [Microsoft 365 環境におけるOAuthアプリのリスクと対策](https://zenn.dev/hirotomotaguchi/articles/202504_m365-oauth-security)
 
 ## Teams
@@ -521,6 +536,14 @@
 
 - [Microsoft Mesh](https://www.microsoft.com/en-us/microsoft-teams/microsoft-mesh)
 - [Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/)
+
+## パスキー
+
+- [2026年9月1日から何が変わる？Microsoft Entra のパスキー既定化と SMS・音声認証廃止を解説](https://www.zunda.co.jp/blog/entra-passkey-sms-voice-retirement)
+- [パスキー入門 ～ 仕組みから種類まで解説 ～](https://blog.usize-tech.com/passkey-basics/)
+- [Windows デバイスを Entra の パスキーにする方法](https://qiita.com/carol0226/items/394d6a795be116853771)
+- [パスワードより安全？ Windows 11に追加されたパスキー・マネージャーとは](https://www.lifehacker.jp/article/2310microsoft-is-adding-a-passkey-manager-to-windows-11/)
+- [パスキーに入門してみた話](https://qiita.com/Kodak_tmo/items/9fb6f1d65621cb5e1f90)
 
 ## ライセンス
 
