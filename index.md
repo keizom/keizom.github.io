@@ -234,9 +234,9 @@
 
 # 資料
 
-― [サイバーセキュリティ報告書](https://www.global.toshiba/jp/cybersecurity/corporate/report.html)
+- [サイバーセキュリティ報告書](https://www.global.toshiba/jp/cybersecurity/corporate/report.html)
 - [IPAが公開している資料が有益すぎる](https://qiita.com/KNR109/items/1fa6d697a936c54329c6)
-- [新たな時代のネットトラブルに備え、「情報リテラシー啓発のための羅針盤」第3.0版を公開 | LAC WATCH](https://www.lac.co.jp/lacwatch/media/20260126_004595.html)
+- [新たな時代のネットトラブルに備え、「情報リテラシー啓発のための羅針盤」第3.0版を公開 LAC WATCH](https://www.lac.co.jp/lacwatch/media/20260126_004595.html)
 - [【2024年度】エンジニア向け研修資料まとめ](https://qiita.com/nucomiya/items/29965f1915436f2cfc79)
 - [Microsoft 365 Virtual Marathon 2022 Japanese Track](https://connpass.com/event/243871/presentation/)
 - [【まとめ】大学が公開している有益な資料](https://qiita.com/KNR109/items/02e08d17dba01d9c2fd6)
@@ -252,8 +252,8 @@
 - [「旧街道サイクリングの旅」サイクルスポーツ.jp にて好評連載中！［最終回 更新！］](https://www.strada.jp/events/kyukaidou_201908/)
 - [オープンソースライセンス、どれなら使っても良いの？？](https://qiita.com/fate_shelled/items/a928709d7610cee5aa66)
 
-
 # Meta Quest 3
+
 - [「Meta Quest 3」は何ができるのか？ 機能、使い方、おすすめコンテンツを紹介](https://www.moguravr.com/meta-quest-3-summary/)
 - [「なんのためのMRか」Meta Quest 3を実際に家庭で試して気づいた大きな恩恵](https://www.moguravr.com/meta-quest-3-mr-review-2/)
 - [「Virtual Desktop」に、マルチモニター機能（β版）実装 Meta Quest 3で最大3枚まで表示可能に](https://www.moguravr.com/virtual-desktop-beta-1-32-0/)
