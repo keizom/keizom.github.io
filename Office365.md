@@ -14,7 +14,7 @@
 - [web](https://keizom.github.io/web.html)
 
 
-# Microsoft 365
+# Microsoft 365 アイコン
 
 - [Microsoft 製品のロゴ・アイコン・画像 配布URL一覧 （Azure、Power Platform、M365など）](https://qiita.com/akihiro_suto/items/6987b9b3d0f82dca8ef9)
 - [最新の Azure アイコンの見つけかた](https://qiita.com/yaegashi/items/64cbbb13e950385b8dcb)
@@ -26,6 +26,8 @@
 - [Microsoft Power Platform アイコン](https://learn.microsoft.com/ja-jp/power-platform/guidance/icons)
 - [Microsoft/PowerBI-Icons](https://github.com/microsoft/PowerBI-Icons)
 
+# 不明
+
 - [ライセンス](https://m365maps.com/matrix.htm)
 - [Test Base for Microsoft 365とは何か、使ってみてわかった｢完全自動化｣の利点と課題](https://www.sbbit.jp/article/cont1/127133)
 - [自分のMicrosoft 365 環境を作ってみる](https://office365labo.com/2023/06/05/%e8%87%aa%e5%88%86%e3%81%a0%e3%81%91%e3%81%aemicrosoft-365-%e7%92%b0%e5%a2%83%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/)
@@ -33,7 +35,6 @@
 - [Microsoft 365 の生産性図](https://learn.microsoft.com/ja-jp/microsoft-365/solutions/productivity-illustrations?view=o365-worldwide)
 - [Microsoft 365 for enterprise のドキュメントとリソース](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/?view=o365-worldwide)
 - [Microsoft 365のログ、本当にすべて収集できていますか](https://x.com/sans_japan/status/2094349474545950737?s=12)
-- [M365Pwned](https://github.com/OtterHacker/M365Pwned)
 
 ## Skill Recorder
 
@@ -133,7 +134,6 @@
 - [ただの会社員が30日で「Copilot」を完璧に使いこなせる全ロードマップ【保存版】](https://x.com/harisuke_ai/status/2092360004632555535)
 - [The Azure Copilot Observability Agent Chat](https://techcommunity.microsoft.com/blog/azureobservabilityblog/the-azure-copilot-observability-agent-chatstop-writing-queries-start-asking-q/4522206)
 - [KQLを書かずにプロンプトでクエリを実行する ～ Security Copilot編](https://azuread.net/archives/15892)
-- [Extending Copilot coding agent with the Model Context Protocol )MCP) - GitHub Docs](https://docs.github.com/en/copilot/how-tos/agents/copilot-coding-agent/extending-copilot-coding-agent-with-mcp)
 - [Microsoft 365 ライセンスのみの範囲で利用できる Copilot が増えている](https://art-break.net/tech/?p=23879)
 - [Security CopilotでのMicrosoft Intuneの管理](https://azuread.net/archives/15448)
 - [Copilot for Securityでの調査：Intune編](https://azuread.net/archives/13929)
@@ -368,7 +368,6 @@
 
 ## Microsoft Graph Tools
 
-- [GitHub - Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
 - [Microsoft Graph Toolkit の概要](https://learn.microsoft.com/ja-jp/graph/toolkit/overview?tabs=html)
 
 ## Microsoft Graph
@@ -396,11 +395,9 @@
 - [Microsoft Graph を使ってみよう : サイト、リスト、リストアイテムリソース (SharePoint)](https://qiita.com/kenakamu/items/61ff83a2b381bc3e9cdb)
 - [Graph API で Azure AD B2C のコンシューマーユーザーを作成する (C#)](https://blog.beachside.dev/entry/2022/09/02/224500)
 - [Announcing “A Lap Around Microsoft Graph Toolkit” Blog Series - Microsoft 365 Developer Blog](https://developer.microsoft.com/en-us/graph/blogs/announcing-a-lap-around-microsoft-graph-toolkit-blog-series/)
-- [GitHub - Global Microsoft 365 Developer Bootcamp 2019 Tokyo：Microsoft Graph API](https://gist.github.com/rnakamuramartiny/13ae56ec3d97a468354c044bfdeea6df)
 - [Microsoft Graph - OneDrive API (C#) を使ったサンプル コード](https://docs.microsoft.com/ja-jp/archive/blogs/office_client_development_support_blog/microsoft-graph-onedrive-api-c-sample-code)
 - [Microsoft Graph (Unified API) のメリットとその使い方](https://tsmatz.wordpress.com/2015/06/22/office-365-unified-api/)
 - [Microsoft Graph API を利用して Azure AD のサインイン アクティビティ レポートをファイルに出力する PowerShell スクリプト  Japan Azure Identity Support Blog](https://jpazureid.github.io/blog/azure-active-directory/microsoft-graph-api-signin-activity-reports/)
-- [GitHub - rnakamuramartiny/GM365DevBootcamp_MGraphAPI.md](https://gist.github.com/rnakamuramartiny/13ae56ec3d97a468354c044bfdeea6df)
 - [MS Build SK110 What's new with Microsoft Graph](https://www.youtube.com/watch?v=6CIZWac0TBE)
 - [MsGraphSpFxThangu](https://www.youtube.com/watch?v=AKftsTLQBGo)
 - [MVP Article ? Working with Application Permissions (App-Only Auth) in SharePoint Online and the Microsoft Graph](https://developer.microsoft.com/en-us/sharepoint/blogs/mvp-article-working-with-application-permissions-app-only-auth-in-sharepoint-online-and-the-microsoft-graph/)
@@ -454,7 +451,6 @@
 - [Office 365 メッセージ追跡 REST API プロトコルの構成オプション](https://www.ibm.com/docs/ja/qradar-on-cloud?topic=pco-office-365-message-trace-rest-api-protocol-configuration-options)
 - [Office 365 管理 API へようこそ](https://learn.microsoft.com/ja-jp/office/office-365-management-api/)
 - [Office 365 Management Activity API の試し方](https://blog.rykoma.net/2019/07/19/1383/)
-- [Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
 - [Microsoft Graph reports API の試し方](https://blog.rykoma.net/2021/01/13/1610/)
 - [Office 365 Management API の使い方 (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/16866f40c29618f05f39)
 - [Office 365 の監査ログを Microsoft Sentinel に格納する - Office 365 Management API と Data Collector API (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/8fde7595042f0f281de8)

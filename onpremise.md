@@ -84,7 +84,6 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
 ## install
 
 - [Azure での高可用性 SharePoint Server 2016 ファームの実行](https://learn.microsoft.com/ja-jp/azure/architecture/reference-architectures/sharepoint/)
-- [SPFarmInfo.ps1](https://github.com/acasilla/SPFarmInfo/)
 - [SharePoint 更新プログラム](https://docs.microsoft.com/ja-jp/officeupdates/sharepoint-updates)
 - [SharePoint Server 2013 の言語パック - [日本語]](https://www.microsoft.com/ja-jp/download/details.aspx?id=37140)
 - [SharePoint Server 2016 MinRole 構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-minrole)
@@ -149,10 +148,6 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
 ## 通知メール設定
 
 - [通知メールのカスタマイズ (4.実際にメール内容をカスタマイズしてみる)](https://shanqiai.weblogs.jp/sharepoint_technical_note/2008/03/4-dae9.html)
-
-## Farm 設定
-
-- [SPFarmInfo.ps1](https://github.com/acasilla/SPFarmInfo)
 
 ## IIS
 
@@ -365,7 +360,6 @@ Add-SPDistributedCacheServiceInstance
 
 - [vSphere Hypervisor (無償版 ESXi) の提供再開と入手方法、通常版との比較](https://kwmtlog.blogspot.com/2025/04/free-vsphere-hypervisor.html)
 - [無償版 ESXi こと vSphere Hypervisor が 8 になって帰ってきた！](https://vhoge.hateblo.jp/entry/2025/04/14/010700)
-- [おうちクラウド 第 3 回 "仮想化基盤を作ってみよう" サンプルコード・参考情報集](https://github.com/tuna-jp/ouchi-cloud/blob/main/vol3/README.md)
 - [ESXi on Intel NUC 13 Pro (Arena Canyon)](https://williamlam.com/2023/03/esxi-on-intel-nuc-13-pro-arena-canyon.html)
 - [ESXiをIntel NUC上に構築する](https://qiita.com/h_tyokinuhata/items/d9544bdd5f7223e60ac1)
 - [おうちクラウド2022](https://qiita.com/hirosat/items/e121ffd7d385e30ecc2d)
@@ -400,11 +394,15 @@ Add-SPDistributedCacheServiceInstance
 
 # qiita
 
-- [qiita-cli](https://github.com/increments/qiita-cli)
 - [Qiitaの記事をGitHubリポジトリで管理する方法](https://qiita.com/Qiita/items/32c79014509987541130)
 - [Qiitaで埋め込み可能なコンテンツ一覧](https://qiita.com/Qiita/items/612e2e149b9f9451c144)
-- [Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。 (github.com)](https://github.com/increments/qiita-cli)
 - [ローカル環境でQiitaが書けちゃう「Qiita CLI」が登場！ GitHub Actionsも早速試してみた ](https://qiita.com/minorun365/items/d1c43f9a7ae63b3321f2)
+
+## GitHub
+
+- [qiita-cli](https://github.com/increments/qiita-cli)
+- [Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。 (github.com)](https://github.com/increments/qiita-cli)
+
 
 # ネットワークシミュレーター
 

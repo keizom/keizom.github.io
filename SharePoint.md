@@ -126,7 +126,6 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [ディスカッション掲示板のデータ移行 サンプル スクリプトについて](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/1250-2)
 - [SharePoint Online: Start Workflow on All Items in a List using PowerShell - SharePoint Diary](https://www.sharepointdiary.com/2018/05/sharepoint-online-start-workflow-using-powershell.html)
 - [Bulk Upload Files to SharePoint](https://docs.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/bulk-upload-documents-sample-app-for-sharepoint)
-- [PnP/Samples/Core.LargeFileUpload/](https://github.com/pnp/PnP/tree/master/Samples/Core.LargeFileUpload)
 - [How to use PowerShell in SharePoint Online/2016/2013 - SPGuides](https://www.spguides.com/powershell-sharepoint/)
 
 
@@ -139,7 +138,6 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [マネージド ID を 使って Azure VM から CLI で Azure を操作する。](https://qiita.com/aktsmm/items/1a1d8b79f18f0c7a5331)
 - [Azure Automation と SharePoint PnP を利用したナビゲーションメニューの追加方法について](https://qiita.com/daichan3/items/ad8c4444fa86b2baaea9)
 - [Office 365 の PowerShell 運用を PaaS 化してみる](https://sprestaurant.hatenablog.com/entry/2019/07/07/011839)
-- [Add-PnPListItem - failing in RunBook on Azure Automation #1541](https://github.com/pnp/PnP-PowerShell/issues/1541)
 - [Runbook の問題のトラブルシューティング](https://learn.microsoft.com/ja-jp/azure/automation/troubleshoot/runbooks)
 
 ### PnP SharePoint
@@ -299,7 +297,6 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [SharePoint webhook の概要 Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/apis/webhooks/overview-sharepoint-webhooks)
 - [ビューの書式設定を使用して SharePoint をカスタマイズする](https://docs.microsoft.com/ja-jp/sharepoint/dev/declarative-customization/view-formatting)
 - [SharePoint アドインのコンテキスト トークン OAUTH フロー](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/context-token-oauth-flow-for-sharepoint-add-ins)
-- [GitHub - pnp/sp-starter-kit: Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.](https://github.com/pnp/sp-starter-kit)
 - [SharePoint Online モダン ページのページ ヘッダーを非表示にする idea.toString();](https://idea.tostring.jp/?p=2512)
 - [Microsoft Flow を使って SharePoint Online に保存されたドキュメントの承認ワークフローを作ってみる](https://idea.tostring.jp/?p=3540)
 - [Power Automate のフローで SharePoint リストアイテムの権限を操作してみる](https://idea.tostring.jp/?p=5427)
@@ -372,31 +369,23 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [SharePoint Tabbed Web Parts HillbillyTabs2.0 ? MarkRackley.net](https://www.markrackley.net/2014/11/25/sharepoint-tabbed-web-partshillbillytabs2-0/)
 - [SharePoint への JavaScript の埋め込み](https://docs.microsoft.com/ja-jp/sharepoint/dev/solution-guidance/embedding-javascript-into-sharepoint)
 - [SharePoint の JavaScript ライブラリ コードを使用して基本的な操作を完了する](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/complete-basic-operations-using-javascript-library-code-in-sharepoint)
-- [GitHub - pnp/sp-starter-kit: Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.](https://github.com/pnp/sp-starter-kit)
-- [GitHub - pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)
-- [GitHub - sp-dev-fx-webparts/samples/react-script-editor at master ? pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-script-editor)
-
 
 ## SharePoint Modernization Scanner
 
 - [SharePoint モダン化スキャナーを使い始める](https://learn.microsoft.com/ja-jp/sharepoint/dev/transform/modernize-scanner)
 - [SharePoint Modernization Scanner を使用して、移行対象のワークフローを抽出する](https://jpspsupport.github.io/blog/sharepoint-online/use-sp-modernization-scanner/)
 - [SPO のモダン対応を促進する「SharePoint Modernization Scanner」](https://sharepoint.orivers.jp/article/10008)
-- [The sp-dev-modernization repository](https://github.com/pnp/modernization?)
 
 ## SharePoint Tools
 
 - [SharePoint Designer 2013](https://www.microsoft.com/ja-jp/download/details.aspx?id=35491)
 - [Microsoft SharePoint Designer 2013 (KB2817441) 64 ビット版 Service Pack 1](https://www.microsoft.com/ja-jp/download/details.aspx?id=42009)
 - [Microsoft SharePoint Designer 2010 (64 ビット版)](https://www.microsoft.com/ja-jp/download/details.aspx?id=24309)
-- [SharePoint Client Browser (SPCB)](https://github.com/bramdejager/spcb)
 - [CAML Query Builder for SharePoint 2013/2016/Online](https://www.enjoysharepoint.com/caml-query-builder-in-sharepoint-2013-online/)
 - [Download, Install and Use CAML Query Helper in SharePoint Online/2013/2010/2007](https://www.enjoysharepoint.com/sharepoint-caml-query-helper/)
-- [bandrben/SPCAMLQueryHelperOnline](https://github.com/bandrben/SPCAMLQueryHelperOnline)
 - [ULS Viewer](https://www.microsoft.com/en-in/download/details.aspx?id=44020)
-- [hasankhan/SharePointLogViewer](https://github.com/hasankhan/SharePointLogViewer)
 - [CAML Query Builder](https://www.u2u.be/software)
-- [PnP-Tools/Solutions/SharePoint.Search.QueryTool/](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.Search.QueryTool)
+
 - [CAML Designer](https://www.biwug.be/resources)
 - [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd)
 

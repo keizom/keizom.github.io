@@ -27,13 +27,13 @@
 
 ## 自習書
 
+- [Azure 技術資料インデックス Azure/jp-techdocs](https://github.com/Azure/jp-techdocs/)
 - [Microsoft Azure 自習書一式](https://www.microsoft.com/ja-jp/download/details.aspx?id=43120)
 - [Microsoft デジタル防衛レポート 2024](https://www.microsoft.com/ja-jp/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024)
 - [Microsoft Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
 - [Microsoft Azure 自習書一式](https://www.microsoft.com/ja-jp/download/details.aspx?id=43120)
 - [Microsoft Azure 自習書シリーズ 日本データセンター稼働記念：概要編](https://download.microsoft.com/download/C/C/E/CCEBFE71-DF0E-4436-B19A-5B6A4B029D9C/Azure_SelfLearning00_Overview.pdf)
 - [Azure のイベントとウェビナー](https://azure.microsoft.com/ja-jp/resources/events/)
-- [Azure 技術資料インデックス Azure/jp-techdocs](https://github.com/Azure/jp-techdocs/)
 - [Microsoft Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
 - [コード サンプルを参照 Microsoft Docs](https://docs.microsoft.com/ja-jp/samples/browse/?products=azure)
 - [Microsoft Japan Code Labs](https://microsoft.github.io/code-labs-jp/)
@@ -253,7 +253,6 @@
 ### Azure Developer CLI (azd)
 
 - [Azure Developer CLI (azd) – October 2024](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2024/)
-- [Azure/azure-dev](https://github.com/Azure/azure-dev)
 
 ### Azure DevOps
 

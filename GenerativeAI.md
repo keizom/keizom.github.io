@@ -23,15 +23,12 @@
 - [【Ignite 2025 速報】Foundry IQ 発表：エージェント向け“統合ナレッジレイヤー”がついに登場！ #AI - Qiita](https://qiita.com/nohanaga/items/1534230957534601269d)
 - [Googleに課金するときどれ選べばいいんだよ問題・AI対応 2026年版)Google One / Google AI / Google Workspace の比較）](https://nomolk.hatenablog.com/entry/2026/04/07/211801)
 - [「新人がAIに聞いたまま資料を出して来る」ことに嘆いている40代社員に対して、「ワークスロップ」という概念を紹介する人が登場する](https://togetter.com/li/2690339)
-- [Agent Shadow AI を管理する](https://learn.microsoft.com/ja-jp/microsoft-365/admin/manage/agent-shadow-ai?view=o365-worldwide&WT.mc_id=DX-MVP-5005281)
 - [AIコーディングとは？2026年版・非エンジニア向けの始め方とツール選び](https://www.playpark.co.jp/blog/ai-coding-introduction)
-- [【GitHub Copilotを“使いこなす”ためのプロンプト設計ガイド】GitHub Copilot プロンプトリファレンス [2026年7月公開版]](https://info.microsoft.com/JA-InnAI-WHTPP-FY26-01Jan-29-Prompt-Design-Guide-to-Master-GitHub-Copilot-GitHub-Copilot-Prompt-Reference-January-2026-Edition-SRGCM15881_LP01-Registration---Form-in-Body.html?sccid=tw_scl_spl_soc_20260821&ocid=AID3062894_TWITTER_oo_spl100011065953212)
 - [いま話題のAI IDE「Kiro」で仕様駆動開発を試してみた](https://qiita.com/hirokiii27/items/d3d1ac5995ea08a40787)
 - [品質を担保した AI 駆動開発セッション受講メモ - Qiita](https://qiita.com/chomado/items/764e67e104843a22bcde)
 - [フォームを数回のクリックで実装できるAIツール Formcn - コリス](https://coliss.com/articles/build-websites/operation/work/build-forms-with-a-few-clicks.html)
 - [素人がAIで誤りを量産し、プロが後始末する地獄絵図](https://note.com/rk611/n/nf22e638593aa)
 - [GPT-5が公開されたが、このAIは明らかに汎用人工知能でも人工超知能でもない | Forbes JAPAN](https://forbesjapan.com/articles/detail/81227)
-- [ここから始めるAIのビジネス活用スタートブック](https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-AIbusinessutilization-SRGCM1257.pdf)
 - [Microsoft AI Tour Osaka](https://share.google/biurcNFi6ElQQ9Ow7)
 - [【無料】グーグル神AIツール5選 「Google AI Studio」はこれがやばい](https://ascii.jp/elem/000/004/286/4286792/4/)
 - [AIが崩す「日本語の壁」、外国人に日本人が淘汰される悲劇](https://diamond.jp/articles/-/344770?page=3)
@@ -43,17 +40,24 @@
 - [[レポート公開] そのAIツール、すでに情報を抜かれています。実在インシデントで判明したセキュリティ事故 8選](https://prtimes.jp/main/html/rd/p/000000068.000118521.html)
 - [AIエージェントで良いコードを書く！品質向上ルール - Qiita](https://qiita.com/tomada/items/df5d3e0f611860bc2740)
 
+### microsoft
+
+- [Agent Shadow AI を管理する](https://learn.microsoft.com/ja-jp/microsoft-365/admin/manage/agent-shadow-ai?view=o365-worldwide&WT.mc_id=DX-MVP-5005281)
+- [【GitHub Copilotを“使いこなす”ためのプロンプト設計ガイド】GitHub Copilot プロンプトリファレンス [2026年7月公開版]](https://info.microsoft.com/JA-InnAI-WHTPP-FY26-01Jan-29-Prompt-Design-Guide-to-Master-GitHub-Copilot-GitHub-Copilot-Prompt-Reference-January-2026-Edition-SRGCM15881_LP01-Registration---Form-in-Body.html?sccid=tw_scl_spl_soc_20260821&ocid=AID3062894_TWITTER_oo_spl100011065953212)
+- [ここから始めるAIのビジネス活用スタートブック](https://info.microsoft.com/rs/157-GQE-382/images/JA-CNTNT-Whitepaper-AIbusinessutilization-SRGCM1257.pdf)
 
 ## 資料
 
-- [microsoft/AIAgentsforITOps](https://github.com/microsoft/AIAgentsforITOps)
 - [AI系の情報収集手法を紹介（ビジネス・開発・研究）【2025年版】](https://zenn.dev/mkj/articles/1357a7ea2970c4)
-- [AI SKILLS NAVIGATOR](https://aiskillsnavigator.microsoft.com/ja-jp)
-- [初心者向けの生成 AI](https://learn.microsoft.com/ja-jp/shows/generative-ai-for-beginners/)
 - [【入門】生成AI関連を学べる資料まとめ](https://qiita.com/KNR109/items/57b680e1eaab4d744d68)
 - [2023年度 デジタル庁・行政における生成AIの適切な利活用に向けた技術検証を実施しました](https://www.digital.go.jp/news/19c125e9-35c5-48ba-a63f-f817bce95715)
 - [2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊](https://qiita.com/aokikenichi/items/0e064ecd3824fab9424d)
 - [【教材まとめ】これ全部やったら流石に誰でもつよつよAIエンジニアになれる](https://qiita.com/eureka-ai/items/6c55e3b6d9617ae58afa)
+
+### microsoft
+
+- [AI SKILLS NAVIGATOR](https://aiskillsnavigator.microsoft.com/ja-jp)
+- [初心者向けの生成 AI](https://learn.microsoft.com/ja-jp/shows/generative-ai-for-beginners/)
 
 ## Agent
 
@@ -80,6 +84,7 @@
 0 [プロンプトの入力によってフルスタックWebアプリを開発、実行、編集、デプロイできる「Bolt.new」が登場　AIで開発作業はどこまで楽になる？](https://atmarkit.itmedia.co.jp/ait/articles/2411/02/news040.html)
 
 ## Browser Use
+
 - [【無職発生注意報】ヒトはこうして仕事を奪われる~Browser Use Tutorial~](https://qiita.com/Nicola_GenAI/items/f8585cbc4266656cdbb8)
 - [新時代のアプリケーション開発~bolt.newとGitHub Copilot Workspaceを触ってみた~](https://zenn.dev/raku/articles/57f57ea1a2b655)
 
@@ -127,7 +132,6 @@
 - [GPT から Claude 3 への移行ガイド](https://data.gunosy.io/entry/claude-migration-guide)
 - [無料版「ChatGPT」機能増えまくり　GPTs、Web検索、画像入力、データ分析など可能に](https://ascii.jp/elem/000/004/201/4201413/)
 - [すごすぎ！GPT-4oをPower Apps、Power Automateで楽しんでみよう！](https://www.docswell.com/s/DemodoriGatsuo/KRXN3R-20240525-140714-GATSUO_BIRIBIRI#p13)
-- [ChatGPT-Prompt-Sample-Japanese/Workshop at main ? dahatake/ChatGPT-Prompt-Sample-Japanese ? GitHub](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/tree/main/Workshop)
 - [AzureでGPT-4oのAPIを使う方法](https://zenn.dev/headwaters/articles/9d4410846fd6b9)
 - [gpt-4oを試す](https://zenn.dev/kun432/scraps/99e72ee73a3ab7)
 - [進化する生成AIを使いこなせ！ エンジニアの生産性を爆上げするChatGPT活用](https://codezine.jp/article/detail/19230?p=2)
@@ -143,7 +147,6 @@
 - [OpenAIのGPT-4oを日本語OCRとして使ってみる](https://zenn.dev/tomioka/articles/74adf0c6bc8bc6)
 - [OpenAI社の新しいGPT-4o モデルについて](https://zenn.dev/ippeisuzuki/articles/8c091817b5047a)
 - [ChatGPT先生によるプロンプトエンジニアリングとPythonのハンズオン入門講義](https://zenn.dev/acntechjp/articles/fa3b302d0f7264)
-- [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese)
 - [【決定版】GPTs開発の教科書](https://chatgpt-lab.com/n/n43cc9a028aac)
 - [データ分析もChatGPTの機能（旧Code Interpreter）でできるか、やったみた【番外編】](https://atmarkit.itmedia.co.jp/ait/articles/2312/14/news013.html)
 - [冊子「ChatGPT for Excel活用術」を無料提供! ExcelとChatGPTで何ができるのか](https://news.mynavi.jp/techplus/kikaku/20230929-2769187/)
@@ -289,7 +292,6 @@
 - [チャットAI「Claude」人気機能「Artifacts」が誰でも使えるようになった](https://ascii.jp/elem/000/004/218/4218138/)
 - [うさぎでもわかる🐰ヤバすぎclaude-bridgeでClaude CodeにGPT、Gemini、ローカルLLMを接続！無料でエージェント機能使い放題の革命的ツール](https://note.com/taku_sid/n/n189f2696a30e)
 - [Claude 4プロンプトエンジニアリング完全ガイド：初心者から上級者まで](https://qiita.com/syukan3/items/70ed29a4403b83b35add)
-- [Anthropic courses](https://github.com/anthropics/courses)
 - [チャットAI「Claude」すごい新機能「Artifacts」の使い方、全部教えます](https://ascii.jp/elem/000/004/206/4206789/)
 - [Claude の Projects にライブラリのリファレンスを丸ごと入れてみる](https://qiita.com/kunishou/items/ed097b46cd78030e0b29)
 - [Claude3の使い方や料金を初心者向けに解説！【画像で解説】](https://highreso.jp/edgehub/wordgenerationai/howclaude3.html)
@@ -405,19 +407,20 @@
 - [MicrosoftのGraphRAG+Neo4jで簡単にKnowledge Graphを可視化する](https://acro-engineer.hatenablog.com/entry/2024/11/19/120000)
 - [ナレッジグラフを活用するGraphRAGを俯瞰する](https://zenn.dev/zenkigen_tech/articles/0a25b2eaefb304)
 - [Microsoft⁠⁠、GraphRAG 1.0をリリース](https://gihyo.jp/article/2024/12/graphrag-1-0)
-- [Moving to GraphRAG 1.0 – Streamlining ergonomics for developers and users](https://www.microsoft.com/en-us/research/blog/moving-to-graphrag-1-0-streamlining-ergonomics-for-developers-and-users/)
-- [Project GraphRAG](https://www.microsoft.com/en-us/research/project/graphrag/)
 - [話題のGraphRAG、その可能性と課題を理解する](https://speakerdeck.com/hide212131/the-trending-graphrag-understanding-its-potential-and-challenges)
 - [知識グラフ入門：辛さでつながる人々](https://qiita.com/Tadataka_Takahashi/items/e90b975c66ee1ba0909c)
-- [GraphRAG: New tool for complex data discovery now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
-- [microsoft/graphrag](https://github.com/microsoft/graphrag)
-- [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
-- [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://www.microsoft.com/en-us/research/publication/from-local-to-global-a-graph-rag-approach-to-query-focused-summarization/)
 - [RAGの「ベクトル検索」の弱みを、ナレッジグラフで補う](https://zenn.dev/knowledgesense/articles/077ad1ab0f9ff6)
 - [話題のGraphRAGとは - 内部構造の解析と実用性の考察](https://www.alpha.co.jp/blog/202408_01/)
 - [話題のGraphRAGにAWSで挑戦しよう！（LlamaIndexとNeptuneに入門）](https://qiita.com/minorun365/items/a62dec701bef17cf7562)
 - [【GraphRAG プロジェクトを立ち上げます】ナレッジグラフとLLMで「発想力を持つAI」の実現へ](https://note.com/stockmark/n/n34f4c2cf3559)
 - [GraphRAGを使った生成AIチャットアプリを作ってみた](https://qiita.com/ssfujita/items/65a952f299190f4c1e6a)
+
+### microsoft
+
+- [Moving to GraphRAG 1.0 – Streamlining ergonomics for developers and users](https://www.microsoft.com/en-us/research/blog/moving-to-graphrag-1-0-streamlining-ergonomics-for-developers-and-users/)
+- [Project GraphRAG](https://www.microsoft.com/en-us/research/project/graphrag/)
+- [GraphRAG: New tool for complex data discovery now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
+- [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://www.microsoft.com/en-us/research/publication/from-local-to-global-a-graph-rag-approach-to-query-focused-summarization/)
 
 ## Langfuse
 
@@ -460,7 +463,6 @@
 - [Phi-4 を一番楽に自分の PC で動かす](https://qiita.com/tokawa-ms/items/ffcf11dfacd2190df1de)
 - [【ollama / Phi-3】ニュースで話題のLLMをローカルPC上で動かしてみる](https://zenn.dev/tanny/articles/705682d88e254e)
 - [僅か2.3GBで日本語可能な超高性能ローカルLLMのPhi-3 MINIをllama.cppとCPUで動かしてみた。スマホでも可。従来のコンパクトLLMと比較して超越した性能で未来を感じさせるMicroSoft寄付ありがとう](https://togetter.com/li/2355369)
-- [Welcome to Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)
 - [Phi-4(マイクロソフトのローカルLLM)](https://note.com/masayuki_abe/n/n38f4d179a000)
 - [ローカルPCでマルチモーダルなSLM「Phi-3 vision」を動かす](https://zenn.dev/microsoft/articles/20240604-phi3-vision-onnx)
 - [WSL2でPhi-3.5-mini-instructを試してみる](https://note.com/ngc_shj/n/n4a8b8695b797)
@@ -479,7 +481,6 @@
 
 ## MCP Server
 
-- [モデル コンテキスト プロトコルを使用してエージェントを拡張する](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/agent-extend-action-mcp)
 - [MCPサーバーって結局何？理解のついでに作ってみる](https://zenn.dev/rakuten_tech/articles/mcp-server-explained)
 - [Chrome DevTools MCP の全ツールをまとめて理解する](https://qiita.com/softbase/items/fe445a318846fd6a364d)
 - [MCP Apps標準化でWeb業界が一変。MCPクライアントとMCPサーバで対応した経験をもとに解説](https://zenn.dev/takeshy/articles/f88ee9325720b4)
@@ -489,7 +490,6 @@
 - [MCPサーバーとMCPクライアントを作る](https://gihyo.jp/article/2025/08/start-java-ai-programming-04)
 - [開発の手動構築を「AWS MCP Server」でサッとIaC 管理へ移行しよう - asken テックブログ](https://tech.asken.inc/entry/20251212)
 - [Azure × MCP 入門 - Speaker Deck](https://speakerdeck.com/ry0y4n/azure-x-mcp-ru-men)
-- [Azure MCP サーバーの使用を開始する - Azure MCP Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/azure-mcp-server/get-started)
 - [Microsoft、Azure DevOps向けローカルMCPサーバー提供開始 - CodeZine](http://codezine.jp/article/detail/22397)
 - [MCP 基礎知識 & MCP 公式の MCP サーバ自作チュートリアル )C#) やってみた #MCPサーバー - Qiita](https://qiita.com/chomado/items/968eca2a96873ccad938)
 - [Playwright MCP に CLI モードが追加されたので試す](https://zenn.dev/andynuma/articles/1f6232efcee67a)
@@ -497,10 +497,6 @@
 - [Figma MCPを使ったWebページの初期AI実装フロー](https://zenn.dev/yuichiroharai/articles/22c28f4c6af0ec)
 - [Figma MCPの構造化問題を改善！「Layermate」でデザイン再現率を向上させた話](https://zenn.dev/canly/articles/a40805a70ad59f)
 - [FigmaがMCPサーバーを導入しました。使い方はこちらです。](https://apidog.com/jp/blog/figma-mcp-jp/)
-- [GitHub MCP Registryが公開 - gihyo.jp](https://gihyo.jp/article/2025/09/github-mcp-registry)
-- [GitHub MCP Registry 公開 - Publickey](https://www.publickey1.jp/blog/25/githubmcpgithub_mcp_registry.html)
-- [GitHub - microsoft/mcp](https://github.com/microsoft/mcp)
-- [GitHub - microsoft/skills: Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents ? GitHub](https://techfeed.io/e?id=6984097edec0a44b7da552a8&commentId=699e87ecf60f12283ee8c92d)
 - [Playwright MCPでCSSの修正が楽になった](https://zenn.dev/silverbirder/articles/5bba8251cea74a)
 - [Anthropic の MCP の クイックスタート 1 - PythonによるMCPサーバの開発｜npaka](https://note.com/npaka/n/n8d4ab42ace71)
 - [APIM で REST API / MCP サーバーを MCP として公開する](https://zenn.dev/microsoft/articles/012-model-context-protocol)
@@ -514,9 +510,8 @@
 - [MCPを理解する](https://speakerdeck.com/yudai00/mcpwoli-jie-suru)
 - [Google Analytics MCP を最短導入する手順)Claude / Gemini 対応）](https://zenn.dev/yamitake/articles/google-analytics-mcp-setup)
 - [Visual Studio CodeでMCP Serverを使えるようにしてみた](https://zenn.dev/kenshintatsumi/articles/9250aa8303a72f)
-- [GPT-4.1、Claude 3.7 Sonnet、Gemini 2.5 Pro、Grok 3、用途別で見るベストLLMとは？]()
+- [GPT-4.1、Claude 3.7 Sonnet、Gemini 2.5 Pro、Grok 3、用途別で見るベストLLMとは？](https://www.sbbit.jp/article/cont1/163498)
 - [初めて MCP を使うなら Docker MCP Toolkit がおすすめ](https://qiita.com/falya128/items/23020ddba7a7d1ce2e1f)
-- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners/blob/main/translations/ja/README.md)
 - [MCPに入門する](https://speakerdeck.com/shuntaka/introduction-to-mcp)
 - [ローカルRAGを手軽に構築できるMCPサーバを作りました](https://zenn.dev/mkj/articles/30eeb69bf84b3f)
 - [MCP入門 〜面倒なことはAIエージェントにやらせよう〜 by からあげ を聞きながら](https://qiita.com/kaizen_nagoya/items/54b648c838fae8d57e38)
@@ -526,7 +521,6 @@
 - [Visual Studio Code⁠⁠、厳選したMCPサーバーの一覧ページを公開](https://gihyo.jp/article/2025/06/mcp-server-lists-for-vscode)
 - [Claude Codeの公式VSCode拡張が拡張機能ストアで検索可能な形で公開されたので改めて触ってみた](https://dev.classmethod.jp/articles/claude-code-vscode-extension-review/)
 - [GitHub Copilotの「Agent mode」が正式リリース、MCPはプレビュー版提供開始](https://codezine.jp/article/detail/21768)
-― [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)
 - [【Claude Code】初心者向け備忘～要件定義を1人で抱え込まないで～](https://qiita.com/ryu-ki/items/1216d00f893f7bdbf95b)
 - [VS Codeにもついに「持ち込みAI」時代が来た？──バージョン 1.99での変更点を紹介](https://atmarkit.itmedia.co.jp/ait/articles/2504/23/news056.html)
 - [.NET で MCP サーバー・クライアントを試してみよう その 3](https://zenn.dev/microsoft/articles/semantickernel-mcp3)
@@ -553,7 +547,6 @@
 - [MCP概要説明](https://zenn.dev/mkj/articles/0ed4d02ef3439c)
 - [明日からできる！GitHub Copilot + GitHub MCP Serverで始めるAI駆動開発](https://zenn.dev/10q89s/articles/ecb9d205f4dbec)
 - [プログラマー必見！FastAPI-MCPでAI時代のAPI開発を加速する方法（初心者向けコード付き）](https://qiita.com/takuya77088/items/4db3bcaedd8ad721b077)
-
 - [Web開発者のための便利ツールを集めたMCPサーバーを作って公開した](https://zenn.dev/noboru_i/articles/4940febcafc7dd)
 - [やさしいMCP入門](https://speakerdeck.com/minorun365/yasasiimcpru-men)
 - [最小限のMCP Host/Client/Serverをスクラッチで実装する](https://zenn.dev/razokulover/articles/9a0aee8ceb9f3f)
@@ -573,22 +566,20 @@
 - [【AI開発】VSCode拡張機能「Cline」とは？使い方やCusorとの違いを徹底解説](https://www.ai-souken.com/article/what-is-cline#google_vignette)
 - [.NET AIテンプレートのプレビュー版リリース　AIチャットアプリ開発はどう簡単になるのか](https://atmarkit.itmedia.co.jp/ait/articles/2503/12/news080.html)
 
+### microsoft
+
+- [モデル コンテキスト プロトコルを使用してエージェントを拡張する](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/agent-extend-action-mcp)
+- [Azure MCP サーバーの使用を開始する - Azure MCP Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/azure-mcp-server/get-started)
+
 ### Azure MCP Server
 
 ― [Azure MCP Server で始めるインシデント対応の自動化](https://zenn.dev/openjny/articles/07ef9e45e1cfea)
-- [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp)
 - [Azure MCP ServerとGitHub CopilotでAzure上のアプリをできる限り簡単に作る](https://acro-engineer.hatenablog.com/entry/2025/04/30/120000)
 
 ### Microsoft MCP Server
 
-- [Microsoft Learn Docs MCP Server](https://github.com/MicrosoftDocs/mcp)
 - [Microsoft Docs 公式 MCP サーバーを使って Microsoft のドキュメントを読みやすくする](https://zenn.dev/thdy/articles/microsoft-docs-mcp)
 - [Microsoft Learn Docs の公式 MCP サーバーを試す](https://zenn.dev/openjny/articles/9a0577643e3ad3)
-
-### Markdown
-
-- [MarkItDown](https://github.com/microsoft/markitdown)
-
 
 ### Figma
 
@@ -624,13 +615,16 @@
 - [Microsoft Agent Framework HarnessAgent を試す](https://zenn.dev/microsoft/articles/agent-framework-harness-intro)
 - [【Microsoft Agent Framework】クライアント生成を理解したい](https://zenn.dev/headwaters/articles/8ae0a928cafe3e)
 - [【Microsoft Agent Framework】workflow を 1 つの agent として扱うには](https://zenn.dev/headwaters/articles/3bba6f48b62e43)
-- [Microsoft Agent Framework を使用してマルチエージェント ソリューションを調整する](https://learn.microsoft.com/ja-jp/training/modules/orchestrate-semantic-kernel-multi-agent-solution/)
 - [Microsoft Agent Framework開発入門](https://qiita.com/matayuuu/items/e028904453dded34d18f)
 - [Microsoft Agent Framework プレビュー公開 - Publickey](https://www.publickey1.jp/blog/25/mcpa2aaimicrosoft_agent_framewok.html)
 - [V1 リリース！ - Microsoft Agent Framework )C#) V1 その1](https://zenn.dev/microsoft/articles/agentframework-v1-001)
 - [新しいワークフローの勉強1 - Microsoft Agent Framework )C#) その18](https://zenn.dev/microsoft/articles/agent-framework-018)
 - [Microsoft Agent Framework )C#) を見てみよう その1「雑感」とハローワールド](https://zenn.dev/microsoft/articles/agent-framework-001)
 - [Microsoft Foundry Localをお試しする)C#編その１](https://qiita.com/kashin777/items/0878a6f2c1412402d065)
+
+### microsoft
+
+- [Microsoft Agent Framework を使用してマルチエージェント ソリューションを調整する](https://learn.microsoft.com/ja-jp/training/modules/orchestrate-semantic-kernel-multi-agent-solution/)
 
 ## misc
 
@@ -702,7 +696,6 @@
 
 ## Prompt
 
-- [dahatake/GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/GenerativeAI-Prompt-Sample-Japanese/)
 - [一発OK!! 市民も使える！生成AI活用実例集（プロンプト集）](http://www.city.nanyo.yamagata.jp/dxchosei/5793)
 - [【実案件使用】Cursorプロンプト × コード公開！①リファクタリング編](https://qiita.com/ShotaFukuyama/items/c14204f760a87e04b39f)
 - [GPT-5.2 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5-2_prompting_guide)
@@ -769,23 +762,23 @@
 - [ChatGPTなどの使い方がわかる！プロンプト文例集](https://prompt.quel.jp/)
 - [プロンプトエンジニアリングの基本と応用](https://blog.brainpad.co.jp/entry/2023/12/19/153000)
 - [生成 AI アプリケーションの開発を始めるために必要な全知識を学べる 12 講座](https://microsoft.github.io/generative-ai-for-beginners/#/translations/ja-jp/)
-- [Copilot for Microsoft 365 ゴールデンプロンプト ~ 話題の生成 AI カンタン使いこなし術 ~ 2024年6月更新版](https://info.microsoft.com/JA-T2C-CNTNT-FY24-05May-22-Copilot-for-Microsoft-365-Golden-Prompt-Easy-way-to-use-AI-to-generate-topics-SRGCM12256_LP02-Thank-You---Standard-Hero.html)
-- [dahatake/ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese)
-- [Build better apps, faster: Copilot in Power Apps is now generally available](https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/)
 - [Windowsで使える生成AI活用のアシスタント機能「Copilot in Windows」を解説Tips連載をスタート](https://www.itmedia.co.jp/pcuser/articles/2312/29/news068.html)
-- [AI コパイロットの概要](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/ai-overview?s=09#prerequisites-for-the-ai-features-in-power-apps)
-- [コパイロット プラグインの作成 - 概要 (プレビュー) - Microsoft Copilot Studio Microsoft Learn<](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/copilot-plugins-overview)
 - [Microsoft Copilot Studio を触ってみました！](https://aadojo.alterbooth.com/entry/2023/12/09/113106)
-
 - [「Copilot、Copilot...」と連呼する前に、Power BIでは...](https://qiita.com/ishiayaya/items/15b6f28e3245137b5d6f)
 - [Microsoft Copilot Studio を触ってみました！ - Alternative Architecture DOJO](https://aadojo.alterbooth.com/entry/2023/12/09/113106JA-DevOps-VDEO-FY23-06Jun-30-MKTO-FY23-GitHub-and-Azure-Webinar-Gated-Contents-0602-SRGCM10625_LP01-Registration---Form-in-Body.html)
+
+### microsoft
+
+- [AI コパイロットの概要](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/ai-overview?s=09#prerequisites-for-the-ai-features-in-power-apps)
+- [Build better apps, faster: Copilot in Power Apps is now generally available](https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/)
+- [Copilot for Microsoft 365 ゴールデンプロンプト ~ 話題の生成 AI カンタン使いこなし術 ~ 2024年6月更新版](https://info.microsoft.com/JA-T2C-CNTNT-FY24-05May-22-Copilot-for-Microsoft-365-Golden-Prompt-Easy-way-to-use-AI-to-generate-topics-SRGCM12256_LP02-Thank-You---Standard-Hero.html)
+- [コパイロット プラグインの作成 - 概要 (プレビュー) - Microsoft Copilot Studio Microsoft Learn<](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/copilot-plugins-overview)
 - [Celebrating the first year of Copilot with significant new innovations - The Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/12/05/celebrating-the-first-year-of-copilot-with-significant-new-innovations/)
 
 ## 公式ガイド
 
 - [プロンプトエンジニアリングの戦略と戦術（OpenAI公式ガイド・ ChatGPT）](https://note.com/martins_day/n/ncc5fb07467ed)
 - [プロンプトエンジニアリングは公式ガイドを参考にしよう（OpenAI・Microsoft・Google）](https://note.com/martins_day/n/n057d451467e5)
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
 ## 天秤AI
 

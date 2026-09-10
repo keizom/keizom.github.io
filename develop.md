@@ -35,18 +35,19 @@
 - [.NET 8 の ASP.NET Core Blazor で二度押しを抑止したい](https://zenn.dev/microsoft/articles/blazor-dotnet8-do-not-double-click)
 - [ASP.NET Core MVCを新人に説明してみよう](https://qiita.com/saxxos/items/f8bdf3a0a9d6b8e3cfef)
 - [.NET 8 の ASP.NET Core Blazor 新機能オーバービュー](https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet8-overview)
-- [AzRefArc.AspNetBlazorUnited](https://github.com/nakamacchi/AzRefArc.AspNetBlazorUnited)
-- [.NET 8 対応 Blazor Web App 概要](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtw6G7iQYzLWpOMJ73X83AsFe8xQ9m___p6KsoaTXzCvWmUKhaaBLjx7tbCEaYkaErl2eu3UYSU5cPepZ3Sn6lg9TJ)
 - [ASP.NET Coreでリアルタイム通信を実現！ SignalRの使い方](https://codezine.jp/article/detail/18494)
 - [C#で SPA を実現！ .NET 6 で ASP.NET Core の Blazor アプリケーションの基本「Blazor Server」を理解しよう](https://codezine.jp/article/detail/16848)
-- [ASP.NET Core、最小限の API、.NET 6 を使用して Web アプリとサービスを作成する - Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/aspnet-core-minimal-api/)
-- [.NET Core での自己完結型アプリのデプロイにおけるランタイムのロール フォワード - .NET Core Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/deploying/runtime-patch-selection)
-- [.NET Core で使用できない .NET Framework テクノロジ Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/porting/net-framework-tech-unavailable)
-- [Visual Studio Code で始める ASP.Net Core](https://github.com/ichiohta/vschw)
 - [.NET 6 で ASP.NET Core の Razor Pages アプリケーションを理解しよう](https://codezine.jp/article/detail/15824)
 - [https://tech-lab.sios.jp/archives/30760](https://tech-lab.sios.jp/archives/30858)
 - [ASP.NET CoreによるgRPCクライアントの開発を理解しよう](https://codezine.jp/article/detail/18363)
 - [WebSocket 入門](https://zenn.dev/nameless_sn/articles/websocket_tutorial)
+
+### microsoft
+
+- [.NET 8 対応 Blazor Web App 概要](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtw6G7iQYzLWpOMJ73X83AsFe8xQ9m___p6KsoaTXzCvWmUKhaaBLjx7tbCEaYkaErl2eu3UYSU5cPepZ3Sn6lg9TJ)
+- [ASP.NET Core、最小限の API、.NET 6 を使用して Web アプリとサービスを作成する - Learn Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/aspnet-core-minimal-api/)
+- [.NET Core での自己完結型アプリのデプロイにおけるランタイムのロール フォワード - .NET Core Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/deploying/runtime-patch-selection)
+- [.NET Core で使用できない .NET Framework テクノロジ Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/porting/net-framework-tech-unavailable)
 
 ## .NET MAUI
 
@@ -55,16 +56,18 @@
 
 ## ASP.NET Identity
 
-- [空または既存の Web フォームプロジェクトへの ASP.NET Identity の追加-ASP.NET 4.x](https://docs.microsoft.com/ja-jp/aspnet/identity/overview/getting-started/adding-aspnet-identity-to-an-empty-or-existing-web-forms-project)
 - [ASP.NET Identity 入門連載一覧：CodeZine（コードジン）](https://codezine.jp/article/corner/511)
 - [ASP.NET Identity カスタマイズに挑戦](https://blog.okazuki.jp/entry/2013/11/10/190811)
 - [ASP.NET Identity で独自データストアからデータを取得する（ログインからロールまで）](https://blog.okazuki.jp/entry/2015/08/20/214212)
+
+### microsoft
+
+- [空または既存の Web フォームプロジェクトへの ASP.NET Identity の追加-ASP.NET 4.x](https://docs.microsoft.com/ja-jp/aspnet/identity/overview/getting-started/adding-aspnet-identity-to-an-empty-or-existing-web-forms-project)
 
 ## ASP.NET MVC
 
 - [ASP.NET 入門の書](https://qiita.com/Kei18/items/1a9b936216bd2458ec08)
 - [ASP.NET MVC のコントローラにて SSL 接続を要求する方法](https://aspnet.keicode.com/basic/aspnet-mvc101-ssl.php)
-- [ASP.NET チュートリアル Microsoft Docs](https://docs.microsoft.com/ja-jp/aspnet/tutorials)
 - [C# で Single Page Web Application が書ける Blazor が凄かった件 - Qiita](https://qiita.com/jsakamoto/items/20d4893f6c8cdb0356f6)
 - [ASP.NET MVC 入門 (3) 編集 (Edit) ビューと POST データの受け取り方法](https://aspnet.keicode.com/basic/aspnet-mvc101-view.php)
 - [ASP.NET MVC5 で最初にやったこと 2014 冬のメモ](https://blog.beachside.dev/entry/2015/02/06/220929)
@@ -76,6 +79,10 @@
 - [ASP.NET MVC でドロップダウンリスト周りを良い感じに扱う](https://blog.shibayan.jp/entry/20130201/1359725910)
 - [ASP.NET MVC 4 で理想的なスマートフォン対応サイトを作成する方法](https://blog.shibayan.jp/entry/20130624/1372085770)
 - [ASP.NET MVC で 1 画面にボタンが 2 つあるときの処理](https://blogonos.wordpress.com/2011/07/06/asp-net-mvc-%E3%81%A71%E7%94%BB%E9%9D%A2%E3%81%AB%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%8C2%E3%81%A4%E3%81%82%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%87%A6%E7%90%86/)
+
+### microsoft
+
+- [C# で Single Page Web Application が書ける Blazor が凄かった件 - Qiita](https://qiita.com/jsakamoto/items/20d4893f6c8cdb0356f6)
 
 ## Blazor
 
@@ -110,12 +117,6 @@
 - [.NET 8 と GitHub、そして Azure による開発者エクスペリエンスの向上 ～ 最新開発プラッ](https://speakerdeck.com/chack411/dot-net-8-to-github-sosite-azure-niyorukai-fa-zhe-ekusuperiensunoxiang-shang-zui-xin-kai-fa-puratutohuomu-demonsutoresiyon)
 - [【Ｃ＃】完璧で幸福にアプリケーションの二重起動を防止してすでに起動しているアプリを前面に表示する](https://qiita.com/Subara3/items/50da6ee5885d576b429b)
 - [Microsoft、「基礎C#認定資格」を公開　無料でC#が学べる35時間分のトレーニングコースも](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news026.html)
-- [GitHub - microsoft/TailwindTraders](https://github.com/microsoft/TailwindTraders)
-- [Home - Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
-- [The .NET Portability Analyzer - .NET Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/portability-analyzer)
-- [Minimal API の概要](https://docs.microsoft.com/ja-jp/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0)
-- [.NET Core での自己完結型アプリのデプロイにおけるランタイムのロール フォワード - .NET Core Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/deploying/runtime-patch-selection)
-- [.NET Core で使用できない .NET Framework テクノロジ Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/porting/net-framework-tech-unavailable)
 - [C# で Single Page Web Application が書ける Blazor が凄かった件 - Qiita](https://qiita.com/jsakamoto/items/20d4893f6c8cdb0356f6)
 - [【連載】PowerShell Core 入門 - 基本コマンドの使い方 2 PowerShell Core のインストールサーバ/ストレージ IT 製品の事例・解説記事](https://news.mynavi.jp/itsearch/article/hardware/3628)
 - [PowerMap サンプル](https://onedrive.live.com/?id=A9FD866E9122F8EA%21107&cid=A9FD866E9122F8EA)
@@ -126,6 +127,15 @@
 - [C#で SPA が実現できる、Blazor WebAssembly のはじめかた (1/3)：CodeZine（コードジン）](https://codezine.jp/article/detail/13036)
 - [多分わかりやすい C#の Delegate とラムダ式入門 SIOS Tech. Lab](https://tech-lab.sios.jp/archives/15318)
 - [多分わかりやすい C#の非同期処理その 1 ? Thread と Task ? SIOS Tech. Lab](https://tech-lab.sios.jp/archives/15637)
+
+### microsoft
+
+- [Home - Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
+- [The .NET Portability Analyzer - .NET Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/portability-analyzer)
+- [Minimal API の概要](https://docs.microsoft.com/ja-jp/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0)
+- [.NET Core での自己完結型アプリのデプロイにおけるランタイムのロール フォワード - .NET Core Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/deploying/runtime-patch-selection)
+- [.NET Core で使用できない .NET Framework テクノロジ Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/core/porting/net-framework-tech-unavailable)
+
 
 ## Cursor
 
@@ -164,8 +174,11 @@
 
 ## Dev Home
 
-- [Dev Home とは](https://learn.microsoft.com/ja-jp/windows/dev-home/)
 - [Windowsが今更（？）開発者に優しくなろうとしている!? 「Dev Home」は開発者にとって使い物になる？](https://ascii.jp/elem/000/004/205/4205741/)
+
+### microsoft
+
+- [Dev Home とは](https://learn.microsoft.com/ja-jp/windows/dev-home/)
 
 ## Docker
 
@@ -188,7 +201,6 @@ ENV LANG=ja_JP.UTF-8
 - [Docker入門【サイボウズ新人研修2025】](https://speakerdeck.com/cybozuinsideout/introduction-to-docker)
 - [Dockerとは何か)Dockerの概要と主要目標） #Linux - Qiita](https://qiita.com/mooreyxia/items/4afab46d20618880f574)
 - [Visual StudioでDockerを簡単に体験する記事](https://qiita.com/EndOfData/items/e08e687216f6420206bd)
-- [Windows 上の Visual Studio コンテナー ツールと Docker - Visual Studio  | Microsoft Learn](https://learn.microsoft.com/ja-jp/visualstudio/containers/overview?view=vs-2022)
 - [Docker Desktop を使わないで Docker を使う方法 #WSL2 - Qiita](https://qiita.com/oya_tadashi/items/3e3b026c161658484aba)
 - [WSL Containers)wslc）入門｜Docker Desktop不要](https://zenn.dev/var/articles/wsl-containers-windows-wslc-hands-on)
 - [改めてDockerを理解する①[コンテナのライフサイクル編]](https://qiita.com/ikemura-ren/items/dae9f599254b90167b06)
@@ -224,17 +236,22 @@ ENV LANG=ja_JP.UTF-8
 - [モダンな帳票アプリを作る前に知っておきたい、Docker ＋.NET 開発の基本](https://codezine.jp/article/detail/15506)
 - [Windows 10 Home でも使えて、インストールも超簡単な「Docker Desktop for Windows」登場 (1/2)：Windows 10 The Latest - ＠IT](https://www.atmarkit.co.jp/ait/articles/2011/20/news015.html)
 - [【連載】WSL2、Visual Studio Code、Docker でグッとよくなる Windows 開発環境 〜 その 1：まずは概要 〜 SIOS Tech. Lab](https://tech-lab.sios.jp/archives/21023)
-- [Docker と Kubernetes でアプリをコンテナーに入れる](https://azure.microsoft.com/ja-jp/resources/containerize-your-apps-with-docker-and-kubernetes/)
-- [Docker と Kubernetes を使ったコンテナのデプロイ、スケーリング、オーケストレーション](https://azure.microsoft.com/mediahandler/files/resourcefiles/containerize-your-apps-with-docker-and-kubernetes/ja-jp/JA-JP-Containerize_your_Apps_with_Docker_and_Kubernetes.pdf)
 - [AzureAD ログインと Docker for Windows Shared Drive によるボリュームマウント - tech.guitarrapc.com](https://tech.guitarrapc.com/entry/2017/12/27/042458)
 - [Installing docker on azure virtual machine windows 10 - Stack Overflow](https://stackoverflow.com/questions/44817161/installing-docker-on-azure-virtual-machine-windows-10)
 - [【連載】世界一わかりみが深いコンテナ & Docker 入門 〜 その 1:コンテナってなに？ 〜 SIOS Tech. Lab](https://tech-lab.sios.jp/archives/18811)
 - [第 3 回　 Docker コマンドの使い方：超入門 Docker - ＠IT](https://www.atmarkit.co.jp/ait/articles/1702/01/news061.html)
 - [ゼロからはじめる Docker(1) Docker とは？ マイナビニュース](https://news.mynavi.jp/article/docker-1/)
-- [Docker for Windows & Web Apps for Containers 実践活用技法](https://docs.microsoft.com/ja-jp/archive/blogs/nakama/dockerandazure)
 - [Docker 入門（第一回）～ Docker とは何か、何が良いのか～](https://knowledge.sakura.ad.jp/13265/)
 - [イラストではじめる「Kubernetes」](https://codezine.jp/article/corner/917)
 - [Dockerのボリューム](https://zenn.dev/fdnsy/articles/e2024d73ec2bda)
+
+### microsoft
+
+- [Windows 上の Visual Studio コンテナー ツールと Docker - Visual Studio  | Microsoft Learn](https://learn.microsoft.com/ja-jp/visualstudio/containers/overview?view=vs-2022)
+- [Docker と Kubernetes でアプリをコンテナーに入れる](https://azure.microsoft.com/ja-jp/resources/containerize-your-apps-with-docker-and-kubernetes/)
+- [Docker と Kubernetes を使ったコンテナのデプロイ、スケーリング、オーケストレーション](https://azure.microsoft.com/mediahandler/files/resourcefiles/containerize-your-apps-with-docker-and-kubernetes/ja-jp/JA-JP-Containerize_your_Apps_with_Docker_and_Kubernetes.pdf)
+- [Docker for Windows & Web Apps for Containers 実践活用技法](https://docs.microsoft.com/ja-jp/archive/blogs/nakama/dockerandazure)
+
 
 ### Podman
 
@@ -266,7 +283,6 @@ ENV LANG=ja_JP.UTF-8
 - [Gitを使った開発に慣れるまでの学習方法](https://qiita.com/amymd/items/056864438b839855b6d7)
 - [入門書を終えた人に捧げる、社会人のためのGit中級編](https://qiita.com/yamamoto7/items/fe15a1e7e360b4015fae)
 - [初学者の私がGitを理解するために、この順番で読めばよかったと思った記事の順番](https://qiita.com/muranakar/items/e3e8e8187d32120c7fdf)
-- [Git を使用したコード](https://learn.microsoft.com/ja-jp/azure/devops/user-guide/code-with-git?view=azure-devops)
 - [Git によるチーム開発のいろはを基礎から学ぼう！](https://codezine.jp/article/detail/16910)
 - [Developers Festa Sapporo 2020 Microsoft/GitHub が提供する Developer Cloud (Developer Cloud from Microsoft/GitHub)](https://satonaoki.wordpress.com/2020/12/05/devfesta-microsoft-github/)
 - [Git(GitHub)おじさんに俺はなる Before Git After Git](https://karaage.hatenadiary.jp/entry/2016/01/23/073000)
@@ -287,6 +303,10 @@ ENV LANG=ja_JP.UTF-8
 - [「エクスプローラー」の「Git」統合などが実現へ ～Microsoftが開発者向け新機能 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/2015419.html)
 - [Gitのコミットメッセージの書き方)2023年ver.）](https://zenn.dev/itosho/articles/git-commit-message-2023)
 
+### microsoft
+
+- [Git を使用したコード](https://learn.microsoft.com/ja-jp/azure/devops/user-guide/code-with-git?view=azure-devops)
+
 ## GitHub
 
 - [GitHubを活用したナレッジ管理運用ガイド](https://qiita.com/CodeTea_Ping999/items/a3a0a0422263ca97eb47)
@@ -297,13 +317,9 @@ ENV LANG=ja_JP.UTF-8
 - [複数のGitHubアカウントを使い分けたい時の設定方法とTips](https://zenn.dev/taichifukumoto/articles/how-to-use-multiple-github-accounts)
 - [GitHub.com で複数アカウントの利用がサポートされ、簡単に切り替えできるようになりました](https://dev.classmethod.jp/articles/multiple-account-support-on-github-com-for-easy-switching/)
 - [非開発者のためのGitHub入門&ハンズオン | ドクセル](https://www.docswell.com/s/yuma/ZLVNPG-2025-08-15-vibebeginners#p42)
-- [GitHub - pnp/sp-starter-kit](https://github.com/pnp/sp-starter-kit?sfns=mo)
-- [GitHub - The-Japan-DataScientist-Society/100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
 - [全エンジニアが知っておくべきGitHubリポジトリ42選](https://qiita.com/kjm_nuco/items/92b0aa084f528d5dd25e)
-- [GitHub - ugurkocde/IntuneDocumentation](https://github.com/ugurkocde/IntuneDocumentation?utm_content=buffer658db&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [GitHubでssh接続する手順 ～ 公開鍵・秘密鍵の生成から](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
 - [CI/CD入門第3回：GitHub Actionsを利用したCIワークフローの構築～パイプラインの全体像～](https://zenn.dev/oasys/articles/ci-cd-intro-4-github-actions-workflow)
-- [GitHub Actions を使用して継続的インテグレーション ワークフローを構築する - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/github-actions-ci/)
 - [GitHubをコードで管理 ! Terraformを導入して安全な管理を実現しました](https://tech.route06.co.jp/entry/2024/10/18/153755)
 - [なんとなくから脱却するGitHub Actionsグッドプラクティス11選](https://gihyo.jp/article/2024/10/good-practices-for-github-actions)
 - [【GitHub】初めてのGitHub~GitHubリポジトリ作成まで](https://qiita.com/piromo/items/a45b44d85ad28bf05c02)
@@ -331,6 +347,10 @@ ENV LANG=ja_JP.UTF-8
 - [Gitコマンド早見表](https://qiita.com/kohga/items/dccf135b0af395f69144)
 - [GitHub Copilot Workspace：GitHub Copilotネイティブの開発環境へようこそ](https://github.blog/jp/2024-04-30-github-copilot-workspace/)
 
+### microsoft
+
+- [GitHub Actions を使用して継続的インテグレーション ワークフローを構築する - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/github-actions-ci/)
+
 ## GitHub Actions
 
 - [初心者向け！GitHub Actions をはじめる](https://zenn.dev/kiwichan101kg/articles/2d6850ff72bc98)
@@ -339,7 +359,6 @@ ENV LANG=ja_JP.UTF-8
 ## GitHub Copilot
 
 - [GitHub Copilot プロンプトリファレンス](https://t.co/7ZfvMqjT1X)
-- [GitHub Copilotのリファレンス](https://docs.github.com/ja/copilot/reference)
 - [GitHub Copilotを最強にする拡張機能4選](https://zenn.dev/sqer/articles/1535f0a7d2a9b8)
 - [GitHub と GitHub Copilot の課金を改めて理解する](https://idea.tostring.jp/?p=8157)
 - [Microsoft Build 2026で発表されたGitHub・GitHub Copilotのまとめ](https://zenn.dev/headwaters/articles/microsoft-build-2026-github)
@@ -354,7 +373,6 @@ ENV LANG=ja_JP.UTF-8
 - [GitHub Copilot Pro の月300回で何ができるか 2025](https://zenn.dev/kkzk/articles/2025-08-12_use-github-copilot-agent)
 - [GitHub Copilot入門～Microsoft50周年で発表された最新機能まで！ | ドクセル](https://www.docswell.com/s/yuma/K3GD9E-2025-04-05-aidd#p4)
 - [GitHub Copilot coding agent を推したい / AIDD Nagoya #1](https://speakerdeck.com/tnir/aidd-nagoya-number-1)
-- [GitHub Copilot の課金について - GitHub Docs](https://docs.github.com/ja/billing/managing-billing-for-your-products/about-billing-for-github-copilot)
 - [Proプランでも使えるようになった「GitHub Copilot coding agent」を試してみた - Qiita](https://qiita.com/youtoy/items/519ce094e794248673a9)
 - [GitHub と GitHub Copilot の課金を改めて理解する #GitHubCopilot - Qiita](https://qiita.com/aktsmm/items/7ccd1c2b5b35dda9b8f2)
 - [Let's Learn GitHub Copilot App )日本語](https://www.youtube.com/live/-ZBf4wpLZKg)
@@ -376,7 +394,6 @@ ENV LANG=ja_JP.UTF-8
 - [GitHub Copilot + Playwright MCP による UI/UX レビュー&修正自動化の試みで学んだこと](https://zenn.dev/nttdata_tech/articles/4a76fdf4495b85)
 - [Playwright MCPとQAエージェントによるGitHub Copilot活用](https://zenn.dev/nttdata_tech/articles/6b8c05267d3fd9)
 - [Microsoft Fabric にも Github Copilot エージェントがあるよ！](https://zenn.dev/headwaters/articles/459d6984bde62a)
-- [GitHub Copilotの使い始め方 - Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/get-started-github-copilot/?sccid=tw_scl_spl_soc_20260728&ocid=AID3062894_TWITTER_oo_spl100010902203513)
 - [ChatGPT Pro は高いので Codex + GitHub Copilot でお小遣いを守りたい](https://qiita.com/faunsu/items/f6edd279d32102e6f5a8)
 - [Visual Studio 2026 で GitHub Copilot 用の設計ドキュメントを整備するときの注意点](https://zenn.dev/microsoft/articles/github-copilot-vs2026)
 - [全てのVisual Studioユーザーが無料版「GitHub Copilot」を利用可能に　Visual Studioでの開発体験はどう変わる？：マルチファイル編集や開発環境と連携したチャット機能を搭載 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2502/14/news059.html)
@@ -386,7 +403,7 @@ ENV LANG=ja_JP.UTF-8
 - [VS Code の GitHub Copilot 設定、多すぎて分からない？? settings.json 完全ガイド? #VSCode - Qiita](https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d)
 - [システムテストを GitHub Copilot に全て委ねたら、Software Engineer歴30年の私を一瞬で抜き去った話。私の品質管理のベストプラクティスが遺物になった瞬間 #AI駆動開発 - Qiita](https://qiita.com/dahatake/items/a56f793e3f1ae64673ea)
 - [これがいいとは言わないが。私が普段 Vibe Coding で実際に投入しているPromptを晒す #GitHubCopilot - Qiita](https://qiita.com/dahatake/items/ef5cb2ad8d0e27dd976a)
-- [GitHub Copilot プロンプトリファレンス(PDF)  - Microsoft Learn](https://info.microsoft.com/rs/157-GQE-382/images/GitHub%20Copilot%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%20%5B2026%E5%B9%B41%E6%9C%88%E7%89%88%5D.pdf?version=0)
+GitHub%20Copilot%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%20%5B2026%E5%B9%B41%E6%9C%88%E7%89%88%5D.pdf?version=0)
 - [いくつ知ってる？ GitHub Copilotの新機能、コーディングにとどまらない進化を解説](https://codezine.jp/article/detail/20065)
 - [GitHub Copilot Coding Agent がやばすぎて共有し隊](https://www.kentsu.website/ja/posts/2025/copilot_coding/)
 - [Issue作成だけで後の工程は全てお任せ！GitHub Copilot Workspaceのテクニカルプレビューを触ってみた](https://dev.classmethod.jp/articles/github-copilot-workspace-tech-preview/)
@@ -416,6 +433,11 @@ ENV LANG=ja_JP.UTF-8
 - [【ハイブリッド開催】GitHub Copilotで拓く開発生産性](https://logmi.jp/tech/articles/329426)
 - [コードの解説、ブログの要約、自然言語の翻訳、機能仕様の修正コーディングだけじゃない「Github Copilot」の活用事例](https://logmi.jp/tech/articles/329436)
 
+### microsoft
+
+- [GitHub Copilotの使い始め方 - Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/get-started-github-copilot/?sccid=tw_scl_spl_soc_20260728&ocid=AID3062894_TWITTER_oo_spl100010902203513)
+- [GitHub Copilot プロンプトリファレンス(PDF)  - Microsoft Learn](https://info.microsoft.com/rs/157-GQE-382/images/)
+
 ## GitHub Repository
 
 - [絶対チェックすべきGitHubリポジトリ15選](https://qiita.com/Sicut_study/items/3c063a938f6dbc48bdbd)
@@ -429,26 +451,9 @@ ENV LANG=ja_JP.UTF-8
 - [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 - [pre-design-md](https://pre-design-md.dev/)
 - [マークダウン記法は奥深く、楽しい ? テキストだけで「伝わるドキュメント」を作る技術](https://qiita.com/teppei19980914/items/36404f9ec9c786cde671)
-- [MarkItDown](https://github.com/microsoft/markitdown)
-
-- [PMActivities/Webinar/Schedule.md](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)
 
 ## PowerShell
 
-- [SamErde/PowerShell PowerShellのサンプル](https://github.com/SamErde/PowerShell/tree/main)
-- [ハッシュテーブルについて知りたかったことのすべて](https://learn.microsoft.com/ja-jp/powershell/scripting/learn/deep-dives/everything-about-hashtable?view=powershell-7.4)
-
-    > 順序付きハッシュテーブル
-    > 既定では、ハッシュテーブルは順序付け (または並べ替え) されていません。 従来のコンテキストでは、常にキーを使用して値にアクセスする場合、順序は重要ではありません。 プロパティを定義した順序で維持する必要が生じる場合があります。 幸いにも、ordered キーワードを使用してこれを行う方法があります。
-
-    ``` PowerShell
-    $person = [ordered]@{
-        name = 'Kevin'
-        age  = 36
-    }
-    ```
-
-- [about_Comment_Based_Help](<https://docs.microsoft.com/ja-jp/previous-versions/windows/powershell-scripting/hh847834(v=wps.640)?redirectedfrom=MSDN>)
 - [【Write-Verbose】スクリプトや関数の詳細を表示する【PowerShell】](https://www.tekizai.net/entry/2021/08/26/063000)
 - [Windows PowerShell 基本 Tips](https://www.atmarkit.co.jp/ait/series/3410/)
 - [PowerShell のデバッグに役立つコマンド設定](https://www.pine4.net/Memo/Article/Archives/207)
@@ -466,6 +471,22 @@ ENV LANG=ja_JP.UTF-8
     > Set-PSDebug
     >
     > $host.EnterNestedPrompt()
+
+### microsoft
+
+- [ハッシュテーブルについて知りたかったことのすべて](https://learn.microsoft.com/ja-jp/powershell/scripting/learn/deep-dives/everything-about-hashtable?view=powershell-7.4)
+
+    > 順序付きハッシュテーブル
+    > 既定では、ハッシュテーブルは順序付け (または並べ替え) されていません。 従来のコンテキストでは、常にキーを使用して値にアクセスする場合、順序は重要ではありません。 プロパティを定義した順序で維持する必要が生じる場合があります。 幸いにも、ordered キーワードを使用してこれを行う方法があります。
+
+    ``` PowerShell
+    $person = [ordered]@{
+        name = 'Kevin'
+        age  = 36
+    }
+    ```
+
+- [about_Comment_Based_Help](<https://docs.microsoft.com/ja-jp/previous-versions/windows/powershell-scripting/hh847834(v=wps.640)?redirectedfrom=MSDN>)
 
 ## .NET Aspire
 
@@ -572,12 +593,6 @@ ENV LANG=ja_JP.UTF-8
 - [Visual Studio Code の拡張機能である「C# Dev Kit」が GA となったので使ってみた](https://dev.classmethod.jp/articles/vscode-csharp-dev-kit/)
 - [君はVS Codeのデバッグの知られざる機能について知っているか](https://qiita.com/_ken_/items/c5aa4841be74b06530b4)
 - [Figma for VS Codeを使ってCSS実装する時のおすすめポイント](https://goodpatch-tech.hatenablog.com/entry/figma-for-vscode)
-- [チュートリアル: Visual Studio Code を使用して .NET コンソール アプリケーションを作成する](https://learn.microsoft.com/ja-jp/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-7-0)
-
-    > dotnet new console --framework net7.0
-
-- [dotnet new テンプレート](https://learn.microsoft.com/ja-jp/dotnet/core/tools/dotnet-new)
-- [VSCodeをプログラミングエディタとして強化しよう！ 便利な設定や拡張機能を紹介](https://codezine.jp/article/detail/18224)
 - [コードを書くのが楽になる！知っておくと便利な VS Code の機能・設定のまとめ コリス](https://coliss.com/articles/build-websites/operation/work/vs-code-dont-need-extensions.html)
 - [VS Code で HTML を楽々コーディング！ (1/2)](https://www.atmarkit.co.jp/ait/articles/1806/26/news032.html)
 - [Web コーダーが VSCode で使いたいショートカットと設定、拡張機能](https://haniwaman.com/web-vscode/)
@@ -603,7 +618,6 @@ ENV LANG=ja_JP.UTF-8
 - [Visual Studio Code で Git を利用する (1/3)](https://www.atmarkit.co.jp/ait/articles/1507/21/news017.html)
 - [VSCode での Git の基本操作まとめ - Qiita](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
 - [VSCode の Find で今マッチしている場所にボーダーを引いて見やすくする](https://blog.shibayu36.org/entry/2020/10/12/180000)
-- [チュートリアル:Visual Studio Code 拡張機能を設定する - Azure Machine Learning  Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/machine-learning/tutorial-setup-vscode-extension)
 - [VS Code 上で HTTP リクエストを送信し、VS Code 上でレスポンスを確認できる「REST Client」拡張の紹介](https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c)
 - [Web 制作者必見！VSCode のおすすめ拡張機能 15 個まとめ](https://webdesign-trends.net/entry/13147)
 - [2019 年時点で僕の VSCode に入ってるプラグインや設定を紹介します - Shibajuku](https://shibajuku.net/vscode-plugin-settings/)
@@ -615,25 +629,37 @@ ENV LANG=ja_JP.UTF-8
 - [VSCodeにChatGPTを！ 導入方法や使い方を理解して次世代の開発環境を整えよう](https://codezine.jp/article/detail/17730)
 - [AIと共同でプログラミングする新時代へ──AIコーディング支援ツール「GitHub Copilot」へ入門しよう](https://codezine.jp/article/detail/19383?p=2)
 
-### 多段ssh
+### microsoft
+
+- [チュートリアル: Visual Studio Code を使用して .NET コンソール アプリケーションを作成する](https://learn.microsoft.com/ja-jp/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-7-0)
+
+    > dotnet new console --framework net7.0
+
+- [dotnet new テンプレート](https://learn.microsoft.com/ja-jp/dotnet/core/tools/dotnet-new)
+- [VSCodeをプログラミングエディタとして強化しよう！ 便利な設定や拡張機能を紹介](https://codezine.jp/article/detail/18224)
+- [チュートリアル:Visual Studio Code 拡張機能を設定する - Azure Machine Learning  Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/machine-learning/tutorial-setup-vscode-extension)
+
+## 多段ssh
 
 - [多段sshサーバーにVScodeで接続する(エージェントフォワード)](https://qiita.com/my0shym/items/c5b792cbb0de7531376e)
 - [VSCodeで踏み台サーバ経由で接続したリモートサーバ上のファイルをエクスプローラー表示する](https://qiita.com/keso_keso/items/fee7b6c1be86614bdc65)
 - [VScode Remote-SSHで外部サーバーに 多段SSH接続](https://ichiri.biz/tech/vscode-multihop-remote-ssh/)
 
-### AI Toolkit for VS Code
+## AI Toolkit for VS Code
 
 - [Microsoft、「AI Toolkit for VS Code」を発表](https://forest.watch.impress.co.jp/docs/news/1593578.html)
-- [AI Toolkit for Visual Studio Code Preview](https://github.com/microsoft/vscode-ai-toolkit/blob/main/README.md)
 - [Microsoft、「AI Toolkit for VS Code」を発表](https://forest.watch.impress.co.jp/docs/news/1593578.html)
+
+### microsoft
+
 - [Visual Studio Code 用 AI Toolkit の概要](https://learn.microsoft.com/ja-jp/windows/ai/toolkit/)
 
-### Cline
+## Cline
 
 - [VS CodeとAIチャットの往復いらず！ 話題の拡張機能Clineで爆速開発してみよう](https://qiita.com/minorun365/items/b2990a7228e8cc4ed025)
 
 
-### Visual Studio Extention
+## Visual Studio Extention
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
@@ -679,13 +705,10 @@ ENV LANG=ja_JP.UTF-8
 - [Visual Studio で C# の命名規則をチェックする](https://qiita.com/Z0E/items/965fb38563dc836a7dc8)
 - [Microsoft、「Visual Studio」でNuGetの依存関係の問題解決を支援するツールを公開](https://atmarkit.itmedia.co.jp/ait/articles/2401/25/news047.html)
 - [もうこれなしでは開発できないVisual Studioの10機能](https://qiita.com/gigadein/items/228305a1cc65651c3c2e)
-- [Visual Studio の GitHub Copilot 拡張機能とは](https://learn.microsoft.com/ja-jp/visualstudio/ide/visual-studio-github-copilot-extension)
 - [Visual StudioでGitHub Copilotが利用できるようになりました](https://aadojo.alterbooth.com/entry/2023/03/05/100000)
 - [Visual Studio 2022の機能でWeb API開発を効率化しよう](https://aadojo.alterbooth.com/entry/2023/06/04/162052)
 - [GitHub Copilotに頼り切ってPowerShellスクリプトを作ってみた](https://aadojo.alterbooth.com/entry/2023/08/08/190822)
-- [Sticky Scroll: Stay in the Right Context](https://devblogs.microsoft.com/visualstudio/sticky-scroll-stay-in-the-right-context/)
 - [Visual StudioのCode Analyzerを導入してコードをチェックしよう](https://tech-lab.sios.jp/archives/33704)
-- [Visual Studio 2019 の新機能 Microsoft Docs](https://docs.microsoft.com/ja-jp/visualstudio/ide/whats-new-visual-studio-2019?view=vs-2019)
 - [Microsoft、「Visual Studio Container Tools」拡張機能をプレビュー公開 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1185382.html)
 - [Visual Studio 2019 で使っている拡張機能 - tech.guitarrapc.com](https://tech.guitarrapc.com/entry/2019/03/18/010348)
 - [Visual Studio 2019 と拡張機能 : 情報系男子の備忘録](http://blog.livedoor.jp/robot_c/archives/17989990.html)
@@ -695,12 +718,20 @@ ENV LANG=ja_JP.UTF-8
 - [【Visual Studio 2017】オススメの拡張機能 その 2（25 個）](https://baba-s.hatenablog.com/entry/2017/12/25/000000)
 - [【Visual Studio】オススメの拡張機能 その 1（35 個）](https://baba-s.hatenablog.com/entry/2016/06/29/100000)
 - [【Visual Studio】オススメの拡張機能 その 2（16 個） - コガネブログ](https://baba-s.hatenablog.com/entry/2017/10/03/100000)
-- [GitHub - CenterCLR/ozcodejapantour: OzCode japan tour materials.](https://github.com/CenterCLR/ozcodejapantour)
 - [WSL2、Visual Studio Code、DockerでグッとよくなるWindows開発環境](https://www.youtube.com/watch?v=aL5MlZUvZ4g)
+
+### microsoft
+
+- [Visual Studio の GitHub Copilot 拡張機能とは](https://learn.microsoft.com/ja-jp/visualstudio/ide/visual-studio-github-copilot-extension)
+- [Sticky Scroll: Stay in the Right Context](https://devblogs.microsoft.com/visualstudio/sticky-scroll-stay-in-the-right-context/)
+- [Visual Studio 2019 の新機能 Microsoft Docs](https://docs.microsoft.com/ja-jp/visualstudio/ide/whats-new-visual-studio-2019?view=vs-2019)
 
 ## Windows Copilot Runtime
 
 - [Microsoft、「Windows Copilot Runtime」を発表](https://forest.watch.impress.co.jp/docs/news/1593474.html)
+
+### microsoft
+
 - [Windows Copilot Runtime の概要](https://learn.microsoft.com/ja-jp/windows/ai/overview)
 
 ## web API

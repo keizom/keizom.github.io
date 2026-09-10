@@ -41,8 +41,7 @@
 
 ## Entra ID
 
--[Identity & Access with Microsoft Entra — ID](https://www.youtube.com/playlist?app=desktop&list=PLZDsUsqHaHWw)
-- [workshop-entra-as-code-interactive](https://github.com/mjendza/workshop-entra-as-code-interactive)
+- [Identity & Access with Microsoft Entra — ID](https://www.youtube.com/playlist?app=desktop&list=PLZDsUsqHaHWw)
 - [Microsoft Graph API を利用して Azure AD のサインイン アクティビティ レポートをファイルに出力する PowerShell スクリプト](https://jpazureid.github.io/blog/azure-active-directory/microsoft-graph-api-signin-activity-reports/)
 - [Entra IDとGraph APIを使ってOAuth 2.0の認可コードフローを試してみる](https://zenn.dev/habuuuuu/articles/b100d7146a1c27)
 - [Entra ID 初学者向けシリーズ第 1 弾 - 条件付きアクセス 入門](https://jpazureid.github.io/blog/azure-active-directory/starter-series-conditional-access/)
@@ -72,7 +71,6 @@
 - [フェデレーション認証から Azure AD 認証への移行事例のご紹介](https://www.softbanktech.co.jp/special/blog/cloud_blog/2022/0087/)
 - [Azure Active Directory で証明書ベースの認証を行ってみた](https://www.cybertrust.co.jp/blog/certificate-authority/client-authentication/azure-ad-certificate.html)
 - [2022 年 6 月末から「セキュリティの既定値群」の有効化が促されます (対象 : 一部のテナント)](https://jpazureid.github.io/blog/azure-active-directory/security-default-2022/)
-- [Conditional Access Workflow - v1.4.pdf](https://github.com/kennethvs/cabaseline202212/blob/main/Conditional%20Access%20Workflow%20-%20v1.4.pdf)
 - [Microsoft Graph PowerShellを利用してユーザーの最終サインイン日時を取得する](https://blog.jbs.co.jp/entry/2023/03/15/124720)
 
 ### テナント間同期
@@ -188,7 +186,6 @@
 - [Mac から Azure Bastion 経由で VM へ接続する](https://qiita.com/tbuchi888/items/ba4bca16412f68abfc65)
 - [Azure Bastionを使ってVscode接続・SSH接続](https://www.netmarvs.com/archives/6055)
 - [Visual Studio Code の Tunnel 機能が便利](https://yoh1496.hatenablog.com/entry/2022/12/16/184800)
-- [Remote SSH via Azure Bastion (with AAD auth](https://github.com/microsoft/vscode-remote-release/issues/7179)
 - [VSCode の Remote Tunnels で「いつもの開発環境へ」お手軽リモート接続](https://zenn.dev/hankei6km/articles/connect-my-machine-via-vscode-remote-tunne)
 - [VSCodeでリモート開発環境を整えてみた](https://techblog.gmo-ap.jp/2023/04/11/vscode_remote/)
 - [VSCodeのRemote Extentionを使う話](https://qiita.com/ist-sh-ha/items/359df9097cf14d2f7868)
@@ -207,9 +204,6 @@
 - [VSCodeのTerraform拡張機能にTerraform Cloudビューが追加されました](https://dev.classmethod.jp/articles/vscode-extenstions-tfc-view/)
 - [TerraformとBicep両方さわってみて思ったこと](https://dev.thanaism.com/2021/08/terraform/)
 - [エンジニア全員が Terraform を安心・安全に触れるような仕組みを整えています](https://tech.visasq.com/terraform-automation)
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
-- [bicep](https://github.com/Azure/bicep)
-- [Azure Resource Manager QuickStart Templates](https://github.com/Azure/azure-quickstart-templates)
 - [Azure Bicep について簡単にまとめ](https://zenn.dev/kentaro36/articles/a465f641e3c7c8)
 - [Azureの既存リソースをBicep（IaC）化するガイダンス](https://zenn.dev/microsoft/articles/guidance-for-migrate-to-bicep)
 - [Azure Bicep について](https://zenn.dev/kentaro36/articles/a465f641e3c7c8)
@@ -233,7 +227,6 @@
 ## Azure Cosmos DB
 
 - [【Azure】CosmosDBにおけるパーティション入門ガイド【初心者向け】](https://tech-lab.sios.jp/archives/44573)
-- [GitHub - DocumentDB-Quickstart-DotNet](https://github.com/dzadnip/DocumentDB-Quickstart-DotNet)
 - [Azure Cosmos DB 自習書 Azure Cosmos DB 入門 SQL API 編](https://www.cloud-for-all.com/resource/azure-cosmos-db-sql-api)
 - [Azure Cosmos DB 入門（1）](https://ryuichi111std.hatenablog.com/entry/2017/05/21/013229)
 
@@ -248,7 +241,7 @@
 - [Cognitive Services Custom Vision から画像解析モデルを Dockerimage に Export して利用する - Qiita](https://qiita.com/annie/items/3c0d0ec517d61526eb63)
 - [Cognitive Services LUIS でノンコーディング自然言語分析始めよう (2019 年 6 月版) - Qiita](https://qiita.com/annie/items/5fdc9030521f8a0ed61c)
 - [Cognitive Services Speech Service ことはじめ\_20190725](https://www.slideshare.net/ayomori/cogbot-cognitive-servicesspeechgettingstarted20190725)
-- [GitHub - beachside-project/CustomVision-ML.NET-Hands-on: Create Image classifier in Custom Vision(Microsoft Cognitive Services) and Create App using ML.NET.](https://github.com/beachside-project/CustomVision-ML.NET-Hands-on)
+
 
 ## Azure Container
 
@@ -345,7 +338,6 @@
 - [.NET 10 × Visual Studio 2026 で始める Azure Functions 開発 - Qiita](https://qiita.com/s_w_high/items/e988886aa3854ffd492f)
 - [How can I use NuGet packages in my Azure Functions?](https://stackoverflow.com/questions/36411536/how-can-i-use-nuget-packages-in-my-azure-functions)
 - [Azure Functions(v4) で.NETの関数を分離ワーカーモデルで動かす時のログレベルの設定について](https://aadojo.alterbooth.com/entry/2024/01/25/110038)
-- [Azure Functions バインド拡張機能を登録する](https://github.com/MicrosoftDocs/azure-docs.ja-jp/blob/master/articles/azure-functions/functions-bindings-register.md)
 - [Azure Functions - C# で Nuget パッケージを利用してみた](https://tech.guitarrapc.com/entry/2016/04/05/043723)
 - [Azure Functions (Node.JS) からの http リクエスト (GET/POST) で async/await を適用する](https://qiita.com/annie/items/538e4410ac16fe75e745)
 - [AZURE Function AppでSendGridを使ってメール送信する](https://qiita.com/sunack/items/98a4ed71eea88ee5e119)
@@ -421,7 +413,6 @@
 - [初めてのAzure Log AnalyticsとKQL クエリ](https://www.tama-negi.com/2021/08/04/azure-loganalytics-begin/)
 - [Azure MonitorとLogAnalyticsについて](https://www.guri2o1667.work/entry/2020/03/21/Azure_Monitor%E3%81%A8LogAnalytics%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 - [【Azure】Log Analytics単体では不可能なクエリをPowerShellで補完する](https://atmarkit.itmedia.co.jp/ait/articles/2401/31/news038.html)
-- [The Definitive Guide to KQL: Using Kusto Query Language for Operations, Defending and Threat Hunting](https://github.com/KQLMSPress/definitive-guide-kql)
 
 ## Azure Logic Apps
 
@@ -456,7 +447,6 @@
 - [Azure OpenAI Service 入門ハンズオンラボ](https://dev-lab-io.github.io/aoai/scenario1/home)
 - [マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開](https://www.publickey1.jp/blog/24/aiai12.html)
 - [プログラミング支援AIサービスが主要各社から出そろう　各サービスのまとめ　GitHub／AWS／Google／GitLab／JetBrains](https://www.itmedia.co.jp/news/articles/2312/18/news093.html)
-- [microsoft/generative-ai-for-beginners:](https://github.com/microsoft/generative-ai-for-beginners)
 - [プログラミング支援AIサービスが主要各社から出揃う、各サービスのまとめ。GitHub／AWS／Google／GitLab／JetBrains](https://www.publickey1.jp/blog/23/aigithubawsgooglegitlabjetbrains.html)
 - [「ChatGPT」わからん勢に朗報！ OpenAIの「Prompt examples」ページが有用](https://forest.watch.impress.co.jp/docs/serial/yajiuma/1556698.html)
 - [Microsoft、生成AIを活用したい起業家向けトレーニングをMicrosoft Learnで公開](https://atmarkit.itmedia.co.jp/ait/articles/2312/26/news079.html)
@@ -468,7 +458,6 @@
 - [【ChatGPTのおすすめプラグイン一覧】猛者達が選んだ最強プラグインの使い方44選](https://weel.co.jp/media/plugin-list)
 - [【決定版】DALL·E 3完全攻略ガイド](https://chatgpt-lab.com/n/n52b6cea5f655)
 - [LLMのプロンプト技術まとめ](https://qiita.com/fuyu_quant/items/157086987bd1b4e52e80)
-- [Sample_Prompt_for_Education](https://github.com/hisahonakata/Sample_Prompt_for_Education/tree/main)
 - [OpenAI がまたやった！OpenAI DevDay 総まとめ](https://chatgpt-lab.com/n/n0554df7f1b80)
 - [世界一わかりみの深いAzure OpenAI Service](https://tech-lab.sios.jp/archives/36497)
 - [「ChatGPT」でグラフや表を作成--エディションごとの機能と作成手順](https://japan.zdnet.com/article/35209088/)
@@ -478,12 +467,10 @@
 - [Power Platform × Azure OpenAI の価値](https://qiita.com/Takashi_Masumori/items/bef0a07a521cae238064)
 - [ChatGPTをMicrosoft Teamsのチャットで使う―Azure Open AIを使った設定の手順](https://internet.watch.impress.co.jp/docs/column/shimizu/1513908.html)
 - [Microsoft謹製エンタープライズ向けPrivate ChatGPT(Azure ChatGPT)が公開されたのでローカル環境で動かしてみた](https://blog.cloudnative.co.jp/19068/)
-- [azurechatgpt](https://github.com/microsoft/azurechatgpt)
 - [企業専用 ChatGPT を Azure OpenAI & Web App で爆速構築する](https://blog.cloudnative.co.jp/17675/)
 - [Azure OpenAI Service のはじめ方](https://acro-engineer.hatenablog.com/entry/2023/08/04/120000)
 - [セキュリティが高いChatGPT?! Azure OpenAIを利用したチャット](https://tech-lab.sios.jp/archives/34045)
 - [独自ナレッジをノーコードでChatGPTに連携！Azure Open AI「Add your data」](https://zenn.dev/microsoft/articles/azure-openai-add-your-data)
-- [Azure OpenAI Samples Japan](https://github.com/Azure-Samples/jp-azureopenai-samples)
 - [Azure OpenAI GPT-4 利用開始までのお手続きについて](https://cptechweb.teldevice.co.jp/hc/ja/articles/17876365055257-Azure-OpenAI-GPT-4-%E5%88%A9%E7%94%A8%E9%96%8B%E5%A7%8B%E3%81%BE%E3%81%A7%E3%81%AE%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 - [Azure OpenAI サービスの事前申請について](https://cptechweb.teldevice.co.jp/hc/ja/articles/17880146288537-Azure-OpenAI-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BA%8B%E5%89%8D%E7%94%B3%E8%AB%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 - [Azure OpenAI Serviceを使ってみた〜申請・利用方法〜](https://www.softbank.jp/biz/blog/cloud-technology/articles/202305/azure-openai-setup/)
@@ -518,10 +505,7 @@
 
 ## Azure Resource Manager
 
-- [Azure Design Studio](https://github.com/chunliu/AzureDesignStudio)
 - [【Azure】ARMテンプレートを使おう！](https://qiita.com/kanazawa1226/items/708c176cee313c77bb00)
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
-- [azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas)
 - [第16回　Azureのリソース管理（2）テンプレートからのデプロイ (小澤昌樹)](https://www.school.ctc-g.co.jp/columns/ozawa4/ozawa416.html)
 - [Resource Explorer (azure.com)](https://resources.azure.com/)
 - [Azure のリソース定義を JSON で取得したい](https://www.syuheiuda.com/?p=4381)
@@ -714,7 +698,7 @@
 
 - [GitHub Copilot ChatでAzureのインフラを爆速実装しよう](https://techblog.ap-com.co.jp/entry/2024/01/26/184440)
 - [5分で分かるTerraform（Infrastructure as Code）](https://www.lac.co.jp/lacwatch/service/20200903_002270.html)
-- [GitHub - hashicorp/terraform-provider-azurerm: Terraform provider for Azure Resource Manager ? GitHub](https://github.com/hashicorp/terraform-provider-azurerm)
+
 
 ## Microsoft Operations Management Suite
 

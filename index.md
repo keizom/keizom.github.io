@@ -13,6 +13,7 @@
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [web](https://keizom.github.io/web.html)
+- [GitHub repository]((https://keizom.github.io/GitHub.html))
 
 
 # site
@@ -133,9 +134,7 @@
 - [ASCII × FIXER](https://ascii.jp/azure-fixer/)
 - [ゼロからはじめる Azure Mynavi](https://news.mynavi.jp/techplus/series/zeroazure/)
 - [ASP.NET 入門](https://aspnet.keicode.com/)
-- [microsoft Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [Microsoft Azure 最新機能フォローアップ](https://atmarkit.itmedia.co.jp/ait/series/1845/)
-- [Azure AD webinar にご参加ください](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)
 - [AzureAD Japan](https://www.youtube.com/channel/UCVrKqrCLcB0eJu8heNB2ZKg/videos)
 - [全エンジニア必見！情報収集のためのリンク集](https://qiita.com/kazuki_tachikawa/items/773b4a07ae3f73f22a48)
 - [GW、暇なら読んどく？　企業が無料公開した研修資料まとめ　「AI活用」「グラブル裏側」「うんこのリスク」など](https://www.itmedia.co.jp/news/articles/2405/01/news053.html)

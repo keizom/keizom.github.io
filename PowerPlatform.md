@@ -157,7 +157,6 @@
 - [Power Apps や Power Automate で以前作成したものを使って効率よく作成する](https://qiita.com/Takashi_Masumori/items/21a35eea397f99184d06)
 - [Microsoft Power Platform CLI とは?](https://learn.microsoft.com/ja-jp/power-platform/developer/cli/introduction?tabs=windows)
 - [App in a Day @Home ― お家で Power Apps ハンズ](https://www.youtube.com/playlist?list=PL1RqQ3kddIpa0plPbFZ2ExF-hCnazx-Rd)
-- [PowerApps-Sample-Apps-Japan](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main)
 - [365ユーザー向け、キャンバスアプリの作り方](https://learn.microsoft.com/ja-jp/collections/j0xzun463pkrng?sharingId=M365-MVP-5000493)
 - [ありそうでなかった！Power Appsから直接SharePointのドキュメントライブラリにアップロードするコンポーネントを作成する](https://qiita.com/DEmodoriGatsuO/items/2b9c25cf5dcd17b4958d)
 - [365ユーザー向け、クラウドフローの作り方](https://learn.microsoft.com/ja-jp/collections/yjoqipk6wznk2z?sharingId=M365-MVP-5000493)
@@ -192,10 +191,6 @@
 - [社内緊急対策のための Power Platform テンプレートをリリース](https://memo.tyoshida.me/power-platform/powerapps/crisis-communication-template-released/)
 - [働き方改革に効く！ゼロからはじめる PowerApps(5) Office 365 の Excel とバーコード機能で固定資産の棚卸をしよう   マイナビニュース](https://news.mynavi.jp/article/powerapps-5/)
 - [働き方改革に効く！ゼロからはじめる PowerApps(11) スキルや資格を Microsoft 365 ユーザーにひもづけて管理するアプリを作る   マイナビニュース](https://news.mynavi.jp/article/powerapps-11/)
-
-## Power Apps PowerShell
-
-- [PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples/blob/master/powershell/UserManagement/Microsoft.PowerPlatform.Administration.UserManagement/README.md)
 
 ## Power Apps ModelDriven
 
@@ -240,7 +235,6 @@
 - [Power Automate で Excel にデータを出力する](https://qiita.com/Takashi_Masumori/items/c50396c152f2f71e4e1b)
 - [Power Automate から Azure Automation を呼び出してクラウド上で PowerShell を実行してみる](https://idea.tostring.jp/?p=5899)
 - [Power Automate から PowerShell を実行する方法](https://jpdynamicscrm.github.io/blog/powerautomate/Execute-PowerShell/)
-- [202009_PowerAutomate_Handson](https://github.com/rnakamuramartiny/Share_RPACommunity/tree/master/202009_PowerAutomate_Handson)
 - [Azure 活用！Power Automate ならノーコードで顔写真から年齢や性別が判断できる！ハンズオンイベント！](https://rpa-bank.com/column/40730)
 - [Microsoft Flow から SharePoint REST サービス呼び出し](https://docs.microsoft.com/ja-jp/archive/blogs/office365-tech-japan/invoke-sporestservice-by-using-flow)
 - [Microsoft Flow でアイテムの権限を変更する](http://deepcom.co.jp/flow_item_permission_1/)
@@ -280,7 +274,6 @@
 - [Power BI 王子の Tips 集 #PowerBI - Qiita](https://qiita.com/yugoes1021/items/07d5e0637a6444f2b043)
 - [Power BI Tips スタースキーマへの道 #PowerBI - Qiita](https://qiita.com/yugoes1021/items/12a40a5089fc5b5167c5)
 - [なんで Power BI を正しく使用できるユーザーが増えないのだろう？ - Qiita](https://qiita.com/yugoes1021/items/4df0aecacbf7263bed14)
-- [powerbi-desktop-samples/Sample Reports](https://github.com/microsoft/powerbi-desktop-samples/tree/main/Sample%20Reports)
 - [Power BI](https://go.microsoft.com/fwlink/?linkid=2286169\&clcid=0x409\&culture=en-us\&country=us)
 - [分解ツリーとサンキーチャートを整理する #PowerBI - Qiita](https://qiita.com/nktm0511/items/844fc01c4c72fb4cc9fd)
 - [組織内の Office 365 の利用状況を可視化する Power BI Office 365 Adoption Content Pack](https://idea.tostring.jp/?p=2873)
@@ -334,7 +327,6 @@
 - [Microsoft Forms API 現時点でのまとめ](https://qiita.com/baku2san/items/47c8ad906e01d7e5d5b9)
 - [Azure Serverless or Power Platform ～ あなたならどっち？！ ～ Power Platform 編](https://www.slideshare.net/yugoes1021/azure-serverless-or-power-platform-power-platform?from_m_app=ios)
 - [Get Month Name from Month Number in Power BI - SPGuides](https://www.spguides.com/get-month-name-from-month-number-in-power-bi/)
-- [GitHub - The-Japan-DataScientist-Society/100knocks-preprocess: データサイエンス 100 本ノック（構造化データ加工編）](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
 - [Power BI Tips Power BI でリアルタイムアンケート ～ アンケートを即可視化 2020 年版 ～ - Qiita](https://qiita.com/yugoes1021/items/ea4c96cec9f1c7e47347)
 - [Power BI Update - September 2020 - YouTube](https://www.youtube.com/watch?feature=youtu.be&v=gPGy18Yo0Go&app=desktop)
 - [Power BI で Azure 監査ログを表示および分析する方法](https://docs.microsoft.com/ja-jp/archive/blogs/jpitpro/power-bi-azure)
@@ -343,7 +335,6 @@
 - [Power BI のサンプルを入手する - Power BI  Microsoft Docs](https://docs.microsoft.com/ja-jp/power-bi/create-reports/sample-datasets)
 - [Power BI による Azure アクティビティログの可視化 – Cloud Steady   パーソルプロセス＆テクノロジー株式会社](https://cloudsteady.jp/post/7312/)
 - [Power BI の学び-真似することから始めてみる - 業務ハック Lab](https://yo-yon.hatenablog.com/entry/powerbimanabimane)
-- [powerbi-desktop-samples/Sample Reports at master microsoft/powerbi-desktop-samples · GitHub](https://github.com/microsoft/powerbi-desktop-samples/tree/master/Sample%20Reports)
 - [Global Admin Pro Tip: Learn how to build video analytics reporting using Office 365 audit logs](https://techcommunity.microsoft.com/t5/Microsoft-Stream-Blog/Global-Admin-Pro-Tip-Learn-how-to-build-video-analytics/ba-p/365267)
 - [組織内の Office 365 の利用状況を可視化する Power BI Office 365 Adoption Content Pack パブリック プレビュー開始  idea.toString();](https://idea.tostring.jp/?p=2873)
 - [Heads up: The Power BI app is coming to Microsoft Outlook and Microsoft Office (Preview)](https://powerbi.microsoft.com/ja-jp/blog/heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview/?cdn=disable)
