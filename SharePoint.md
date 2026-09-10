@@ -395,6 +395,15 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [SharePoint look book](https://sharepointlookbook.azurewebsites.net/)
 - [SharePoint 社内ポータルサイト構築例 ～ コミュニケーションサイト編 ～](https://www.micknabewata.com/entry/sharepoint/communicationSiteTemplate)
 
+## SharePoint Skill
+
+- [SharePoint Skills](https://pnp.github.io/sharepoint-skills/)
+- [Announcing the SharePoint Skills Community Gallery | Discover, Download & Contribute](https://www.youtube.com/watch?v=FmKk65Fhsoc)
+
+### MS Learn
+
+- [Copilot in SharePoint をスキルで拡張する](https://learn.microsoft.com/ja-jp/sharepoint/copilot-in-sharepoint-skills)
+
 ## SSIS 2 SharePoint
 
 - [Moving SharePoint Documents to the File System](https://dataqueen.curiousmind.ca/2013/02/moving-sharepoint-documents-to-the-file-system/)
