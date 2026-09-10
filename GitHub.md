@@ -222,5 +222,6 @@
 - [PnP-Tools/Solutions/SharePoint.Search.QueryTool/](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.Search.QueryTool)
 
 
+- [The sp-dev-modernization repository](https://github.com/pnp/modernization/tree/master)
 
-
+- [EventLogExpert](https://github.com/microsoft/eventlogexpert)
