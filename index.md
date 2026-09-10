@@ -13,7 +13,7 @@
 - [PowerPlatform](https://keizom.github.io/PowerPlatform.html)
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [web](https://keizom.github.io/web.html)
-- [GitHub repository]((https://keizom.github.io/GitHub.html))
+- [GitHub repository](https://keizom.github.io/GitHub.html)
 
 
 # site
