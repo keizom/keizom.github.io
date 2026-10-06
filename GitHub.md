@@ -15,13 +15,13 @@
 - [web](https://keizom.github.io/web.html)
 - [GitHub repository]((https://keizom.github.io/GitHub.html))
 
-
 # GitHub
 
 ## Entra ID
 
 - [workshop-entra-as-code-interactive](https://github.com/mjendza/workshop-entra-as-code-interactive)
 - [Conditional Access Workflow - v1.4.pdf](https://github.com/kennethvs/cabaseline202212/blob/main/Conditional%20Access%20Workflow%20-%20v1.4.pdf)
+- [Learn365](https://github.com/harsh-bothra/learn365/tree/main)
 
 ## Azure Bastion
 
@@ -185,6 +185,7 @@
 ## SharePoint
 
 - [SPFarmInfo.ps1](https://github.com/acasilla/SPFarmInfo/
+- [KotorinChunChun - SpWiki](https://github.com/KotorinChunChun/SpWiki)
 
 ## VMware
 

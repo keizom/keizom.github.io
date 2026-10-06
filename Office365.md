@@ -25,6 +25,9 @@
 - [Microsoft Fabric の製品、ワークロード、項目のアイコン](https://learn.microsoft.com/ja-jp/fabric/fundamentals/icons)
 - [Microsoft Power Platform アイコン](https://learn.microsoft.com/ja-jp/power-platform/guidance/icons)
 - [Microsoft/PowerBI-Icons](https://github.com/microsoft/PowerBI-Icons)
+- [公式な Microsoft 365 製品 (サービス) アイコンを入手する方法について](https://kogelog.com/20230206-01/)
+- [Microsoft 365 Product Icons](https://developer.microsoft.com/en-us/fluentui#/styles/web/m365-product-icons)
+
 
 # 不明
 
