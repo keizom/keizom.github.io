@@ -28,6 +28,7 @@
 - [公式な Microsoft 365 製品 (サービス) アイコンを入手する方法について](https://kogelog.com/20230206-01/)
 - [Microsoft 365 Product Icons](https://developer.microsoft.com/en-us/fluentui#/styles/web/m365-product-icons)
 
+[]
 
 # 不明
 
