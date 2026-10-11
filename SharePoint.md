@@ -17,7 +17,7 @@
 # SharePoint
 
 - [ここまでできるSharePoint。申請管理の設計術](https://x.com/yugen_matuni/status/2094718684195405957?s=12)
-- [Upcoming changes to classic publishing sites, classic pages, and custom scripting in SharePoint Online](https://learn.microsoft.com/en-us/sharepoint/classic-user-created-page-deprecation)
+- [Upcoming changes to classic publishing sites classic pages and custom scripting in SharePoint Online](https://learn.microsoft.com/en-us/sharepoint/classic-user-created-page-deprecation)
 - [SharePoint 2016 How to Change SuitBar’s Text PowerShell - Microsoft Learn](https://learn.microsoft.com/en-us/archive/technet-wiki/34202.sharepoint-2016-how-to-change-suitbars-text-powershell)
 - [SharePoint ナレッジエージェントからAI in SharePointへ](https://shanqiai.lekumo.biz/sharepoint_technical_note/2026/05/sharepoint-ai-i-776b.html)
 - [SharePoint ：新しい SharePoint 体験)ガラっと変わってビックリ？） ? Art-Break .log : Taichi Nakamura](https://art-break.net/tech/?p=25607)
@@ -109,14 +109,14 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [[SharePoint]CSOMでログインにパスワード以外を使う](https://qiita.com/RYO-4947123/items/db4dfdba0ea888c893cc)
 - [Check if content editor or script editor web part is present in the list forms (New/Display/Edit form) using PowerShell (CSOM/PnP)](https://sharepoint.stackexchange.com/questions/294192/check-if-content-editor-or-script-editor-web-part-is-present-in-the-list-forms?rq=1)
 - [SharePointCSOM でログインにパスワード以外を使う](https://qiita.com/RYO-4947123/items/db4dfdba0ea888c893cc)
-- [SharePoint Online の HTTP 調整 (応答コード 429, 503) に関して](https://social.msdn.microsoft.com/Forums/ja-JP/8e5a4116-c96a-4d3e-9bbf-6efb852b5d88/sharepoint-online-12398-http-3551925972-2454031572124671254012489-429-503?forum=sharepointsupportteamja)
+- [SharePoint Online の HTTP 調整 (応答コード 429 503) に関して](https://social.msdn.microsoft.com/Forums/ja-JP/8e5a4116-c96a-4d3e-9bbf-6efb852b5d88/sharepoint-online-12398-http-3551925972-2454031572124671254012489-429-503?forum=sharepointsupportteamja)
 - [再改訂版 SharePoint Online HTTP 調整 (応答コード : 429) 対策の増分バックオフ リトライ](https://social.msdn.microsoft.com/Forums/ja-JP/21e2a628-44be-4541-bca9-b81c484ff59b/20877259133533029256-sharepoint-online-http-3551925972?forum=sharepointsupportteamja)
 - [SharePoint Online 管理シェルは SharePoint Online Client Components SDK がインストールされた端末で使用できません](https://jpspsupport.github.io/blog/sharepoint-online/managementshell-clientcomponentsSDK/)
 - [Connect-SPOService is not working!](https://learn.microsoft.com.mcas.ms/en-us/answers/questions/1121833/connect-sposervice-is-not-working)
 
 > 1. Navigate to “C:\Windows\Microsoft.NET\assembly\GAC_MSIL”
 > 2. Select all folders starting with the name “Microsoft.SharePoint.Client” and delete them all.
-> 3. Finally, Install the PowerShell Module for SharePoint Online: Install-Module Microsoft.Online.SharePoint.PowerShell -force
+> 3. Finally Install the PowerShell Module for SharePoint Online: Install-Module Microsoft.Online.SharePoint.PowerShell -force
 
 - [SharePoint Online で調整またはブロックを回避する Microsoft Docs](https://docs.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 - [Create Update Delete Or Retrieve SharePoint Site Collections Using CSOM PowerShell](https://www.c-sharpcorner.com/article/create-update-delete-or-retrieve-sharepoint-site-collectio/)
@@ -219,7 +219,7 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [Yeoman v5.0.0 リリースによる SPFx への影響](https://www.illuminate-j.jp/blog/010_spfx_yeoman)
 - [【SPFx】PnP Controlsを利用する SharePoint Framework](https://mynote365.hatenadiary.com/entry/2019/08/16/190000)
 - [SharePoint Framework 更新者・最終更新日時列に任意の値をセットする](https://www.illuminate-j.jp/blog/spfx_validateupdatelistitem)
-- [Announcing SharePoint Framework 1.18 with updates for Microsoft Teams, Microsoft Viva and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-18-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/)
+- [Announcing SharePoint Framework 1.18 with updates for Microsoft Teams Microsoft Viva and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-18-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/)
 - [SharePoint Framework カスタムプロパティに繰り返し項目を作成する](https://www.illuminate-j.jp/blog/spfx_arrayproperty)
 - [SharePoint Framework 1 つの PC で複数バージョンの開発環境を利用する](https://www.illuminate-j.jp/blog/spfx04_devenv)
 - [MsGraphSpFxThangu](https://www.youtube.com/watch?v=AKftsTLQBGo)
@@ -268,7 +268,7 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
   > リストビューのしきい値の 5000 件を、ドキュメントライブラリやリストに登録できるアイテムの件数と混同されている場合があります。
 
 - [大規模なリストとライブラリを管理する](https://support.microsoft.com/ja-jp/office/%e5%a4%a7%e8%a6%8f%e6%a8%a1%e3%81%aa%e3%83%aa%e3%82%b9%e3%83%88%e3%81%a8%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%82%92%e7%ae%a1%e7%90%86%e3%81%99%e3%82%8b-b8588dae-9387-48c2-9248-c24122f07c59?ui=ja-jp&rs=ja-jp&ad=jp)
-  > モダン環境で並べ替えを実行する際のインデックスの自動作成は、アイテム数が 20,000 未満のリストおよびライブラリに限定されています。
+  > モダン環境で並べ替えを実行する際のインデックスの自動作成は、アイテム数が 20000 未満のリストおよびライブラリに限定されています。
 
 * [リスト ビューのしきい値によって発生する現象と対処策](https://docs.microsoft.com/ja-jp/archive/blogs/sharepoint_support/31574)
 
@@ -290,7 +290,7 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [SharePoint のファイル管理機能をどう使っていくべきか？](https://shanqiai.weblogs.jp/sharepoint_technical_note/2022/04/sharepoint-filemanagement-from-my-point-of-view.html)
 - [SharePoint Online エクスプローラーで開く機能の制限事項について](https://social.msdn.microsoft.com/Forums/ja-JP/75d6134c-69f2-4013-878f-7892b23e9042/sharepoint-online?forum=sharepointsupportteamja)
 - [SharePoint home sites: a landing for your organization on the intelligent intranet - Microsoft Tech Community - 621933](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-home-sites-a-landing-for-your-organization-on-the/ba-p/621933)
-- [Updates to SharePoint security, and migration - Microsoft Tech Community - 549585](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/updates-to-sharepoint-security-administration-and-migration/ba-p/549585)
+- [Updates to SharePoint security and migration - Microsoft Tech Community - 549585](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/updates-to-sharepoint-security-administration-and-migration/ba-p/549585)
 - [外部ユーザーからのアクセス要求を承認して SharePoint サイトに権限を付ける作業を自動化してみた - 鍋綿ブログ](https://www.micknabewata.com/entry/sharepoint/user-invite)
 - [SharePoint ：Column formatting を使ってみたけど僕には今のところ難しい](https://art-break.net/tech/?p=1523)
 - [SharePoint 「注目リンク」リストを CSS でイイカンジにカスタマイズ](https://art-break.net/tech/?p=918)
@@ -310,7 +310,7 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [Useful CSS Classes in SharePoint 2013 – JoshMcCarty.com](https://joshmccarty.com/useful-css-classes-sharepoint-2013/)
 - [既定のサーバー リボンのカスタマイズの場所 Microsoft Docs](<https://docs.microsoft.com/ja-jp/previous-versions/office/developer/sharepoint-2010/ee537543(v=office.14)>)
 - [OneDrive announcements – SharePoint Conference 2019](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-announcements-sharepoint-conference-2019/ba-p/616047)
-- [Updates to SharePoint security, administration, and migration - Microsoft Tech Community - 549585](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/updates-to-sharepoint-security-administration-and-migration/ba-p/549585)
+- [Updates to SharePoint security administration and migration - Microsoft Tech Community - 549585](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/updates-to-sharepoint-security-administration-and-migration/ba-p/549585)
 - [PowerShell – ShareGate Desktop](https://support-desktop.sharegate.com/hc/en-us/categories/204661007-PowerShell)
 - [Find And Extract Sharepoint Documents With SQL ? Mikes Data Work](https://mikesdatawork.wordpress.com/2018/05/11/find-and-extract-sharepoint-documents-with-sql/)
 - [Useful CSS Classes in SharePoint 2013 ? JoshMcCarty.com](https://joshmccarty.com/useful-css-classes-sharepoint-2013/)
@@ -349,7 +349,7 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [Sharepoint の REST API のリファレンスが不親切だったので簡潔に(?)書いてみる。](https://blog.freedom-man.com/sharepoint_restapi)
 - [SharePoint REST エンドポイントを使用して基本的な操作を完了する](https://docs.microsoft.com/ja-jp/sharepoint/dev/sp-add-ins/complete-basic-operations-using-sharepoint-rest-endpoints)
 - [SharePoint の REST API を使ってファイルをダウンロードする（バッチ処理）](https://ichiro-kun.com/post/509/)
-- [Using REST API For Selecting, Filtering, Sorting And Pagination in SharePoint List](https://peakfinders.blogspot.com/2016/09/using-rest-api-for-selecting-filtering.html?zx=f577555eebd8d3f6)
+- [Using REST API For Selecting Filtering Sorting And Pagination in SharePoint List](https://peakfinders.blogspot.com/2016/09/using-rest-api-for-selecting-filtering.html?zx=f577555eebd8d3f6)
 - [Office 365 API 入門](https://tsmatz.wordpress.com/2014/06/02/office-365-api/)
 - [Cascading of Lookup Dropdown Fields on SharePoint 2013 and Office 365](https://www.c-sharpcorner.com/article/cascading-of-lookup-dropdown-fields-on-sharepoint-2013-and-o/)
 - [Cascading Drop Down Lists in SharePoint / Office 365 using REST](http://www.markrackley.net/2014/05/20/cascading-drop-down-lists-in-sharepoint-office-365-using-rest/)
@@ -382,7 +382,7 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [Microsoft SharePoint Designer 2013 (KB2817441) 64 ビット版 Service Pack 1](https://www.microsoft.com/ja-jp/download/details.aspx?id=42009)
 - [Microsoft SharePoint Designer 2010 (64 ビット版)](https://www.microsoft.com/ja-jp/download/details.aspx?id=24309)
 - [CAML Query Builder for SharePoint 2013/2016/Online](https://www.enjoysharepoint.com/caml-query-builder-in-sharepoint-2013-online/)
-- [Download, Install and Use CAML Query Helper in SharePoint Online/2013/2010/2007](https://www.enjoysharepoint.com/sharepoint-caml-query-helper/)
+- [Download Install and Use CAML Query Helper in SharePoint Online/2013/2010/2007](https://www.enjoysharepoint.com/sharepoint-caml-query-helper/)
 - [ULS Viewer](https://www.microsoft.com/en-in/download/details.aspx?id=44020)
 - [CAML Query Builder](https://www.u2u.be/software)
 
@@ -391,14 +391,14 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 
 ## SharePoint Design Sample
 
-- [Design beautiful and performant sites, pages, and web parts with SharePoint in Office 365.](https://spdesign.azurewebsites.net/)
+- [Design beautiful and performant sites pages and web parts with SharePoint in Office 365.](https://spdesign.azurewebsites.net/)
 - [SharePoint look book](https://sharepointlookbook.azurewebsites.net/)
 - [SharePoint 社内ポータルサイト構築例 ～ コミュニケーションサイト編 ～](https://www.micknabewata.com/entry/sharepoint/communicationSiteTemplate)
 
 ## SharePoint Skill
 
 - [SharePoint Skills](https://pnp.github.io/sharepoint-skills/)
-- [Announcing the SharePoint Skills Community Gallery | Discover, Download & Contribute](https://www.youtube.com/watch?v=FmKk65Fhsoc)
+- [Announcing the SharePoint Skills Community Gallery | Discover Download & Contribute](https://www.youtube.com/watch?v=FmKk65Fhsoc)
 
 ### MS Learn
 

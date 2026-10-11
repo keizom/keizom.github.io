@@ -95,7 +95,7 @@
 
 - [Japan Power Platform Conference 2023](https://www.youtube.com/playlist?list=PLc5FJU2aT4ySMUIP_8qvT6fxb4QlCGOmA)
 - [クラウド フローで Microsoft Purview の監査ログを取得する方法 | Japan Dynamics CRM &amp; Power Platform Support Blog](https://jpdynamicscrm.github.io/blog/powerautomate/work-with-audit-log/)
-- [April Dunnam, Author at Power Platform Developer Blog 1](https://devblogs.microsoft.com/powerplatform/author/apdunnam/)
+- [April Dunnam Author at Power Platform Developer Blog 1](https://devblogs.microsoft.com/powerplatform/author/apdunnam/)
 - [Power PlatformのCommon Data Serviceを利用する10の理由 - 吉田の備忘録](https://memo.tyoshida.me/power-platform/powerapps/ten-reasons-to-use-the-common-data-service/)
 - [Power Platform ライセンスガイド 日本語版](https://aka.ms/pplicjp)
 - [Power Platform API - Getting started](https://learn.microsoft.com/en-us/power-platform/admin/powerplatform-api-getting-started)
@@ -168,7 +168,7 @@
 - [AI (Copilot) の力で実現 ! 点検業務を 1 時間でアプリ化 & 承認ワークフローで完全デジタル化しよう](https://qiita.com/nayoshik/items/abfeb39f93442441e848)
 - [Power Apps のキャンバスアプリから直接 Teams にメッセージを投稿しよう](https://qiita.com/nayoshik/items/d40710c4be57440f9cb5)
 - [Power Apps の Copilot を試す環境を作ってみよう（※2023年6月5日時点）](https://qiita.com/yamad365/items/041359ebcc646fc40f55)
-- [Microsoft Power Apps × Outlook「会議室予約状況可視化アプリ」のご紹介動画が再生回数 4,000 回を達成しました。](https://dx.si-jirei.jp/cloud-news-microsoft_power_apps-outlook-youtube-meeting-room-reservation-appli-video-play-4000times/)
+- [Microsoft Power Apps × Outlook「会議室予約状況可視化アプリ」のご紹介動画が再生回数 4000 回を達成しました。](https://dx.si-jirei.jp/cloud-news-microsoft_power_apps-outlook-youtube-meeting-room-reservation-appli-video-play-4000times/)
 - [Webinar オンデマンド一覧](https://www.microsoft.com/ja-jp/biz/dynamics/power-platform-webinar.aspx)
 - [【PowerApps Tip's】開発言語経験者の多くが陥る最初の罠と回避方法 - Qiita](https://qiita.com/yamad365/items/feed918f9934ee6a2f07)
 - [【PowerApps】カメラで撮った画像を SharePoint リストに保存し、他のアプリで見る。 - Qiita](https://qiita.com/Econoshift/items/2727dc687f5801d87272)

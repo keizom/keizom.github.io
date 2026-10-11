@@ -303,7 +303,7 @@
 - [GPT-4o超え？Anthropic「Claude 3.5 Sonnet」を使ってみた](https://liginc.co.jp/647254)
 - [Claudeの利用制限を回避するコツ](https://note.com/genkaijokyo/n/nd84c60300cbb)
 - [Claude 3.5 Sonnet vs GPT-4o — An honest revie](https://hackernoon.com/claude-35-sonnet-vs-gpt-4o-an-honest-review)
-- [【完全版】GPT-4o超えで話題沸騰のClaude 3.5 Sonnetの使い方と活用事例15選を徹底解説《プロンプトテンプレートと他LLMとの比較付》　7,000文字近くの決定版。](https://note.com/chaen_channel/n/nd6162d2b7312)
+- [【完全版】GPT-4o超えで話題沸騰のClaude 3.5 Sonnetの使い方と活用事例15選を徹底解説《プロンプトテンプレートと他LLMとの比較付》　7000文字近くの決定版。](https://note.com/chaen_channel/n/nd6162d2b7312)
 
 ## Create.xyz
 
@@ -770,7 +770,7 @@
 ### microsoft
 
 - [AI コパイロットの概要](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/ai-overview?s=09#prerequisites-for-the-ai-features-in-power-apps)
-- [Build better apps, faster: Copilot in Power Apps is now generally available](https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/)
+- [Build better apps faster: Copilot in Power Apps is now generally available](https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/)
 - [Copilot for Microsoft 365 ゴールデンプロンプト ~ 話題の生成 AI カンタン使いこなし術 ~ 2024年6月更新版](https://info.microsoft.com/JA-T2C-CNTNT-FY24-05May-22-Copilot-for-Microsoft-365-Golden-Prompt-Easy-way-to-use-AI-to-generate-topics-SRGCM12256_LP02-Thank-You---Standard-Hero.html)
 - [コパイロット プラグインの作成 - 概要 (プレビュー) - Microsoft Copilot Studio Microsoft Learn<](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/copilot-plugins-overview)
 - [Celebrating the first year of Copilot with significant new innovations - The Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/12/05/celebrating-the-first-year-of-copilot-with-significant-new-innovations/)

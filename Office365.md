@@ -258,12 +258,12 @@
 
 ## Developer Subscription
 
-- [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
+- [Microsoft 365 開発者プログラムに参加して Power Apps Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
 - [Microsoft 365 開発者サンドボックス サブスクリプションの設定](https://docs.microsoft.com/ja-jp/office/developer-program/microsoft-365-developer-program-get-started)
 - [今すぐ Microsoft 365 開発者プログラムに参加しましょう!](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)
 - [Office 365 評価版サイト申し込み](https://www.microsoft.com/ja-jp/microsoft-365/enterprise/compare-office-365-plans)
 - [Microsoft 365 Enterprise のテスト ラボ ガイド - Microsoft 365 Enterprise Microsoft Docs](https://docs.microsoft.com/ja-jp/microsoft-365/enterprise/m365-enterprise-test-lab-guides?view=o365-worldwide)
-- [Microsoft 365 開発者プログラムに参加して Power Apps, Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
+- [Microsoft 365 開発者プログラムに参加して Power Apps Power Automate の開発者環境を取得しよう](https://qiita.com/nayoshik/items/3a5dcb3c0a531ad534d0)
 - [Microsoft 365 開発者プログラム サブスクリプションへの参加条件の変更](https://shanqiai.lekumo.biz/sharepoint_technical_note/2024/07/microsoft-365-be36.html)
 
 ## Exchange Online
@@ -535,7 +535,7 @@
 ### Microsoft Mesh
 
 - [Microsoft Mesh](https://www.microsoft.com/en-us/microsoft-teams/microsoft-mesh)
-- [Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/)
+- [Bring virtual connections to life with Microsoft Mesh now generally available in Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/)
 
 ## パスキー
 

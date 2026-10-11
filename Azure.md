@@ -13,7 +13,6 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [web](https://keizom.github.io/web.html)
 
-
 # Azure
 
 - [Azure と Copilot を、アニメーションで学ぼう](https://azureanimations.github.io/?lang=ja)
@@ -55,14 +54,14 @@
 - [クラウド環境の破壊型サイバー攻撃に備えるために Microsoft Entra ID のネイティブバックアップを試してみる #Azure - Qiita](https://qiita.com/hirotomotaguchi/items/e92b4c5c5c2c9dfa4c7b)
 - [Microsoft Entra ID の検証環境を作ろう - ラック・セキュリティごった煮ブログ](https://devblog.lac.co.jp/entry/20251023)
 - [Microsoft Entra ID の テナント間アクセス設定とテナント制限 #Security - Qiita](https://qiita.com/hiyoshino/items/3db6c728b732e19a1ac1)
-- [Entra IDアカウントでGoogle WorkspaceにSSO連携してみた | ? officeの杜 ?](https://officeforest.org/wp/entra-id%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%81%a7google-workspace%e3%81%absso%e3%81%a7%e5%85%a5%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/)
+- [Entra IDアカウントでGoogle WorkspaceにSSO連携してみた ](https://officeforest.org/wp/entra-id%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%81%a7google-workspace%e3%81%absso%e3%81%a7%e5%85%a5%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/)
 - [【Entra ID ハンズオン】無料でできるEntra IDによるSSO手順 (1/3) #初心者向け - Qiita](https://qiita.com/mokonacl/items/46ba1483341e8eb1ea39)
-- [20260430 YonaYona Entra ID Night | Entra ID の QR コード認証って何ですか？](https://t.co/nwnapzUMzD)
-- [20260430_EntraIDデバイス認証って？ | ドクセル](https://www.docswell.com/s/shoko4kata/KY8ENE-2026-04-30-210021#p1)
+- [20260430 YonaYona Entra ID Night Entra ID の QR コード認証って何ですか？](https://t.co/nwnapzUMzD)
+- [20260430_EntraIDデバイス認証って？ ドクセル](https://www.docswell.com/s/shoko4kata/KY8ENE-2026-04-30-210021)
 - [Hybrid Azure AD Join と Azure AD Registered を二重構成することによる動作影響について #Windows - Qiita](https://qiita.com/Shinya-Yamaguchi/items/488c1a831f3914b91f59)
 - [マネージド ドメイン用)AD FS なし) Hybrid Azure AD Join を一から構成する #Windows - Qiita](https://qiita.com/Shinya-Yamaguchi/items/73016fcdb5beeaefa5ba)
 - [Hybrid Azure AD Join の検証用環境の動作確認とスタートアップ スクリプトによる解除の動作検証について #Windows - Qiita](https://qiita.com/Shinya-Yamaguchi/items/835f4292604443891ab3)
-- [パスワード ライトバックのしくみと一般的なトラブルシューティング | Japan Azure Identity Support Blog](https://jpazureid.github.io/blog/azure-active-directory-connect/password-writeback-overview/)
+- [パスワード ライトバックのしくみと一般的なトラブルシューティング  Japan Azure Identity Support Blog](https://jpazureid.github.io/blog/azure-active-directory-connect/password-writeback-overview/)
 - [Microsoft Entra PowerShell の紹介](https://jpazureid.github.io/blog/azure-active-directory/introducing-entra-powershell/)
 - [開発者のための Azure AD 情報まとめ](https://qiita.com/kenakamu/items/a509780d85b113a1ddf3)
 - [いちばんやさしい Azure 認証・認可編 前半](https://qiita.com/KoheiKushida/items/cbf06c17db79d697568f)
@@ -194,7 +193,7 @@
 
 - [GitHub Actions で Azure に安全・簡単にデプロイしたい](https://qiita.com/kk31108424/items/eba95c510783d18712b8)
 - [Azure Bicep を GitHub Actions で CI/CD する](https://qiita.com/hoisjp/items/9376fcf9831fe542ee20)
-- [AzureでのIaCツール選びに迷ったらこれ！ARMTemplate, Bicep, Terraform, Pulumi 比較ガイド](https://qiita.com/s_w_high/items/534a6add2a37b172a6bb)
+- [AzureでのIaCツール選びに迷ったらこれ！ARMTemplate Bicep Terraform Pulumi 比較ガイド](https://qiita.com/s_w_high/items/534a6add2a37b172a6bb)
 - [【Azure】AlmaLinuxの仮想マシン（VM）を作成する際の注意点（CentOS7代替）](https://atmarkit.itmedia.co.jp/ait/articles/2308/03/news031.html)
 - [Bicepを上手く早く書くコツ](https://zenn.dev/mizti/articles/0c8c5801be46a9)
 - [Deploy to Azure ボタンで Bicep ファイルからデプロイする (っぽく見せる powered by GitHub Actions )。](https://uncaughtexception.hatenablog.com/entry/2022/05/23/101852)
@@ -268,14 +267,14 @@
 
 ## Azure DevOps
 
-- [ExcelマクロのVBAソースコードをAzure DevOpsでバージョン管理する方法 | Medium](https://medium.com/@saso_33429/excel%E3%83%9E%E3%82%AF%E3%83%AD%E3%81%AEvba%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92azure-devops%E3%81%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-d20b751ddc30)
+- [ExcelマクロのVBAソースコードをAzure DevOpsでバージョン管理する方法  Medium](https://medium.com/@saso_33429/excel%E3%83%9E%E3%82%AF%E3%83%AD%E3%81%AEvba%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92azure-devops%E3%81%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-d20b751ddc30)
 - [これからはじめるAzure Pipelines](https://kkamegawa.hatenablog.jp/entry/2020/07/04/174915)
 - [タスク管理をスプレッドシートからAzure Boardsにしたい人向けの話](https://kkamegawa.hatenablog.jp/entry/2020/10/03/133802)
 - [Azure DevOps で CI/CD やってみる #Microsoft - Qiita](https://qiita.com/coitate/items/dd7944d8982dcf9d68c5)
 - [Azure DevOpsのCI/CDツール「Azure Pipelines」を使いこなそう](https://codezine.jp/article/detail/21897)
 - [「Azureのクラウド環境でDevOpsを実現する「Azure DevOps」入門」一覧](https://codezine.jp/article/corner/1042)
 - [Azure DevOpsとは？ サービスの概要をつかみ、プロジェクトを作成する](https://codezine.jp/article/detail/20936)
-- [ゼロからはじめるAzure)26) 「Azure DevOps」でチーム開発を行おう)2）Azure Boardsの概要と使い方 | TECH+](https://news.mynavi.jp/techplus/article/zeroazure-26/)
+- [ゼロからはじめるAzure)26) 「Azure DevOps」でチーム開発を行おう)2）Azure Boardsの概要と使い方  TECH+](https://news.mynavi.jp/techplus/article/zeroazure-26/)
 - [Azure DevOps Online Vol.10とCopilotでのサマリー](https://kkamegawa.hatenablog.jp/entry/2024/01/30/204350)
 - [DevOpsの基礎知識：歴史、利点、導入時の障壁とは？](https://tech-lab.sios.jp/archives/41442)
 - [リモートスクラムでも使えるAzure DevOps(Boards)の活用事例](https://qiita.com/motuo/items/029a9f14f5c256bbc258)
@@ -320,7 +319,7 @@
 
 ## Azure Document Intelligence
 
-- [GraphRAGの簡易検証 ~Azure Document Intelligence, Neo4jを用いて~](https://qiita.com/Ruuchami/items/294d797798d4fca346ad)
+- [GraphRAGの簡易検証 ~Azure Document Intelligence Neo4jを用いて~](https://qiita.com/Ruuchami/items/294d797798d4fca346ad)
 - [Azure AI Document Intelligence入門【Resultパラメータ解説付き！】](https://tech-lab.sios.jp/archives/41739)
 
 ## Azure Fabric
@@ -427,7 +426,7 @@
 ## Azure Open AI
 
 - [Azure OpenAI Serviceの概要と活用例｜SB C&S株式会社](https://licensecounter.jp/azure/download/azure-document26.html)
-- [Azure OpenAI ServiceによるRAG実装ガイドを公開しました | SIOS Tech Lab](https://tech-lab.sios.jp/archives/40774)
+- [Azure OpenAI ServiceによるRAG実装ガイドを公開しました  SIOS Tech Lab](https://tech-lab.sios.jp/archives/40774)
 - [AzureServerlessで作るコスパ最強RAGシステム構築](https://speakerdeck.com/teshi22/serverlessmeetuposaka-number-2-azureserverlessdezuo-rukosupazui-qiang-ragsisutemugou-zhu)
 - [【Azure OpenAI Service】Streamlit×LangChainでAIアプリ開発に入門してみた](https://tech-lab.sios.jp/archives/41574)
 - [AOAI Dev Day LLMシステム開発 Tips集](https://speakerdeck.com/hirosatogamo/aoai-dev-day-llmsisutemukai-fa-tipsji)
@@ -538,7 +537,7 @@
 
 - [VNet Integrationを利用してWeb apps とAzure Databaseを接続してみる - ピロローグ](https://pir0.hatenablog.com/entry/2019/01/28/154423)
 - [Azureで「お問い合わせフォーム付きサイト」をサーバーレスで作ってみた！後編](https://www.softbank.jp/biz/blog/cloud-technology/articles/202006/azure-serverless2/)
-- [Microsoft Azure WebApps × SendGridでメールフォームを作成してみた。 | nrjlog](https://zuvuyalink.net/nrjlog/archives/2547)
+- [Microsoft Azure WebApps × SendGridでメールフォームを作成してみた。  nrjlog](https://zuvuyalink.net/nrjlog/archives/2547)
 - [GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する](https://tech-lab.sios.jp/archives/43562)
 - [Azure Static Web Apps のローカル実行方法まとめ ＃Azureリレー](https://tech-blog.cloud-config.jp/2021-11-23-azure-static-web-apps-local/)
 - [SPAをStatic Web Appsにデプロイ、本番環境で使ってみた](https://qiita.com/keiotoi/items/d019303d10b11ccf568e)
@@ -667,7 +666,7 @@
 - [おさえておきたいメールの基礎用語](https://sendgrid.kke.co.jp/blog/?p=658)
 - [専門家が解説！DMARCの重要性](https://sendgrid.kke.co.jp/blog/?p=16911)
 - [専門家が語る！メール到達性について知っておくべきこと](https://sendgrid.kke.co.jp/blog/?p=15751)
-- [SPF, DKIMの特徴と違い](https://sendgrid.kke.co.jp/blog/?p=10121)
+- [SPF DKIMの特徴と違い](https://sendgrid.kke.co.jp/blog/?p=10121)
 - [まず最初にすることシリーズ：アカウントをセキュアに利用するためにするべきこと](https://sendgrid.kke.co.jp/blog/?p=10516)
 - [Azure FunctionsでEvent Webhookデータを受信する](https://sendgrid.kke.co.jp/blog/?p=9403)
 - [メールを受信する](https://sendgrid.kke.co.jp/docs/Tutorials/E_Receive_Mail/receive_mail.html)
@@ -698,7 +697,6 @@
 
 - [GitHub Copilot ChatでAzureのインフラを爆速実装しよう](https://techblog.ap-com.co.jp/entry/2024/01/26/184440)
 - [5分で分かるTerraform（Infrastructure as Code）](https://www.lac.co.jp/lacwatch/service/20200903_002270.html)
-
 
 ## Microsoft Operations Management Suite
 

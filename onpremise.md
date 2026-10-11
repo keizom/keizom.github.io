@@ -100,7 +100,7 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
 - [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
 - [What’s new in SharePoint Server 2016 Installation and Deployment](https://thirusweb.wordpress.com/2015/06/04/hello-world/)
 - [Install SharePoint Server 2016](https://docs.microsoft.com/en-us/sharepoint/install/install-for-sharepoint-server-2016?msclkid=c58d6b9cc79f11ec81d217c19644dc96)
-- [SharePoint Server 2016 Prerequisites, Installation and Deployment](https://social.technet.microsoft.com/wiki/contents/articles/32950.sharepoint-server-2016-prerequisites-installation-and-deployment.aspx)
+- [SharePoint Server 2016 Prerequisites Installation and Deployment](https://social.technet.microsoft.com/wiki/contents/articles/32950.sharepoint-server-2016-prerequisites-installation-and-deployment.aspx)
 - [構成キャッシュの再作成](https://social.msdn.microsoft.com/Forums/ja-JP/590627a7-d369-47b2-bfc8-7726d7cf9342/2708325104124611251512483124711251712398208772031625104?forum=sharepointsupportteamja)
 
   > 構成キャッシュが破損すると、以下のような様々な事象が発生する場合があります。
@@ -120,7 +120,7 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
 ## SEO 対策
 
 - [[Web]Google とかのインデックス拒否は robots.txt じゃなくて X-Robots-Tag を使う](https://sevenb.jp/wordpress/ura/2016/07/06/webgoogle%E3%81%A8%E3%81%8B%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E6%8B%92%E5%90%A6%E3%81%AFrobots-txt%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6x-robots-tag%E3%82%92/)
-- [Robots meta tag, data-nosnippet, and X-Robots-Tag specificationsbook](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#header)
+- [Robots meta tag data-nosnippet and X-Robots-Tag specificationsbook](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#header)
 - [ディレクティブ設定と検索エンジン](https://info-search.yahoo.co.jp/archives/002878.php)
 
 ## SharePoint 高可用性構成
@@ -440,7 +440,7 @@ Add-SPDistributedCacheServiceInstance
 - [RedHat Developers](https://developers.redhat.com/)
 - [RedHat Console](https://console.redhat.com/)
 - [RHEL7以降の初期設定について](https://qiita.com/ftoshiki/items/f1863cccb14c6ce808bd)
-- [Linux(Cent,RHEL,Alam)のおすすめ初期設定](https://www.kayura-se.com/entry/2022/08/08/024012)
+- [Linux(CentRHELAlam)のおすすめ初期設定](https://www.kayura-se.com/entry/2022/08/08/024012)
 - [RHEL7 よくある初期構築設定のコマンド詰め合わせ](https://dev.classmethod.jp/articles/ec2-rehl7-first-buildcmd/)
 - [RHELの開発者用サブスクリプションを取得する方法](https://qiita.com/SkyLaptor/items/31eb7b506339718455d4)
 - [Red Hat Developer Programに登録して最大16台までRHELを使おう](https://qiita.com/yamada-hakase/items/dc39d29fda693238d113)

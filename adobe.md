@@ -23,7 +23,6 @@
 
 ## Adobe XD
 
-- [【まとめ】大学が公開している有益な資料](https://qiita.com/KNR109/items/02e08d17dba01d9c2fd6)
 - [Adobe XDとは？Web制作・アプリ開発に役立つ6つの魅力を紹介](https://blog.nijibox.jp/article/adobe-xd/)
 - [【基本機能】Adobe XDのまず知っておきたい使い方や基本知識を解説](https://blog.nijibox.jp/article/adobexd_howtouse/)
 - [社内の標準デザインツールを XD に統一した話もとやまふとし / 地方 web ディレクター・マーケター note](https://note.com/futoshi/n/nc6a49d3b6a3a)

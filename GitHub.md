@@ -47,7 +47,7 @@
 
 ## Azure Log Analytics
 
-- [The Definitive Guide to KQL: Using Kusto Query Language for Operations, Defending and Threat Hunting](https://github.com/KQLMSPress/definitive-guide-kql)
+- [The Definitive Guide to KQL: Using Kusto Query Language for Operations Defending and Threat Hunting](https://github.com/KQLMSPress/definitive-guide-kql)
 
 ## Azure Open AI
 

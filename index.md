@@ -175,7 +175,7 @@
 - [「なんのためのMRか」Meta Quest 3を実際に家庭で試して気づいた大きな恩恵](https://www.moguravr.com/meta-quest-3-mr-review-2/)
 - [「Virtual Desktop」に、マルチモニター機能（β版）実装 Meta Quest 3で最大3枚まで表示可能に](https://www.moguravr.com/virtual-desktop-beta-1-32-0/)
 - [「Meta Quest 3」をしばらく使ってみて分かったこと 長所と短所を紹介](https://www.moguravr.com/meta-quest-3-review-2/)
-- [【VR】Quest 3 で PC VR : Virtual Desktop, Steam Link, Quest Air Link どれを使えばよいのか？](https://joytokey.net/ja/blog/vr/high-quality-wireless-pc-vr/)
+- [【VR】Quest 3 で PC VR : Virtual Desktop Steam Link Quest Air Link どれを使えばよいのか？](https://joytokey.net/ja/blog/vr/high-quality-wireless-pc-vr/)
 - [Meta QuestでWordとExcelを体験！VRが予想外の「集中部屋」に進化していた #TrendBuzz](https://www.lifehacker.jp/article/2401-tb-meta-quest-app/)
 - [地球のどこでも自由に飛び回れる VRアプリ「FLY」を体験してみた - MoguLive](https://www.moguravr.com/vr-fly-report/)
 

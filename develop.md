@@ -13,14 +13,13 @@
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [web](https://keizom.github.io/web.html)
 
-
 # Develop
 
-## API 
+## API
 
 - [セキュアなWeb APIの作り方 / Secure Web API](https://speakerdeck.com/oracle4engineer/secure-web-api)
 - [今すぐ使える無料WebAPIまとめ - Qiita](https://qiita.com/kazuki_tachikawa/items/7b2fead2a9698d1c15e8)
-- [Webhookとは？仕組みや利用時の注意点を解説！](https://sendgrid.kke.co.jp/blog/?p=1851
+- [Webhookとは？仕組みや利用時の注意点を解説！](https://sendgrid.kke.co.jp/blog/?p=1851)
 - [リスト攻撃事案から得られるユーザー周りの設計の学び](https://qiita.com/ritou/items/00990e00151fad46df1a)
 
 ## リーダブルコード
