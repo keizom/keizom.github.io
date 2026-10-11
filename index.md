@@ -1,5 +1,7 @@
 # Bookmarks
 
+Last Update : 2026/10/11
+
 - [index](https://keizom.github.io/)
 - [Adobe](https://keizom.github.io/adobe.html)
 - [Azure](https://keizom.github.io/Azure.html)
