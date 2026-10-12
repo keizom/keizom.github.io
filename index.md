@@ -74,7 +74,6 @@ Last Update : 2026/10/12
 - [Microsoft Create](https://create.microsoft.com/en-us)
 - [Microsoft Admin Center](https://admin.cloud.microsoft)
 - [Microsoft Loop](https://loop.cloud.microsoft)
-- [Microsoft Mesh](https://mesh.cloud.microsoft)
 - [Microsoft セットアップ](https://setup.cloud.microsoft)
 - [Microsoft Sway](https://sway.cloud.microsoft)
 - [Microsoft Viva Engage](https://engage.cloud.microsoft)

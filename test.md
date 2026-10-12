@@ -166,7 +166,7 @@
 - [ ] [AIで資料作成を終わらす。コンサル品質を求めて辿り着いた究極プロンプト×見本61枚【保存版】](https://x.com/uchita_success/status/2097277814605246515?s=12)
 - [ ] [AIスライドをクリックで深掘りできる資料にしてみた](https://x.com/uchita_success/status/2103774460163813682)
 - [ ] [AIスライドを「クリックで深掘りできる資料」にしてみた。動かし方は6つの構造で決まる【保存版】](https://x.com/uchita_success/status/2103774460163813682?s=12)- [] [使いこなすために知っておきたい Azure SRE Agent アンチパターン](https://speakerdeck.com/torumakabe/tsukaikonasu-tame-ni-shi-te-okitai-azure-sre-agent-anchipatan)
-- [ ] [Labeling Files is Worth It | Speed & Protection Benefits in Microsoft Purview](https://www.youtube.com/watch?v=Jn09iBRLxqw)
+- [ ] [Labeling Files is Worth It Speed & Protection Benefits in Microsoft Purview](https://www.youtube.com/watch?v=Jn09iBRLxqw)
 - [ ] [ターミナル派待望の GitHub Copilot CLI 使い方まとめ](https://zenn.dev/10q89s/articles/4a42fb779fde89)
 - [ ] [AIで生産性が3倍になった私たちが、チームを置き去りにした話](https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide)
 - [ ] [超簡単なGitHub git(CLI)利用法](https://zenn.dev/fygar256/articles/b0e8a2632da379)- [ ] [ローカルLLMにレビューさせていた話の続報（前回の構成、実は動いていませんでした）](https://zenn.dev/k_motoki/articles/ef60bbbc0ad7ec)

@@ -94,14 +94,14 @@
 ## PowerPlatform
 
 - [Japan Power Platform Conference 2023](https://www.youtube.com/playlist?list=PLc5FJU2aT4ySMUIP_8qvT6fxb4QlCGOmA)
-- [クラウド フローで Microsoft Purview の監査ログを取得する方法 | Japan Dynamics CRM &amp; Power Platform Support Blog](https://jpdynamicscrm.github.io/blog/powerautomate/work-with-audit-log/)
+- [クラウド フローで Microsoft Purview の監査ログを取得する方法 Japan Dynamics CRM &amp; Power Platform Support Blog](https://jpdynamicscrm.github.io/blog/powerautomate/work-with-audit-log/)
 - [April Dunnam Author at Power Platform Developer Blog 1](https://devblogs.microsoft.com/powerplatform/author/apdunnam/)
 - [Power PlatformのCommon Data Serviceを利用する10の理由 - 吉田の備忘録](https://memo.tyoshida.me/power-platform/powerapps/ten-reasons-to-use-the-common-data-service/)
 - [Power Platform ライセンスガイド 日本語版](https://aka.ms/pplicjp)
 - [Power Platform API - Getting started](https://learn.microsoft.com/en-us/power-platform/admin/powerplatform-api-getting-started)
 - [【PL-100】Microsoft Power Platform App Maker100題 過去問+模擬問題集 全問解答解説付き ｜クラウド資格過去問解説)AWS/Azure）](https://note.com/aws_kakomon/n/na3403acdbff1)
 - [Resource Query - Query Resources - REST API )Power Platform API](https://learn.microsoft.com/en-us/rest/api/power-platform/resourcequery/resource-query/query-resources)
-- [プログラミングと拡張性 - 認証 - Power Platform | Microsoft Learn](https://learn.microsoft.com/ja-jp/power-platform/admin/programmability-authentication-v2?tabs=powershell%2Cpowershell-interactive%2Cpowershell-confidential)
+- [プログラミングと拡張性 - 認証 - Power Platform Microsoft Learn](https://learn.microsoft.com/ja-jp/power-platform/admin/programmability-authentication-v2?tabs=powershell%2Cpowershell-interactive%2Cpowershell-confidential)
 - [Announcing Power Platform Well-Architected](https://www.microsoft.com/en-us/power-platform/blog/power-apps/announcing-power-platform-well-architected/)
 - [Power Platform Well-Architected](https://learn.microsoft.com/ja-jp/power-platform/well-architected/)
 - [Power Platformのセキュリティロールについて](https://qiita.com/skuramoto/items/fe305aac24273c7cccbf)
@@ -147,11 +147,11 @@
 - [Power Appsの新機能「Generative Pages」が切り拓く未来！！](https://powerdaaps.hatenablog.com/entry/2025/07/29/171622)
 - [Power Apps - コルネの進捗や備忘録が記されたなにか](https://koruneko.hatenablog.com/entry/2025/07/27/201436)
 - [PowerApps で名刺管理アプリを作ってみる)1) #Azure - Qiita](https://qiita.com/IKETA/items/132633f4988477809355)
-- [Microsoft Dataverse とは - Power Apps | Microsoft Learn](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/data-platform-intro)
-- [働き方改革に効く！ゼロからはじめるPowerApps)11) スキルや資格をMicrosoft 365ユーザーにひもづけて管理するアプリを作る | TECH+](https://news.mynavi.jp/techplus/article/powerapps-11/)
-- [Power Apps でキャンバス アプリをカスタマイズする - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/customize-apps-in-powerapps/)
-- [Power Apps の導入 - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/get-started-with-powerapps/1-powerapps-introduction)
-- [モデル駆動型アプリの構築の概要 Power Apps - Power Apps | Microsoft Learn](https://learn.microsoft.com/ja-jp/power-apps/maker/model-driven-apps/model-driven-app-overview)
+- [Microsoft Dataverse とは - Power Apps Microsoft Learn](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/data-platform-intro)
+- [働き方改革に効く！ゼロからはじめるPowerApps)11) スキルや資格をMicrosoft 365ユーザーにひもづけて管理するアプリを作る TECH+](https://news.mynavi.jp/techplus/article/powerapps-11/)
+- [Power Apps でキャンバス アプリをカスタマイズする - Training Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/customize-apps-in-powerapps/)
+- [Power Apps の導入 - Training Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/get-started-with-powerapps/1-powerapps-introduction)
+- [モデル駆動型アプリの構築の概要 Power Apps - Power Apps Microsoft Learn](https://learn.microsoft.com/ja-jp/power-apps/maker/model-driven-apps/model-driven-app-overview)
 - [【PowerApps】カメラで撮った画像をSharePointリストに保存し、他のアプリで見る。 #SharePointOnline - Qiita](https://qiita.com/Econoshift/items/2727dc687f5801d87272?sfns=mo)
 - [#MSIgnite 2022 Power Platform CLI 周り (Learn Live) セッションの参考リンク集](https://qiita.com/chomado/items/3a2493e49cb201f72b52)
 - [Power Apps や Power Automate で以前作成したものを使って効率よく作成する](https://qiita.com/Takashi_Masumori/items/21a35eea397f99184d06)
@@ -210,7 +210,7 @@
 - [Power Automateの「スコープ」でフローを整理する方法)try-catch-finally）](https://www.artisan.jp.net/blog/excel-to-sharepoint-11/)
 - [Power Automate のフロー全体を画面キャプチャする方法](https://qiita.com/AnPanda/items/6f85e501840347c86ca6)
 - [FormsとPower Automateでゲスト招待&amp;棚卸システム作ってみて気づいたこと #PowerAutomate - Qiita](https://qiita.com/DaddyDaddy/items/a7de968e09421d2d2def)
-- [Power Automate Process Mining の始め方 | ギークフジワラ](https://www.geekfujiwara.com/tech/d365/3132/)
+- [Power Automate Process Mining の始め方 ギークフジワラ](https://www.geekfujiwara.com/tech/d365/3132/)
 - [チュートリアル: Power Automate フローからスプレッドシートを更新する](https://learn.microsoft.com/ja-jp/office/dev/scripts/tutorials/excel-power-automate-manual)
 - [Power Automate クラウドフローの実行履歴を Log Analytics ワークスペースにインポートする](https://qiita.com/tetsuya-ooooo/items/b29ae8beb93cdea39dc8)
 - [【Power Automate】HTTP with Microsoft Entra ID コネクタの利用のメモ - ふらりのメモ書き](https://flali.hatenablog.com/entry/2024/06/16/215747#SKU-%E4%B8%80%E8%A6%A7%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A)
@@ -344,7 +344,7 @@
 ## PowerQuery
 
 - [Excelをノーコードで自動化しよう! パワークエリの教科書 第10回 フォルダーからデータを取得する方法](https://news.infoseek.co.jp/article/mynavi_2789152/)
-- - [Set privacy levels (Power Query) | Microsoft Support](https://support.microsoft.com/en-us/office/set-privacy-levels-power-query-cc3ede4d-359e-4b28-bc72-9bee7900b540)
+- - [Set privacy levels (Power Query) Microsoft Support](https://support.microsoft.com/en-us/office/set-privacy-levels-power-query-cc3ede4d-359e-4b28-bc72-9bee7900b540)
 
 
 ## Power Virtual Agents

@@ -49,7 +49,7 @@
 - [SharePoint Server の障害復旧のための SQL Server Always On および Microsoft Azure の計画](https://learn.microsoft.com/ja-jp/sharepoint/administration/plan-for-sql-server-always-on-and-microsoft-azure-disaster-recovery)
 - [Azure で SharePoint Server と SQL Server の Always On 可用性グループを展開する](https://learn.microsoft.com/ja-jp/sharepoint/administration/deploying-sharepoint-server-with-sql-server-alwayson-availability-groups-in)
 - [SharePoint Server 2013 の言語パック - [日本語]](https://www.microsoft.com/ja-jp/download/details.aspx?id=37140)
-- [Suite ナビゲーション バーでのカスタム ブランド化 - SharePoint Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/sharepoint/sites/custom-branding-in-suite-bar)
+- [Suite ナビゲーション バーでのカスタム ブランド化 - SharePoint Server Microsoft Learn](https://learn.microsoft.com/ja-jp/sharepoint/sites/custom-branding-in-suite-bar)
 
 ``` PowerShell
 1. 次のコマンド構文の例に示すように、すべてのオプションを設定します。
@@ -65,7 +65,7 @@ PowerShellコピー
    $webapp.SuiteNavAllowCustom = $true$webapp.Update)
 ```
 
-- [SharePoint 2013 左上の製品ロゴを変更する | idea.toString)](https://idea.tostring.jp/?p=508)
+- [SharePoint 2013 左上の製品ロゴを変更する idea.toString)](https://idea.tostring.jp/?p=508)
 
 ``` PowerShell
 $webapp = Get-SPWebApplication http://spwfe
@@ -151,7 +151,7 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
 
 ## IIS
 
-- [IIS の調査に必要な通信系のログ情報について | Japan Developer Support Internet Team Blog](https://microsoft.github.io/jpwebapps/web-apps/LogCollection2/)
+- [IIS の調査に必要な通信系のログ情報について Japan Developer Support Internet Team Blog](https://microsoft.github.io/jpwebapps/web-apps/LogCollection2/)
 
 ## Kerberos
 
@@ -234,7 +234,7 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
 $SPFarm = Get-SPFarm
 $cacheClusterName = "SPDistributedCacheCluster_" + $SPFarm.Id.ToString()
 $cacheClusterManager = [Microsoft.SharePoint.DistributedCaching.Utilities.SPDistributedCacheClusterInfoManager]::Local $cacheClusterInfo = $cacheClusterManager.GetSPDistributedCacheClusterInfo($cacheClusterName);
-$instanceName ="SPDistributedCacheService Name=AppFabricCachingService" $serviceInstance = Get-SPServiceInstance | ? {($_.Service.Tostring()) -eq $instanceName -and ($_.Server.Name) -eq $env:computername}
+$instanceName ="SPDistributedCacheService Name=AppFabricCachingService" $serviceInstance = Get-SPServiceInstance ? {($_.Service.Tostring()) -eq $instanceName -and ($_.Server.Name) -eq $env:computername}
 $serviceInstance.Delete()
 Remove-SPDistributedCacheServiceInstance
 Add-SPDistributedCacheServiceInstance
@@ -279,14 +279,14 @@ Add-SPDistributedCacheServiceInstance
 - [Microsoft Build 2026 キーノート詳解 #Windows - Qiita](https://qiita.com/lowgain/items/8fda190146e55e958f42)
 - [Windows has a better Notepad hiding on the Microsoft Store ? and it's free](https://www.makeuseof.com/windows-has-better-notepad-hiding-on-microsoft-store-its-free/)
 - [初期設定のままはダメ！ Windows 11を買ったらすぐ消すべき「おせっかいな初期設定」5選](https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news009.html)
-- [Windows の機能が利用するプロキシ設定とは？ | Microsoft Japan Windows Technology Support Blog](https://jpwinsup.github.io/blog/2024/12/04/Networking/Proxy/Proxy-settings-used-by-Windows-features/)
+- [Windows の機能が利用するプロキシ設定とは？ Microsoft Japan Windows Technology Support Blog](https://jpwinsup.github.io/blog/2024/12/04/Networking/Proxy/Proxy-settings-used-by-Windows-features/)
 - [【上級者向け】Windows 11のSSD性能を最大80％高める（？）隠し機能「ネイティブNVMe」を有効にする：Tech TIPS - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2601/09/news018.html)
 - [それ最適ですか？　もっと見やすく疲れにくい、Windows 11ディスプレイ設定を探る：Tech TIPS - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2512/10/news016.html)
 - [Meta QuestでWindows PCを使う「Mixed Reality Link」一般提供開始 - マイナビニュース](https://news.mynavi.jp/article/20251031-3606974/)
 - [今すぐ便利に使える！太古より引き継がれしWindows フリーソフト8選](https://win-tab.net/misc/windows-freesoft-osusume-2508172/)
-- [グループ ポリシーの適用 | Microsoft Japan Windows Technology Support Blog](https://jpwinsup.github.io/blog/2022/03/15/ActiveDirectory/GroupPolicy/Applying-Group-Policy/)
+- [グループ ポリシーの適用 Microsoft Japan Windows Technology Support Blog](https://jpwinsup.github.io/blog/2022/03/15/ActiveDirectory/GroupPolicy/Applying-Group-Policy/)
 - [NUC7i7DNHE に Windows Server 2019 をインストールしてみる](https://blog.engineer-memo.com/2018/09/02/nuc7i7dnhe-%e3%81%ab-windows-server-2019-%e3%82%92%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%81%97%e3%81%A6%e3%81%BF%e3%82%8B/)
-- [Windows LAPS の概要 | Microsoft Learn](https://learn.microsoft.com/ja-jp/windows-server/identity/laps/laps-overview)
+- [Windows LAPS の概要 Microsoft Learn](https://learn.microsoft.com/ja-jp/windows-server/identity/laps/laps-overview)
 - [PowerShell だけで動く、時計を表示しながら画面を連写するツール #Windows - Qiita](https://qiita.com/ytsuda/items/1c6bf5d4285a649457ff)
 - [「Windows PowerShell 5.1」に「IE」要素排除のための仕様変更 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/2070166.html)
 - [Windows版Zedを試してみたらVSCodeより使うことになりそう - Zenn](https://zenn.dev/amenaruya/articles/66b7ee7540703c)
@@ -337,7 +337,7 @@ Add-SPDistributedCacheServiceInstance
 
 # Active Directory
 
-- [コマンド一発で AD 検証環境を即構築してみた | DevelopersIO](https://dev.classmethod.jp/articles/command-ad-env-quick-build/)
+- [コマンド一発で AD 検証環境を即構築してみた DevelopersIO](https://dev.classmethod.jp/articles/command-ad-env-quick-build/)
 - [Active Directory 環境を縮小していくには](https://zenn.dev/microsoft/articles/active-directory-security-advent-calendar-2025-2)
 - [【Windows 検証環境構築】(ほぼ) コマンドのみで AD DS の検証環境を準備する方法](https://qiita.com/sonooh/items/5b519da46be7d7d348ab)
 - [Group Policy Settings Reference Spreadsheet のダウンロード先一覧](https://qiita.com/valpasucucci43/items/2ecdfee224d0b4e573ef)

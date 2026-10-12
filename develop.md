@@ -51,7 +51,7 @@
 ## .NET MAUI
 
 - [初めての.NET MAUI アプリを作ってみよう マルチプラットフォーム GUI 技術を解説](https://codezine.jp/article/detail/15907)
-- [.NET 9のテンプレート「.NET MAUI Blazor」を学ぼう | CodeZine](https://codezine.jp/article/detail/22093)
+- [.NET 9のテンプレート「.NET MAUI Blazor」を学ぼう CodeZine](https://codezine.jp/article/detail/22093)
 
 ## ASP.NET Identity
 
@@ -246,7 +246,7 @@ ENV LANG=ja_JP.UTF-8
 
 ### microsoft
 
-- [Windows 上の Visual Studio コンテナー ツールと Docker - Visual Studio  | Microsoft Learn](https://learn.microsoft.com/ja-jp/visualstudio/containers/overview?view=vs-2022)
+- [Windows 上の Visual Studio コンテナー ツールと Docker - Visual Studio Microsoft Learn](https://learn.microsoft.com/ja-jp/visualstudio/containers/overview?view=vs-2022)
 - [Docker と Kubernetes でアプリをコンテナーに入れる](https://azure.microsoft.com/ja-jp/resources/containerize-your-apps-with-docker-and-kubernetes/)
 - [Docker と Kubernetes を使ったコンテナのデプロイ、スケーリング、オーケストレーション](https://azure.microsoft.com/mediahandler/files/resourcefiles/containerize-your-apps-with-docker-and-kubernetes/ja-jp/JA-JP-Containerize_your_Apps_with_Docker_and_Kubernetes.pdf)
 - [Docker for Windows & Web Apps for Containers 実践活用技法](https://docs.microsoft.com/ja-jp/archive/blogs/nakama/dockerandazure)
@@ -315,7 +315,7 @@ ENV LANG=ja_JP.UTF-8
 - [１つのPCで複数のGithubアカウントを使う方法](https://qiita.com/k__m/items/6e60393113127a4dccd2)
 - [複数のGitHubアカウントを使い分けたい時の設定方法とTips](https://zenn.dev/taichifukumoto/articles/how-to-use-multiple-github-accounts)
 - [GitHub.com で複数アカウントの利用がサポートされ、簡単に切り替えできるようになりました](https://dev.classmethod.jp/articles/multiple-account-support-on-github-com-for-easy-switching/)
-- [非開発者のためのGitHub入門&ハンズオン | ドクセル](https://www.docswell.com/s/yuma/ZLVNPG-2025-08-15-vibebeginners#p42)
+- [非開発者のためのGitHub入門&ハンズオン ドクセル](https://www.docswell.com/s/yuma/ZLVNPG-2025-08-15-vibebeginners#p42)
 - [全エンジニアが知っておくべきGitHubリポジトリ42選](https://qiita.com/kjm_nuco/items/92b0aa084f528d5dd25e)
 - [GitHubでssh接続する手順 ～ 公開鍵・秘密鍵の生成から](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
 - [CI/CD入門第3回：GitHub Actionsを利用したCIワークフローの構築～パイプラインの全体像～](https://zenn.dev/oasys/articles/ci-cd-intro-4-github-actions-workflow)
@@ -348,7 +348,7 @@ ENV LANG=ja_JP.UTF-8
 
 ### microsoft
 
-- [GitHub Actions を使用して継続的インテグレーション ワークフローを構築する - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/github-actions-ci/)
+- [GitHub Actions を使用して継続的インテグレーション ワークフローを構築する - Training Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/github-actions-ci/)
 
 ## GitHub Actions
 
@@ -367,10 +367,10 @@ ENV LANG=ja_JP.UTF-8
 - [素敵なWebページをAIに作ってもらう方法 #GitHubCopilot - Qiita](https://qiita.com/shyamagu/items/94547e7f7e88ddf9a25e)
 - [コーディング支援だけじゃない　「GitHub Copilot」をレガシーコードの文書化や説明に役立てる方法をGitHubが解説：将来のリファクタリングや開発の効率化、高信頼化へ - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2501/21/news055.html)
 - [個人的GitHub Copilotの使い方メモ](https://qiita.com/Nozomuts/items/430261fa996cba5fd466)
-- [GitHub Copilotとは？使い方や料金、Agentについて解説 | AI総合研究所](https://www.ai-souken.com/article/github-copilot-overview)
+- [GitHub Copilotとは？使い方や料金、Agentについて解説 AI総合研究所](https://www.ai-souken.com/article/github-copilot-overview)
 - [GitHub Copilotとは)基礎から学ぶ）](https://www.ai-souken.com/article/github-copilot-complete-guide#github-copilot%E3%82%92%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6)
 - [GitHub Copilot Pro の月300回で何ができるか 2025](https://zenn.dev/kkzk/articles/2025-08-12_use-github-copilot-agent)
-- [GitHub Copilot入門～Microsoft50周年で発表された最新機能まで！ | ドクセル](https://www.docswell.com/s/yuma/K3GD9E-2025-04-05-aidd#p4)
+- [GitHub Copilot入門～Microsoft50周年で発表された最新機能まで！ ドクセル](https://www.docswell.com/s/yuma/K3GD9E-2025-04-05-aidd#p4)
 - [GitHub Copilot coding agent を推したい / AIDD Nagoya #1](https://speakerdeck.com/tnir/aidd-nagoya-number-1)
 - [Proプランでも使えるようになった「GitHub Copilot coding agent」を試してみた - Qiita](https://qiita.com/youtoy/items/519ce094e794248673a9)
 - [GitHub と GitHub Copilot の課金を改めて理解する #GitHubCopilot - Qiita](https://qiita.com/aktsmm/items/7ccd1c2b5b35dda9b8f2)
@@ -737,7 +737,7 @@ GitHub%20Copilot%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%83%AA%E3%83%
 
 - [今すぐ使える無料WebAPIまとめ](https://qiita.com/kazuki_tachikawa/items/7b2fead2a9698d1c15e8)
 - [API初心者が紹介するOpenWeatherMapAPI](https://tech-lab.sios.jp/archives/36777?f)
-- [Postman入門してみた：GUIで快適にAPIリクエストを確認する | DevelopersIO](https://dev.classmethod.jp/articles/postman-gui-api/)
+- [Postman入門してみた：GUIで快適にAPIリクエストを確認する DevelopersIO](https://dev.classmethod.jp/articles/postman-gui-api/)
 - [Strava APIを活用したアプリ開発 ~お試し編~](https://tech-lab.sios.jp/archives/32788)
 - [Strava APIを活用したアプリ開発 ~実践編~](https://tech-lab.sios.jp/archives/32946)
 
@@ -767,7 +767,7 @@ GitHub%20Copilot%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%83%AA%E3%83%
 - [WSL上のLinuxで日本語環境を整える、日本語入力環境を構築しよう](https://atmarkit.itmedia.co.jp/ait/articles/2506/06/news013.html)
 - [WSLでRed Hat Enterprise Linuxを利用する](https://roy-n-roy.nyan-co.page/Windows/WSL%EF%BC%86%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/rhel/)
 - [Windows Subsystem for Linuxガイド 第41回 WSL GUI設定](https://news.mynavi.jp/article/20241107-3060285/)
-- [「WSLg」を使ってWindows上でLinuxのGUIアプリを動かしてみよう | Think IT](https://thinkit.co.jp/article/37792)
+- [「WSLg」を使ってWindows上でLinuxのGUIアプリを動かしてみよう Think IT](https://thinkit.co.jp/article/37792)
 - [WSL上のUbuntu 24.04の開発環境構築手順](https://zenn.dev/uchidaryo/articles/2026-01-wsl-ubuntu2404-dev-environment-setup)
 - [WindowsユーザーのためのWSL2で始めるLinux環境構築術](https://thinkit.co.jp/corner/11545)
 - [Windows上でLinuxコンテナを実行できるWSL containers](https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html)
