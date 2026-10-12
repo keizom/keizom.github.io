@@ -7,7 +7,7 @@ Last Update : 2026/10/12
 - [Azure](https://keizom.github.io/Azure.html)
 - [develop](https://keizom.github.io/develop.html)
 - [GenerativeAI](https://keizom.github.io/GenerativeAI.html)
-- [intune](https://keizom.github.io/intune.html)
+- [Intune](https://keizom.github.io/intune.html)
 - [mac](https://keizom.github.io/mac.html)
 - [MicrosoftLearn](https://keizom.github.io/MicrosoftLearn.html)
 - [Office365](https://keizom.github.io/Office365.html)
@@ -16,7 +16,6 @@ Last Update : 2026/10/12
 - [SharePoint](https://keizom.github.io/SharePoint.html)
 - [web](https://keizom.github.io/web.html)
 - [GitHub repository](https://keizom.github.io/GitHub.html)
-
 
 # site
 
