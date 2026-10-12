@@ -162,7 +162,7 @@
 - [ ] [17 Best Practices That Make Claude Cowork 100x More Powerful](https://x.com/heynavtoor/status/2028148844891152554)
 - [ ] [Claude Use cases](https://academy.claude.com/use-cases)
 - [ ] [Work IQ について](https://x.com/super_bonochin/status/2105213039008166013)
-- [] [【海外トップ企業の実例】ハーネス・ループ・JevによるAIエージェント5層設計](https://x.com/ery_treasure/status/2107241762129629288)
+- [ ] [【海外トップ企業の実例】ハーネス・ループ・JevによるAIエージェント5層設計](https://x.com/ery_treasure/status/2107241762129629288)
 - [ ] [AIで資料作成を終わらす。コンサル品質を求めて辿り着いた究極プロンプト×見本61枚【保存版】](https://x.com/uchita_success/status/2097277814605246515?s=12)
 - [ ] [AIスライドをクリックで深掘りできる資料にしてみた](https://x.com/uchita_success/status/2103774460163813682)
 - [ ] [AIスライドを「クリックで深掘りできる資料」にしてみた。動かし方は6つの構造で決まる【保存版】](https://x.com/uchita_success/status/2103774460163813682?s=12)- [] [使いこなすために知っておきたい Azure SRE Agent アンチパターン](https://speakerdeck.com/torumakabe/tsukaikonasu-tame-ni-shi-te-okitai-azure-sre-agent-anchipatan)
