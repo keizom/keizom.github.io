@@ -17,7 +17,7 @@
 - [web](https://keizom.github.io/web.html)
 - [GitHub repository](https://keizom.github.io/GitHub.html)
 
-## GitHub
+## GitHub Repo
 
 ### Entra ID
 
@@ -65,8 +65,8 @@
 - [ ] [azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas)
 
 ### Terraform
-- [ ] [GitHub - hashicorp/terraform-provider-azurerm: Terraform provider for Azure Resource Manager ? GitHub](https://github.com/hashicorp/terraform-provider-azurerm)
 
+- [ ] [GitHub - hashicorp/terraform-provider-azurerm: Terraform provider for Azure Resource Manager ? GitHub](https://github.com/hashicorp/terraform-provider-azurerm)
 
 ### .NET Core
 
@@ -137,10 +137,6 @@
 - [ ] [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp)
 - [ ] [Microsoft Learn Docs MCP Server](https://github.com/MicrosoftDocs/mcp)
 
-### Markdown
-
-- [ ] [MarkItDown](https://github.com/microsoft/markitdown)
-
 ### プロンプトエンジニアリング
 
 - [ ] [dahatake/ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese)
@@ -160,14 +156,15 @@
 - [ ] [powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples)
 - [ ] [powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples/blob/master/ManagedDevices/ManagedDevices_Hardware_Get.ps1)
 
-#### Azure Developer CLI (azd)
+### Azure Developer CLI (azd)
 
 - [ ] [Azure/azure-dev](https://github.com/Azure/azure-dev)
 
-#### 不明
+### 不明
+
 - [ ] [M365Pwned](https://github.com/OtterHacker/M365Pwned)
 
-#### Copilot
+### Copilot
 
 - [ ] [Extending Copilot coding agent with the Model Context Protocol )MCP) - GitHub Docs](https://docs.github.com/en/copilot/how-tos/agents/copilot-coding-agent/extending-copilot-coding-agent-with-mcp)
 
@@ -184,11 +181,6 @@
 
 - [ ] [Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
 
-### SharePoint
-
-- [ ] [SPFarmInfo.ps1](https://github.com/acasilla/SPFarmInfo/
-- [ ] [KotorinChunChun - SpWiki](https://github.com/KotorinChunChun/SpWiki)
-
 ### VMware
 
 - [ ] [おうちクラウド 第 3 回 "仮想化基盤を作ってみよう" サンプルコード・参考情報集](https://github.com/tuna-jp/ouchi-cloud/blob/main/vol3/README.md)
@@ -201,7 +193,7 @@
 
 - [ ] [PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples/blob/master/powershell/UserManagement/Microsoft.PowerPlatform.Administration.UserManagement/README.md)
 
-### Power Automate 
+### Power Automate
 
 - [ ] [202009_PowerAutomate_Handson](https://github.com/rnakamuramartiny/Share_RPACommunity/tree/master/202009_PowerAutomate_Handson)
 
@@ -212,6 +204,8 @@
 
 ### SharePoint
 
+- [ ] [SPFarmInfo.ps1](https://github.com/acasilla/SPFarmInfo/)
+- [ ] [KotorinChunChun - SpWiki](https://github.com/KotorinChunChun/SpWiki)
 - [ ] [PnP/Samples/Core.LargeFileUpload/](https://github.com/pnp/PnP/tree/master/Samples/Core.LargeFileUpload)
 - [ ] [Add-PnPListItem - failing in RunBook on Azure Automation #1541](https://github.com/pnp/PnP-PowerShell/issues/1541)
 - [ ] [GitHub - pnp/sp-starter-kit: Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.](https://github.com/pnp/sp-starter-kit)
@@ -223,8 +217,8 @@
 - [ ] [bandrben/SPCAMLQueryHelperOnline](https://github.com/bandrben/SPCAMLQueryHelperOnline)
 - [ ] [hasankhan/SharePointLogViewer](https://github.com/hasankhan/SharePointLogViewer)
 - [ ] [PnP-Tools/Solutions/SharePoint.Search.QueryTool/](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.Search.QueryTool)
-
-
 - [ ] [The sp-dev-modernization repository](https://github.com/pnp/modernization/tree/master)
+
+### EventLog
 
 - [ ] [EventLogExpert](https://github.com/microsoft/eventlogexpert)

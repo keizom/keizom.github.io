@@ -58,7 +58,7 @@
 - [ ] [2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊](https://qiita.com/aokikenichi/items/0e064ecd3824fab9424d)
 - [ ] [【教材まとめ】これ全部やったら流石に誰でもつよつよAIエンジニアになれる](https://qiita.com/eureka-ai/items/6c55e3b6d9617ae58afa)
 
-#### microsoft
+### microsoft
 
 - [ ] [AI SKILLS NAVIGATOR](https://aiskillsnavigator.microsoft.com/ja-jp)
 - [ ] [初心者向けの生成 AI](https://learn.microsoft.com/ja-jp/shows/generative-ai-for-beginners/)

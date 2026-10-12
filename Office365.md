@@ -111,13 +111,30 @@
 - [ ] [O365 のネットワークの推奨帯域について マイクロソフト コミュニティ](https://answers.microsoft.com/ja-jp/msoffice/forum/all/o365%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF/9e6f9683-d922-4a85-80f6-6f4fb6e563bb)
 - [ ] [Office 365 の利用者に動作が“重い”と苦情を言われたときにとるべき対策は？：最新ルーターで SaaS 時代のネットワーク管理を高度化せよ - ＠IT](https://www.atmarkit.co.jp/ait/articles/1802/27/news001.html)
 
-
 ### Clipchamp
 
 - [ ] [Microsoftのビデオ・エディター「Clipchamp」がかなり便利だった【入門＆基礎活用術】](https://www.lifehacker.jp/article/2403-how-to-use-clipchamp-in-windows-11/)
 
 ### Microsoft Copilot
 
+- [ ] [ただの保管庫ではない。Copilot in SharePointで変わる仕事とプロンプト7選](https://x.com/taku_ai_case/status/2102884638754754797?s=12)
+- [ ] [Work IQ について 5分でめっちゃ感覚的に説明](https://x.com/super_bonochin/status/2105213039008166013)
+- [ ] [Work IQ について](https://x.com/super_bonochin/status/2105213039008166013)
+- [ ] [世界一分かりやすいCopilot最新機能解説【2026年9月】）](https://x.com/harisuke_ai/status/2103624544070377638?s=12)
+- [ ] [え？PowerPointが動く？Copilotで作る対話型スライドの5つの形）](https://x.com/haruki_copilot/status/2104695481335197996?s=12)
+- [ ] [朝来ると、頼んだ仕事の下書きができている。PlannerでCopilotに仕事を任せる3ステップ](https://x.com/haruki_copilot/status/2108315409699250642?s=12)
+- [ ] [SharePoint の Copilot でリストのダッシュボードを作成](https://x.com/hrfmjp/status/2090302797753544745?s=12)
+- [ ] [最新版Copilot大全｜Copilot Home・Code・Autopilotを含む辞典](https://x.com/sokichi_hoshino/status/2104749972470264037?s=12)
+- [ ] [【海外トップ企業の実例】ハーネス・ループ・JevによるAIエージェント5層設計](https://x.com/ery_treasure/status/2107241762129629288)
+- [ ] [AIで資料作成を終わらす。コンサル品質を求めて辿り着いた究極プロンプト×見本61枚【保存版】](https://x.com/uchita_success/status/2097277814605246515?
+- [ ] [AIスライドをクリックで深掘りできる資料にしてみた](https://x.com/uchita_success/status/2103774460163813682)
+- [ ] [AIスライドを「クリックで深掘りできる資料」にしてみた。動かし方は6つの構造で決まる【保存版】](https://x.com/uchita_success/status/2103774460163813682)
+- [ ] [【Microsoft 365 Copilot】気づいたら AI を入り口に業務が回っていた](https://zenn.dev/softbank/articles/cd2d7b01dc12bf)
+- [ ] [【神機能】Copilotノートブック活用５STEP！会議・メール参照が激的進化](https://x.com/taku_ai_case/status/2103253787762999704?s=12)
+- [ ] [【図解付き】Copilot 9月アップデート総まとめ｜史上最大の刷新も全部](https://x.com/taku_ai_case/status/2104692137510273483?s=12)
+- [ ] [【テンプレ配布】Excel手作業は完全終了。Copilotで自動化できるテンプレ10](https://x.com/taku_ai_case/status/2107598859832901723?s=12)
+- [ ] [Planner使ってない？Copilot新機能で最強タッグ。今から始める活用術](https://x.com/taku_ai_case/status/2107958728322646406?s=12)
+- [ ] [ついに！Agent BuilderにもSkillsが来た｜Microsoft Copilotの新機能](https://x.com/taku_ai_case/status/2098535414806266097?s=12)
 - [ ] [2026年9月最新版｜Copilotはここまで進化した。仕事が動く新機能12分野を徹底解説](https://x.com/taku_ai_case/status/2095274101464244445?s=12)
 - [ ] [Copilot Studio完全版｜会社のタスクをAI社員に全任せする方法](https://x.com/MakeAI_CEO/status/2092449791192310064?s=12)
 - [ ] [爆速検証！Copilot Coworkが出たので検証してみた。](https://x.com/kasada0901/status/2038186317075665311?s=12)
