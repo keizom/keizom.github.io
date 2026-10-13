@@ -50,7 +50,6 @@
 - [ ] [Microsoft 謹製デスクトップアプリ「Skill Recorder」で業務効率化スキルの作成が捗る？](https://zenn.dev/benjuwan/articles/c2ba48e7662f92)
 - [ ] [[Microsoft Scout] 完全ガイド ?導入から実践まで? #tips - Qiita](https://qiita.com/phamxuanquyen22/items/5411c3c826af7a80da55)
 
-
 ### Advanced Threat Protection
 
 - [ ] [攻撃シミュレーション トレーニングの使用を開始する - Microsoft Defender for Office 365 Microsoft Learn](https://learn.microsoft.com/ja-jp/defender-office-365/attack-simulation-training-get-started?view=o365-worldwide)
@@ -126,7 +125,7 @@
 - [ ] [SharePoint の Copilot でリストのダッシュボードを作成](https://x.com/hrfmjp/status/2090302797753544745?s=12)
 - [ ] [最新版Copilot大全｜Copilot Home・Code・Autopilotを含む辞典](https://x.com/sokichi_hoshino/status/2104749972470264037?s=12)
 - [ ] [【海外トップ企業の実例】ハーネス・ループ・JevによるAIエージェント5層設計](https://x.com/ery_treasure/status/2107241762129629288)
-- [ ] [AIで資料作成を終わらす。コンサル品質を求めて辿り着いた究極プロンプト×見本61枚【保存版】](https://x.com/uchita_success/status/2097277814605246515?
+- [ ] [AIで資料作成を終わらす。コンサル品質を求めて辿り着いた究極プロンプト×見本61枚【保存版】](https://x.com/uchita_success/status/2097277814605246515?)
 - [ ] [AIスライドをクリックで深掘りできる資料にしてみた](https://x.com/uchita_success/status/2103774460163813682)
 - [ ] [AIスライドを「クリックで深掘りできる資料」にしてみた。動かし方は6つの構造で決まる【保存版】](https://x.com/uchita_success/status/2103774460163813682)
 - [ ] [【Microsoft 365 Copilot】気づいたら AI を入り口に業務が回っていた](https://zenn.dev/softbank/articles/cd2d7b01dc12bf)
@@ -239,7 +238,6 @@
 - [ ] [Copilot for Microsoft 365 ゴールデンプロンプト ~ 話題の生成 AI カンタン使いこなし術 ~ 2024年6月更新版](https://info.microsoft.com/JA-T2C-CNTNT-FY24-05May-22-Copilot-for-Microsoft-365-Golden-Prompt-Easy-way-to-use-AI-to-generate-topics-SRGCM12256_LP01-Registration---Form-in-Body.html)
 - [ ] [できる Microsoft 365 Copilot スタートガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-05-Copilot-for-Microsoft-365-Getting-Started-Guide-SRGCM11972_LP01-Registration---Form-in-Body.html)
 - [ ] [Copilot for Microsoft 365 職種別活用ケース シナリオガイド](https://info.microsoft.com/JA-HW-CNTNT-FY24-04Apr-23-Copilot-for-Microsoft-365-Job-Use-Case-Scenario-Guide-SRGCM12055_LP01-Registration---Form-in-Body.html)
-
 
 ### Microsoft 365 Copilot
 
@@ -385,11 +383,9 @@
 - [ ] [Microsoft Loop がGA (一般提供開始)](https://shanqiai.lekumo.biz/.s/sharepoint_technical_note/2023/11/microsoft-loop--bec5.html)
 - [ ] [Microsoft Teams上でLoopコンポーネントを作成、Copilotを使って効率よく](https://xtech.nikkei.com/atcl/nxt/column/18/01787/102100160/)
 
-
 ### Microsoft Designer
 
 - [ ] [無料で使えるMicrosoftの生成AI「Microsoft Designer」で始める画像生成](https://forest.watch.impress.co.jp/docs/serial/offitech/1609858.html)
-
 
 ### Microsoft Graph Tools
 
@@ -494,7 +490,6 @@
 ### OneNote
 
 - [ ] [OneNoteで完結させる高速タスク管理術3選](https://www.lifehacker.jp/article/2511-matome-onenote/)
-
 
 ### Planner
 

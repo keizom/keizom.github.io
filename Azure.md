@@ -41,7 +41,6 @@
 - [ ] [Azure の ハンズオン・ワークショップ・ハッカソン 運営者のための環境の作り方](https://qiita.com/dahatake/items/5dd419e11884dd7c54c8)
 - [ ] [Azureの「Private Link」「サービスエンドポイント」　どちらを選べばいい？](https://techtarget.itmedia.co.jp/tt/news/2312/20/news06.html)
 
-
 ### Entra ID
 
 - [ ] [Identity & Access with Microsoft Entra — ID](https://www.youtube.com/playlist?app=desktop&list=PLZDsUsqHaHWw)
@@ -58,7 +57,7 @@
 - [ ] [クラウド環境の破壊型サイバー攻撃に備えるために Microsoft Entra ID のネイティブバックアップを試してみる #Azure - Qiita](https://qiita.com/hirotomotaguchi/items/e92b4c5c5c2c9dfa4c7b)
 - [ ] [Microsoft Entra ID の検証環境を作ろう - ラック・セキュリティごった煮ブログ](https://devblog.lac.co.jp/entry/20251023)
 - [ ] [Microsoft Entra ID の テナント間アクセス設定とテナント制限 #Security - Qiita](https://qiita.com/hiyoshino/items/3db6c728b732e19a1ac1)
-- [ ] [Entra IDアカウントでGoogle WorkspaceにSSO連携してみた ](https://officeforest.org/wp/entra-id%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%81%a7google-workspace%e3%81%absso%e3%81%a7%e5%85%a5%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/)
+- [ ] [Entra IDアカウントでGoogle WorkspaceにSSO連携してみた](https://officeforest.org/wp/entra-id%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%81%a7google-workspace%e3%81%absso%e3%81%a7%e5%85%a5%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/)
 - [ ] [【Entra ID ハンズオン】無料でできるEntra IDによるSSO手順 (1/3) #初心者向け - Qiita](https://qiita.com/mokonacl/items/46ba1483341e8eb1ea39)
 - [ ] [20260430 YonaYona Entra ID Night Entra ID の QR コード認証って何ですか？](https://t.co/nwnapzUMzD)
 - [ ] [20260430_EntraIDデバイス認証って？ ドクセル](https://www.docswell.com/s/shoko4kata/KY8ENE-2026-04-30-210021)
@@ -107,7 +106,7 @@
 - [ ] [Next.js アプリを OpenAI × Vercel から Azure OpenAI × App Service × Azure DevOps へ移行する](https://qiita.com/s_w_high/items/7bf78bae49705690ab12)
 - [ ] [生成AIを作れる「Azure AI Studio」とは？　OpenAIの相棒Microsoftの新サービス](https://techtarget.itmedia.co.jp/tt/news/2312/22/news07.html)
 - [ ] [チャットで楽々検索！ Azure AI Search と OpenAI を組み合わせた独自ドキュメント検索サンプルのご紹介](https://zenn.dev/microsoft/articles/jp-openai-5v1)
-- [ ] [Azure Cognitive Searchが改称 「Azure AI Search」に - ITmedia. ](https://www.itmedia.co.jp/news/articles/2311/16/news175.html)
+- [ ] [Azure Cognitive Searchが改称 「Azure AI Search」に - ITmedia](https://www.itmedia.co.jp/news/articles/2311/16/news175.html)
 
 ### Azure API Management
 

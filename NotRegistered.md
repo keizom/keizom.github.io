@@ -201,14 +201,11 @@
 - [ ] [プロジェクトマネジメントの教科書（内製チーム向け）](https://zenn.dev/tan_go238/books/project-management-textbook)
 - [ ] [Attack paths in Active Directory you can fix in a day-week-month-year](https://x.com/techspence/status/2097007163692482604?s=12)
 
-
 - [ ] [The New Microsoft Copilot:](https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/the-new-microsoft-copilot/4563898)
 - [ ] [Prompt Shelf](https://takayustudio.jp/prompt-shelf/)
 - [ ] [Beyond Analysis: Copilot Gets to Work in Excel](https://techcommunity.microsoft.com/blog/excelblog/beyond-analysis-copilot-gets-to-work-in-excel/4517581)
 - [ ] [「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に](https://forest.watch.impress.co.jp/docs/news/2147289.html)
 - [ ] [Governance Boundaries in Microsoft Foundry](https://techcommunity.microsoft.com/blog/microsoftmissioncriticalblog/governance-boundaries-in-microsoft-foundry/4563918)
-
-
 
 - [ ] [Microsoft Learnを開く](https://learn.microsoft.com/ja-jp/microsoft-copilot-studio/analytics-consumption)
 - [ ] [エージェントの課金使用量を表示する](https://x.com/shingo_copilot/status/2109142082371875062?s=12)
@@ -268,10 +265,7 @@ The open-source framework for AI SRE agents, and the training and evaluation env
 - [ ] [【社内勉強会】新年度からコーディングエージェントを使いこなす - 構造と制約で引き出すClau...](https://speakerdeck.com/nwiizo/she-nei-mian-qiang-hui-xin-nian-du-karakodeinguezientowoshi-ikonasu-gou-zao-tozhi-yue-deyin-kichu-suclaude-codenoshi-jian-zhi)
 - [ ] [ソフトウェアアーキテクチャの基礎: Software Architecture in a Nu...](https://speakerdeck.com/snoozer05/sohutoueaakitekutiyafalseji-chu-software-architecture-in-a-nutshell)
 
-
-
 - [ ] [AI エージェントと考え直すデータ基盤](https://speakerdeck.com/na0/ai-ezientotokao-ezhi-sudetaji-pan)
-
 
 - [ ] [Introducing Office in the new Microsoft Copilot app](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/introducing-office-in-the-new-microsoft-copilot-app/4561230)
 
@@ -281,10 +275,8 @@ The open-source framework for AI SRE agents, and the training and evaluation env
 - [ ] [What's New in Notebooks October 2026](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/whats-new-in-notebooks--october-2026/4559105)
 - [ ] [統計データ解析 II - 東京大学](https://ch.u-tokyo.ac.jp/series/?id=GZmJcUCF6z7N)
 
-
 - [ ] [New Copilot Graph API permissions to manage Cost Controls](https://ourcloudnetwork.com/new-copilot-graph-api-permissions-to-manage-cost-controls/)
 - [ ] [【図解あり】高校生でもわかるGit](https://x.com/dan_pro_man/status/2108807261707735310?s=12)
-
 
 - [ ] [Power Query入門](https://x.com/tagami_pq/status/2094805364059578617?s=12)
 

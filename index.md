@@ -99,10 +99,6 @@ Last Update : 2026/10/13
 
 - [ ] [日本リスキリングコンソーシアム](https://japan-reskilling-consortium.jp/)
 
-### Security
-
-- [ ] [ICI リスクアセスメントツール公開の背景](https://blog.itochuci.co.jp/entry/2024/07/31/160000)
-
 ### ウェビナーやワークショップ
 
 - [ ] [Internet Week 2025プレゼンテーション - JPNIC](https://www.nic.ad.jp/ja/materials/iw/2025/proceedings/)
@@ -144,6 +140,7 @@ Last Update : 2026/10/13
 
 ## Security
 
+- [ ] [ICI リスクアセスメントツール公開の背景](https://blog.itochuci.co.jp/entry/2024/07/31/160000)
 - [ ] [セキュリティ研修【MIXI 25新卒技術研修】](https://speakerdeck.com/mixi_engineers/2025_new_grad_training_security_day1)
 - [ ] [セキュリティの勉強になるサイト138選 2026年版 #Security - Qiita](https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00)
 - [ ] [AWS 環境の公開サーバに対する セキュリティ検討ガイド トレンドマイクロ](https://resources.trendmicro.com/jp-docdownload-form-m294-social-2020-awssecurityreport.html)
@@ -191,7 +188,6 @@ Last Update : 2026/10/13
 
 - [ ] [【保存版】STREAM DECK MK.2を購入後、最初にやるべき8つの設定](https://note.com/aoukiwa/n/nde257eefa72b)
 - [ ] [2台のPC間でデュアルディスプレイを共有できるKVM切替器、サンワサプライが発売](https://internet.watch.impress.co.jp/docs/news/2102753.html)
-
 
 ## Darkweb
 

@@ -242,9 +242,10 @@ $instanceName ="SPDistributedCacheService Name=AppFabricCachingService" $service
 $serviceInstance.Delete()
 Remove-SPDistributedCacheServiceInstance
 Add-SPDistributedCacheServiceInstance
- 
+
 (run this command after 1 or 2 minutes).
 ```
+
 ### SharePoint Workflow Manager
 
 - [ ] [SharePoint Workflow Manager](https://www.microsoft.com/en-us/download/details.aspx?id=104867)
@@ -329,8 +330,8 @@ Add-SPDistributedCacheServiceInstance
 - [ ] [winget を使おう 前編：winget のインストールと基本操作](https://astherier.com/blog/2021/08/winget-usage-1/)
 
 ### P2V
-- [ ] [Disk2vhd ツールを利用した P2V 化](https://jpwinsup.github.io/mslog/other/tips-and-tricks/p2v/)
 
+- [ ] [Disk2vhd ツールを利用した P2V 化](https://jpwinsup.github.io/mslog/other/tips-and-tricks/p2v/)
 
 ## Copilot+ PC
 
@@ -368,7 +369,9 @@ Add-SPDistributedCacheServiceInstance
 - [ ] [ESXiをIntel NUC上に構築する](https://qiita.com/h_tyokinuhata/items/d9544bdd5f7223e60ac1)
 - [ ] [おうちクラウド2022](https://qiita.com/hirosat/items/e121ffd7d385e30ecc2d)
 - [ ] [vmware ESXi 8.0インストール時に、CPU_SUPPORT ERRORが発生して進めない](https://qiita.com/Higemal/items/94f4e2d62a4a45fdd082)
+
 > cpuUniformityHardCheckPanic=FALSE
+
 - [ ] [ESXi のハードウェア要件](https://docs.vmware.com/jp/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-DEB8086A-306B-4239-BF76-E354679202FC.html)
 - [ ] [ESXi on AMD版NUC 導入レポ](https://qiita.com/hirosat/items/c6e330212f01f766cc42)
 - [ ] [Minisforum EliteMini HX90 を使って、自宅に VMware な仮想環境を作った](https://blog.aimless.jp/archives/2022/07/create-vmware-virtual-platform-with-minisforum-elitemini-hx90/)
@@ -378,7 +381,6 @@ Add-SPDistributedCacheServiceInstance
 - [ ] [VMware Download](https://support.broadcom.com/group/ecx/downloads)
 - [ ] [Mac に VMware 入れたら Homebrew が死んだ](https://qiita.com/taquaki-satwo/items/beae15d30343d5a0a9a8)
 - [ ] [Install Ubuntu Desktop 22.04 ARM64 on macOS Apple Silicon (M1/Pro/Max) in Parallels](https://askubuntu.com/questions/1405124/install-ubuntu-desktop-22-04-arm64-on-macos-apple-silicon-m1-pro-max-in-parall)
-
 
 ## AWS
 
@@ -400,13 +402,12 @@ Add-SPDistributedCacheServiceInstance
 
 - [ ] [Qiitaの記事をGitHubリポジトリで管理する方法](https://qiita.com/Qiita/items/32c79014509987541130)
 - [ ] [Qiitaで埋め込み可能なコンテンツ一覧](https://qiita.com/Qiita/items/612e2e149b9f9451c144)
-- [ ] [ローカル環境でQiitaが書けちゃう「Qiita CLI」が登場！ GitHub Actionsも早速試してみた ](https://qiita.com/minorun365/items/d1c43f9a7ae63b3321f2)
+- [ ] [ローカル環境でQiitaが書けちゃう「Qiita CLI」が登場！ GitHub Actionsも早速試してみた](https://qiita.com/minorun365/items/d1c43f9a7ae63b3321f2)
 
 ### GitHub
 
 - [ ] [qiita-cli](https://github.com/increments/qiita-cli)
 - [ ] [Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。 (github.com)](https://github.com/increments/qiita-cli)
-
 
 ## ネットワークシミュレーター
 
@@ -423,7 +424,6 @@ Add-SPDistributedCacheServiceInstance
 - [ ] [LPI-Japan、無償のLinux学習用教材「Linuxシステム管理標準教科書」最新版を公開 - ZDNET Japan](https://japan.zdnet.com/article/35238032/)
 - [ ] [第873回 sosコマンドでUbuntuシステムの情報をあらいざらい収集しよう](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0873)
 - [ ] [ubuntuをインストールしたときにしている環境構築メモ](https://zenn.dev/ame_b/articles/da0f86077fddad)
-
 
 ### Shell
 
