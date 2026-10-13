@@ -20,7 +20,6 @@
 ## Azure
 
 - [ ] [Azure と Copilot を、アニメーションで学ぼう](https://azureanimations.github.io/?lang=ja)
-- [ ] [Azure を勉強したいけど何したらいいかわからない人へ](https://qiita.com/aktsmm/items/d0da6b7b245b6a88ef95)
 - [ ] [動画で解説「Azure Arc」のはじめ方　実際の運用経験から学ぶ、シンプルな統合管理 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2606/30/news007.html)
 - [ ] [Microsoft Ignite 2025 : 加速する Azure インフラの進化](https://qiita.com/Olivia_0707/items/9f07f214d623d3f5af09)
 - [ ] [【必読】Azureエンジニアが教える！AZ−104とAZ−305にほぼ合格できる勉強方法](https://zenn.dev/murakami_koki/articles/e404cb8aa8995b)
@@ -37,7 +36,6 @@
 ### メンテナンス
 
 - [ ] [【Azure】まだ使っているのに廃止されてしまうサービスを確認する](https://atmarkit.itmedia.co.jp/ait/articles/2411/06/news033.html)
-- [ ] [Azure検証利用における基本的なセキュリティ対策](https://qiita.com/biri/items/5bd3d497ee6cf002392e)
 - [ ] [Azure の ハンズオン・ワークショップ・ハッカソン 運営者のための環境の作り方](https://qiita.com/dahatake/items/5dd419e11884dd7c54c8)
 - [ ] [Azureの「Private Link」「サービスエンドポイント」　どちらを選べばいい？](https://techtarget.itmedia.co.jp/tt/news/2312/20/news06.html)
 
@@ -236,7 +234,7 @@
 
 - [ ] [コードが書けなくても使える機械学習プラットフォーム「Azure Machine Learning」は何がすごいのか](https://logmi.jp/tech/articles/322297)
 - [ ] [Microsoft Ignite 2022 注目の Azure Data&AI セッション](https://zenn.dev/k14i/articles/57c1ab104928ec)
-- [ ] [All Around Azure: Developers Guide to AI - 日本語配信](https://m.youtube.com/watch?v=rjtt6y_1Nak)
+- [ ] [All Around Azure: Developers Guide to AI - 日本語配信](https://www.youtube.com/watch?v=rjtt6y_1Nak)
 - [ ] [Cogbot Meetup Online #29 - Ignite 2020 キャッチアップ編](https://www.youtube.com/watch?v=cIgjQgLjMuQ)
 - [ ] [Microsoft が誰でも簡単に機械学習モデルが作れるツール「Lobe」を公開！ Techable(テッカブル)](https://techable.jp/archives/140757)
 - [ ] [AI Builder: AI Embedded in Power Apps- Part 1 - RADACAD](https://radacad.com/ai-builder-power-apps-embed-with-ai-part-1)
@@ -524,7 +522,6 @@
 - [ ] [Azure Sentinel でログ収集・分析基盤を構築してみた ① ~Windows セキュリティイベントの収集~](https://cloud.nissho-ele.co.jp/blog/azure-sentinel/)
 - [ ] [Azure 使いだすときに Sentinel でやっておくべきこと](https://zenn.dev/tomot/articles/79aeae00252ba6)
 - [ ] [Office 365 の監査ログを Microsoft Sentinel に格納する - Office 365 Management API と Data Collector API (PowerShell 利用版)](https://qiita.com/YoshiakiOi/items/8fde7595042f0f281de8)
-- [ ] [Azure使いだすときにSentinelでやっておくべきこと](https://zenn.dev/tomot/articles/79aeae00252ba6)
 - [ ] [Microsoft Sentinel で検出内容をメール通知する方法](https://www.softbanktech.co.jp/special/cve/2024/0008/)
 
 ### Azure Stack HCI
@@ -667,10 +664,8 @@
 - [ ] [なぜ迷惑メール扱いされてしまうのか？](https://sendgrid.kke.co.jp/blog/?p=13312)
 - [ ] [DMARCとは？](https://sendgrid.kke.co.jp/blog/?p=3137)
 - [ ] [おさえておきたいメールの基礎用語](https://sendgrid.kke.co.jp/blog/?p=658)
-- [ ] [専門家が解説！DMARCの重要性](https://sendgrid.kke.co.jp/blog/?p=16911)
 - [ ] [専門家が語る！メール到達性について知っておくべきこと](https://sendgrid.kke.co.jp/blog/?p=15751)
 - [ ] [SPF DKIMの特徴と違い](https://sendgrid.kke.co.jp/blog/?p=10121)
-- [ ] [まず最初にすることシリーズ：アカウントをセキュアに利用するためにするべきこと](https://sendgrid.kke.co.jp/blog/?p=10516)
 - [ ] [Azure FunctionsでEvent Webhookデータを受信する](https://sendgrid.kke.co.jp/blog/?p=9403)
 - [ ] [メールを受信する](https://sendgrid.kke.co.jp/docs/Tutorials/E_Receive_Mail/receive_mail.html)
 - [ ] [SMTPサーバとは？](https://sendgrid.kke.co.jp/blog/?p=11638)
@@ -694,7 +689,6 @@
 - [ ] [メール送信チュートリアル【まとめ】](https://sendgrid.kke.co.jp/blog/?p=10832)
 - [ ] [携帯キャリアにメールを届けるための設定　～なりすまし規制編～](https://sendgrid.kke.co.jp/blog/?p=10875)
 - [ ] [送信ドメインを認証するための SPF レコードに詳しくなろう  SendGrid ブログ](https://sendgrid.kke.co.jp/blog/?p=3509)
-- [ ] [口コミからわかるSendGridのメリット・デメリット](https://sendgrid.kke.co.jp/blog/?p=14191)
 
 ### Terraform
 

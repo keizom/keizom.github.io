@@ -64,8 +64,8 @@
 - [ ] [Microsoft Threat Protection 評価ガイド Microsoft Defender ATP 攻撃検証編](https://www.microsoft.com/cms/api/am/binary/RE4zj4N)
 - [ ] [できる Microsoft 365 E5 Security Compliance 管理編](https://aka.ms/dekiru-book_M365-E5-Security_kanri)
 - [ ] [できる Microsoft 365 E5 Security Compliance 活用編](https://aka.ms/dekiru-book_M365-E5-Security_katuyo)
-- [ ] [はじめての クラウド ストレージの保護: Office 365 Advanced Threat Protection   日本マイクロソフト](https://m.youtube.com/watch?v=Ze_QlJf5ET4)
-- [ ] [はじめての クラウドの保護: Microsoft Cloud App Security   日本マイクロソフト](https://m.youtube.com/watch?v=PbgQpWeduMY)
+- [ ] [はじめての クラウド ストレージの保護: Office 365 Advanced Threat Protection   日本マイクロソフト](https://www.youtube.com/watch?v=Ze_QlJf5ET4)
+- [ ] [はじめての クラウドの保護: Microsoft Cloud App Security   日本マイクロソフト](https://www.youtube.com/watch?v=PbgQpWeduMY)
 
 ### AI Builder
 
@@ -494,7 +494,7 @@
 ### Planner
 
 - [ ] [Microsoft Planner 使い方・活用事例ガイド](https://pochisma.jp/blog/We9rIigJ)
-- [ ] [【タスク管理】Teams × Planner で実現。簡単！便利！](https://m.youtube.com/watch?v=Tyqit541i2s)
+- [ ] [【タスク管理】Teams × Planner で実現。簡単！便利！](https://www.youtube.com/watch?v=Tyqit541i2s)
 - [ ] [タスク管理の新提案！ Office 365 Planner とは？ (1/4)：CodeZine（コードジン）](https://codezine.jp/article/detail/9467)
 - [ ] [Teams アプリ「タスク」 入門: Planner・To Do 統合 AvePoint Blog](https://www.avepoint.com/blog/ja/microsoft-teams-ja/teams-todo-planner/)
 - [ ] [Microsoft Planner にて一般ユーザーによるプラン作成を制限する方法について](https://social.msdn.microsoft.com/Forums/ja-JP/92e21369-0f36-40df-8b56-712bc1402c9f/microsoft-planner?forum=sharepointsupportteamja)
@@ -506,7 +506,6 @@
 
 ### Teams
 
-- [ ] [Teams の「外部アクセス」のログを Purview で監査する（メモ） #Security - Qiita](https://qiita.com/hirotomotaguchi/items/ce4a8cf48f201f5c5671)
 - [ ] [Teams の「外部アクセス」のログを Purview で監査する（メモ） #Security - Qiita](https://qiita.com/hirotomotaguchi/items/ce4a8cf48f201f5c5671)
 - [ ] [Teamsユーザー必携の10の裏技](https://www.lifehacker.jp/article/260510-hacks-every-microsoft-teams-user-should-know/)
 - [ ] [【Teams】TeamsのチャットデータをeDiscoveryで監査・保全するコンプライアンス手順 - 超解決](https://funshitsu.com/teams-chat-data-audit-preservation-ediscovery/#google_vignette)
@@ -523,7 +522,7 @@
 - [ ] [「Microsoft Teams」の「Project」「Roadmap」アプリ発表 - CNET Japan](https://japan.cnet.com/article/35161885/)
 - [ ] [【Teams】すべての Teams から情報を取得する【PowerShell】   ほげふがな日常](https://www.hogehoge-note.com/2019/08/16/post-300/)
 - [ ] [【オンライン セミナー】 Microsoft Teams を使いこなす! 活用事例の紹介](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-02Feb-23-Online-Seminar-Master-the-Microsoft-Teams-MCW0004285.html)
-- [ ] [【タスク管理】Teams × Planner で実現。簡単！便利！](https://m.youtube.com/watch?v=Tyqit541i2s)
+- [ ] [【タスク管理】Teams × Planner で実現。簡単！便利！](https://www.youtube.com/watch?v=Tyqit541i2s)
 - [ ] [ASCII.jp：本日 18 時から日本.NET 界レジェンドたちの Teams 会議を生公開！「その.NET アプリ、クラウドどうモダナイズするの？」](https://ascii.jp/elem/000/001/905/1905256)
 - [ ] [Microsoft Lists とは & Teams 接続方法  AvePoint Japan Blog](https://www.avepoint.com/blog/ja/office-365-ja/microsoft-lists/)
 - [ ] [Microsoft Teams ：TIPS を色々詰め込んだ資料を公開しました！  Art-Break : Tech ;](https://art-break.net/tech/?p=7743)
@@ -538,7 +537,6 @@
 - [ ] [Microsoft Teams 日本語カタログ 第 2 版と徹底活用ブック](https://blogs.windows.com/japan/2020/11/11/teams-catalog-booklet/)
 - [ ] [Power Automate : Teams 上で承認を行う](https://zezeze.hateblo.jp/entry/2019/11/29/040113)
 - [ ] [Power Automate（旧 Microsoft Flow）から Microsoft Teams へ Bot で投稿する方法 3 種をまとめてみた - Qiita](https://qiita.com/tfunakoshi/items/76029bcc8ac1d4d9bd71)
-- [ ] [PowerShell から Teams の Adaptive Card](https://qiita.com/syamamotorhead/items/5062cdcaaafc6740c0b2)
 - [ ] [Skype for Business から Teams への移行](https://blog.kazuakix.jp/entry/2018/11/08/234326)
 - [ ] [Teams クイックガイド](http://msft.it/6183TlOqZ)
 - [ ] [Teams 関連のマニュアル](https://www.yammer.com/japanoffice365users/#/threads/show?threadId=281992120745984)

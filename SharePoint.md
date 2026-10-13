@@ -83,7 +83,7 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [ ] [Graph API では SharePoint リストのハイパーリンク列が操作できない件](https://zenn.dev/ymasaoka/articles/graphapi-connot-manipulate-splist-hyperlink-col)
 - [ ] [Streamline your SharePoint experience with the new Microsoft Graph SharePoint Admin API](https://devblogs.microsoft.com/microsoft365dev/streamline-your-sharepoint-experience-with-the-new-microsoft-graph-sharepoint-admin-api/)
 - [ ] [Microsoft Graph API PowerShell で SPO からファイルをダウンロード](https://zenn.dev/microsoft/articles/3a99b025a0005e)
-- [ ] [Direct File Download API support for SharePoint files through Microsoft Graph](https://www.youtube.com/watch?app=desktop&v=L3R6NX3wEiw)
+- [ ] [Direct File Download API support for SharePoint files through Microsoft Graph](https://www.youtube.com/watch?v=L3R6NX3wEiw)
 
 ### Fiddler
 
@@ -136,7 +136,6 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 
 - [ ] [Using PnP PowerShell in Azure Automation Runbooks](https://pnp.github.io/powershell/articles/azureautomationrunbook.html)
 - [ ] [How to use Azure Automation with SharePoint Online – Part One](https://practical365.com/how-to-use-azure-automation-with-sharepoint-online-part-one/)
-- [ ] [Using PnP PowerShell in Azure Automation Runbooks](https://pnp.github.io/powershell/articles/azureautomationrunbook.html)
 - [ ] [#AzureAutomation を利用した #SharePointo Online のサイト作成方法](https://qiita.com/daichan3/items/f963a7d7c3dd9501fce8)
 - [ ] [マネージド ID を 使って Azure VM から CLI で Azure を操作する。](https://qiita.com/aktsmm/items/1a1d8b79f18f0c7a5331)
 - [ ] [Azure Automation と SharePoint PnP を利用したナビゲーションメニューの追加方法について](https://qiita.com/daichan3/items/ad8c4444fa86b2baaea9)
@@ -175,7 +174,6 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [ ] [How to send email using PowerShell in Office 365 - SPGuides](https://www.spguides.com/send-email-powershell-office-365/)
 - [ ] [Various SharePoint developer tools](https://www.spguides.com/sharepoint-developer-tools/)
 - [ ] [How to upload documents to SharePoint document library programmatically with metadata](https://www.spguides.com/upload-file-to-sharepoint-document-library-programmatically/)
-- [ ] [How to Activate Workflows can use app permissions Feature programmatically using CSOM in SharePoint - SPGuides](https://www.spguides.com/activate-workflows-can-use-app-permissions/)
 - [ ] [CSOM SharePoint Online – Detailed Guide](https://www.spguides.com/sharepoint-csom-tutorial/)
 - [ ] [CRUD Operations using JSOM in SharePoint](https://www.spguides.com/crud-operations-using-jsom-in-sharepoint/)
 
@@ -192,10 +190,7 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [ ] [Create Site Collection and Subsite in SharePoint Online using PowerShell](https://www.enjoysharepoint.com/create-site-collection-sharepoint-powershell/)
 - [ ] [Create/Rename SharePoint group using PowerShell and Browser](https://www.enjoysharepoint.com/sharepoint-group/)
 - [ ] [Deploy SharePoint 2013 designer workflow to different site in SharePoint 2013](https://www.enjoysharepoint.com/deploy-sharepoint-2013-designer-workflow-to-different-site-in-sharepoint-2013/)
-- [ ] [Display modal pop up in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/display-modal-pop-up-in-sharepoint/?sfns=mo)
 - [ ] [Enable breadcrumb and Implement Classic Breadcrumb in SharePoint 2013](https://www.enjoysharepoint.com/enable-breadcrumb-and-implement-classic-breadcrumb-in-sharepoint-2013/)
-- [ ] [Enjoy SharePointGet all subsites from a site collection in SharePoint Online using](https://www.enjoysharepoint.com/get-all-subsites-in-sharepoint-online-csom/)
-- [ ] [Get all subsites from a site collection in SharePoint Online using CSOM](https://www.enjoysharepoint.com/get-all-subsites-in-sharepoint-online-csom/)
 - [ ] [Get all subsites from a site collection in SharePoint Online using](https://www.enjoysharepoint.com/get-all-subsites-in-sharepoint-online-csom/)
 - [ ] [Get list items using Rest API in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/get-sharepoint-list-items-using-rest-api)
 - [ ] [How to display more than 3 views in SharePoint 2013/2016/Online list or document library](https://www.enjoysharepoint.com/sharepoint-list-display-more-than-3-views/?sfns=mo)
@@ -304,11 +299,10 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [ ] [Microsoft Flow を使って SharePoint Online に保存されたドキュメントの承認ワークフローを作ってみる](https://idea.tostring.jp/?p=3540)
 - [ ] [Power Automate のフローで SharePoint リストアイテムの権限を操作してみる](https://idea.tostring.jp/?p=5427)
 - [ ] [Microsoft 365 SharePoint Modernization Scanner を動かしてみました - （）のブログ](https://mitomoha.hatenablog.com/entry/2020/07/09/012941)
-- [ ] [SharePoint Spaces - Mixed Reality for the Enterprise](https://m.youtube.com/watch?feature=youtu.be&v=MW565hMnXLg)
+- [ ] [SharePoint Spaces - Mixed Reality for the Enterprise](https://www.youtube.com/watch?v=MW565hMnXLg)
 - [ ] [Moving SharePoint Documents to the File System](https://dataqueen.unlimitedviz.com/2013/02/moving-sharepoint-documents-to-the-file-system/)
 - [ ] [PowerShell Modules for Managing SharePoint Online](https://docs.microsoft.com/ja-jp/archive/blogs/dawiese/powershell-modules-for-managing-sharepoint-online)
 - [ ] [新しい Microsoft Stream と SharePoint](https://shanqiai.weblogs.jp/sharepoint_technical_note/2020/10/new-microsoft-stream.html)
-- [ ] [Find And Extract Sharepoint Documents With SQL – Mikes Data Work](https://mikesdatawork.wordpress.com/2018/05/11/find-and-extract-sharepoint-documents-with-sql/)
 - [ ] [Display modal pop up in SharePoint Online/2013/2016](https://www.enjoysharepoint.com/display-modal-pop-up-in-sharepoint/?sfns=mo)
 - [ ] [Useful CSS Classes in SharePoint 2013 – JoshMcCarty.com](https://joshmccarty.com/useful-css-classes-sharepoint-2013/)
 - [ ] [既定のサーバー リボンのカスタマイズの場所 Microsoft Docs](<https://docs.microsoft.com/ja-jp/previous-versions/office/developer/sharepoint-2010/ee537543(v=office.14)>)
@@ -317,8 +311,7 @@ https://qiita.com/TNx/items/1b2776ab7f1a8ebd55a4
 - [ ] [PowerShell – ShareGate Desktop](https://support-desktop.sharegate.com/hc/en-us/categories/204661007-PowerShell)
 - [ ] [Find And Extract Sharepoint Documents With SQL ? Mikes Data Work](https://mikesdatawork.wordpress.com/2018/05/11/find-and-extract-sharepoint-documents-with-sql/)
 - [ ] [Useful CSS Classes in SharePoint 2013 ? JoshMcCarty.com](https://joshmccarty.com/useful-css-classes-sharepoint-2013/)
-- [ ] [SharePoint Spaces - Mixed Reality for the Enterprise](https://m.youtube.com/watch?v=MW565hMnXLg)
-- [ ] [Microsoft 365 SharePoint Modernization Scanner を動かしてみました - （）のブログ](https://mitomoha.hatenablog.com/entry/2020/07/09/012941)
+- [ ] [SharePoint Spaces - Mixed Reality for the Enterprise](https://www.youtube.com/watch?v=MW565hMnXLg)
 - [ ] [【オンライン セミナー】 SharePoint Online を使いこなすための設定大解説!](https://resources.office.com/ja-jp-landing-ondemand-JA-O365-WBNR-FY18-03Mar-08-SharePoint-Online-MCW0004583.html)
 
 #### Cascade

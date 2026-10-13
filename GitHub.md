@@ -31,7 +31,6 @@
 
 ### Azure Bicep
 
-- [ ] [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
 - [ ] [bicep](https://github.com/Azure/bicep)
 - [ ] [Azure Resource Manager QuickStart Templates](https://github.com/Azure/azure-quickstart-templates)
 
@@ -79,7 +78,6 @@
 
 ### GitHub
 
-- [ ] [GitHub - pnp/sp-starter-kit](https://github.com/pnp/sp-starter-kit?sfns=mo)
 - [ ] [GitHub - The-Japan-DataScientist-Society/100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
 - [ ] [GitHub - ugurkocde/IntuneDocumentation](https://github.com/ugurkocde/IntuneDocumentation)
 
@@ -91,7 +89,6 @@
 ### Markdown
 
 - [ ] [MarkItDown](https://github.com/microsoft/markitdown)
-- [ ] [PMActivities/Webinar/Schedule.md](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)
 
 ### PowerShell
 
@@ -175,11 +172,6 @@
 ### Microsoft Graph
 
 - [ ] [GitHub - Global Microsoft 365 Developer Bootcamp 2019 Tokyo：Microsoft Graph API](https://gist.github.com/rnakamuramartiny/13ae56ec3d97a468354c044bfdeea6df)
-- [ ] [GitHub - rnakamuramartiny/GM365DevBootcamp_MGraphAPI.md](https://gist.github.com/rnakamuramartiny/13ae56ec3d97a468354c044bfdeea6df)
-
-### Office 365 Management API
-
-- [ ] [Office365APIEditor](https://github.com/microsoft/Office365APIEditor)
 
 ### VMware
 
@@ -208,7 +200,6 @@
 - [ ] [KotorinChunChun - SpWiki](https://github.com/KotorinChunChun/SpWiki)
 - [ ] [PnP/Samples/Core.LargeFileUpload/](https://github.com/pnp/PnP/tree/master/Samples/Core.LargeFileUpload)
 - [ ] [Add-PnPListItem - failing in RunBook on Azure Automation #1541](https://github.com/pnp/PnP-PowerShell/issues/1541)
-- [ ] [GitHub - pnp/sp-starter-kit: Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.](https://github.com/pnp/sp-starter-kit)
 - [ ] [GitHub - pnp/sp-starter-kit: Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.](https://github.com/pnp/sp-starter-kit)
 - [ ] [GitHub - pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)
 - [ ] [GitHub - sp-dev-fx-webparts/samples/react-script-editor at master ? pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-script-editor)

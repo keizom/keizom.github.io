@@ -83,10 +83,6 @@
 - [ ] [ASP.NET MVC 4 で理想的なスマートフォン対応サイトを作成する方法](https://blog.shibayan.jp/entry/20130624/1372085770)
 - [ ] [ASP.NET MVC で 1 画面にボタンが 2 つあるときの処理](https://blogonos.wordpress.com/2011/07/06/asp-net-mvc-%E3%81%A71%E7%94%BB%E9%9D%A2%E3%81%AB%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%8C2%E3%81%A4%E3%81%82%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%87%A6%E7%90%86/)
 
-#### microsoft
-
-- [ ] [C## で Single Page Web Application が書ける Blazor が凄かった件 - Qiita](https://qiita.com/jsakamoto/items/20d4893f6c8cdb0356f6)
-
 ### Blazor
 
 - [ ] [Let's Learn .NET - Blazor](https://www.youtube.com/watch?v=RBW0_Ouq2Oc)
@@ -114,13 +110,11 @@
 - [ ] [レガシーC#コード対比集 - Qiita](https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8)
 - [ ] [C#の理解が10年古い、と言われたのでCloud Runにデプロイしてみた - Zenn](https://zenn.dev/koduki/articles/dotnet20250920)
 - [ ] [「モダンC#」に入門しよう！2025【.NET10/C#14】](https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10)
-- [ ] [C## で Single Page Web Application が書ける Blazor が凄かった件 #ASP.NET_Core - Qiita](https://qiita.com/jsakamoto/items/20d4893f6c8cdb0356f6)
 - [ ] [【QuickGrid】Blazorで簡単に表形式のUIを作成する](https://blog.jbs.co.jp/entry/2025/04/24/110002)
 - [ ] [Windows App SDKでデスクトップアプリを作る](https://qiita.com/hayashida-katsutoshi/items/ccd91e69543e6da188c3)
 - [ ] [.NET 8 と GitHub、そして Azure による開発者エクスペリエンスの向上 ～ 最新開発プラッ](https://speakerdeck.com/chack411/dot-net-8-to-github-sosite-azure-niyorukai-fa-zhe-ekusuperiensunoxiang-shang-zui-xin-kai-fa-puratutohuomu-demonsutoresiyon)
 - [ ] [【Ｃ＃】完璧で幸福にアプリケーションの二重起動を防止してすでに起動しているアプリを前面に表示する](https://qiita.com/Subara3/items/50da6ee5885d576b429b)
 - [ ] [Microsoft、「基礎C#認定資格」を公開　無料でC#が学べる35時間分のトレーニングコースも](https://atmarkit.itmedia.co.jp/ait/articles/2309/12/news026.html)
-- [ ] [C## で Single Page Web Application が書ける Blazor が凄かった件 - Qiita](https://qiita.com/jsakamoto/items/20d4893f6c8cdb0356f6)
 - [ ] [【連載】PowerShell Core 入門 - 基本コマンドの使い方 2 PowerShell Core のインストールサーバ/ストレージ IT 製品の事例・解説記事](https://news.mynavi.jp/itsearch/article/hardware/3628)
 - [ ] [PowerMap サンプル](https://onedrive.live.com/?id=A9FD866E9122F8EA%21107&cid=A9FD866E9122F8EA)
 - [ ] [C#で東京メトロオープンデータ API を使って遅延時間(遅延情報)を取得する](https://blog.ch3cooh.jp/entry/20140922/1411349400)

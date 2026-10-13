@@ -79,7 +79,7 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
    $webapp.SuiteNavBrandingLogoUrl = "http://spwfe/Photos/IMG_5004-1-scaled.jpg"
    $webapp.SuiteNavBrandingLogoTitle = "Logo Branding"
    $webapp.SuiteNavBrandingLogoNavigationUrl = "https://www.microsoft.com/"
-   $webapp.SuiteBarBackground = '#eed5b7'           
+   $webapp.SuiteBarBackground = '#eed5b7'
    $webapp.SuiteNavAccentColor = '#7fffd4'
    $webapp.SuiteBarText = '#000000'
    $webapp.update)
@@ -101,7 +101,6 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
 > PrerequisiteInstaller.exe
 
 - [ ] [単一サーバーに SharePoint Server 2016 または SharePoint Server 2019 をインストールする](https://docs.microsoft.com/ja-jp/sharepoint/install/install-sharepoint-server-2016-on-one-server)
-- [ ] [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
 - [ ] [What’s new in SharePoint Server 2016 Installation and Deployment](https://thirusweb.wordpress.com/2015/06/04/hello-world/)
 - [ ] [Install SharePoint Server 2016](https://docs.microsoft.com/en-us/sharepoint/install/install-for-sharepoint-server-2016?msclkid=c58d6b9cc79f11ec81d217c19644dc96)
 - [ ] [SharePoint Server 2016 Prerequisites Installation and Deployment](https://social.technet.microsoft.com/wiki/contents/articles/32950.sharepoint-server-2016-prerequisites-installation-and-deployment.aspx)
@@ -169,7 +168,6 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
 - [ ] [SharePoint 2013/2016 Kerberos Authentication](https://www.noralku.net/2016/05/08/sharepoint-20132016-kerberos-authentication/)
 - [ ] [Part2: Step by Step Guide for Configuring Kerberos Authentication for SharePoint 2013/2016](https://vivekmalviya.home.blog/2019/03/21/part2-step-by-step-guide-for-configuring-kerberos-authentication-for-sharepoint-webapplication/)
 - [ ] [SharePoint と Kerberos 認証](https://mossmomo.exblog.jp/13137689/)
-- [ ] [Enabling Kerberos on SharePoint](https://thesharepointfarm.com/2017/10/enabling-kerberos-sharepoint/)
 - [ ] [Set SPNs for the SharePoint Service Account](https://help.nintex.com/en-US/k2blackpearl/icg/4.6.10/Install_SetSPNsSharePoint.html)
 - [ ] [Kerberos 認証の設定](https://community.denodo.com/docs/html/browse/8.0/jp/platform/installation/postinstallation_tasks/postinstallation_tasks_in_virtual_dataport/setting-up_kerberos_authentication)
 - [ ] [The final Kerberos guide for SharePoint technicians](https://blog.blksthl.com/2012/09/26/the-final-kerberos-guide-for-sharepoint-technicians/)
@@ -195,7 +193,6 @@ $webapp.SuiteNavBrandingText = "Suite Bar Branding"
 - [ ] [[SharePoint 2016] SuiteBar の設定変更](https://shanqiai.weblogs.jp/sharepoint_technical_note/2017/01/sharepoint-2016-suitebar-%E3%81%AE%E8%A8%AD%E5%AE%9A%E5%A4%89%E6%9B%B4-.html)
 - [ ] [SharePoint ：検索窓の位置がスイートバーに移動された！( Search Box location moved to Suite Bar )](https://art-break.net/tech/?p=5425)
 - [ ] [Office 365 ナビゲーション バーのカスタムロゴの位置が変更された！](https://art-break.net/tech/?p=2690)
-- [ ] [SharePoint 2013 左上の製品ロゴを変更する](https://idea.tostring.jp/?p=508)
 
 ### Search Service Application
 
@@ -263,7 +260,6 @@ Add-SPDistributedCacheServiceInstance
 - [ ] [Office Online Server を使ってみる](http://sptakesato.blog.fc2.com/blog-entry-20.html?sp)
 - [ ] [Office Online Server (OOS) のインストールと構成](https://shanqiai.weblogs.jp/sharepoint_technical_note/2016/02/office-online-server-preview-install-configuration.html)
 - [ ] [Office Online Server を使ってみる](http://sptakesato.blog.fc2.com/blog-entry-20.html)
-- [ ] [SharePoint Server 2016 単一サーバー (検証) 環境構成メモ](https://www.illuminate-j.jp/blog/sharepoint-server-2016-config)
 - [ ] [Install & Configure Office Online Server](https://social.technet.microsoft.com/wiki/contents/articles/34289.install-configure-office-online-server.aspx)
 - [ ] [SharePoint 2016: Installation Of Office Online Server (Part 1)](https://social.technet.microsoft.com/wiki/contents/articles/37303.sharepoint-2016-installation-of-office-online-server-part-1.aspx)
 - [ ] [Office Online Server を展開する](https://learn.microsoft.com/ja-jp/officeonlineserver/deploy-office-online-server)
