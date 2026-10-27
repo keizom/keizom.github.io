@@ -221,7 +221,7 @@ npx skills@latest add vojtaholik/good-css を実行して、入れる先にCodex
 - [ ] [会社のCopilotを使い倒す裏技7選](https://x.com/inodate1/status/2109508980137742557?s=12)
 
 - [ ] [github / skills](https://github.com/mattpocock/skills)
-手順をそのまま公開していて、自分のAIに同じ動きを仕込める。
+手順をそのまま公開していて、自分のAIに同じ動きを仕込める。- [ ]
 
 - [ ] [github / Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 SNS上の情報を集める
@@ -281,3 +281,77 @@ The open-source framework for AI SRE agents, and the training and evaluation env
 - [ ] [Introducing Office in the new Microsoft Copilot app](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/introducing-office-in-the-new-microsoft-copilot-app/4561230)
 
 - [ ] [Microsoft Agent 365 and Azure API Management integration for MCP governance](https://techcommunity.microsoft.com/blog/integrationsonazureblog/microsoft-agent-365-and-azure-api-management-integration-for-mcp-governance/4563335)
+
+
+
+- [ ] [SharePoint 情報アーキテクチャの概要 - SharePoint in Microsoft 365 MicrosoftLearn](https://learn.microsoft.com/ja-jp/sharepoint/information-architecture-modern-experience)
+- [ ] [Frontier expands to more Microsoft 365 public previews](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/frontier-expands-to-more-microsoft-365-public-previews/4567243)
+- [ ] [Google Search Console へようこそ](https://search.google.com/search-console/welcome)
+- [ ] [The Beginner's Guide to Google Analytics 4 - Moz](https://moz.com/beginners-guide-to-google-analytics)
+- [ ] [Copilot Studio の「アプリ（プレビュー）」に農機整備工場の業務アプリを頼んだら、Dataverse ではなく SharePoint リストで動くアプリができた](https://powerdaaps.hatenablog.com/entry/2026/10/12/221754)
+
+- [ ] [Power Appsをプロンプトで自動生成！VS CodeからMCPでキャンバスアプリをAIと構築してみた](https://ippu-biz.com/development/powerplatform/powerapps/generate-canvas-with-ai/)
+- [ ] [Copilot Studio 新しいWorkflowの使い方：トリガー起動とHuman reviewのサンプル](https://ippu-biz.com/development/powerplatform/copilot-studio/copilot-studio-new-workflow/)
+- [ ] [SharePoint サイトとコンテンツの検出を制限する](https://learn.microsoft.com/ja-jp/sharepoint/restricted-content-discovery)|
+
+- [ ] [Copilot コード (フロンティア)](https://learn.microsoft.com/ja-jp/copilot/code/)
+- [ ] [Build AI-powered apps without creating a vector database](https://techcommunity.microsoft.com/blog/sharepoint_embedded/build-ai-powered-apps-without-creating-a-vector-database/4565942)
+- [ ] [Microsoft 365 Copilot Codeを試す](https://kkamegawa.hatenablog.jp/entry/2026/10/22/062523)|
+- [ ] [How to Catch Shadow AI with 3 M365 Tools [Walkthrough]](https://youtu.be/g6x7Rj9K1ds)
+- [ ] [SharePoint HTML pages: what they can and cannot do](https://spdenis.com/sharepoint-html-pages-what-they-can-and-cannot-do/)
+- [ ] [新しい Microsoft Copilot アプリに Office が登場 - Windows Blog for Japan](https://blogs.windows.com/japan/2026/10/14/introducing-office-in-the-new-microsoft-copilot-app-4561230/)|
+- [ ] [【Copilot】Microsoft Copilot Cowork の課金設定 - ふらりのメモ書き ](https://flali.hatenablog.com/entry/MicrosoftCopilotCowork)
+- [ ] [Microsoft 365 Copilot Brand Kits: Making On-Brand Content Easier to Create Microsoft Community Hub ](https://techcommunity.microsoft.com/blog/microsoftmissioncriticalblog/-microsoft-365-copilot-brand-kits-making-on-brand-content-easier-to-create/4565391)
+
+- [ ] [詳解 Active Directory & Windowsインフラ・ペネトレーションテスト](https://www.oreilly.co.jp/books/9784814401734/)
+- [ ] [Zero Trust Workshop](https://zerotrust.microsoft.com/)
+
+- [ ] [Power Platformを導入しても市民開発が進まない？ 現場でぶつかる5つの壁](https://mocobell.co.jp/blog/power-platform-5-walls/)
+- [ ] [デジタル庁のデータ分析基盤「sukuna」](https://digital-gov.note.jp/n/na227ce427930?sub_rt=share_pw&gs=9593e000dab75059354de3cde2786399)
+- [ ] [統計の入門 京都大学](https://repository.kulib.kyoto-u.ac.jp/items/6078c306-f759-4671-95db-88c8e421e5b2)
+
+
+- [ ] [Five Web IQ use cases: bring the outside world into your AI agent](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/five-web-iq-use-cases-bring-the-outside-world-into-your-ai-agent/4565273)
+- [ ] [仕事での AI のロードマップ \| Microsoft 365](https://www.microsoft.com/ja-jp/microsoft-365/roadmap)
+
+
+
+- [ ] [パワーポイントのデザインパターン大全 - 資料作成時に使える39のアイデア](https://speakerdeck.com/coneinc/pawapointonodezainpatanda-quan-zi-liao-zuo-cheng-shi-nishi-eru39noaidea)|
+
+
+- [ ] [Copilotを、遊んでマスターしよう \| GitHub ](https://dahatake.github.io/GenerativeAI-Prompt-Sample-Japanese/)
+- [ ] [PowerPlatform \| Microsoft のラーニング パス](https://learn.microsoft.com/ja-jp/training/browse/?expanded=power-platform&products=power-platform&sccid=tw_scl_spl_soc_20261015&ocid=AID3062894_TWITTER_oo_spl100011480830390)
+- [ ] [デジタル庁ダッシュボードシリーズがグッドデザイン・ベスト100を受賞しました](https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95)
+- [ ] [パートナー センターでの Microsoft 365 Copilot Business の使用量ベースの課金](https://learn.microsoft.com/ja-jp/partner-center/pricing/usage-based-billing-copilot)
+- [ ] [「Copilot Notebooks」が大幅アップデート ～単なる情報整理ツールを超えた存在に／資料の収集やOfficeファイルの編集をCopilotに依頼可能、成果物もよりリッチに - 窓の杜 #SmartNews](https://l.smartnews.com/m-8GxT8wmc/m4V2wB)
+
+- [ ] [Capacity planning for Active Directory Domain Services](https://learn.microsoft.com/en-us/windows-server/administration/performance-tuning/role/active-directory-server/capacity-planning-for-active-directory-domain-services)
+- [ ] [New and improved: Build apps, extend agents, and transform business processes in Microsoft Copilot Studio](https://www.microsoft.com/en-us/copilot/blog/copilot-studio/-New-and-improved-build-apps-extend-agents-and-transform-business-processes-in-microsoft-copilot-studio/)
+- [ ] [Microsoft Developer Hub](https://www.microsoft.com/ja-jp/local/events/developer-hub/)
+
+- [ ] [Dynamic Workflows in Azure Functions Hosted Skills: Durable, AI-Led Work for Event-Driven Apps](https://devblogs.microsoft.com/azure-sdk/dynamic-workflows-azure-functions-hosted-skills/)
+- [ ] [今すぐ始めるWebサイトのセキュリティ対策](https://securesky-plus.com/security/3700/)
+
+- [ ] [【全12回連載！】30分でクイックに学ぶ 生成AI時代のゼロトラスト入門 ～ 第1回：条件付きアクセスから始めるAI利用のアクセス制御 編 ～](https://www.softcreate.co.jp/seminar/detail/1294)
+- [ ] [プラグイン レジストリのご紹介 – Microsoft Copilot 向けプラグインの検出とガバナンスを 1 か所で](https://blogs.windows.com/japan/2026/10/14/introducing-the-plugin-registry-one-place-to-discover-and-govern-plugins-for-m/)
+- [ ] [AI コード生成ツールを使用してキャンバス アプリを作成および編集する](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/create-canvas-external-tools)|
+- [ ] [キャンバス アプリのソース管理](https://learn.microsoft.com/ja-jp/power-platform/alm/git-integration/canvas-apps-git-integration)
+- [ ] [Githubを使って、PowerAppsを共同開発する方法](https://qiita.com/songoku/items/452823aac7eb68f93018)
+
+- [ ] [Lists（SharePoint リスト）の Forms機能 で画像やファイルが使えるようになっている](https://qiita.com/ta2c/items/a1e70e28538f2d4bd678)
+- [ ] [Power Platform のGit 統合によるソースコントロール | Git ネイティブ連携](https://www.geekfujiwara.com/tech/powerplatform/5617/)
+- [ ] [Introducing Git Integration in Power Platform (preview)](https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-git-integration-in-power-platform-preview/)
+- [ ] [データから最初のPower Appを数秒で作成する - YouTube](https://www.youtube.com/watch?v=YH3MLJ6fkNI])
+- [ ] [Building Permission-Aware Hosted Agents for SharePoint in Foundry Agent Service](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-permission-aware-hosted-agents-for-sharepoint-in-foundry-agent-service/4562526)
+
+- [ ] [Microsoft Power Platformの基礎を探る \| Microsoft Learn](https://learn.microsoft.com/ja-jp/training/paths/pl-900-power-platform-fundamentals/)
+- [ ] [Announcing Open-Source Skills for Copilot in SharePoint](https://www.youtube.com/watch?v=FcLy_32vblM)
+- [ ] [Build Automated Agents, Workflows, and Apps - New in Copilot Studio](https://techcommunity.microsoft.com/blog/microsoftmechanicsblog/build-automated-agents-workflows-and-apps---new-in-copilot-studio/4562164)
+- [ ] [不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について](https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html)
+- [ ] [Understanding Work IQ](https://www.youtube.com/watch?v=nxu_9gHTRPA)
+- [ ] [power-platform-skills](https://github.com/microsoft/power-platform-skills)
+- [ ] [Microsoft Copilot (Frontier) を使用してアプリを構築する](https://support.microsoft.com/ja-jp/microsoft-365-copilot/build-apps-with-microsoft-365-copilot-frontier)
+- [ ] [Power BI レポートのデザイン - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/power-bi-effective-reports/)
+- [ ] [Copilot Notebooks が Markdown、プレーン テキスト、リッチ テキストのファイルに対応](https://blogs.windows.com/japan/2026/10/13/copilot-notebooks-now-works-with-markdown-plain-text-and-rich-text-files/)
+- [ ] [Copilot in PowerPoint の Brand Kit と Skills](https://blogs.windows.com/japan/2026/10/13/brand-kit-and-skills-in-copilot-in-powerpoint-4554932/)
+- [ ] [Power Appsをバージョン管理（Azure DevOpsのgitで）](https://qiita.com/ta2c/items/15ac0754e449042914bb)
