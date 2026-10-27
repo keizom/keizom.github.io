@@ -20,13 +20,18 @@
 ## ライセンス
 
 - [ ] [Power Platform ライセンスガイド 日本語版](https://aka.ms/pplicjp)
+- [ ] [Power Platform ライセンスガイド 英語版](https://aka.ms/pplic)
 - [ ] [Copilot Studio ライセンスガイド 日本語版](https://aka.ms/MCSLicJP)
-- [ ] [Copilot Credits Guide ライセンスガイド](https://aka.ms/CopilotCredits/LicensingGuide)
-- [ ] [Dynamics 365 ライセンスガイド 日本語版](https://go.microsoft.com/fwlink/?LinkId=866544\&clcid=0x411)
+- [ ] [Copilot Studio ライセンスガイド 英語版](https://aka.ms/MCSLic)
+- [ ] [Copilot Credits Guide ライセンスガイド 英語版](https://aka.ms/CopilotCredits/LicensingGuide)
+- [ ] [Dynamics 365 ライセンスガイド 日本語版](https://go.microsoft.com/fwlink/?LinkId=866544)
+
+---
+
 - [ ] [Microsoft 365 Enterprise 比較表](https://aka.ms/M365EnterprisePlans)
 - [ ] [Microsoft 365 Business 比較表](https://aka.ms/M365BusinessPlans)
 - [ ] [MS公式サイトのライセンスガイド](https://www.microsoft.com/licensing/docs/?msockid=1fc5d3d1fcd6632f3f80c52efd4462d5)
-- [ ] [Power BI](https://go.microsoft.com/fwlink/?linkid=2286169&clcid=0x409&culture=en-us&country=us)
+- [ ] [Power BI](https://go.microsoft.com/fwlink/?linkid=2286169)
 
 ## 自習書
 
