@@ -33,6 +33,7 @@ Last Update : 2026/10/13
 
 - [ ] [Chat GPT](https://chatgpt.com/)
 - [ ] [claude](https://www.anthropic.com/news/claude-3-family)
+
 - [ ] [gemini](https://gemini.google.com/app)
 - [ ] [Sora](https://openai.com/sora/)
 - [ ] [Imagen](https://deepmind.google/technologies/imagen-3/)
