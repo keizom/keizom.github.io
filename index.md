@@ -35,6 +35,7 @@ Last Update : 2026/10/13
 - [ ] [claude](https://www.anthropic.com/news/claude-3-family)
 
 - [ ] [gemini](https://gemini.google.com/app)
+
 - [ ] [Sora](https://openai.com/sora/)
 - [ ] [Imagen](https://deepmind.google/technologies/imagen-3/)
 - [ ] [Nolang](https://qiita.com/Nicola_GenAI/items/04e2babe86291fc4483b)
